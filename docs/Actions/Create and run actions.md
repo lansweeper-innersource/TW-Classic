@@ -21,7 +21,7 @@ Actions are listed in the left pane of asset and user pages in Lansweeper Classi
    User actions can be added in the **Configuration > User Pages** section of the web console. Keep in mind that user actions can only be run on domain users, not local users.  
    
 
-   ### Available settings
+### Available settings
 
    When submitting an action in the web console, the following settings are available:
 
@@ -34,7 +34,7 @@ Actions are listed in the left pane of asset and user pages in Lansweeper Classi
    - **Advanced action**: If checked, the action is listed in the Advanced Actions section on asset or user pages. If unchecked, the action is listed in the Basic Actions section.
    - **Render as Hyperlink**: If checked, the action is treated as a hyperlink. Only check this option if your asset or user action is in fact a URL.
 
-   ### Available parameters
+### Available parameters
 
    Parameters available for use in asset action commands:
 

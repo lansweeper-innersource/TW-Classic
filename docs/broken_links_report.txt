@@ -1,188 +1,952 @@
 BROKEN IMAGE LINKS REMOVAL REPORT
 ================================================================================
 
-File: Actions\Configure Microsoft Edge to run actions.md
-Broken links removed: 4
+File: Configuring Using The Helpdesk\Choose the helpdesk language.md
+Broken links removed: 6
 
-  Full match: ![Actions edge 1.png](/docs/.document360/assets/article_002/image_002.jpg)
-  Path: /docs/.document360/assets/article_002/image_002.jpg
-  Missing: article_002/image_002.jpg
+  Full match: ![menu-configuration-translations.jpg](/docs/.document360/assets/article_016/image_001.jpg)
+  Path: /docs/.document360/assets/article_016/image_001.jpg
+  Missing: article_016/image_001.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Actions chrome 1.png](/docs/.document360/assets/article_002/image_003.jpg)
-  Path: /docs/.document360/assets/article_002/image_003.jpg
-  Missing: article_002/image_003.jpg
+  Full match: ![choosing-the-help-desk-language-1.jpg](/docs/.document360/assets/article_016/image_002.jpg)
+  Path: /docs/.document360/assets/article_016/image_002.jpg
+  Missing: article_016/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Actions edge 2.png](/docs/.document360/assets/article_002/image_004.jpg)
-  Path: /docs/.document360/assets/article_002/image_004.jpg
-  Missing: article_002/image_004.jpg
+  Full match: ![choosing-the-help-desk-language-2.jpg](/docs/.document360/assets/article_016/image_003.jpg)
+  Path: /docs/.document360/assets/article_016/image_003.jpg
+  Missing: article_016/image_003.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Actions edge 3.png](/docs/.document360/assets/article_002/image_005.jpg)
-  Path: /docs/.document360/assets/article_002/image_005.jpg
-  Missing: article_002/image_005.jpg
+  Full match: ![choosing-the-help-desk-language-3.jpg](/docs/.document360/assets/article_016/image_004.jpg)
+  Path: /docs/.document360/assets/article_016/image_004.jpg
+  Missing: article_016/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![choosing-the-help-desk-language-4.jpg](/docs/.document360/assets/article_016/image_005.jpg)
+  Path: /docs/.document360/assets/article_016/image_005.jpg
+  Missing: article_016/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![choosing-the-help-desk-language-5.jpg](/docs/.document360/assets/article_016/image_006.jpg)
+  Path: /docs/.document360/assets/article_016/image_006.jpg
+  Missing: article_016/image_006.jpg
 --------------------------------------------------------------------------------
 
-File: Actions\Configure Mozilla Firefox to run actions.md
+File: Configuring Using The Helpdesk\Configure and use ticket filters.md
+Broken links removed: 10
+
+  Full match: ![illustration-ticket-filters.jpg](/docs/.document360/assets/article_017/image_001.jpg)
+  Path: /docs/.document360/assets/article_017/image_001.jpg
+  Missing: article_017/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-using-ticket-filters-1.jpg](/docs/.document360/assets/article_017/image_002.jpg)
+  Path: /docs/.document360/assets/article_017/image_002.jpg
+  Missing: article_017/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-using-ticket-filters-2.jpg](/docs/.document360/assets/article_017/image_003.jpg)
+  Path: /docs/.document360/assets/article_017/image_003.jpg
+  Missing: article_017/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-using-ticket-filters-3.jpg](/docs/.document360/assets/article_017/image_004.jpg)
+  Path: /docs/.document360/assets/article_017/image_004.jpg
+  Missing: article_017/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-using-ticket-filters-4.jpg](/docs/.document360/assets/article_017/image_005.jpg)
+  Path: /docs/.document360/assets/article_017/image_005.jpg
+  Missing: article_017/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-using-ticket-filters-5.jpg](/docs/.document360/assets/article_017/image_006.jpg)
+  Path: /docs/.document360/assets/article_017/image_006.jpg
+  Missing: article_017/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-using-ticket-filters-6.jpg](/docs/.document360/assets/article_017/image_007.jpg)
+  Path: /docs/.document360/assets/article_017/image_007.jpg
+  Missing: article_017/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-using-ticket-filters-7.jpg](/docs/.document360/assets/article_017/image_008.jpg)
+  Path: /docs/.document360/assets/article_017/image_008.jpg
+  Missing: article_017/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![lightbulb.png](/docs/.document360/assets/article_017/image_009.jpg)
+  Path: /docs/.document360/assets/article_017/image_009.jpg
+  Missing: article_017/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-ticket-filters.jpg](/docs/.document360/assets/article_017/image_010.jpg)
+  Path: /docs/.document360/assets/article_017/image_010.jpg
+  Missing: article_017/image_010.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Configure service-level agreements.md
 Broken links removed: 5
 
-  Full match: ![configuring-mozilla-firefox-to-run-actions-2.jpg](/docs/.document360/assets/article_003/image_002.jpg)
-  Path: /docs/.document360/assets/article_003/image_002.jpg
-  Missing: article_003/image_002.jpg
+  Full match: ![illustration-ticket-slas.jpg](/docs/.document360/assets/article_018/image_001.jpg)
+  Path: /docs/.document360/assets/article_018/image_001.jpg
+  Missing: article_018/image_001.jpg
 --------------------------------------------------------------------------------
-  Full match: ![configuring-mozilla-firefox-to-run-actions-3.jpg](/docs/.document360/assets/article_003/image_003.jpg)
-  Path: /docs/.document360/assets/article_003/image_003.jpg
-  Missing: article_003/image_003.jpg
+  Full match: ![menu-configuration-general-settings.jpg](/docs/.document360/assets/article_018/image_002.jpg)
+  Path: /docs/.document360/assets/article_018/image_002.jpg
+  Missing: article_018/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Configuring-Mozilla-Firefox-to-run-actions-6.jpg](/docs/.document360/assets/article_003/image_004.jpg)
-  Path: /docs/.document360/assets/article_003/image_004.jpg
-  Missing: article_003/image_004.jpg
+  Full match: ![configuring-service-level-agreements-1.jpg](/docs/.document360/assets/article_018/image_003.jpg)
+  Path: /docs/.document360/assets/article_018/image_003.jpg
+  Missing: article_018/image_003.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Configuring-Mozilla-Firefox-to-run-actions-7.jpg](/docs/.document360/assets/article_003/image_005.jpg)
-  Path: /docs/.document360/assets/article_003/image_005.jpg
-  Missing: article_003/image_005.jpg
+  Full match: ![configuring-service-level-agreements-2.jpg](/docs/.document360/assets/article_018/image_004.jpg)
+  Path: /docs/.document360/assets/article_018/image_004.jpg
+  Missing: article_018/image_004.jpg
 --------------------------------------------------------------------------------
-  Full match: ![configuring-mozilla-firefox-to-run-actions-5.jpg](/docs/.document360/assets/article_003/image_006.jpg)
-  Path: /docs/.document360/assets/article_003/image_006.jpg
-  Missing: article_003/image_006.jpg
---------------------------------------------------------------------------------
-
-File: Actions\Configure Opera to run actions.md
-Broken links removed: 3
-
-  Full match: ![configuring-google-chrome-to-run-actions-1.jpg](/docs/.document360/assets/article_004/image_001.jpg)
-  Path: /docs/.document360/assets/article_004/image_001.jpg
-  Missing: article_004/image_001.jpg
---------------------------------------------------------------------------------
-  Full match: ![opera-add-extension-from-chrome-web-store.jpg](/docs/.document360/assets/article_004/image_002.jpg)
-  Path: /docs/.document360/assets/article_004/image_002.jpg
-  Missing: article_004/image_002.jpg
---------------------------------------------------------------------------------
-  Full match: ![opera-enable-extension.jpg](/docs/.document360/assets/article_004/image_003.jpg)
-  Path: /docs/.document360/assets/article_004/image_003.jpg
-  Missing: article_004/image_003.jpg
+  Full match: ![configuring-service-level-agreements-3.jpg](/docs/.document360/assets/article_018/image_005.jpg)
+  Path: /docs/.document360/assets/article_018/image_005.jpg
+  Missing: article_018/image_005.jpg
 --------------------------------------------------------------------------------
 
-File: Actions\Create and run actions.md
+File: Configuring Using The Helpdesk\Configure ticket types, states and priorities.md
+Broken links removed: 9
+
+  Full match: ![menu-configuration-ticket-content.jpg](/docs/.document360/assets/article_019/image_001.jpg)
+  Path: /docs/.document360/assets/article_019/image_001.jpg
+  Missing: article_019/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-ticket-types-states-and-priorities-1.jpg](/docs/.document360/assets/article_019/image_002.jpg)
+  Path: /docs/.document360/assets/article_019/image_002.jpg
+  Missing: article_019/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-ticket-types-states-and-priorities-2.jpg](/docs/.document360/assets/article_019/image_003.jpg)
+  Path: /docs/.document360/assets/article_019/image_003.jpg
+  Missing: article_019/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-ticket-content.jpg](/docs/.document360/assets/article_019/image_004.jpg)
+  Path: /docs/.document360/assets/article_019/image_004.jpg
+  Missing: article_019/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-ticket-types-states-and-priorities-3.jpg](/docs/.document360/assets/article_019/image_005.jpg)
+  Path: /docs/.document360/assets/article_019/image_005.jpg
+  Missing: article_019/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-ticket-types-states-priorities.jpg](/docs/.document360/assets/article_019/image_006.jpg)
+  Path: /docs/.document360/assets/article_019/image_006.jpg
+  Missing: article_019/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-ticket-content.jpg](/docs/.document360/assets/article_019/image_007.jpg)
+  Path: /docs/.document360/assets/article_019/image_007.jpg
+  Missing: article_019/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-ticket-types-states-and-priorities-4.jpg](/docs/.document360/assets/article_019/image_008.jpg)
+  Path: /docs/.document360/assets/article_019/image_008.jpg
+  Missing: article_019/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-ticket-types-states-and-priorities-5.jpg](/docs/.document360/assets/article_019/image_009.jpg)
+  Path: /docs/.document360/assets/article_019/image_009.jpg
+  Missing: article_019/image_009.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Configure, use and create articles in the knowledge base.md
+Broken links removed: 10
+
+  Full match: ![configuring-using-and-creating-articles-in-the-knowledge-base-1.jpg](/docs/.document360/assets/article_020/image_002.jpg)
+  Path: /docs/.document360/assets/article_020/image_002.jpg
+  Missing: article_020/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-knowledgebase-knowledgebase-options.jpg](/docs/.document360/assets/article_020/image_003.jpg)
+  Path: /docs/.document360/assets/article_020/image_003.jpg
+  Missing: article_020/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-using-and-creating-articles-in-the-knowledge-base-2.jpg](/docs/.document360/assets/article_020/image_004.jpg)
+  Path: /docs/.document360/assets/article_020/image_004.jpg
+  Missing: article_020/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-using-and-creating-articles-in-the-knowledge-base-3.jpg](/docs/.document360/assets/article_020/image_005.jpg)
+  Path: /docs/.document360/assets/article_020/image_005.jpg
+  Missing: article_020/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-using-and-creating-articles-in-the-knowledge-base-4.jpg](/docs/.document360/assets/article_020/image_006.jpg)
+  Path: /docs/.document360/assets/article_020/image_006.jpg
+  Missing: article_020/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-using-and-creating-articles-in-the-knowledge-base-5.jpg](/docs/.document360/assets/article_020/image_007.jpg)
+  Path: /docs/.document360/assets/article_020/image_007.jpg
+  Missing: article_020/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-using-and-creating-articles-in-the-knowledge-base-6.jpg](/docs/.document360/assets/article_020/image_008.jpg)
+  Path: /docs/.document360/assets/article_020/image_008.jpg
+  Missing: article_020/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-general-settings.jpg](/docs/.document360/assets/article_020/image_009.jpg)
+  Path: /docs/.document360/assets/article_020/image_009.jpg
+  Missing: article_020/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-using-and-creating-articles-in-the-knowledge-base-7.jpg](/docs/.document360/assets/article_020/image_010.jpg)
+  Path: /docs/.document360/assets/article_020/image_010.jpg
+  Missing: article_020/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-using-and-creating-articles-in-the-knowledge-base-8.jpg](/docs/.document360/assets/article_020/image_011.jpg)
+  Path: /docs/.document360/assets/article_020/image_011.jpg
+  Missing: article_020/image_011.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Create and add custom fields to ticket types.md
+Broken links removed: 11
+
+  Full match: ![illustration-ticket-custom-fields.jpg](/docs/.document360/assets/article_021/image_001.jpg)
+  Path: /docs/.document360/assets/article_021/image_001.jpg
+  Missing: article_021/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-ticket-content.jpg](/docs/.document360/assets/article_021/image_002.jpg)
+  Path: /docs/.document360/assets/article_021/image_002.jpg
+  Missing: article_021/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-and-adding-custom-fields-to-ticket-types-1.jpg](/docs/.document360/assets/article_021/image_003.jpg)
+  Path: /docs/.document360/assets/article_021/image_003.jpg
+  Missing: article_021/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-and-adding-custom-fields-to-ticket-types-2.jpg](/docs/.document360/assets/article_021/image_004.jpg)
+  Path: /docs/.document360/assets/article_021/image_004.jpg
+  Missing: article_021/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-and-adding-custom-fields-to-ticket-types-3.jpg](/docs/.document360/assets/article_021/image_005.jpg)
+  Path: /docs/.document360/assets/article_021/image_005.jpg
+  Missing: article_021/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-and-adding-custom-fields-to-ticket-types-4.jpg](/docs/.document360/assets/article_021/image_006.jpg)
+  Path: /docs/.document360/assets/article_021/image_006.jpg
+  Missing: article_021/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-and-adding-custom-fields-to-ticket-types-5.jpg](/docs/.document360/assets/article_021/image_007.jpg)
+  Path: /docs/.document360/assets/article_021/image_007.jpg
+  Missing: article_021/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-and-adding-custom-fields-to-ticket-types-6.jpg](/docs/.document360/assets/article_021/image_008.jpg)
+  Path: /docs/.document360/assets/article_021/image_008.jpg
+  Missing: article_021/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-and-adding-custom-fields-to-ticket-types-7.jpg](/docs/.document360/assets/article_021/image_009.jpg)
+  Path: /docs/.document360/assets/article_021/image_009.jpg
+  Missing: article_021/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-and-adding-custom-fields-to-ticket-types-8.jpg](/docs/.document360/assets/article_021/image_010.jpg)
+  Path: /docs/.document360/assets/article_021/image_010.jpg
+  Missing: article_021/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-and-adding-custom-fields-to-ticket-types-9.jpg](/docs/.document360/assets/article_021/image_011.jpg)
+  Path: /docs/.document360/assets/article_021/image_011.jpg
+  Missing: article_021/image_011.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Create ticket templates.md
+Broken links removed: 5
+
+  Full match: ![menu-configuration-ticket-content.jpg](/docs/.document360/assets/article_022/image_001.jpg)
+  Path: /docs/.document360/assets/article_022/image_001.jpg
+  Missing: article_022/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-ticket-templates-1.jpg](/docs/.document360/assets/article_022/image_002.jpg)
+  Path: /docs/.document360/assets/article_022/image_002.jpg
+  Missing: article_022/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-ticket-templates-2.jpg](/docs/.document360/assets/article_022/image_003.jpg)
+  Path: /docs/.document360/assets/article_022/image_003.jpg
+  Missing: article_022/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-ticket-templates-3.jpg](/docs/.document360/assets/article_022/image_004.jpg)
+  Path: /docs/.document360/assets/article_022/image_004.jpg
+  Missing: article_022/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-ticket-templates-4.jpg](/docs/.document360/assets/article_022/image_005.jpg)
+  Path: /docs/.document360/assets/article_022/image_005.jpg
+  Missing: article_022/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Delete tickets from the helpdesk.md
+Broken links removed: 5
+
+  Full match: ![menu-configuration-user-access-and-roles.jpg](/docs/.document360/assets/article_023/image_001.jpg)
+  Path: /docs/.document360/assets/article_023/image_001.jpg
+  Missing: article_023/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![deleting-tickets-1.jpg](/docs/.document360/assets/article_023/image_002.jpg)
+  Path: /docs/.document360/assets/article_023/image_002.jpg
+  Missing: article_023/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![deleting-tickets-2.jpg](/docs/.document360/assets/article_023/image_003.jpg)
+  Path: /docs/.document360/assets/article_023/image_003.jpg
+  Missing: article_023/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![deleting-tickets-3.jpg](/docs/.document360/assets/article_023/image_004.jpg)
+  Path: /docs/.document360/assets/article_023/image_004.jpg
+  Missing: article_023/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![deleting-tickets-4.jpg](/docs/.document360/assets/article_023/image_005.jpg)
+  Path: /docs/.document360/assets/article_023/image_005.jpg
+  Missing: article_023/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Hide the Helpdesk menu.md
+Broken links removed: 4
+
+  Full match: ![hiding-the-helpdesk-menu-1.jpg](/docs/.document360/assets/article_024/image_001.jpg)
+  Path: /docs/.document360/assets/article_024/image_001.jpg
+  Missing: article_024/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-general-settings.jpg](/docs/.document360/assets/article_024/image_002.jpg)
+  Path: /docs/.document360/assets/article_024/image_002.jpg
+  Missing: article_024/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![hiding-the-helpdesk-menu-2.jpg](/docs/.document360/assets/article_024/image_003.jpg)
+  Path: /docs/.document360/assets/article_024/image_003.jpg
+  Missing: article_024/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![hiding-the-helpdesk-menu-3.jpg](/docs/.document360/assets/article_024/image_004.jpg)
+  Path: /docs/.document360/assets/article_024/image_004.jpg
+  Missing: article_024/image_004.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Introduction to the help desk.md
+Broken links removed: 16
+
+  Full match: ![illustration-users-agents-teams.jpg](/docs/.document360/assets/article_025/image_002.jpg)
+  Path: /docs/.document360/assets/article_025/image_002.jpg
+  Missing: article_025/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-roles-permissions.jpg](/docs/.document360/assets/article_025/image_003.jpg)
+  Path: /docs/.document360/assets/article_025/image_003.jpg
+  Missing: article_025/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-tickets-public-replies-internal-notes-agent.jpg](/docs/.document360/assets/article_025/image_004.jpg)
+  Path: /docs/.document360/assets/article_025/image_004.jpg
+  Missing: article_025/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-tickets-public-replies-internal-notes-user.jpg](/docs/.document360/assets/article_025/image_005.jpg)
+  Path: /docs/.document360/assets/article_025/image_005.jpg
+  Missing: article_025/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-ticket-sources.jpg](/docs/.document360/assets/article_025/image_006.jpg)
+  Path: /docs/.document360/assets/article_025/image_006.jpg
+  Missing: article_025/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![lightbulb.png](/docs/.document360/assets/article_025/image_007.jpg)
+  Path: /docs/.document360/assets/article_025/image_007.jpg
+  Missing: article_025/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-ticket-types-states-priorities.jpg](/docs/.document360/assets/article_025/image_008.jpg)
+  Path: /docs/.document360/assets/article_025/image_008.jpg
+  Missing: article_025/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![lightbulb.png](/docs/.document360/assets/article_025/image_009.jpg)
+  Path: /docs/.document360/assets/article_025/image_009.jpg
+  Missing: article_025/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-ticket-custom-fields.jpg](/docs/.document360/assets/article_025/image_010.jpg)
+  Path: /docs/.document360/assets/article_025/image_010.jpg
+  Missing: article_025/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![lightbulb.png](/docs/.document360/assets/article_025/image_011.jpg)
+  Path: /docs/.document360/assets/article_025/image_011.jpg
+  Missing: article_025/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-ticket-filters-tabs-notifications.jpg](/docs/.document360/assets/article_025/image_012.jpg)
+  Path: /docs/.document360/assets/article_025/image_012.jpg
+  Missing: article_025/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![lightbulb.png](/docs/.document360/assets/article_025/image_013.jpg)
+  Path: /docs/.document360/assets/article_025/image_013.jpg
+  Missing: article_025/image_013.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-ticket-templates-outgoing-email-templates.jpg](/docs/.document360/assets/article_025/image_014.jpg)
+  Path: /docs/.document360/assets/article_025/image_014.jpg
+  Missing: article_025/image_014.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-ticket-dispatching-auto-assign-auto-close.jpg](/docs/.document360/assets/article_025/image_015.jpg)
+  Path: /docs/.document360/assets/article_025/image_015.jpg
+  Missing: article_025/image_015.jpg
+--------------------------------------------------------------------------------
+  Full match: ![illustration-ticket-slas.jpg](/docs/.document360/assets/article_025/image_016.jpg)
+  Path: /docs/.document360/assets/article_025/image_016.jpg
+  Missing: article_025/image_016.jpg
+--------------------------------------------------------------------------------
+  Full match: ![lightbulb.png](/docs/.document360/assets/article_025/image_017.jpg)
+  Path: /docs/.document360/assets/article_025/image_017.jpg
+  Missing: article_025/image_017.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Perform actions on new tickets using dispatching rules.md
+Broken links removed: 7
+
+  Full match: ![performing-actions-on-new-tickets-using-dispatching-rules-1.jpg](/docs/.document360/assets/article_026/image_001.jpg)
+  Path: /docs/.document360/assets/article_026/image_001.jpg
+  Missing: article_026/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-email-settings.jpg](/docs/.document360/assets/article_026/image_002.jpg)
+  Path: /docs/.document360/assets/article_026/image_002.jpg
+  Missing: article_026/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![performing-actions-on-new-tickets-using-dispatching-rules-2.jpg](/docs/.document360/assets/article_026/image_003.jpg)
+  Path: /docs/.document360/assets/article_026/image_003.jpg
+  Missing: article_026/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![performing-actions-on-new-tickets-using-dispatching-rules-1.jpg](/docs/.document360/assets/article_026/image_004.jpg)
+  Path: /docs/.document360/assets/article_026/image_004.jpg
+  Missing: article_026/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![performing-actions-on-new-tickets-using-dispatching-rules-2.jpg](/docs/.document360/assets/article_026/image_005.jpg)
+  Path: /docs/.document360/assets/article_026/image_005.jpg
+  Missing: article_026/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![performing-actions-on-new-tickets-using-dispatching-rules-3.jpg](/docs/.document360/assets/article_026/image_006.jpg)
+  Path: /docs/.document360/assets/article_026/image_006.jpg
+  Missing: article_026/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![performing-actions-on-new-tickets-using-dispatching-rules-4.jpg](/docs/.document360/assets/article_026/image_007.jpg)
+  Path: /docs/.document360/assets/article_026/image_007.jpg
+  Missing: article_026/image_007.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Receive tickets through the web console, email, API, import.md
+Broken links removed: 13
+
+  Full match: ![illustration-ticket-sources.jpg](/docs/.document360/assets/article_027/image_002.jpg)
+  Path: /docs/.document360/assets/article_027/image_002.jpg
+  Missing: article_027/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-email-settings.jpg](/docs/.document360/assets/article_027/image_003.jpg)
+  Path: /docs/.document360/assets/article_027/image_003.jpg
+  Missing: article_027/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![receiving-tickets-through-the-web-console-email-api-and-import-1.jpg](/docs/.document360/assets/article_027/image_004.jpg)
+  Path: /docs/.document360/assets/article_027/image_004.jpg
+  Missing: article_027/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![receiving-tickets-through-the-web-console-email-api-and-import-2.jpg](/docs/.document360/assets/article_027/image_005.jpg)
+  Path: /docs/.document360/assets/article_027/image_005.jpg
+  Missing: article_027/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![receiving-tickets-through-the-web-console-email-api-and-import-3.jpg](/docs/.document360/assets/article_027/image_006.jpg)
+  Path: /docs/.document360/assets/article_027/image_006.jpg
+  Missing: article_027/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-ticket-api.jpg](/docs/.document360/assets/article_027/image_007.jpg)
+  Path: /docs/.document360/assets/article_027/image_007.jpg
+  Missing: article_027/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![receiving-tickets-through-the-web-console-email-api-and-import-4.jpg](/docs/.document360/assets/article_027/image_008.jpg)
+  Path: /docs/.document360/assets/article_027/image_008.jpg
+  Missing: article_027/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![receiving-tickets-through-the-web-console-email-api-and-import-5.jpg](/docs/.document360/assets/article_027/image_009.jpg)
+  Path: /docs/.document360/assets/article_027/image_009.jpg
+  Missing: article_027/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-import-tickets.jpg](/docs/.document360/assets/article_027/image_010.jpg)
+  Path: /docs/.document360/assets/article_027/image_010.jpg
+  Missing: article_027/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![receiving-tickets-through-the-web-console-email-api-and-import-6.jpg](/docs/.document360/assets/article_027/image_011.jpg)
+  Path: /docs/.document360/assets/article_027/image_011.jpg
+  Missing: article_027/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![receiving-tickets-through-the-web-console-email-api-and-import-7.jpg](/docs/.document360/assets/article_027/image_012.jpg)
+  Path: /docs/.document360/assets/article_027/image_012.jpg
+  Missing: article_027/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![receiving-tickets-through-the-web-console-email-api-and-import-8.jpg](/docs/.document360/assets/article_027/image_013.jpg)
+  Path: /docs/.document360/assets/article_027/image_013.jpg
+  Missing: article_027/image_013.jpg
+--------------------------------------------------------------------------------
+  Full match: ![receiving-tickets-through-the-web-console-email-api-and-import-9.jpg](/docs/.document360/assets/article_027/image_014.jpg)
+  Path: /docs/.document360/assets/article_027/image_014.jpg
+  Missing: article_027/image_014.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Reset the ticket ID counter.md
+Broken links removed: 5
+
+  Full match: ![procedure-checking-database-server.jpg](/docs/.document360/assets/article_028/image_001.jpg)
+  Path: /docs/.document360/assets/article_028/image_001.jpg
+  Missing: article_028/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-databasemaintenance.jpg](/docs/.document360/assets/article_028/image_002.jpg)
+  Path: /docs/.document360/assets/article_028/image_002.jpg
+  Missing: article_028/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-restarting-the-web-server-service.jpg](/docs/.document360/assets/article_028/image_003.jpg)
+  Path: /docs/.document360/assets/article_028/image_003.jpg
+  Missing: article_028/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-databasemaintenance.jpg](/docs/.document360/assets/article_028/image_004.jpg)
+  Path: /docs/.document360/assets/article_028/image_004.jpg
+  Missing: article_028/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-restarting-the-web-server-service.jpg](/docs/.document360/assets/article_028/image_005.jpg)
+  Path: /docs/.document360/assets/article_028/image_005.jpg
+  Missing: article_028/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Resolve ticket attachment issues.md
+Broken links removed: 8
+
+  Full match: ![images-or-attachments-of-email-tickets-not-loading-1.jpg](/docs/.document360/assets/article_029/image_001.jpg)
+  Path: /docs/.document360/assets/article_029/image_001.jpg
+  Missing: article_029/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![images-or-attachments-of-email-tickets-not-loading-2.jpg](/docs/.document360/assets/article_029/image_002.jpg)
+  Path: /docs/.document360/assets/article_029/image_002.jpg
+  Missing: article_029/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![images-or-attachments-of-email-tickets-not-loading-3.jpg](/docs/.document360/assets/article_029/image_003.jpg)
+  Path: /docs/.document360/assets/article_029/image_003.jpg
+  Missing: article_029/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Images-or-attachments-of-email-tickets-not-loading.png](/docs/.document360/assets/article_029/image_004.jpg)
+  Path: /docs/.document360/assets/article_029/image_004.jpg
+  Missing: article_029/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-general-settings.jpg](/docs/.document360/assets/article_029/image_005.jpg)
+  Path: /docs/.document360/assets/article_029/image_005.jpg
+  Missing: article_029/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![images-or-attachments-of-email-tickets-not-loading-4.jpg](/docs/.document360/assets/article_029/image_006.jpg)
+  Path: /docs/.document360/assets/article_029/image_006.jpg
+  Missing: article_029/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-email-settings.jpg](/docs/.document360/assets/article_029/image_007.jpg)
+  Path: /docs/.document360/assets/article_029/image_007.jpg
+  Missing: article_029/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![images-or-attachments-of-email-tickets-not-loading-5.jpg](/docs/.document360/assets/article_029/image_008.jpg)
+  Path: /docs/.document360/assets/article_029/image_008.jpg
+  Missing: article_029/image_008.jpg
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Share information with the News widget.md
+Broken links removed: 5
+
+  Full match: ![sharing-information-with-the-news-widget-1.jpg](/docs/.document360/assets/article_030/image_001.jpg)
+  Path: /docs/.document360/assets/article_030/image_001.jpg
+  Missing: article_030/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-news-page.jpg](/docs/.document360/assets/article_030/image_002.jpg)
+  Path: /docs/.document360/assets/article_030/image_002.jpg
+  Missing: article_030/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sharing-information-with-the-news-widget-2.jpg](/docs/.document360/assets/article_030/image_003.jpg)
+  Path: /docs/.document360/assets/article_030/image_003.jpg
+  Missing: article_030/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sharing-information-with-the-news-widget-3.jpg](/docs/.document360/assets/article_030/image_004.jpg)
+  Path: /docs/.document360/assets/article_030/image_004.jpg
+  Missing: article_030/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sharing-information-with-the-news-widget-4.jpg](/docs/.document360/assets/article_030/image_005.jpg)
+  Path: /docs/.document360/assets/article_030/image_005.jpg
+  Missing: article_030/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Automatically logging in with the built-in admin.md
 Broken links removed: 2
 
-  Full match: ![running-actions-as-a-different-user-1.jpg](/docs/.document360/assets/article_005/image_002.jpg)
-  Path: /docs/.document360/assets/article_005/image_002.jpg
-  Missing: article_005/image_002.jpg
+  Full match: ![automatically-logging-in-with-the-built-in-admin-1.jpg](/docs/.document360/assets/article_031/image_001.jpg)
+  Path: /docs/.document360/assets/article_031/image_001.jpg
+  Missing: article_031/image_001.jpg
 --------------------------------------------------------------------------------
-  Full match: ![creating-and-running-actions-1.jpg](/docs/.document360/assets/article_005/image_003.jpg)
-  Path: /docs/.document360/assets/article_005/image_003.jpg
-  Missing: article_005/image_003.jpg
---------------------------------------------------------------------------------
-
-File: Actions\Run actions as a different user.md
-Broken links removed: 4
-
-  Full match: ![running-actions-as-a-different-user-1.jpg](/docs/.document360/assets/article_006/image_002.jpg)
-  Path: /docs/.document360/assets/article_006/image_002.jpg
-  Missing: article_006/image_002.jpg
---------------------------------------------------------------------------------
-  Full match: ![running-actions-as-a-different-user-2.jpg](/docs/.document360/assets/article_006/image_003.jpg)
-  Path: /docs/.document360/assets/article_006/image_003.jpg
-  Missing: article_006/image_003.jpg
---------------------------------------------------------------------------------
-  Full match: ![running-actions-as-a-different-user-3.jpg](/docs/.document360/assets/article_006/image_004.jpg)
-  Path: /docs/.document360/assets/article_006/image_004.jpg
-  Missing: article_006/image_004.jpg
---------------------------------------------------------------------------------
-  Full match: ![menu-configuration-asset-pages.jpg](/docs/.document360/assets/article_006/image_005.jpg)
-  Path: /docs/.document360/assets/article_006/image_005.jpg
-  Missing: article_006/image_005.jpg
+  Full match: ![automatically-logging-in-with-the-built-in-admin-2.jpg](/docs/.document360/assets/article_031/image_002.jpg)
+  Path: /docs/.document360/assets/article_031/image_002.jpg
+  Missing: article_031/image_002.jpg
 --------------------------------------------------------------------------------
 
-File: Billing Related Questions\Assets that count toward your licensed asset limit.md
-Broken links removed: 4
+File: Customizing The Web Console\Change the web console ports under IIS Express.md
+Broken links removed: 5
 
-  Full match: ![license-status.png](/docs/.document360/assets/article_007/image_002.jpg)
-  Path: /docs/.document360/assets/article_007/image_002.jpg
-  Missing: article_007/image_002.jpg
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_032/image_001.jpg)
+  Path: /docs/.document360/assets/article_032/image_001.jpg
+  Missing: article_032/image_001.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Licensed asset limit 1.png](/docs/.document360/assets/article_007/image_003.jpg)
-  Path: /docs/.document360/assets/article_007/image_003.jpg
-  Missing: article_007/image_003.jpg
+  Full match: ![changing-the-web-console-ports-under-iis-express-1.jpg](/docs/.document360/assets/article_032/image_002.jpg)
+  Path: /docs/.document360/assets/article_032/image_002.jpg
+  Missing: article_032/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Licensed asset limit 2.png](/docs/.document360/assets/article_007/image_004.jpg)
-  Path: /docs/.document360/assets/article_007/image_004.jpg
-  Missing: article_007/image_004.jpg
+  Full match: ![procedure-starting-the-web-server-service.jpg](/docs/.document360/assets/article_032/image_003.jpg)
+  Path: /docs/.document360/assets/article_032/image_003.jpg
+  Missing: article_032/image_003.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Licensed asset limit 3.png](/docs/.document360/assets/article_007/image_005.jpg)
-  Path: /docs/.document360/assets/article_007/image_005.jpg
-  Missing: article_007/image_005.jpg
+  Full match: ![menu-configuration-website-settings.jpg](/docs/.document360/assets/article_032/image_004.jpg)
+  Path: /docs/.document360/assets/article_032/image_004.jpg
+  Missing: article_032/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-the-web-console-ports-under-iis-express-3.jpg](/docs/.document360/assets/article_032/image_005.jpg)
+  Path: /docs/.document360/assets/article_032/image_005.jpg
+  Missing: article_032/image_005.jpg
 --------------------------------------------------------------------------------
 
-File: Billing Related Questions\Find your case number.md
+File: Customizing The Web Console\Configure SSL in IIS Express.md
+Broken links removed: 8
+
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_034/image_002.jpg)
+  Path: /docs/.document360/assets/article_034/image_002.jpg
+  Missing: article_034/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-the-web-console-ports-under-iis-express-1.jpg](/docs/.document360/assets/article_034/image_003.jpg)
+  Path: /docs/.document360/assets/article_034/image_003.jpg
+  Missing: article_034/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Thumbprint.png](/docs/.document360/assets/article_034/image_004.jpg)
+  Path: /docs/.document360/assets/article_034/image_004.jpg
+  Missing: article_034/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![IISExpressSvc.jpg](/docs/.document360/assets/article_034/image_005.jpg)
+  Path: /docs/.document360/assets/article_034/image_005.jpg
+  Missing: article_034/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![ErikT_2-1673352167072.jpg](/docs/.document360/assets/article_034/image_006.jpg)
+  Path: /docs/.document360/assets/article_034/image_006.jpg
+  Missing: article_034/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![ErikT_3-1673352245545.jpg](/docs/.document360/assets/article_034/image_007.jpg)
+  Path: /docs/.document360/assets/article_034/image_007.jpg
+  Missing: article_034/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-starting-the-web-server-service.jpg](/docs/.document360/assets/article_034/image_008.jpg)
+  Path: /docs/.document360/assets/article_034/image_008.jpg
+  Missing: article_034/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-the-web-console-ports-under-iis-express-2.jpg](/docs/.document360/assets/article_034/image_009.jpg)
+  Path: /docs/.document360/assets/article_034/image_009.jpg
+  Missing: article_034/image_009.jpg
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Configure SSL in IIS.md
+Broken links removed: 5
+
+  Full match: ![How-to-configure-SSL-in-IIS-1.png](/docs/.document360/assets/article_033/image_002.jpg)
+  Path: /docs/.document360/assets/article_033/image_002.jpg
+  Missing: article_033/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![How-to-configure-SSL-in-IIS-3.png](/docs/.document360/assets/article_033/image_003.jpg)
+  Path: /docs/.document360/assets/article_033/image_003.jpg
+  Missing: article_033/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![How-to-configure-SSL-in-IIS-4.png](/docs/.document360/assets/article_033/image_004.jpg)
+  Path: /docs/.document360/assets/article_033/image_004.jpg
+  Missing: article_033/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![How-to-configure-SSL-in-IIS-5.png](/docs/.document360/assets/article_033/image_005.jpg)
+  Path: /docs/.document360/assets/article_033/image_005.jpg
+  Missing: article_033/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![How-to-configure-SSL-in-IIS-26.png](/docs/.document360/assets/article_033/image_006.jpg)
+  Path: /docs/.document360/assets/article_033/image_006.jpg
+  Missing: article_033/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Create custom widgets.md
 Broken links removed: 1
 
-  Full match: ![finding-your-case-number-1.jpg](/docs/.document360/assets/article_009/image_001.jpg)
-  Path: /docs/.document360/assets/article_009/image_001.jpg
-  Missing: article_009/image_001.jpg
+  Full match: ![image001.png](/docs/.document360/assets/article_035/image_002.jpg)
+  Path: /docs/.document360/assets/article_035/image_002.jpg
+  Missing: article_035/image_002.jpg
 --------------------------------------------------------------------------------
 
-File: Billing Related Questions\Manage helpdesk agents.md
-Broken links removed: 14
+File: Customizing The Web Console\Enable authentication in IIS Express.md
+Broken links removed: 2
 
-  Full match: ![you-are-currently-an-inactive-helpdesk-agent-1.jpg](/docs/.document360/assets/article_011/image_002.jpg)
-  Path: /docs/.document360/assets/article_011/image_002.jpg
-  Missing: article_011/image_002.jpg
+  Full match: ![enabling-authentication-in-iis-express-1.jpg](/docs/.document360/assets/article_037/image_002.jpg)
+  Path: /docs/.document360/assets/article_037/image_002.jpg
+  Missing: article_037/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![menu-configuration-your-lansweeper-license.jpg](/docs/.document360/assets/article_011/image_003.jpg)
-  Path: /docs/.document360/assets/article_011/image_003.jpg
-  Missing: article_011/image_003.jpg
+  Full match: ![enabling-authentication-in-iis-express-2.jpg](/docs/.document360/assets/article_037/image_003.jpg)
+  Path: /docs/.document360/assets/article_037/image_003.jpg
+  Missing: article_037/image_003.jpg
 --------------------------------------------------------------------------------
-  Full match: ![you-are-currently-an-inactive-helpdesk-agent-2.jpg](/docs/.document360/assets/article_011/image_004.jpg)
-  Path: /docs/.document360/assets/article_011/image_004.jpg
-  Missing: article_011/image_004.jpg
+
+File: Customizing The Web Console\Enable authentication in IIS.md
+Broken links removed: 8
+
+  Full match: ![enabling-authentication-in-iis-1.jpg](/docs/.document360/assets/article_036/image_001.jpg)
+  Path: /docs/.document360/assets/article_036/image_001.jpg
+  Missing: article_036/image_001.jpg
 --------------------------------------------------------------------------------
-  Full match: ![menu-configuration-user-access-and-roles.jpg](/docs/.document360/assets/article_011/image_005.jpg)
-  Path: /docs/.document360/assets/article_011/image_005.jpg
-  Missing: article_011/image_005.jpg
+  Full match: ![enabling-authentication-in-iis-2.jpg](/docs/.document360/assets/article_036/image_002.jpg)
+  Path: /docs/.document360/assets/article_036/image_002.jpg
+  Missing: article_036/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![you-are-currently-an-inactive-helpdesk-agent-3.jpg](/docs/.document360/assets/article_011/image_006.jpg)
-  Path: /docs/.document360/assets/article_011/image_006.jpg
-  Missing: article_011/image_006.jpg
+  Full match: ![enabling-authentication-in-iis-3.jpg](/docs/.document360/assets/article_036/image_003.jpg)
+  Path: /docs/.document360/assets/article_036/image_003.jpg
+  Missing: article_036/image_003.jpg
 --------------------------------------------------------------------------------
-  Full match: ![you-are-currently-an-inactive-helpdesk-agent-4.jpg](/docs/.document360/assets/article_011/image_007.jpg)
-  Path: /docs/.document360/assets/article_011/image_007.jpg
-  Missing: article_011/image_007.jpg
+  Full match: ![enabling-authentication-in-iis-4.jpg](/docs/.document360/assets/article_036/image_004.jpg)
+  Path: /docs/.document360/assets/article_036/image_004.jpg
+  Missing: article_036/image_004.jpg
 --------------------------------------------------------------------------------
-  Full match: ![menu-configuration-your-lansweeper-license.jpg](/docs/.document360/assets/article_011/image_008.jpg)
-  Path: /docs/.document360/assets/article_011/image_008.jpg
-  Missing: article_011/image_008.jpg
+  Full match: ![enabling-authentication-in-iis-5.jpg](/docs/.document360/assets/article_036/image_005.jpg)
+  Path: /docs/.document360/assets/article_036/image_005.jpg
+  Missing: article_036/image_005.jpg
 --------------------------------------------------------------------------------
-  Full match: ![you-are-currently-an-inactive-helpdesk-agent-2.jpg](/docs/.document360/assets/article_011/image_009.jpg)
-  Path: /docs/.document360/assets/article_011/image_009.jpg
-  Missing: article_011/image_009.jpg
+  Full match: ![enabling-authentication-in-iis-6.jpg](/docs/.document360/assets/article_036/image_006.jpg)
+  Path: /docs/.document360/assets/article_036/image_006.jpg
+  Missing: article_036/image_006.jpg
 --------------------------------------------------------------------------------
-  Full match: ![menu-configuration-user-access-and-roles.jpg](/docs/.document360/assets/article_011/image_010.jpg)
-  Path: /docs/.document360/assets/article_011/image_010.jpg
-  Missing: article_011/image_010.jpg
+  Full match: ![enabling-authentication-in-iis-7.jpg](/docs/.document360/assets/article_036/image_007.jpg)
+  Path: /docs/.document360/assets/article_036/image_007.jpg
+  Missing: article_036/image_007.jpg
 --------------------------------------------------------------------------------
-  Full match: ![you-are-currently-an-inactive-helpdesk-agent-3.jpg](/docs/.document360/assets/article_011/image_011.jpg)
-  Path: /docs/.document360/assets/article_011/image_011.jpg
-  Missing: article_011/image_011.jpg
+  Full match: ![enabling-authentication-in-iis-8.jpg](/docs/.document360/assets/article_036/image_008.jpg)
+  Path: /docs/.document360/assets/article_036/image_008.jpg
+  Missing: article_036/image_008.jpg
 --------------------------------------------------------------------------------
-  Full match: ![you-are-currently-an-inactive-helpdesk-agent-4.jpg](/docs/.document360/assets/article_011/image_012.jpg)
-  Path: /docs/.document360/assets/article_011/image_012.jpg
-  Missing: article_011/image_012.jpg
+
+File: Customizing The Web Console\Lansweeper metrics and notification system.md
+Broken links removed: 6
+
+  Full match: ![Metrics-and-notifications-1.jpg](/docs/.document360/assets/article_038/image_001.jpg)
+  Path: /docs/.document360/assets/article_038/image_001.jpg
+  Missing: article_038/image_001.jpg
 --------------------------------------------------------------------------------
-  Full match: ![menu-configuration-user-access-and-roles.jpg](/docs/.document360/assets/article_011/image_013.jpg)
-  Path: /docs/.document360/assets/article_011/image_013.jpg
-  Missing: article_011/image_013.jpg
+  Full match: ![Metrics-and-notifications-2.jpg](/docs/.document360/assets/article_038/image_002.jpg)
+  Path: /docs/.document360/assets/article_038/image_002.jpg
+  Missing: article_038/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![you-are-currently-an-inactive-helpdesk-agent-5.jpg](/docs/.document360/assets/article_011/image_014.jpg)
-  Path: /docs/.document360/assets/article_011/image_014.jpg
-  Missing: article_011/image_014.jpg
+  Full match: ![Metrics-and-notifications-7.jpg](/docs/.document360/assets/article_038/image_003.jpg)
+  Path: /docs/.document360/assets/article_038/image_003.jpg
+  Missing: article_038/image_003.jpg
 --------------------------------------------------------------------------------
-  Full match: ![you-are-currently-an-inactive-helpdesk-agent-4.jpg](/docs/.document360/assets/article_011/image_015.jpg)
-  Path: /docs/.document360/assets/article_011/image_015.jpg
-  Missing: article_011/image_015.jpg
+  Full match: ![Metrics-and-notifications-4.jpg](/docs/.document360/assets/article_038/image_004.jpg)
+  Path: /docs/.document360/assets/article_038/image_004.jpg
+  Missing: article_038/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Metrics-and-notifications-5.jpg](/docs/.document360/assets/article_038/image_005.jpg)
+  Path: /docs/.document360/assets/article_038/image_005.jpg
+  Missing: article_038/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Metrics-and-notifications-6-e1562253268704.jpg](/docs/.document360/assets/article_038/image_006.jpg)
+  Path: /docs/.document360/assets/article_038/image_006.jpg
+  Missing: article_038/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Manage web browser login prompts.md
+Broken links removed: 10
+
+  Full match: ![enabling-or-disabling-web-browser-login-prompts-1.jpg](/docs/.document360/assets/article_040/image_002.jpg)
+  Path: /docs/.document360/assets/article_040/image_002.jpg
+  Missing: article_040/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Manage browser prompts 1.png](/docs/.document360/assets/article_040/image_003.jpg)
+  Path: /docs/.document360/assets/article_040/image_003.jpg
+  Missing: article_040/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Manage browser prompts 2.png](/docs/.document360/assets/article_040/image_004.jpg)
+  Path: /docs/.document360/assets/article_040/image_004.jpg
+  Missing: article_040/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Manage browser prompts 5.png](/docs/.document360/assets/article_040/image_005.jpg)
+  Path: /docs/.document360/assets/article_040/image_005.jpg
+  Missing: article_040/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Manage browser prompts 7.png](/docs/.document360/assets/article_040/image_006.jpg)
+  Path: /docs/.document360/assets/article_040/image_006.jpg
+  Missing: article_040/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Manage browser prompts 6.png](/docs/.document360/assets/article_040/image_007.jpg)
+  Path: /docs/.document360/assets/article_040/image_007.jpg
+  Missing: article_040/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Manage browser prompts 8.png](/docs/.document360/assets/article_040/image_008.jpg)
+  Path: /docs/.document360/assets/article_040/image_008.jpg
+  Missing: article_040/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Manage browser prompts 1.png](/docs/.document360/assets/article_040/image_009.jpg)
+  Path: /docs/.document360/assets/article_040/image_009.jpg
+  Missing: article_040/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Manage browser prompts 3.png](/docs/.document360/assets/article_040/image_010.jpg)
+  Path: /docs/.document360/assets/article_040/image_010.jpg
+  Missing: article_040/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Manage browser prompts 4.png](/docs/.document360/assets/article_040/image_011.jpg)
+  Path: /docs/.document360/assets/article_040/image_011.jpg
+  Missing: article_040/image_011.jpg
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Managing the built-in admin account.md
+Broken links removed: 6
+
+  Full match: ![Disabling-built-in-admin-1.png](/docs/.document360/assets/article_041/image_001.jpg)
+  Path: /docs/.document360/assets/article_041/image_001.jpg
+  Missing: article_041/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Disabling-built-in-admin-2.png](/docs/.document360/assets/article_041/image_002.jpg)
+  Path: /docs/.document360/assets/article_041/image_002.jpg
+  Missing: article_041/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Disabling-built-in-admin2-3.png](/docs/.document360/assets/article_041/image_003.jpg)
+  Path: /docs/.document360/assets/article_041/image_003.jpg
+  Missing: article_041/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Disabling-built-in-admin2-4.png](/docs/.document360/assets/article_041/image_004.jpg)
+  Path: /docs/.document360/assets/article_041/image_004.jpg
+  Missing: article_041/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Disabling-built-in-admin-5.png](/docs/.document360/assets/article_041/image_005.jpg)
+  Path: /docs/.document360/assets/article_041/image_005.jpg
+  Missing: article_041/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Disabling-built-in-admin-6.png](/docs/.document360/assets/article_041/image_006.jpg)
+  Path: /docs/.document360/assets/article_041/image_006.jpg
+  Missing: article_041/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Restrict access to the web console.md
+Broken links removed: 9
+
+  Full match: ![menu-configuration-website-settings.jpg](/docs/.document360/assets/article_042/image_002.jpg)
+  Path: /docs/.document360/assets/article_042/image_002.jpg
+  Missing: article_042/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![restricting-access-to-the-web-console-4.jpg](/docs/.document360/assets/article_042/image_003.jpg)
+  Path: /docs/.document360/assets/article_042/image_003.jpg
+  Missing: article_042/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-user-access-and-roles.jpg](/docs/.document360/assets/article_042/image_004.jpg)
+  Path: /docs/.document360/assets/article_042/image_004.jpg
+  Missing: article_042/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![restricting-access-to-the-web-console-5.jpg](/docs/.document360/assets/article_042/image_005.jpg)
+  Path: /docs/.document360/assets/article_042/image_005.jpg
+  Missing: article_042/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![restricting-access-to-the-web-console-6.jpg](/docs/.document360/assets/article_042/image_006.jpg)
+  Path: /docs/.document360/assets/article_042/image_006.jpg
+  Missing: article_042/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![restricting-access-to-the-web-console-10.jpg](/docs/.document360/assets/article_042/image_007.jpg)
+  Path: /docs/.document360/assets/article_042/image_007.jpg
+  Missing: article_042/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![restricting-access-to-the-web-console-7.jpg](/docs/.document360/assets/article_042/image_008.jpg)
+  Path: /docs/.document360/assets/article_042/image_008.jpg
+  Missing: article_042/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![restricting-access-to-the-web-console-8.jpg](/docs/.document360/assets/article_042/image_009.jpg)
+  Path: /docs/.document360/assets/article_042/image_009.jpg
+  Missing: article_042/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![restricting-access-to-the-web-console-9.jpg](/docs/.document360/assets/article_042/image_010.jpg)
+  Path: /docs/.document360/assets/article_042/image_010.jpg
+  Missing: article_042/image_010.jpg
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Set the currency format.md
+Broken links removed: 2
+
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_044/image_001.jpg)
+  Path: /docs/.document360/assets/article_044/image_001.jpg
+  Missing: article_044/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![setting-the-currency-format-4.jpg](/docs/.document360/assets/article_044/image_002.jpg)
+  Path: /docs/.document360/assets/article_044/image_002.jpg
+  Missing: article_044/image_002.jpg
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Set the date format.md
+Broken links removed: 3
+
+  Full match: ![Set the date format.png](/docs/.document360/assets/article_045/image_002.jpg)
+  Path: /docs/.document360/assets/article_045/image_002.jpg
+  Missing: article_045/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Set the date format 1.png](/docs/.document360/assets/article_045/image_003.jpg)
+  Path: /docs/.document360/assets/article_045/image_003.jpg
+  Missing: article_045/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Set the date format 2.png](/docs/.document360/assets/article_045/image_004.jpg)
+  Path: /docs/.document360/assets/article_045/image_004.jpg
+  Missing: article_045/image_004.jpg
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Share dashboard tabs with other users.md
+Broken links removed: 2
+
+  Full match: ![sharing-dashboard-tabs-with-other-users-1.jpg](/docs/.document360/assets/article_046/image_002.jpg)
+  Path: /docs/.document360/assets/article_046/image_002.jpg
+  Missing: article_046/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sharing-dashboard-tabs-with-other-users-2.jpg](/docs/.document360/assets/article_046/image_003.jpg)
+  Path: /docs/.document360/assets/article_046/image_003.jpg
+  Missing: article_046/image_003.jpg
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Web console user roles and permissions.md
+Broken links removed: 18
+
+  Full match: ![menu-configuration-user-access-and-roles.jpg](/docs/.document360/assets/article_047/image_002.jpg)
+  Path: /docs/.document360/assets/article_047/image_002.jpg
+  Missing: article_047/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![web-console-user-roles-and-permissions-1.jpg](/docs/.document360/assets/article_047/image_003.jpg)
+  Path: /docs/.document360/assets/article_047/image_003.jpg
+  Missing: article_047/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-scanning-scanning-targets.jpg](/docs/.document360/assets/article_047/image_004.jpg)
+  Path: /docs/.document360/assets/article_047/image_004.jpg
+  Missing: article_047/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-scanning-scanning-credentials.jpg](/docs/.document360/assets/article_047/image_005.jpg)
+  Path: /docs/.document360/assets/article_047/image_005.jpg
+  Missing: article_047/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-scanning-data-selection.jpg](/docs/.document360/assets/article_047/image_006.jpg)
+  Path: /docs/.document360/assets/article_047/image_006.jpg
+  Missing: article_047/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![web-console-user-roles-and-permissions-2.jpg](/docs/.document360/assets/article_047/image_007.jpg)
+  Path: /docs/.document360/assets/article_047/image_007.jpg
+  Missing: article_047/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![web-console-user-roles-and-permissions-3.jpg](/docs/.document360/assets/article_047/image_008.jpg)
+  Path: /docs/.document360/assets/article_047/image_008.jpg
+  Missing: article_047/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![web-console-user-roles-and-permissions-4.jpg](/docs/.document360/assets/article_047/image_009.jpg)
+  Path: /docs/.document360/assets/article_047/image_009.jpg
+  Missing: article_047/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![web-console-user-roles-and-permissions-5.jpg](/docs/.document360/assets/article_047/image_010.jpg)
+  Path: /docs/.document360/assets/article_047/image_010.jpg
+  Missing: article_047/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![web-console-user-roles-and-permissions-6.jpg](/docs/.document360/assets/article_047/image_011.jpg)
+  Path: /docs/.document360/assets/article_047/image_011.jpg
+  Missing: article_047/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![web-console-user-roles-and-permissions-7.jpg](/docs/.document360/assets/article_047/image_012.jpg)
+  Path: /docs/.document360/assets/article_047/image_012.jpg
+  Missing: article_047/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-software-scanned-license-keys.jpg](/docs/.document360/assets/article_047/image_013.jpg)
+  Path: /docs/.document360/assets/article_047/image_013.jpg
+  Missing: article_047/image_013.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-software-license-key-settings.jpg](/docs/.document360/assets/article_047/image_014.jpg)
+  Path: /docs/.document360/assets/article_047/image_014.jpg
+  Missing: article_047/image_014.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-software-license-compliance.jpg](/docs/.document360/assets/article_047/image_015.jpg)
+  Path: /docs/.document360/assets/article_047/image_015.jpg
+  Missing: article_047/image_015.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-software-edit-purchased-licenses.jpg](/docs/.document360/assets/article_047/image_016.jpg)
+  Path: /docs/.document360/assets/article_047/image_016.jpg
+  Missing: article_047/image_016.jpg
+--------------------------------------------------------------------------------
+  Full match: ![web-console-user-roles-and-permissions-8.jpg](/docs/.document360/assets/article_047/image_017.jpg)
+  Path: /docs/.document360/assets/article_047/image_017.jpg
+  Missing: article_047/image_017.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-deployment-installer-packages.jpg](/docs/.document360/assets/article_047/image_018.jpg)
+  Path: /docs/.document360/assets/article_047/image_018.jpg
+  Missing: article_047/image_018.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-database-tables.jpg](/docs/.document360/assets/article_047/image_019.jpg)
+  Path: /docs/.document360/assets/article_047/image_019.jpg
+  Missing: article_047/image_019.jpg
 --------------------------------------------------------------------------------
 
 
 SUMMARY
 ================================================================================
-Files modified: 8
-Total broken links removed: 37
+Files modified: 30
+Total broken links removed: 206
