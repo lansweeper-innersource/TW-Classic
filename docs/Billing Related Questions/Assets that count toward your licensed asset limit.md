@@ -9,16 +9,16 @@ Monitors without [extended display data](/docs/extended-display-scanning) do not
 
 In your site, go to **Configuration > License status**. The total number of assets that count toward your licensed asset limit is listed in **Licensed assets**, as well as the **Asset limit** for Starter or Pro plans.
 
-![license-status.png](/docs/.document360/assets/article_007/image_002.jpg)
+
 
 ## Assets in Lansweeper On-premises
 
 - For a count of all assets in your installation, select the **Assets** tab in the web console.  
-  ![Licensed asset limit 1.png](/docs/.document360/assets/article_007/image_003.jpg)
+  
 - For a count of all licensed assets, assets that count toward your licensed asset limit, browse to the **Configuration > Your Lansweeper License** section.   
-  ![Licensed asset limit 2.png](/docs/.document360/assets/article_007/image_004.jpg)
+  
 - Alternatively, go to the **Reports** section in the web console and run "Assets: All licensed assets in Lansweeper".  
-  ![Licensed asset limit 3.png](/docs/.document360/assets/article_007/image_005.jpg)
+  
 
 ## Example scenario
 

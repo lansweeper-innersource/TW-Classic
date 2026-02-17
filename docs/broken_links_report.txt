@@ -1,0 +1,188 @@
+BROKEN IMAGE LINKS REMOVAL REPORT
+================================================================================
+
+File: Actions\Configure Microsoft Edge to run actions.md
+Broken links removed: 4
+
+  Full match: ![Actions edge 1.png](/docs/.document360/assets/article_002/image_002.jpg)
+  Path: /docs/.document360/assets/article_002/image_002.jpg
+  Missing: article_002/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Actions chrome 1.png](/docs/.document360/assets/article_002/image_003.jpg)
+  Path: /docs/.document360/assets/article_002/image_003.jpg
+  Missing: article_002/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Actions edge 2.png](/docs/.document360/assets/article_002/image_004.jpg)
+  Path: /docs/.document360/assets/article_002/image_004.jpg
+  Missing: article_002/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Actions edge 3.png](/docs/.document360/assets/article_002/image_005.jpg)
+  Path: /docs/.document360/assets/article_002/image_005.jpg
+  Missing: article_002/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Actions\Configure Mozilla Firefox to run actions.md
+Broken links removed: 5
+
+  Full match: ![configuring-mozilla-firefox-to-run-actions-2.jpg](/docs/.document360/assets/article_003/image_002.jpg)
+  Path: /docs/.document360/assets/article_003/image_002.jpg
+  Missing: article_003/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-mozilla-firefox-to-run-actions-3.jpg](/docs/.document360/assets/article_003/image_003.jpg)
+  Path: /docs/.document360/assets/article_003/image_003.jpg
+  Missing: article_003/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Configuring-Mozilla-Firefox-to-run-actions-6.jpg](/docs/.document360/assets/article_003/image_004.jpg)
+  Path: /docs/.document360/assets/article_003/image_004.jpg
+  Missing: article_003/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Configuring-Mozilla-Firefox-to-run-actions-7.jpg](/docs/.document360/assets/article_003/image_005.jpg)
+  Path: /docs/.document360/assets/article_003/image_005.jpg
+  Missing: article_003/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-mozilla-firefox-to-run-actions-5.jpg](/docs/.document360/assets/article_003/image_006.jpg)
+  Path: /docs/.document360/assets/article_003/image_006.jpg
+  Missing: article_003/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Actions\Configure Opera to run actions.md
+Broken links removed: 3
+
+  Full match: ![configuring-google-chrome-to-run-actions-1.jpg](/docs/.document360/assets/article_004/image_001.jpg)
+  Path: /docs/.document360/assets/article_004/image_001.jpg
+  Missing: article_004/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![opera-add-extension-from-chrome-web-store.jpg](/docs/.document360/assets/article_004/image_002.jpg)
+  Path: /docs/.document360/assets/article_004/image_002.jpg
+  Missing: article_004/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![opera-enable-extension.jpg](/docs/.document360/assets/article_004/image_003.jpg)
+  Path: /docs/.document360/assets/article_004/image_003.jpg
+  Missing: article_004/image_003.jpg
+--------------------------------------------------------------------------------
+
+File: Actions\Create and run actions.md
+Broken links removed: 2
+
+  Full match: ![running-actions-as-a-different-user-1.jpg](/docs/.document360/assets/article_005/image_002.jpg)
+  Path: /docs/.document360/assets/article_005/image_002.jpg
+  Missing: article_005/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-and-running-actions-1.jpg](/docs/.document360/assets/article_005/image_003.jpg)
+  Path: /docs/.document360/assets/article_005/image_003.jpg
+  Missing: article_005/image_003.jpg
+--------------------------------------------------------------------------------
+
+File: Actions\Run actions as a different user.md
+Broken links removed: 4
+
+  Full match: ![running-actions-as-a-different-user-1.jpg](/docs/.document360/assets/article_006/image_002.jpg)
+  Path: /docs/.document360/assets/article_006/image_002.jpg
+  Missing: article_006/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![running-actions-as-a-different-user-2.jpg](/docs/.document360/assets/article_006/image_003.jpg)
+  Path: /docs/.document360/assets/article_006/image_003.jpg
+  Missing: article_006/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![running-actions-as-a-different-user-3.jpg](/docs/.document360/assets/article_006/image_004.jpg)
+  Path: /docs/.document360/assets/article_006/image_004.jpg
+  Missing: article_006/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-asset-pages.jpg](/docs/.document360/assets/article_006/image_005.jpg)
+  Path: /docs/.document360/assets/article_006/image_005.jpg
+  Missing: article_006/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Billing Related Questions\Assets that count toward your licensed asset limit.md
+Broken links removed: 4
+
+  Full match: ![license-status.png](/docs/.document360/assets/article_007/image_002.jpg)
+  Path: /docs/.document360/assets/article_007/image_002.jpg
+  Missing: article_007/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Licensed asset limit 1.png](/docs/.document360/assets/article_007/image_003.jpg)
+  Path: /docs/.document360/assets/article_007/image_003.jpg
+  Missing: article_007/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Licensed asset limit 2.png](/docs/.document360/assets/article_007/image_004.jpg)
+  Path: /docs/.document360/assets/article_007/image_004.jpg
+  Missing: article_007/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Licensed asset limit 3.png](/docs/.document360/assets/article_007/image_005.jpg)
+  Path: /docs/.document360/assets/article_007/image_005.jpg
+  Missing: article_007/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Billing Related Questions\Find your case number.md
+Broken links removed: 1
+
+  Full match: ![finding-your-case-number-1.jpg](/docs/.document360/assets/article_009/image_001.jpg)
+  Path: /docs/.document360/assets/article_009/image_001.jpg
+  Missing: article_009/image_001.jpg
+--------------------------------------------------------------------------------
+
+File: Billing Related Questions\Manage helpdesk agents.md
+Broken links removed: 14
+
+  Full match: ![you-are-currently-an-inactive-helpdesk-agent-1.jpg](/docs/.document360/assets/article_011/image_002.jpg)
+  Path: /docs/.document360/assets/article_011/image_002.jpg
+  Missing: article_011/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-your-lansweeper-license.jpg](/docs/.document360/assets/article_011/image_003.jpg)
+  Path: /docs/.document360/assets/article_011/image_003.jpg
+  Missing: article_011/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![you-are-currently-an-inactive-helpdesk-agent-2.jpg](/docs/.document360/assets/article_011/image_004.jpg)
+  Path: /docs/.document360/assets/article_011/image_004.jpg
+  Missing: article_011/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-user-access-and-roles.jpg](/docs/.document360/assets/article_011/image_005.jpg)
+  Path: /docs/.document360/assets/article_011/image_005.jpg
+  Missing: article_011/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![you-are-currently-an-inactive-helpdesk-agent-3.jpg](/docs/.document360/assets/article_011/image_006.jpg)
+  Path: /docs/.document360/assets/article_011/image_006.jpg
+  Missing: article_011/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![you-are-currently-an-inactive-helpdesk-agent-4.jpg](/docs/.document360/assets/article_011/image_007.jpg)
+  Path: /docs/.document360/assets/article_011/image_007.jpg
+  Missing: article_011/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-your-lansweeper-license.jpg](/docs/.document360/assets/article_011/image_008.jpg)
+  Path: /docs/.document360/assets/article_011/image_008.jpg
+  Missing: article_011/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![you-are-currently-an-inactive-helpdesk-agent-2.jpg](/docs/.document360/assets/article_011/image_009.jpg)
+  Path: /docs/.document360/assets/article_011/image_009.jpg
+  Missing: article_011/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-user-access-and-roles.jpg](/docs/.document360/assets/article_011/image_010.jpg)
+  Path: /docs/.document360/assets/article_011/image_010.jpg
+  Missing: article_011/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![you-are-currently-an-inactive-helpdesk-agent-3.jpg](/docs/.document360/assets/article_011/image_011.jpg)
+  Path: /docs/.document360/assets/article_011/image_011.jpg
+  Missing: article_011/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![you-are-currently-an-inactive-helpdesk-agent-4.jpg](/docs/.document360/assets/article_011/image_012.jpg)
+  Path: /docs/.document360/assets/article_011/image_012.jpg
+  Missing: article_011/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-user-access-and-roles.jpg](/docs/.document360/assets/article_011/image_013.jpg)
+  Path: /docs/.document360/assets/article_011/image_013.jpg
+  Missing: article_011/image_013.jpg
+--------------------------------------------------------------------------------
+  Full match: ![you-are-currently-an-inactive-helpdesk-agent-5.jpg](/docs/.document360/assets/article_011/image_014.jpg)
+  Path: /docs/.document360/assets/article_011/image_014.jpg
+  Missing: article_011/image_014.jpg
+--------------------------------------------------------------------------------
+  Full match: ![you-are-currently-an-inactive-helpdesk-agent-4.jpg](/docs/.document360/assets/article_011/image_015.jpg)
+  Path: /docs/.document360/assets/article_011/image_015.jpg
+  Missing: article_011/image_015.jpg
+--------------------------------------------------------------------------------
+
+
+SUMMARY
+================================================================================
+Files modified: 8
+Total broken links removed: 37

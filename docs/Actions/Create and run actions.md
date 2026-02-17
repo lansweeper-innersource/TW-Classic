@@ -4,7 +4,7 @@ Actions in the [Lansweeper](https://www.lansweeper.com/) platform are administra
 To accomplish these tasks, actions use underlying CMD commands, scripts and executables, which are stored in a folder on the Lansweeper server. There are built-in actions, but you can create your own as well.
 
 Actions are listed in the left pane of asset and user pages in Lansweeper Classic.  
-![running-actions-as-a-different-user-1.jpg](/docs/.document360/assets/article_005/image_002.jpg)
+
 
 ## Create actions
 
@@ -19,7 +19,7 @@ Actions are listed in the left pane of asset and user pages in Lansweeper Classi
 3. Add your action to the Lansweeper Classic web console.   
    Asset actions can be added in the **Configuration > Asset Pages** section of the web console.   
    User actions can be added in the **Configuration > User Pages** section of the web console. Keep in mind that user actions can only be run on domain users, not local users.  
-   ![creating-and-running-actions-1.jpg](/docs/.document360/assets/article_005/image_003.jpg)
+   
 
    ### Available settings
 
