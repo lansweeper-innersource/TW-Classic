@@ -1,224 +1,1692 @@
 BROKEN IMAGE LINKS REMOVAL REPORT
 ================================================================================
 
-File: Cyber Security And Risk Insights\Create vulnerability prioritization rules.md
-Broken links removed: 4
+File: Diagrams\Discover asset relations with diagrams.md
+Broken links removed: 18
 
-  Full match: ![Vulnerability prioritization 4.png](/docs/.document360/assets/article_049/image_002.jpg)
-  Path: /docs/.document360/assets/article_049/image_002.jpg
-  Missing: article_049/image_002.jpg
+  Full match: ![sophie_0-1686148047004.png](/docs/.document360/assets/article_064/image_002.jpg)
+  Path: /docs/.document360/assets/article_064/image_002.jpg
+  Missing: article_064/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Vulnerability prioritization 3.png](/docs/.document360/assets/article_049/image_003.jpg)
-  Path: /docs/.document360/assets/article_049/image_003.jpg
-  Missing: article_049/image_003.jpg
+  Full match: ![sophie_1-1686148047007.png](/docs/.document360/assets/article_064/image_003.jpg)
+  Path: /docs/.document360/assets/article_064/image_003.jpg
+  Missing: article_064/image_003.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Vulnerability prioritization 1.png](/docs/.document360/assets/article_049/image_004.jpg)
-  Path: /docs/.document360/assets/article_049/image_004.jpg
-  Missing: article_049/image_004.jpg
+  Full match: ![manual-relation.png](/docs/.document360/assets/article_064/image_004.jpg)
+  Path: /docs/.document360/assets/article_064/image_004.jpg
+  Missing: article_064/image_004.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Vulnerability prioritization 2.png](/docs/.document360/assets/article_049/image_005.jpg)
-  Path: /docs/.document360/assets/article_049/image_005.jpg
-  Missing: article_049/image_005.jpg
+  Full match: ![assets-ip-location.png](/docs/.document360/assets/article_064/image_005.jpg)
+  Path: /docs/.document360/assets/article_064/image_005.jpg
+  Missing: article_064/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_3-1686148047013.png](/docs/.document360/assets/article_064/image_006.jpg)
+  Path: /docs/.document360/assets/article_064/image_006.jpg
+  Missing: article_064/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![location-add-relation.png](/docs/.document360/assets/article_064/image_007.jpg)
+  Path: /docs/.document360/assets/article_064/image_007.jpg
+  Missing: article_064/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_5-1686148047019.png](/docs/.document360/assets/article_064/image_008.jpg)
+  Path: /docs/.document360/assets/article_064/image_008.jpg
+  Missing: article_064/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_6-1686148047022.png](/docs/.document360/assets/article_064/image_009.jpg)
+  Path: /docs/.document360/assets/article_064/image_009.jpg
+  Missing: article_064/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![multiple-relations (1).gif](/docs/.document360/assets/article_064/image_010.jpg)
+  Path: /docs/.document360/assets/article_064/image_010.jpg
+  Missing: article_064/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![solid-line.png](/docs/.document360/assets/article_064/image_011.jpg)
+  Path: /docs/.document360/assets/article_064/image_011.jpg
+  Missing: article_064/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![dotted-line.png](/docs/.document360/assets/article_064/image_012.jpg)
+  Path: /docs/.document360/assets/article_064/image_012.jpg
+  Missing: article_064/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![orphan-assets.png](/docs/.document360/assets/article_064/image_013.jpg)
+  Path: /docs/.document360/assets/article_064/image_013.jpg
+  Missing: article_064/image_013.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_7-1686148047025.png](/docs/.document360/assets/article_064/image_014.jpg)
+  Path: /docs/.document360/assets/article_064/image_014.jpg
+  Missing: article_064/image_014.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_8-1686148047030.png](/docs/.document360/assets/article_064/image_015.jpg)
+  Path: /docs/.document360/assets/article_064/image_015.jpg
+  Missing: article_064/image_015.jpg
+--------------------------------------------------------------------------------
+  Full match: ![relation.png](/docs/.document360/assets/article_064/image_016.jpg)
+  Path: /docs/.document360/assets/article_064/image_016.jpg
+  Missing: article_064/image_016.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_9-1686148047036.png](/docs/.document360/assets/article_064/image_017.jpg)
+  Path: /docs/.document360/assets/article_064/image_017.jpg
+  Missing: article_064/image_017.jpg
+--------------------------------------------------------------------------------
+  Full match: ![relation.png](/docs/.document360/assets/article_064/image_018.jpg)
+  Path: /docs/.document360/assets/article_064/image_018.jpg
+  Missing: article_064/image_018.jpg
+--------------------------------------------------------------------------------
+  Full match: ![new-relation.png](/docs/.document360/assets/article_064/image_019.jpg)
+  Path: /docs/.document360/assets/article_064/image_019.jpg
+  Missing: article_064/image_019.jpg
 --------------------------------------------------------------------------------
 
-File: Cyber Security And Risk Insights\Customize the list of vulnerabilities.md
+File: Diagrams\Export diagrams.md
+Broken links removed: 2
+
+  Full match: ![export-icon.png](/docs/.document360/assets/article_065/image_002.jpg)
+  Path: /docs/.document360/assets/article_065/image_002.jpg
+  Missing: article_065/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![export.png](/docs/.document360/assets/article_065/image_003.jpg)
+  Path: /docs/.document360/assets/article_065/image_003.jpg
+  Missing: article_065/image_003.jpg
+--------------------------------------------------------------------------------
+
+File: Diagrams\Filter assets on diagrams.md
 Broken links removed: 6
 
-  Full match: ![Custom vulnerability views 5.png](/docs/.document360/assets/article_050/image_002.jpg)
-  Path: /docs/.document360/assets/article_050/image_002.jpg
-  Missing: article_050/image_002.jpg
+  Full match: ![filter.png](/docs/.document360/assets/article_066/image_002.jpg)
+  Path: /docs/.document360/assets/article_066/image_002.jpg
+  Missing: article_066/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Custom vulnerability views 8.png](/docs/.document360/assets/article_050/image_003.jpg)
-  Path: /docs/.document360/assets/article_050/image_003.jpg
-  Missing: article_050/image_003.jpg
+  Full match: ![reset-filters.png](/docs/.document360/assets/article_066/image_003.jpg)
+  Path: /docs/.document360/assets/article_066/image_003.jpg
+  Missing: article_066/image_003.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Custom vulnerability views 6.png](/docs/.document360/assets/article_050/image_004.jpg)
-  Path: /docs/.document360/assets/article_050/image_004.jpg
-  Missing: article_050/image_004.jpg
+  Full match: ![asset-types.gif](/docs/.document360/assets/article_066/image_004.jpg)
+  Path: /docs/.document360/assets/article_066/image_004.jpg
+  Missing: article_066/image_004.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Custom vulnerability views 9.png](/docs/.document360/assets/article_050/image_005.jpg)
-  Path: /docs/.document360/assets/article_050/image_005.jpg
-  Missing: article_050/image_005.jpg
+  Full match: ![ip-range.gif](/docs/.document360/assets/article_066/image_005.jpg)
+  Path: /docs/.document360/assets/article_066/image_005.jpg
+  Missing: article_066/image_005.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Custom vulnerability views 7.png](/docs/.document360/assets/article_050/image_006.jpg)
-  Path: /docs/.document360/assets/article_050/image_006.jpg
-  Missing: article_050/image_006.jpg
+  Full match: ![asset-state.gif](/docs/.document360/assets/article_066/image_006.jpg)
+  Path: /docs/.document360/assets/article_066/image_006.jpg
+  Missing: article_066/image_006.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Export report 2.png](/docs/.document360/assets/article_050/image_007.jpg)
-  Path: /docs/.document360/assets/article_050/image_007.jpg
-  Missing: article_050/image_007.jpg
+  Full match: ![filtered-items (2).gif](/docs/.document360/assets/article_066/image_007.jpg)
+  Path: /docs/.document360/assets/article_066/image_007.jpg
+  Missing: article_066/image_007.jpg
 --------------------------------------------------------------------------------
 
-File: Cyber Security And Risk Insights\Introduction to Vulnerability Risk Assessment.md
+File: Diagrams\Find assets with integrated search on diagrams.md
 Broken links removed: 2
 
-  Full match: ![Risk Insights.png](/docs/.document360/assets/article_052/image_002.jpg)
-  Path: /docs/.document360/assets/article_052/image_002.jpg
-  Missing: article_052/image_002.jpg
+  Full match: ![search-icon.png](/docs/.document360/assets/article_067/image_002.jpg)
+  Path: /docs/.document360/assets/article_067/image_002.jpg
+  Missing: article_067/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Risk Insights 1.png](/docs/.document360/assets/article_052/image_003.jpg)
-  Path: /docs/.document360/assets/article_052/image_003.jpg
-  Missing: article_052/image_003.jpg
+  Full match: ![search (1).gif](/docs/.document360/assets/article_067/image_003.jpg)
+  Path: /docs/.document360/assets/article_067/image_003.jpg
+  Missing: article_067/image_003.jpg
 --------------------------------------------------------------------------------
 
-File: Cyber Security And Risk Insights\Understanding exploitability fields.md
+File: Diagrams\Generate diagrams.md
+Broken links removed: 12
+
+  Full match: ![sophie_13-1686147619709.png](/docs/.document360/assets/article_068/image_002.jpg)
+  Path: /docs/.document360/assets/article_068/image_002.jpg
+  Missing: article_068/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_14-1686147619712.png](/docs/.document360/assets/article_068/image_003.jpg)
+  Path: /docs/.document360/assets/article_068/image_003.jpg
+  Missing: article_068/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_15-1686147619720.png](/docs/.document360/assets/article_068/image_004.jpg)
+  Path: /docs/.document360/assets/article_068/image_004.jpg
+  Missing: article_068/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![network-diagrams.png](/docs/.document360/assets/article_068/image_005.jpg)
+  Path: /docs/.document360/assets/article_068/image_005.jpg
+  Missing: article_068/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_17-1686147619727.png](/docs/.document360/assets/article_068/image_006.jpg)
+  Path: /docs/.document360/assets/article_068/image_006.jpg
+  Missing: article_068/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_18-1686147619732.png](/docs/.document360/assets/article_068/image_007.jpg)
+  Path: /docs/.document360/assets/article_068/image_007.jpg
+  Missing: article_068/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![generate.png](/docs/.document360/assets/article_068/image_008.jpg)
+  Path: /docs/.document360/assets/article_068/image_008.jpg
+  Missing: article_068/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_19-1686147619735.png](/docs/.document360/assets/article_068/image_009.jpg)
+  Path: /docs/.document360/assets/article_068/image_009.jpg
+  Missing: article_068/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_20-1686147619737.png](/docs/.document360/assets/article_068/image_010.jpg)
+  Path: /docs/.document360/assets/article_068/image_010.jpg
+  Missing: article_068/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![generate.png](/docs/.document360/assets/article_068/image_011.jpg)
+  Path: /docs/.document360/assets/article_068/image_011.jpg
+  Missing: article_068/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![generate.png](/docs/.document360/assets/article_068/image_012.jpg)
+  Path: /docs/.document360/assets/article_068/image_012.jpg
+  Missing: article_068/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_21-1686147619741.png](/docs/.document360/assets/article_068/image_013.jpg)
+  Path: /docs/.document360/assets/article_068/image_013.jpg
+  Missing: article_068/image_013.jpg
+--------------------------------------------------------------------------------
+
+File: Diagrams\Navigate diagrams.md
 Broken links removed: 1
 
-  Full match: ![Understand exploitability 1.png](/docs/.document360/assets/article_055/image_002.jpg)
-  Path: /docs/.document360/assets/article_055/image_002.jpg
-  Missing: article_055/image_002.jpg
+  Full match: ![navigate.gif](/docs/.document360/assets/article_069/image_002.jpg)
+  Path: /docs/.document360/assets/article_069/image_002.jpg
+  Missing: article_069/image_002.jpg
 --------------------------------------------------------------------------------
 
-File: Cyber Security And Risk Insights\View the vulnerabilities affecting assets.md
-Broken links removed: 3
+File: Installation\Access the web console.md
+Broken links removed: 4
 
-  Full match: ![Warning1.png](/docs/.document360/assets/article_056/image_002.jpg)
-  Path: /docs/.document360/assets/article_056/image_002.jpg
-  Missing: article_056/image_002.jpg
+  Full match: ![accessing-the-web-console-1.jpg](/docs/.document360/assets/article_071/image_002.jpg)
+  Path: /docs/.document360/assets/article_071/image_002.jpg
+  Missing: article_071/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Vulnerabilities affecting 3.png](/docs/.document360/assets/article_056/image_003.jpg)
-  Path: /docs/.document360/assets/article_056/image_003.jpg
-  Missing: article_056/image_003.jpg
+  Full match: ![accessing-the-web-console-2.jpg](/docs/.document360/assets/article_071/image_003.jpg)
+  Path: /docs/.document360/assets/article_071/image_003.jpg
+  Missing: article_071/image_003.jpg
 --------------------------------------------------------------------------------
-  Full match: ![Vulnerabilities affecting 4.png](/docs/.document360/assets/article_056/image_004.jpg)
-  Path: /docs/.document360/assets/article_056/image_004.jpg
-  Missing: article_056/image_004.jpg
+  Full match: ![accessing-the-web-console-3.jpg](/docs/.document360/assets/article_071/image_004.jpg)
+  Path: /docs/.document360/assets/article_071/image_004.jpg
+  Missing: article_071/image_004.jpg
 --------------------------------------------------------------------------------
-
-File: Deploying Software Other Changes\Check the status of a deployment.md
-Broken links removed: 3
-
-  Full match: ![checking-the-status-of-a-deployment-1.jpg](/docs/.document360/assets/article_057/image_001.jpg)
-  Path: /docs/.document360/assets/article_057/image_001.jpg
-  Missing: article_057/image_001.jpg
---------------------------------------------------------------------------------
-  Full match: ![menu-deployment-deployment-logs.jpg](/docs/.document360/assets/article_057/image_002.jpg)
-  Path: /docs/.document360/assets/article_057/image_002.jpg
-  Missing: article_057/image_002.jpg
---------------------------------------------------------------------------------
-  Full match: ![menu-deployment-installer-logs-multiple-scan-servers.jpg](/docs/.document360/assets/article_057/image_003.jpg)
-  Path: /docs/.document360/assets/article_057/image_003.jpg
-  Missing: article_057/image_003.jpg
+  Full match: ![web-console-login-screen.jpg](/docs/.document360/assets/article_071/image_005.jpg)
+  Path: /docs/.document360/assets/article_071/image_005.jpg
+  Missing: article_071/image_005.jpg
 --------------------------------------------------------------------------------
 
-File: Deploying Software Other Changes\Create a deployment package.md
-Broken links removed: 11
-
-  Full match: ![menu-deployment-deployment-packages.jpg](/docs/.document360/assets/article_058/image_002.jpg)
-  Path: /docs/.document360/assets/article_058/image_002.jpg
-  Missing: article_058/image_002.jpg
---------------------------------------------------------------------------------
-  Full match: ![creating-a-deployment-package-1.jpg](/docs/.document360/assets/article_058/image_003.jpg)
-  Path: /docs/.document360/assets/article_058/image_003.jpg
-  Missing: article_058/image_003.jpg
---------------------------------------------------------------------------------
-  Full match: ![creating-a-deployment-package-2.jpg](/docs/.document360/assets/article_058/image_004.jpg)
-  Path: /docs/.document360/assets/article_058/image_004.jpg
-  Missing: article_058/image_004.jpg
---------------------------------------------------------------------------------
-  Full match: ![creating-a-deployment-package-3.jpg](/docs/.document360/assets/article_058/image_005.jpg)
-  Path: /docs/.document360/assets/article_058/image_005.jpg
-  Missing: article_058/image_005.jpg
---------------------------------------------------------------------------------
-  Full match: ![creating-a-deployment-package-4.jpg](/docs/.document360/assets/article_058/image_006.jpg)
-  Path: /docs/.document360/assets/article_058/image_006.jpg
-  Missing: article_058/image_006.jpg
---------------------------------------------------------------------------------
-  Full match: ![creating-a-deployment-package-5.jpg](/docs/.document360/assets/article_058/image_007.jpg)
-  Path: /docs/.document360/assets/article_058/image_007.jpg
-  Missing: article_058/image_007.jpg
---------------------------------------------------------------------------------
-  Full match: ![creating-a-deployment-package-6.jpg](/docs/.document360/assets/article_058/image_008.jpg)
-  Path: /docs/.document360/assets/article_058/image_008.jpg
-  Missing: article_058/image_008.jpg
---------------------------------------------------------------------------------
-  Full match: ![creating-a-deployment-package-7.jpg](/docs/.document360/assets/article_058/image_009.jpg)
-  Path: /docs/.document360/assets/article_058/image_009.jpg
-  Missing: article_058/image_009.jpg
---------------------------------------------------------------------------------
-  Full match: ![creating-a-deployment-package-8.jpg](/docs/.document360/assets/article_058/image_010.jpg)
-  Path: /docs/.document360/assets/article_058/image_010.jpg
-  Missing: article_058/image_010.jpg
---------------------------------------------------------------------------------
-  Full match: ![creating-a-deployment-package-9.jpg](/docs/.document360/assets/article_058/image_011.jpg)
-  Path: /docs/.document360/assets/article_058/image_011.jpg
-  Missing: article_058/image_011.jpg
---------------------------------------------------------------------------------
-  Full match: ![creating-a-deployment-package-10.jpg](/docs/.document360/assets/article_058/image_012.jpg)
-  Path: /docs/.document360/assets/article_058/image_012.jpg
-  Missing: article_058/image_012.jpg
---------------------------------------------------------------------------------
-
-File: Deploying Software Other Changes\Deploy a package manually or based on a schedule.md
-Broken links removed: 9
-
-  Full match: ![deploying-a-package-manually-or-based-on-a-schedule-1.jpg](/docs/.document360/assets/article_059/image_001.jpg)
-  Path: /docs/.document360/assets/article_059/image_001.jpg
-  Missing: article_059/image_001.jpg
---------------------------------------------------------------------------------
-  Full match: ![menu-configuration-server-options.jpg](/docs/.document360/assets/article_059/image_002.jpg)
-  Path: /docs/.document360/assets/article_059/image_002.jpg
-  Missing: article_059/image_002.jpg
---------------------------------------------------------------------------------
-  Full match: ![deploying-a-package-manually-or-based-on-a-schedule-2.jpg](/docs/.document360/assets/article_059/image_003.jpg)
-  Path: /docs/.document360/assets/article_059/image_003.jpg
-  Missing: article_059/image_003.jpg
---------------------------------------------------------------------------------
-  Full match: ![menu-reports-view-all-reports.jpg](/docs/.document360/assets/article_059/image_004.jpg)
-  Path: /docs/.document360/assets/article_059/image_004.jpg
-  Missing: article_059/image_004.jpg
---------------------------------------------------------------------------------
-  Full match: ![procedure-selecting-domain-in-assets-menu.jpg](/docs/.document360/assets/article_059/image_005.jpg)
-  Path: /docs/.document360/assets/article_059/image_005.jpg
-  Missing: article_059/image_005.jpg
---------------------------------------------------------------------------------
-  Full match: ![deploying-a-package-manually-or-based-on-a-schedule-3.jpg](/docs/.document360/assets/article_059/image_006.jpg)
-  Path: /docs/.document360/assets/article_059/image_006.jpg
-  Missing: article_059/image_006.jpg
---------------------------------------------------------------------------------
-  Full match: ![menu-deployment-scheduled-deployments.jpg](/docs/.document360/assets/article_059/image_007.jpg)
-  Path: /docs/.document360/assets/article_059/image_007.jpg
-  Missing: article_059/image_007.jpg
---------------------------------------------------------------------------------
-  Full match: ![deploying-a-package-manually-or-based-on-a-schedule-4.jpg](/docs/.document360/assets/article_059/image_008.jpg)
-  Path: /docs/.document360/assets/article_059/image_008.jpg
-  Missing: article_059/image_008.jpg
---------------------------------------------------------------------------------
-  Full match: ![deploying-a-package-manually-or-based-on-a-schedule-5.jpg](/docs/.document360/assets/article_059/image_009.jpg)
-  Path: /docs/.document360/assets/article_059/image_009.jpg
-  Missing: article_059/image_009.jpg
---------------------------------------------------------------------------------
-
-File: Deploying Software Other Changes\Deployment requirements.md
+File: Installation\Apply your Lansweeper license.md
 Broken links removed: 2
 
-  Full match: ![menu-deployment-security-options.jpg](/docs/.document360/assets/article_060/image_002.jpg)
-  Path: /docs/.document360/assets/article_060/image_002.jpg
-  Missing: article_060/image_002.jpg
+  Full match: ![Nils_2-1671524382457.jpeg](/docs/.document360/assets/article_072/image_002.jpg)
+  Path: /docs/.document360/assets/article_072/image_002.jpg
+  Missing: article_072/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![deployment-requirements-1.jpg](/docs/.document360/assets/article_060/image_003.jpg)
-  Path: /docs/.document360/assets/article_060/image_003.jpg
-  Missing: article_060/image_003.jpg
+  Full match: ![Nils_3-1671524382452.jpeg](/docs/.document360/assets/article_072/image_003.jpg)
+  Path: /docs/.document360/assets/article_072/image_003.jpg
+  Missing: article_072/image_003.jpg
 --------------------------------------------------------------------------------
 
-File: Deploying Software Other Changes\Import and export deployment packages.md
+File: Installation\Configuring a SQL Server instance to host the Lansweeper database.md
+Broken links removed: 14
+
+  Full match: ![configuring-an-existing-sql-instance-to-host-the-lansweeper-database-1.jpg](/docs/.document360/assets/article_074/image_001.jpg)
+  Path: /docs/.document360/assets/article_074/image_001.jpg
+  Missing: article_074/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-checking-sql-service-status.jpg](/docs/.document360/assets/article_074/image_002.jpg)
+  Path: /docs/.document360/assets/article_074/image_002.jpg
+  Missing: article_074/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-checking-sql-service-properties.jpg](/docs/.document360/assets/article_074/image_003.jpg)
+  Path: /docs/.document360/assets/article_074/image_003.jpg
+  Missing: article_074/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-checking-sql-service-startup-type.jpg](/docs/.document360/assets/article_074/image_004.jpg)
+  Path: /docs/.document360/assets/article_074/image_004.jpg
+  Missing: article_074/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-starting-sql-service.jpg](/docs/.document360/assets/article_074/image_005.jpg)
+  Path: /docs/.document360/assets/article_074/image_005.jpg
+  Missing: article_074/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-checking-sql-instance-properties.jpg](/docs/.document360/assets/article_074/image_006.jpg)
+  Path: /docs/.document360/assets/article_074/image_006.jpg
+  Missing: article_074/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-checking-sql-server-authentication.jpg](/docs/.document360/assets/article_074/image_007.jpg)
+  Path: /docs/.document360/assets/article_074/image_007.jpg
+  Missing: article_074/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-restarting-sql-instance.jpg](/docs/.document360/assets/article_074/image_008.jpg)
+  Path: /docs/.document360/assets/article_074/image_008.jpg
+  Missing: article_074/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-enabling-remote-connections-in-management-studio.jpg](/docs/.document360/assets/article_074/image_009.jpg)
+  Path: /docs/.document360/assets/article_074/image_009.jpg
+  Missing: article_074/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-checking-sql-protocols.jpg](/docs/.document360/assets/article_074/image_010.jpg)
+  Path: /docs/.document360/assets/article_074/image_010.jpg
+  Missing: article_074/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-checking-sql-protocol-ips.jpg](/docs/.document360/assets/article_074/image_011.jpg)
+  Path: /docs/.document360/assets/article_074/image_011.jpg
+  Missing: article_074/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-restarting-sql-service-in-configuration-manager.jpg](/docs/.document360/assets/article_074/image_012.jpg)
+  Path: /docs/.document360/assets/article_074/image_012.jpg
+  Missing: article_074/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-checking-sql-instance-name-in-management-studio.jpg](/docs/.document360/assets/article_074/image_013.jpg)
+  Path: /docs/.document360/assets/article_074/image_013.jpg
+  Missing: article_074/image_013.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-an-existing-sql-instance-to-host-the-lansweeper-database-2.jpg](/docs/.document360/assets/article_074/image_014.jpg)
+  Path: /docs/.document360/assets/article_074/image_014.jpg
+  Missing: article_074/image_014.jpg
+--------------------------------------------------------------------------------
+
+File: Installation\Credential and database security in Lansweeper.md
+Broken links removed: 4
+
+  Full match: ![Credential Security 1.png](/docs/.document360/assets/article_075/image_002.jpg)
+  Path: /docs/.document360/assets/article_075/image_002.jpg
+  Missing: article_075/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![advanced-credential-and-database-security-in-lansweeper-6-2.jpg](/docs/.document360/assets/article_075/image_003.jpg)
+  Path: /docs/.document360/assets/article_075/image_003.jpg
+  Missing: article_075/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-databasemaintenance.jpg](/docs/.document360/assets/article_075/image_004.jpg)
+  Path: /docs/.document360/assets/article_075/image_004.jpg
+  Missing: article_075/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Security and credentials 1.png](/docs/.document360/assets/article_075/image_005.jpg)
+  Path: /docs/.document360/assets/article_075/image_005.jpg
+  Missing: article_075/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Installation\Getting Started.md
+Broken links removed: 7
+
+  Full match: ![Create-acc-LS-1024x576.jpeg](/docs/.document360/assets/article_076/image_001.jpg)
+  Path: /docs/.document360/assets/article_076/image_001.jpg
+  Missing: article_076/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![After-FR-scan-1024x576.jpeg](/docs/.document360/assets/article_076/image_002.jpg)
+  Path: /docs/.document360/assets/article_076/image_002.jpg
+  Missing: article_076/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Scanning_Credentials-1024x470.jpg](/docs/.document360/assets/article_076/image_003.jpg)
+  Path: /docs/.document360/assets/article_076/image_003.jpg
+  Missing: article_076/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Global_Windows_Credentials-1024x377.jpg](/docs/.document360/assets/article_076/image_004.jpg)
+  Path: /docs/.document360/assets/article_076/image_004.jpg
+  Missing: article_076/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![image-20211019-132307-1024x203.png](/docs/.document360/assets/article_076/image_005.jpg)
+  Path: /docs/.document360/assets/article_076/image_005.jpg
+  Missing: article_076/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![IP_Range_Scanning_Target-1024x318.png](/docs/.document360/assets/article_076/image_006.jpg)
+  Path: /docs/.document360/assets/article_076/image_006.jpg
+  Missing: article_076/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Scan_Your_IP_Range-1024x261.png](/docs/.document360/assets/article_076/image_007.jpg)
+  Path: /docs/.document360/assets/article_076/image_007.jpg
+  Missing: article_076/image_007.jpg
+--------------------------------------------------------------------------------
+
+File: Installation\Install IIS (Internet Information Services).md
+Broken links removed: 5
+
+  Full match: ![menu-turn-windows-features-on-or-off.jpg](/docs/.document360/assets/article_077/image_002.jpg)
+  Path: /docs/.document360/assets/article_077/image_002.jpg
+  Missing: article_077/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![how-to-install-iis-internet-information-services-1.jpg](/docs/.document360/assets/article_077/image_003.jpg)
+  Path: /docs/.document360/assets/article_077/image_003.jpg
+  Missing: article_077/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![how-to-install-iis-internet-information-services-4.jpg](/docs/.document360/assets/article_077/image_004.jpg)
+  Path: /docs/.document360/assets/article_077/image_004.jpg
+  Missing: article_077/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-iis-manager.jpg](/docs/.document360/assets/article_077/image_005.jpg)
+  Path: /docs/.document360/assets/article_077/image_005.jpg
+  Missing: article_077/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![how-to-install-iis-internet-information-services-5.jpg](/docs/.document360/assets/article_077/image_006.jpg)
+  Path: /docs/.document360/assets/article_077/image_006.jpg
+  Missing: article_077/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Installation\Install Lansweeper On-prem.md
+Broken links removed: 9
+
+  Full match: ![Cloud-First trial installation (5).png](/docs/.document360/assets/article_079/image_002.jpg)
+  Path: /docs/.document360/assets/article_079/image_002.jpg
+  Missing: article_079/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-selecting-console-ports.jpg](/docs/.document360/assets/article_079/image_003.jpg)
+  Path: /docs/.document360/assets/article_079/image_003.jpg
+  Missing: article_079/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Cloud-First trial installation (5).png](/docs/.document360/assets/article_079/image_004.jpg)
+  Path: /docs/.document360/assets/article_079/image_004.jpg
+  Missing: article_079/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-performing-an-advanced-install-sql-server.jpg](/docs/.document360/assets/article_079/image_005.jpg)
+  Path: /docs/.document360/assets/article_079/image_005.jpg
+  Missing: article_079/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-selecting-database-server-sql-server.jpg](/docs/.document360/assets/article_079/image_006.jpg)
+  Path: /docs/.document360/assets/article_079/image_006.jpg
+  Missing: article_079/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-selecting-authentication-mode-for-installation.jpg](/docs/.document360/assets/article_079/image_007.jpg)
+  Path: /docs/.document360/assets/article_079/image_007.jpg
+  Missing: article_079/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-selecting-web-server.jpg](/docs/.document360/assets/article_079/image_008.jpg)
+  Path: /docs/.document360/assets/article_079/image_008.jpg
+  Missing: article_079/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-installing-console-sql-server.jpg](/docs/.document360/assets/article_079/image_009.jpg)
+  Path: /docs/.document360/assets/article_079/image_009.jpg
+  Missing: article_079/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![First run wizard 1.png](/docs/.document360/assets/article_079/image_010.jpg)
+  Path: /docs/.document360/assets/article_079/image_010.jpg
+  Missing: article_079/image_010.jpg
+--------------------------------------------------------------------------------
+
+File: Installation\Lansweeper Classic components and architecture.md
+Broken links removed: 5
+
+  Full match: ![Classic.png](/docs/.document360/assets/article_080/image_001.jpg)
+  Path: /docs/.document360/assets/article_080/image_001.jpg
+  Missing: article_080/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![lansweeper-component-overview-2b.jpg](/docs/.document360/assets/article_080/image_002.jpg)
+  Path: /docs/.document360/assets/article_080/image_002.jpg
+  Missing: article_080/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![lansweeper-component-overview-3b.jpg](/docs/.document360/assets/article_080/image_003.jpg)
+  Path: /docs/.document360/assets/article_080/image_003.jpg
+  Missing: article_080/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![classic-advanced.png](/docs/.document360/assets/article_080/image_004.jpg)
+  Path: /docs/.document360/assets/article_080/image_004.jpg
+  Missing: article_080/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![lansweeper-component-overview-6b.jpg](/docs/.document360/assets/article_080/image_005.jpg)
+  Path: /docs/.document360/assets/article_080/image_005.jpg
+  Missing: article_080/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Installation\Set up an installation with multiple scanning servers.md
+Broken links removed: 11
+
+  Full match: ![procedure-accepting-license-agreement.jpg](/docs/.document360/assets/article_083/image_001.jpg)
+  Path: /docs/.document360/assets/article_083/image_001.jpg
+  Missing: article_083/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-installing-lansweeper-service.jpg](/docs/.document360/assets/article_083/image_002.jpg)
+  Path: /docs/.document360/assets/article_083/image_002.jpg
+  Missing: article_083/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-selecting-authentication-mode-for-database-connection.jpg](/docs/.document360/assets/article_083/image_003.jpg)
+  Path: /docs/.document360/assets/article_083/image_003.jpg
+  Missing: article_083/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-selecting-installation-folder.jpg](/docs/.document360/assets/article_083/image_004.jpg)
+  Path: /docs/.document360/assets/article_083/image_004.jpg
+  Missing: article_083/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-finishing-installer.jpg](/docs/.document360/assets/article_083/image_005.jpg)
+  Path: /docs/.document360/assets/article_083/image_005.jpg
+  Missing: article_083/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-lansweeper-service.jpg](/docs/.document360/assets/article_083/image_006.jpg)
+  Path: /docs/.document360/assets/article_083/image_006.jpg
+  Missing: article_083/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configeditor.jpg](/docs/.document360/assets/article_083/image_007.jpg)
+  Path: /docs/.document360/assets/article_083/image_007.jpg
+  Missing: article_083/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-service-password-change.jpg](/docs/.document360/assets/article_083/image_008.jpg)
+  Path: /docs/.document360/assets/article_083/image_008.jpg
+  Missing: article_083/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-restarting-the-lansweeper-service.jpg](/docs/.document360/assets/article_083/image_009.jpg)
+  Path: /docs/.document360/assets/article_083/image_009.jpg
+  Missing: article_083/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-scanning-scanning-targets.jpg](/docs/.document360/assets/article_083/image_010.jpg)
+  Path: /docs/.document360/assets/article_083/image_010.jpg
+  Missing: article_083/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-scanning-server-tabs.jpg](/docs/.document360/assets/article_083/image_011.jpg)
+  Path: /docs/.document360/assets/article_083/image_011.jpg
+  Missing: article_083/image_011.jpg
+--------------------------------------------------------------------------------
+
+File: Installation\Silently install, uninstall, or update Lansweeper.md
+Broken links removed: 1
+
+  Full match: ![Silent-Install-3.jpg](/docs/.document360/assets/article_084/image_002.jpg)
+  Path: /docs/.document360/assets/article_084/image_002.jpg
+  Missing: article_084/image_002.jpg
+--------------------------------------------------------------------------------
+
+File: Installation\Which Lansweeper setup is right for you.md
 Broken links removed: 3
 
-  Full match: ![menu-deployment-deployment-packages.jpg](/docs/.document360/assets/article_061/image_001.jpg)
-  Path: /docs/.document360/assets/article_061/image_001.jpg
-  Missing: article_061/image_001.jpg
+  Full match: ![lansweeper-installation-single-subnet-1.png](/docs/.document360/assets/article_086/image_001.jpg)
+  Path: /docs/.document360/assets/article_086/image_001.jpg
+  Missing: article_086/image_001.jpg
 --------------------------------------------------------------------------------
-  Full match: ![importing-and-exporting-deployment-packages-1.jpg](/docs/.document360/assets/article_061/image_002.jpg)
-  Path: /docs/.document360/assets/article_061/image_002.jpg
-  Missing: article_061/image_002.jpg
+  Full match: ![lansweeper-installation-multiple-subnets.png](/docs/.document360/assets/article_086/image_002.jpg)
+  Path: /docs/.document360/assets/article_086/image_002.jpg
+  Missing: article_086/image_002.jpg
 --------------------------------------------------------------------------------
-  Full match: ![importing-and-exporting-deployment-packages-2.jpg](/docs/.document360/assets/article_061/image_003.jpg)
-  Path: /docs/.document360/assets/article_061/image_003.jpg
-  Missing: article_061/image_003.jpg
+  Full match: ![lansweeper-installation-multiple-isolated-networks-1.png](/docs/.document360/assets/article_086/image_003.jpg)
+  Path: /docs/.document360/assets/article_086/image_003.jpg
+  Missing: article_086/image_003.jpg
+--------------------------------------------------------------------------------
+
+File: Integrations\Import Lansweeper data into Microsoft Power BI.md
+Broken links removed: 15
+
+  Full match: ![architecture-9ef894202844f12479d772dedb589bc7.png](/docs/.document360/assets/article_087/image_002.jpg)
+  Path: /docs/.document360/assets/article_087/image_002.jpg
+  Missing: article_087/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![:exclamation_mark:](/docs/.document360/assets/article_087/image_003.png)
+  Path: /docs/.document360/assets/article_087/image_003.png
+  Missing: article_087/image_003.png
+--------------------------------------------------------------------------------
+  Full match: ![:warning:](/docs/.document360/assets/article_087/image_004.png)
+  Path: /docs/.document360/assets/article_087/image_004.png
+  Missing: article_087/image_004.png
+--------------------------------------------------------------------------------
+  Full match: ![desktop1c-dac0ec73e82be3db875968abead0a7e2.png](/docs/.document360/assets/article_087/image_005.jpg)
+  Path: /docs/.document360/assets/article_087/image_005.jpg
+  Missing: article_087/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![desktop2c-e45599002a289767878f2330ca6aa94f.png](/docs/.document360/assets/article_087/image_006.jpg)
+  Path: /docs/.document360/assets/article_087/image_006.jpg
+  Missing: article_087/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![desktop3c-d3658a7b8b9aff22f5e40cbfca9d1f05.png](/docs/.document360/assets/article_087/image_007.jpg)
+  Path: /docs/.document360/assets/article_087/image_007.jpg
+  Missing: article_087/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![desktop4c-d376a8cb4094af58851a2f616ee56f74.png](/docs/.document360/assets/article_087/image_008.jpg)
+  Path: /docs/.document360/assets/article_087/image_008.jpg
+  Missing: article_087/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![desktop5c-97c3abc854a8be5c76cd942b6020206a.png](/docs/.document360/assets/article_087/image_009.jpg)
+  Path: /docs/.document360/assets/article_087/image_009.jpg
+  Missing: article_087/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![desktop6cb-16978acc0692b3f4a24dce7a2d880104.png](/docs/.document360/assets/article_087/image_010.jpg)
+  Path: /docs/.document360/assets/article_087/image_010.jpg
+  Missing: article_087/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![desktop7cb-b031a6d5f10b50f9464f3158df2ec6a3.png](/docs/.document360/assets/article_087/image_011.jpg)
+  Path: /docs/.document360/assets/article_087/image_011.jpg
+  Missing: article_087/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![:warning:](/docs/.document360/assets/article_087/image_012.png)
+  Path: /docs/.document360/assets/article_087/image_012.png
+  Missing: article_087/image_012.png
+--------------------------------------------------------------------------------
+  Full match: ![desktop8c-16b92ffd180a62b07d2c539ddae88b2d.png](/docs/.document360/assets/article_087/image_013.jpg)
+  Path: /docs/.document360/assets/article_087/image_013.jpg
+  Missing: article_087/image_013.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Screenshot 2025-10-03 at 11.02.15.png](/docs/.document360/assets/article_087/image_014.jpg)
+  Path: /docs/.document360/assets/article_087/image_014.jpg
+  Missing: article_087/image_014.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Screenshot 2025-10-03 at 11.02.22.png](/docs/.document360/assets/article_087/image_015.jpg)
+  Path: /docs/.document360/assets/article_087/image_015.jpg
+  Missing: article_087/image_015.jpg
+--------------------------------------------------------------------------------
+  Full match: ![ts5-a3caad84eab39ec3591be18a04c35675.png](/docs/.document360/assets/article_087/image_016.jpg)
+  Path: /docs/.document360/assets/article_087/image_016.jpg
+  Missing: article_087/image_016.jpg
+--------------------------------------------------------------------------------
+
+File: Integrations\Integrate with the Lansweeper App for Jira Service Management Ticket Enrichment.md
+Broken links removed: 6
+
+  Full match: ![Lansweeper-App-Jira-Get.png](/docs/.document360/assets/article_092/image_002.jpg)
+  Path: /docs/.document360/assets/article_092/image_002.jpg
+  Missing: article_092/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![manage-apps.png](/docs/.document360/assets/article_092/image_003.jpg)
+  Path: /docs/.document360/assets/article_092/image_003.jpg
+  Missing: article_092/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![validate-and-save.png](/docs/.document360/assets/article_092/image_004.jpg)
+  Path: /docs/.document360/assets/article_092/image_004.jpg
+  Missing: article_092/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![asset-details.png](/docs/.document360/assets/article_092/image_006.jpg)
+  Path: /docs/.document360/assets/article_092/image_006.jpg
+  Missing: article_092/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![matches.png](/docs/.document360/assets/article_092/image_008.jpg)
+  Path: /docs/.document360/assets/article_092/image_008.jpg
+  Missing: article_092/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![selected.png](/docs/.document360/assets/article_092/image_009.jpg)
+  Path: /docs/.document360/assets/article_092/image_009.jpg
+  Missing: article_092/image_009.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Back up your installation.md
+Broken links removed: 9
+
+  Full match: ![procedure-checking-database-server.jpg](/docs/.document360/assets/article_093/image_002.jpg)
+  Path: /docs/.document360/assets/article_093/image_002.jpg
+  Missing: article_093/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-lansweeper-service.jpg](/docs/.document360/assets/article_093/image_003.jpg)
+  Path: /docs/.document360/assets/article_093/image_003.jpg
+  Missing: article_093/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_093/image_004.jpg)
+  Path: /docs/.document360/assets/article_093/image_004.jpg
+  Missing: article_093/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-lansweeper-service.jpg](/docs/.document360/assets/article_093/image_005.jpg)
+  Path: /docs/.document360/assets/article_093/image_005.jpg
+  Missing: article_093/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_093/image_006.jpg)
+  Path: /docs/.document360/assets/article_093/image_006.jpg
+  Missing: article_093/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![backing-up-your-installation-1.jpg](/docs/.document360/assets/article_093/image_007.jpg)
+  Path: /docs/.document360/assets/article_093/image_007.jpg
+  Missing: article_093/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![backing-up-your-installation-2.jpg](/docs/.document360/assets/article_093/image_008.jpg)
+  Path: /docs/.document360/assets/article_093/image_008.jpg
+  Missing: article_093/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![backing-up-your-installation-3.jpg](/docs/.document360/assets/article_093/image_009.jpg)
+  Path: /docs/.document360/assets/article_093/image_009.jpg
+  Missing: article_093/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![backing-up-your-installation-4.jpg](/docs/.document360/assets/article_093/image_010.jpg)
+  Path: /docs/.document360/assets/article_093/image_010.jpg
+  Missing: article_093/image_010.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Change the Lansweeper database password.md
+Broken links removed: 8
+
+  Full match: ![procedure-stopping-the-lansweeper-service.jpg](/docs/.document360/assets/article_094/image_001.jpg)
+  Path: /docs/.document360/assets/article_094/image_001.jpg
+  Missing: article_094/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_094/image_002.jpg)
+  Path: /docs/.document360/assets/article_094/image_002.jpg
+  Missing: article_094/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-the-lansweeper-database-password-1.jpg](/docs/.document360/assets/article_094/image_003.jpg)
+  Path: /docs/.document360/assets/article_094/image_003.jpg
+  Missing: article_094/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-the-lansweeper-database-password-2.jpg](/docs/.document360/assets/article_094/image_004.jpg)
+  Path: /docs/.document360/assets/article_094/image_004.jpg
+  Missing: article_094/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configeditor.jpg](/docs/.document360/assets/article_094/image_005.jpg)
+  Path: /docs/.document360/assets/article_094/image_005.jpg
+  Missing: article_094/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-service-password-change.jpg](/docs/.document360/assets/article_094/image_006.jpg)
+  Path: /docs/.document360/assets/article_094/image_006.jpg
+  Missing: article_094/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-website-password-change.jpg](/docs/.document360/assets/article_094/image_007.jpg)
+  Path: /docs/.document360/assets/article_094/image_007.jpg
+  Missing: article_094/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-starting-the-web-server-service.jpg](/docs/.document360/assets/article_094/image_008.jpg)
+  Path: /docs/.document360/assets/article_094/image_008.jpg
+  Missing: article_094/image_008.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Check for Lansweeper updates.md
+Broken links removed: 3
+
+  Full match: ![menu-configuration-your-lansweeper-license.jpg](/docs/.document360/assets/article_095/image_002.jpg)
+  Path: /docs/.document360/assets/article_095/image_002.jpg
+  Missing: article_095/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![checking-for-lansweeper-updates-1.jpg](/docs/.document360/assets/article_095/image_003.jpg)
+  Path: /docs/.document360/assets/article_095/image_003.jpg
+  Missing: article_095/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![checking-for-lansweeper-updates-2.jpg](/docs/.document360/assets/article_095/image_004.jpg)
+  Path: /docs/.document360/assets/article_095/image_004.jpg
+  Missing: article_095/image_004.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Connect to a SQL Compact database with SQL Compact Toolbox.md
+Broken links removed: 6
+
+  Full match: ![procedure-checking-database-server.jpg](/docs/.document360/assets/article_096/image_001.jpg)
+  Path: /docs/.document360/assets/article_096/image_001.jpg
+  Missing: article_096/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![connecting-to-a-sql-compact-database-with-sql-compact-toolbox-1.jpg](/docs/.document360/assets/article_096/image_002.jpg)
+  Path: /docs/.document360/assets/article_096/image_002.jpg
+  Missing: article_096/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![connecting-to-a-sql-compact-database-with-sql-compact-toolbox-2.jpg](/docs/.document360/assets/article_096/image_003.jpg)
+  Path: /docs/.document360/assets/article_096/image_003.jpg
+  Missing: article_096/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![connecting-to-a-sql-compact-database-with-sql-compact-toolbox-3.jpg](/docs/.document360/assets/article_096/image_004.jpg)
+  Path: /docs/.document360/assets/article_096/image_004.jpg
+  Missing: article_096/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![connecting-to-a-sql-compact-database-with-sql-compact-toolbox-4.jpg](/docs/.document360/assets/article_096/image_005.jpg)
+  Path: /docs/.document360/assets/article_096/image_005.jpg
+  Missing: article_096/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![connecting-to-a-sql-compact-database-with-sql-compact-toolbox-5.jpg](/docs/.document360/assets/article_096/image_006.jpg)
+  Path: /docs/.document360/assets/article_096/image_006.jpg
+  Missing: article_096/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Connect to SQL LocalDB using SQL Server Management Studio.md
+Broken links removed: 3
+
+  Full match: ![LocalDB_Server_Name.jpg](/docs/.document360/assets/article_097/image_002.jpg)
+  Path: /docs/.document360/assets/article_097/image_002.jpg
+  Missing: article_097/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![LocalDB_Windows_Authentication.jpg](/docs/.document360/assets/article_097/image_003.jpg)
+  Path: /docs/.document360/assets/article_097/image_003.jpg
+  Missing: article_097/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![LocalDB_SQL_Server_Authentication.jpg](/docs/.document360/assets/article_097/image_004.jpg)
+  Path: /docs/.document360/assets/article_097/image_004.jpg
+  Missing: article_097/image_004.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Convert a deprecated SQL Compact database.md
+Broken links removed: 12
+
+  Full match: ![procedure-stopping-the-lansweeper-service.jpg](/docs/.document360/assets/article_098/image_002.jpg)
+  Path: /docs/.document360/assets/article_098/image_002.jpg
+  Missing: article_098/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_098/image_003.jpg)
+  Path: /docs/.document360/assets/article_098/image_003.jpg
+  Missing: article_098/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![moving-your-database-from-sql-compact-to-sql-localdb-5.jpg](/docs/.document360/assets/article_098/image_004.jpg)
+  Path: /docs/.document360/assets/article_098/image_004.jpg
+  Missing: article_098/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-compacttoserver.jpg](/docs/.document360/assets/article_098/image_005.jpg)
+  Path: /docs/.document360/assets/article_098/image_005.jpg
+  Missing: article_098/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![moving-your-database-from-sql-compact-to-sql-localdb-4.jpg](/docs/.document360/assets/article_098/image_006.jpg)
+  Path: /docs/.document360/assets/article_098/image_006.jpg
+  Missing: article_098/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-starting-the-web-server-service.jpg](/docs/.document360/assets/article_098/image_007.jpg)
+  Path: /docs/.document360/assets/article_098/image_007.jpg
+  Missing: article_098/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-lansweeper-service.jpg](/docs/.document360/assets/article_098/image_008.jpg)
+  Path: /docs/.document360/assets/article_098/image_008.jpg
+  Missing: article_098/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_098/image_009.jpg)
+  Path: /docs/.document360/assets/article_098/image_009.jpg
+  Missing: article_098/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![moving-your-database-from-sql-compact-to-sql-localdb-5.jpg](/docs/.document360/assets/article_098/image_010.jpg)
+  Path: /docs/.document360/assets/article_098/image_010.jpg
+  Missing: article_098/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-compacttoserver.jpg](/docs/.document360/assets/article_098/image_011.jpg)
+  Path: /docs/.document360/assets/article_098/image_011.jpg
+  Missing: article_098/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![moving-your-database-from-sql-compact-to-sql-localdb-4.jpg](/docs/.document360/assets/article_098/image_012.jpg)
+  Path: /docs/.document360/assets/article_098/image_012.jpg
+  Missing: article_098/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-starting-the-web-server-service.jpg](/docs/.document360/assets/article_098/image_013.jpg)
+  Path: /docs/.document360/assets/article_098/image_013.jpg
+  Missing: article_098/image_013.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Disable IIS Express logging.md
+Broken links removed: 2
+
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_100/image_002.jpg)
+  Path: /docs/.document360/assets/article_100/image_002.jpg
+  Missing: article_100/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-starting-the-web-server-service.jpg](/docs/.document360/assets/article_100/image_003.jpg)
+  Path: /docs/.document360/assets/article_100/image_003.jpg
+  Missing: article_100/image_003.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Enable the Lansweeper scan server to auto-update.md
+Broken links removed: 3
+
+  Full match: ![auto-update.png](/docs/.document360/assets/article_101/image_002.jpg)
+  Path: /docs/.document360/assets/article_101/image_002.jpg
+  Missing: article_101/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![adab4590-6b63-4d67-8c35-4ca479f945cb.png](/docs/.document360/assets/article_101/image_003.jpg)
+  Path: /docs/.document360/assets/article_101/image_003.jpg
+  Missing: article_101/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![2b723303-26aa-425f-af93-9abab5dc55c8.png](/docs/.document360/assets/article_101/image_004.jpg)
+  Path: /docs/.document360/assets/article_101/image_004.jpg
+  Missing: article_101/image_004.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\How to use the ConfigEditor tool.md
+Broken links removed: 5
+
+  Full match: ![menu-configeditor.jpg](/docs/.document360/assets/article_102/image_001.jpg)
+  Path: /docs/.document360/assets/article_102/image_001.jpg
+  Missing: article_102/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configeditor-tabs.jpg](/docs/.document360/assets/article_102/image_002.jpg)
+  Path: /docs/.document360/assets/article_102/image_002.jpg
+  Missing: article_102/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configeditor-connectionstring.jpg](/docs/.document360/assets/article_102/image_003.jpg)
+  Path: /docs/.document360/assets/article_102/image_003.jpg
+  Missing: article_102/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configeditor-appsettings.jpg](/docs/.document360/assets/article_102/image_004.jpg)
+  Path: /docs/.document360/assets/article_102/image_004.jpg
+  Missing: article_102/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configeditor-buttons-save-configs.jpg](/docs/.document360/assets/article_102/image_005.jpg)
+  Path: /docs/.document360/assets/article_102/image_005.jpg
+  Missing: article_102/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Identify which database server Lansweeper is using.md
+Broken links removed: 6
+
+  Full match: ![identify-which-database-server-lansweeper-is-using-1.jpg](/docs/.document360/assets/article_103/image_001.jpg)
+  Path: /docs/.document360/assets/article_103/image_001.jpg
+  Missing: article_103/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![identify-which-database-server-lansweeper-is-using-2.jpg](/docs/.document360/assets/article_103/image_002.jpg)
+  Path: /docs/.document360/assets/article_103/image_002.jpg
+  Missing: article_103/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![identify-which-database-server-lansweeper-is-using-3.jpg](/docs/.document360/assets/article_103/image_003.jpg)
+  Path: /docs/.document360/assets/article_103/image_003.jpg
+  Missing: article_103/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![identify-which-database-server-lansweeper-is-using-4.jpg](/docs/.document360/assets/article_103/image_004.jpg)
+  Path: /docs/.document360/assets/article_103/image_004.jpg
+  Missing: article_103/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![identify-which-database-server-lansweeper-is-using-5.jpg](/docs/.document360/assets/article_103/image_005.jpg)
+  Path: /docs/.document360/assets/article_103/image_005.jpg
+  Missing: article_103/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![identify-which-database-server-lansweeper-is-using-6.jpg](/docs/.document360/assets/article_103/image_006.jpg)
+  Path: /docs/.document360/assets/article_103/image_006.jpg
+  Missing: article_103/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Impact of a Lansweeper migration on LsAgent scanning.md
+Broken links removed: 2
+
+  Full match: ![LsAgent_Migrate_Override.jpg](/docs/.document360/assets/article_104/image_002.jpg)
+  Path: /docs/.document360/assets/article_104/image_002.jpg
+  Missing: article_104/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![LsAgent_Migrate_Link.jpg](/docs/.document360/assets/article_104/image_003.jpg)
+  Path: /docs/.document360/assets/article_104/image_003.jpg
+  Missing: article_104/image_003.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Move your database from SQL Compact to SQL Server.md
+Broken links removed: 10
+
+  Full match: ![Moving-your-database-from-SQL-Compact-to-SQL-Server-1.jpg](/docs/.document360/assets/article_105/image_001.jpg)
+  Path: /docs/.document360/assets/article_105/image_001.jpg
+  Missing: article_105/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-Compact-to-SQL-Server-2.jpg](/docs/.document360/assets/article_105/image_002.jpg)
+  Path: /docs/.document360/assets/article_105/image_002.jpg
+  Missing: article_105/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-Compact-to-SQL-Server-3.jpg](/docs/.document360/assets/article_105/image_003.jpg)
+  Path: /docs/.document360/assets/article_105/image_003.jpg
+  Missing: article_105/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-Compact-to-SQL-Server-4.jpg](/docs/.document360/assets/article_105/image_004.jpg)
+  Path: /docs/.document360/assets/article_105/image_004.jpg
+  Missing: article_105/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-Compact-to-SQL-Server-5.jpg](/docs/.document360/assets/article_105/image_005.jpg)
+  Path: /docs/.document360/assets/article_105/image_005.jpg
+  Missing: article_105/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-Compact-to-SQL-Server-7.jpg](/docs/.document360/assets/article_105/image_006.jpg)
+  Path: /docs/.document360/assets/article_105/image_006.jpg
+  Missing: article_105/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-compacttoserver.jpg](/docs/.document360/assets/article_105/image_007.jpg)
+  Path: /docs/.document360/assets/article_105/image_007.jpg
+  Missing: article_105/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-Compact-to-SQL-Server-9.jpg](/docs/.document360/assets/article_105/image_008.jpg)
+  Path: /docs/.document360/assets/article_105/image_008.jpg
+  Missing: article_105/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-Compact-to-SQL-Server-10.jpg](/docs/.document360/assets/article_105/image_009.jpg)
+  Path: /docs/.document360/assets/article_105/image_009.jpg
+  Missing: article_105/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-Compact-to-SQL-Server-11.jpg](/docs/.document360/assets/article_105/image_010.jpg)
+  Path: /docs/.document360/assets/article_105/image_010.jpg
+  Missing: article_105/image_010.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Move your database from SQL LocalDB to SQL Server.md
+Broken links removed: 15
+
+  Full match: ![Moving-your-database-from-SQL-LocalDB-to-SQL-Server-1.jpg](/docs/.document360/assets/article_106/image_002.jpg)
+  Path: /docs/.document360/assets/article_106/image_002.jpg
+  Missing: article_106/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-lansweeper-service.jpg](/docs/.document360/assets/article_106/image_003.jpg)
+  Path: /docs/.document360/assets/article_106/image_003.jpg
+  Missing: article_106/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_106/image_004.jpg)
+  Path: /docs/.document360/assets/article_106/image_004.jpg
+  Missing: article_106/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-LocalDB-to-SQL-Server-2.jpg](/docs/.document360/assets/article_106/image_005.jpg)
+  Path: /docs/.document360/assets/article_106/image_005.jpg
+  Missing: article_106/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-LocalDB-to-SQL-Server-3.jpg](/docs/.document360/assets/article_106/image_006.jpg)
+  Path: /docs/.document360/assets/article_106/image_006.jpg
+  Missing: article_106/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-LocalDB-to-SQL-Server-4.jpg](/docs/.document360/assets/article_106/image_007.jpg)
+  Path: /docs/.document360/assets/article_106/image_007.jpg
+  Missing: article_106/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-LocalDB-to-SQL-Server-10.jpg](/docs/.document360/assets/article_106/image_008.jpg)
+  Path: /docs/.document360/assets/article_106/image_008.jpg
+  Missing: article_106/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-LocalDB-to-SQL-Server-6.jpg](/docs/.document360/assets/article_106/image_009.jpg)
+  Path: /docs/.document360/assets/article_106/image_009.jpg
+  Missing: article_106/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-LocalDB-to-SQL-Server-7.jpg](/docs/.document360/assets/article_106/image_010.jpg)
+  Path: /docs/.document360/assets/article_106/image_010.jpg
+  Missing: article_106/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-LocalDB-to-SQL-Server-9.jpg](/docs/.document360/assets/article_106/image_011.jpg)
+  Path: /docs/.document360/assets/article_106/image_011.jpg
+  Missing: article_106/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-from-SQL-LocalDB-to-SQL-Server-8.jpg](/docs/.document360/assets/article_106/image_012.jpg)
+  Path: /docs/.document360/assets/article_106/image_012.jpg
+  Missing: article_106/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configeditor.jpg](/docs/.document360/assets/article_106/image_013.jpg)
+  Path: /docs/.document360/assets/article_106/image_013.jpg
+  Missing: article_106/image_013.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-service-password-change.jpg](/docs/.document360/assets/article_106/image_014.jpg)
+  Path: /docs/.document360/assets/article_106/image_014.jpg
+  Missing: article_106/image_014.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-website-password-change.jpg](/docs/.document360/assets/article_106/image_015.jpg)
+  Path: /docs/.document360/assets/article_106/image_015.jpg
+  Missing: article_106/image_015.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-save-and-restart.jpg](/docs/.document360/assets/article_106/image_016.jpg)
+  Path: /docs/.document360/assets/article_106/image_016.jpg
+  Missing: article_106/image_016.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Move your Lansweeper installation to a different server.md
+Broken links removed: 4
+
+  Full match: ![Move your Lansweeper installation.png](/docs/.document360/assets/article_107/image_002.jpg)
+  Path: /docs/.document360/assets/article_107/image_002.jpg
+  Missing: article_107/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure_performing_an-advanced-install-all-components.jpg](/docs/.document360/assets/article_107/image_003.jpg)
+  Path: /docs/.document360/assets/article_107/image_003.jpg
+  Missing: article_107/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-asset-pages.jpg](/docs/.document360/assets/article_107/image_004.jpg)
+  Path: /docs/.document360/assets/article_107/image_004.jpg
+  Missing: article_107/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-databasemaintenance.jpg](/docs/.document360/assets/article_107/image_005.jpg)
+  Path: /docs/.document360/assets/article_107/image_005.jpg
+  Missing: article_107/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Move your SQL Server database to a different server or SQL Server instance.md
+Broken links removed: 11
+
+  Full match: ![procedure-stopping-the-lansweeper-service.jpg](/docs/.document360/assets/article_108/image_001.jpg)
+  Path: /docs/.document360/assets/article_108/image_001.jpg
+  Missing: article_108/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_108/image_002.jpg)
+  Path: /docs/.document360/assets/article_108/image_002.jpg
+  Missing: article_108/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-to-a-different-server-2.jpg](/docs/.document360/assets/article_108/image_003.jpg)
+  Path: /docs/.document360/assets/article_108/image_003.jpg
+  Missing: article_108/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-to-a-different-server-3.jpg](/docs/.document360/assets/article_108/image_004.jpg)
+  Path: /docs/.document360/assets/article_108/image_004.jpg
+  Missing: article_108/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-to-a-different-server-4.jpg](/docs/.document360/assets/article_108/image_005.jpg)
+  Path: /docs/.document360/assets/article_108/image_005.jpg
+  Missing: article_108/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-to-a-different-server-5.jpg](/docs/.document360/assets/article_108/image_006.jpg)
+  Path: /docs/.document360/assets/article_108/image_006.jpg
+  Missing: article_108/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Moving-your-database-to-a-different-server-6.jpg](/docs/.document360/assets/article_108/image_007.jpg)
+  Path: /docs/.document360/assets/article_108/image_007.jpg
+  Missing: article_108/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configeditor.jpg](/docs/.document360/assets/article_108/image_008.jpg)
+  Path: /docs/.document360/assets/article_108/image_008.jpg
+  Missing: article_108/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-service-password-change.jpg](/docs/.document360/assets/article_108/image_009.jpg)
+  Path: /docs/.document360/assets/article_108/image_009.jpg
+  Missing: article_108/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-website-password-change.jpg](/docs/.document360/assets/article_108/image_010.jpg)
+  Path: /docs/.document360/assets/article_108/image_010.jpg
+  Missing: article_108/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-save-and-restart.jpg](/docs/.document360/assets/article_108/image_011.jpg)
+  Path: /docs/.document360/assets/article_108/image_011.jpg
+  Missing: article_108/image_011.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Perform automated database cleanups.md
+Broken links removed: 8
+
+  Full match: ![Automated database cleanups 1.png](/docs/.document360/assets/article_109/image_002.jpg)
+  Path: /docs/.document360/assets/article_109/image_002.jpg
+  Missing: article_109/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![performing-automated-database-cleanups-1.jpg](/docs/.document360/assets/article_109/image_003.jpg)
+  Path: /docs/.document360/assets/article_109/image_003.jpg
+  Missing: article_109/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![performing-automated-database-cleanups-2.jpg](/docs/.document360/assets/article_109/image_004.jpg)
+  Path: /docs/.document360/assets/article_109/image_004.jpg
+  Missing: article_109/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![performing-automated-database-cleanups-3.jpg](/docs/.document360/assets/article_109/image_005.jpg)
+  Path: /docs/.document360/assets/article_109/image_005.jpg
+  Missing: article_109/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-server-log.jpg](/docs/.document360/assets/article_109/image_006.jpg)
+  Path: /docs/.document360/assets/article_109/image_006.jpg
+  Missing: article_109/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![performing-automated-database-cleanups-4.jpg](/docs/.document360/assets/article_109/image_007.jpg)
+  Path: /docs/.document360/assets/article_109/image_007.jpg
+  Missing: article_109/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![performing-automated-database-cleanups-5.jpg](/docs/.document360/assets/article_109/image_008.jpg)
+  Path: /docs/.document360/assets/article_109/image_008.jpg
+  Missing: article_109/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Automated database cleanups 2.png](/docs/.document360/assets/article_109/image_009.jpg)
+  Path: /docs/.document360/assets/article_109/image_009.jpg
+  Missing: article_109/image_009.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Restore your installation from a backup.md
+Broken links removed: 13
+
+  Full match: ![procedure-checking-database-server.jpg](/docs/.document360/assets/article_110/image_002.jpg)
+  Path: /docs/.document360/assets/article_110/image_002.jpg
+  Missing: article_110/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-lansweeper-service.jpg](/docs/.document360/assets/article_110/image_003.jpg)
+  Path: /docs/.document360/assets/article_110/image_003.jpg
+  Missing: article_110/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Restore your installation 1.png](/docs/.document360/assets/article_110/image_004.jpg)
+  Path: /docs/.document360/assets/article_110/image_004.jpg
+  Missing: article_110/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_110/image_005.jpg)
+  Path: /docs/.document360/assets/article_110/image_005.jpg
+  Missing: article_110/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-lansweeper-service.jpg](/docs/.document360/assets/article_110/image_006.jpg)
+  Path: /docs/.document360/assets/article_110/image_006.jpg
+  Missing: article_110/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Restore your installation 1.png](/docs/.document360/assets/article_110/image_007.jpg)
+  Path: /docs/.document360/assets/article_110/image_007.jpg
+  Missing: article_110/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_110/image_008.jpg)
+  Path: /docs/.document360/assets/article_110/image_008.jpg
+  Missing: article_110/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![restoring-your-installation-from-a-backup-1.jpg](/docs/.document360/assets/article_110/image_009.jpg)
+  Path: /docs/.document360/assets/article_110/image_009.jpg
+  Missing: article_110/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![restoring-your-installation-from-a-backup-2.jpg](/docs/.document360/assets/article_110/image_010.jpg)
+  Path: /docs/.document360/assets/article_110/image_010.jpg
+  Missing: article_110/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![restoring-your-installation-from-a-backup-3.jpg](/docs/.document360/assets/article_110/image_011.jpg)
+  Path: /docs/.document360/assets/article_110/image_011.jpg
+  Missing: article_110/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configeditor.jpg](/docs/.document360/assets/article_110/image_012.jpg)
+  Path: /docs/.document360/assets/article_110/image_012.jpg
+  Missing: article_110/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-service-password-change.jpg](/docs/.document360/assets/article_110/image_013.jpg)
+  Path: /docs/.document360/assets/article_110/image_013.jpg
+  Missing: article_110/image_013.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-configeditor-website-password-change.jpg](/docs/.document360/assets/article_110/image_014.jpg)
+  Path: /docs/.document360/assets/article_110/image_014.jpg
+  Missing: article_110/image_014.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Update Lansweeper On-premises.md
+Broken links removed: 5
+
+  Full match: ![updating-your-installation-1.jpg](/docs/.document360/assets/article_111/image_002.jpg)
+  Path: /docs/.document360/assets/article_111/image_002.jpg
+  Missing: article_111/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![updating-your-installation-5.jpg](/docs/.document360/assets/article_111/image_003.jpg)
+  Path: /docs/.document360/assets/article_111/image_003.jpg
+  Missing: article_111/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-accepting-license-agreement-radiobutton.jpg](/docs/.document360/assets/article_111/image_004.jpg)
+  Path: /docs/.document360/assets/article_111/image_004.jpg
+  Missing: article_111/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Updating your LS scan server 4.png](/docs/.document360/assets/article_111/image_005.jpg)
+  Path: /docs/.document360/assets/article_111/image_005.jpg
+  Missing: article_111/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Updating your LS scan server 5.png](/docs/.document360/assets/article_111/image_006.jpg)
+  Path: /docs/.document360/assets/article_111/image_006.jpg
+  Missing: article_111/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Ot\OT components and architecture.md
+Broken links removed: 4
+
+  Full match: ![sophie_0-1681926321446.png](/docs/.document360/assets/article_117/image_002.jpg)
+  Path: /docs/.document360/assets/article_117/image_002.jpg
+  Missing: article_117/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_0-1683036125126.png](/docs/.document360/assets/article_117/image_003.jpg)
+  Path: /docs/.document360/assets/article_117/image_003.jpg
+  Missing: article_117/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![sophie_1-1683036175193.png](/docs/.document360/assets/article_117/image_004.jpg)
+  Path: /docs/.document360/assets/article_117/image_004.jpg
+  Missing: article_117/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![OT-Asset-Info.png](/docs/.document360/assets/article_117/image_005.jpg)
+  Path: /docs/.document360/assets/article_117/image_005.jpg
+  Missing: article_117/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Lansweeper Ot\Scan your OT.md
+Broken links removed: 5
+
+  Full match: ![add-scan-target.png](/docs/.document360/assets/article_120/image_002.jpg)
+  Path: /docs/.document360/assets/article_120/image_002.jpg
+  Missing: article_120/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Scan your OT 1.png](/docs/.document360/assets/article_120/image_003.jpg)
+  Path: /docs/.document360/assets/article_120/image_003.jpg
+  Missing: article_120/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Scan your OT 2.png](/docs/.document360/assets/article_120/image_004.jpg)
+  Path: /docs/.document360/assets/article_120/image_004.jpg
+  Missing: article_120/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Scan your OT 1.png](/docs/.document360/assets/article_120/image_005.jpg)
+  Path: /docs/.document360/assets/article_120/image_005.jpg
+  Missing: article_120/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![Scan your OT 2.png](/docs/.document360/assets/article_120/image_006.jpg)
+  Path: /docs/.document360/assets/article_120/image_006.jpg
+  Missing: article_120/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Add comments to assets.md
+Broken links removed: 1
+
+  Full match: ![adding-comments-to-assets-1.jpg](/docs/.document360/assets/article_122/image_001.jpg)
+  Path: /docs/.document360/assets/article_122/image_001.jpg
+  Missing: article_122/image_001.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Add documents to assets.md
+Broken links removed: 2
+
+  Full match: ![adding-documents-to-assets-1.jpg](/docs/.document360/assets/article_123/image_001.jpg)
+  Path: /docs/.document360/assets/article_123/image_001.jpg
+  Missing: article_123/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![adding-documents-to-assets-2.jpg](/docs/.document360/assets/article_123/image_002.jpg)
+  Path: /docs/.document360/assets/article_123/image_002.jpg
+  Missing: article_123/image_002.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Add manufacturer support links.md
+Broken links removed: 4
+
+  Full match: ![adding-manufacturer-support-links-1.jpg](/docs/.document360/assets/article_124/image_001.jpg)
+  Path: /docs/.document360/assets/article_124/image_001.jpg
+  Missing: article_124/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-asset-pages.jpg](/docs/.document360/assets/article_124/image_002.jpg)
+  Path: /docs/.document360/assets/article_124/image_002.jpg
+  Missing: article_124/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![adding-manufacturer-support-links-2.jpg](/docs/.document360/assets/article_124/image_003.jpg)
+  Path: /docs/.document360/assets/article_124/image_003.jpg
+  Missing: article_124/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![adding-manufacturer-support-links-3.jpg](/docs/.document360/assets/article_124/image_004.jpg)
+  Path: /docs/.document360/assets/article_124/image_004.jpg
+  Missing: article_124/image_004.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Change an asset's asset type.md
+Broken links removed: 8
+
+  Full match: ![changing-an-assets-asset-type-1.jpg](/docs/.document360/assets/article_125/image_001.jpg)
+  Path: /docs/.document360/assets/article_125/image_001.jpg
+  Missing: article_125/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-an-assets-asset-type-2.jpg](/docs/.document360/assets/article_125/image_002.jpg)
+  Path: /docs/.document360/assets/article_125/image_002.jpg
+  Missing: article_125/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-an-assets-asset-type-3.jpg](/docs/.document360/assets/article_125/image_003.jpg)
+  Path: /docs/.document360/assets/article_125/image_003.jpg
+  Missing: article_125/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-an-assets-asset-type-4.jpg](/docs/.document360/assets/article_125/image_004.jpg)
+  Path: /docs/.document360/assets/article_125/image_004.jpg
+  Missing: article_125/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-asset-mapping.jpg](/docs/.document360/assets/article_125/image_005.jpg)
+  Path: /docs/.document360/assets/article_125/image_005.jpg
+  Missing: article_125/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-an-assets-asset-type-5.jpg](/docs/.document360/assets/article_125/image_006.jpg)
+  Path: /docs/.document360/assets/article_125/image_006.jpg
+  Missing: article_125/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-an-assets-asset-type-6.jpg](/docs/.document360/assets/article_125/image_007.jpg)
+  Path: /docs/.document360/assets/article_125/image_007.jpg
+  Missing: article_125/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![changing-an-assets-asset-type-7.jpg](/docs/.document360/assets/article_125/image_008.jpg)
+  Path: /docs/.document360/assets/article_125/image_008.jpg
+  Missing: article_125/image_008.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Configure and add data to asset custom fields.md
+Broken links removed: 9
+
+  Full match: ![configuring-and-adding-data-to-asset-custom-fields-1.jpg](/docs/.document360/assets/article_126/image_001.jpg)
+  Path: /docs/.document360/assets/article_126/image_001.jpg
+  Missing: article_126/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-asset-pages.jpg](/docs/.document360/assets/article_126/image_002.jpg)
+  Path: /docs/.document360/assets/article_126/image_002.jpg
+  Missing: article_126/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-adding-data-to-asset-custom-fields-2.jpg](/docs/.document360/assets/article_126/image_003.jpg)
+  Path: /docs/.document360/assets/article_126/image_003.jpg
+  Missing: article_126/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-adding-data-to-asset-custom-fields-3.jpg](/docs/.document360/assets/article_126/image_004.jpg)
+  Path: /docs/.document360/assets/article_126/image_004.jpg
+  Missing: article_126/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-adding-data-to-asset-custom-fields-4.jpg](/docs/.document360/assets/article_126/image_005.jpg)
+  Path: /docs/.document360/assets/article_126/image_005.jpg
+  Missing: article_126/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-adding-data-to-asset-custom-fields-5.jpg](/docs/.document360/assets/article_126/image_006.jpg)
+  Path: /docs/.document360/assets/article_126/image_006.jpg
+  Missing: article_126/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-adding-data-to-asset-custom-fields-6.jpg](/docs/.document360/assets/article_126/image_007.jpg)
+  Path: /docs/.document360/assets/article_126/image_007.jpg
+  Missing: article_126/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-adding-data-to-asset-custom-fields-7.jpg](/docs/.document360/assets/article_126/image_008.jpg)
+  Path: /docs/.document360/assets/article_126/image_008.jpg
+  Missing: article_126/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![configuring-and-adding-data-to-asset-custom-fields-8.jpg](/docs/.document360/assets/article_126/image_009.jpg)
+  Path: /docs/.document360/assets/article_126/image_009.jpg
+  Missing: article_126/image_009.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Create asset relation types.md
+Broken links removed: 3
+
+  Full match: ![menu-configuration-relational-mapping.jpg](/docs/.document360/assets/article_127/image_001.jpg)
+  Path: /docs/.document360/assets/article_127/image_001.jpg
+  Missing: article_127/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-asset-relation-types-1.jpg](/docs/.document360/assets/article_127/image_002.jpg)
+  Path: /docs/.document360/assets/article_127/image_002.jpg
+  Missing: article_127/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-asset-relation-types-2.jpg](/docs/.document360/assets/article_127/image_003.jpg)
+  Path: /docs/.document360/assets/article_127/image_003.jpg
+  Missing: article_127/image_003.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Create asset types.md
+Broken links removed: 4
+
+  Full match: ![menu-configuration-asset-mapping.jpg](/docs/.document360/assets/article_128/image_001.jpg)
+  Path: /docs/.document360/assets/article_128/image_001.jpg
+  Missing: article_128/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-asset-types-1.jpg](/docs/.document360/assets/article_128/image_002.jpg)
+  Path: /docs/.document360/assets/article_128/image_002.jpg
+  Missing: article_128/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-asset-types-3.jpg](/docs/.document360/assets/article_128/image_003.jpg)
+  Path: /docs/.document360/assets/article_128/image_003.jpg
+  Missing: article_128/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-asset-types-4.jpg](/docs/.document360/assets/article_128/image_004.jpg)
+  Path: /docs/.document360/assets/article_128/image_004.jpg
+  Missing: article_128/image_004.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Create, use and change asset states.md
+Broken links removed: 7
+
+  Full match: ![creating-using-and-changing-asset-states-1.jpg](/docs/.document360/assets/article_129/image_002.jpg)
+  Path: /docs/.document360/assets/article_129/image_002.jpg
+  Missing: article_129/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-asset-pages.jpg](/docs/.document360/assets/article_129/image_003.jpg)
+  Path: /docs/.document360/assets/article_129/image_003.jpg
+  Missing: article_129/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-using-and-changing-asset-states-2.jpg](/docs/.document360/assets/article_129/image_004.jpg)
+  Path: /docs/.document360/assets/article_129/image_004.jpg
+  Missing: article_129/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-using-and-changing-asset-states-3.jpg](/docs/.document360/assets/article_129/image_005.jpg)
+  Path: /docs/.document360/assets/article_129/image_005.jpg
+  Missing: article_129/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-using-and-changing-asset-states-5.jpg](/docs/.document360/assets/article_129/image_006.jpg)
+  Path: /docs/.document360/assets/article_129/image_006.jpg
+  Missing: article_129/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-using-and-changing-asset-states-7.jpg](/docs/.document360/assets/article_129/image_007.jpg)
+  Path: /docs/.document360/assets/article_129/image_007.jpg
+  Missing: article_129/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![creating-using-and-changing-asset-states-8.jpg](/docs/.document360/assets/article_129/image_008.jpg)
+  Path: /docs/.document360/assets/article_129/image_008.jpg
+  Missing: article_129/image_008.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Delete assets.md
+Broken links removed: 5
+
+  Full match: ![menu-configuration-server-options.jpg](/docs/.document360/assets/article_130/image_002.jpg)
+  Path: /docs/.document360/assets/article_130/image_002.jpg
+  Missing: article_130/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-clicking-assets-link.jpg](/docs/.document360/assets/article_130/image_003.jpg)
+  Path: /docs/.document360/assets/article_130/image_003.jpg
+  Missing: article_130/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![deleting-assets-1.jpg](/docs/.document360/assets/article_130/image_004.jpg)
+  Path: /docs/.document360/assets/article_130/image_004.jpg
+  Missing: article_130/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![deleting-assets-2.jpg](/docs/.document360/assets/article_130/image_005.jpg)
+  Path: /docs/.document360/assets/article_130/image_005.jpg
+  Missing: article_130/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![deleting-assets-3.jpg](/docs/.document360/assets/article_130/image_006.jpg)
+  Path: /docs/.document360/assets/article_130/image_006.jpg
+  Missing: article_130/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Generate QR codes.md
+Broken links removed: 8
+
+  Full match: ![generating-qr-codes-1.jpg](/docs/.document360/assets/article_131/image_001.jpg)
+  Path: /docs/.document360/assets/article_131/image_001.jpg
+  Missing: article_131/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![generating-qr-codes-2.jpg](/docs/.document360/assets/article_131/image_002.jpg)
+  Path: /docs/.document360/assets/article_131/image_002.jpg
+  Missing: article_131/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-asset-pages.jpg](/docs/.document360/assets/article_131/image_003.jpg)
+  Path: /docs/.document360/assets/article_131/image_003.jpg
+  Missing: article_131/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![generating-qr-codes-3.jpg](/docs/.document360/assets/article_131/image_004.jpg)
+  Path: /docs/.document360/assets/article_131/image_004.jpg
+  Missing: article_131/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-clicking-assets-link.jpg](/docs/.document360/assets/article_131/image_005.jpg)
+  Path: /docs/.document360/assets/article_131/image_005.jpg
+  Missing: article_131/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![generating-qr-codes-4.jpg](/docs/.document360/assets/article_131/image_006.jpg)
+  Path: /docs/.document360/assets/article_131/image_006.jpg
+  Missing: article_131/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![generating-qr-codes-6.jpg](/docs/.document360/assets/article_131/image_007.jpg)
+  Path: /docs/.document360/assets/article_131/image_007.jpg
+  Missing: article_131/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![generating-qr-codes-5.jpg](/docs/.document360/assets/article_131/image_008.jpg)
+  Path: /docs/.document360/assets/article_131/image_008.jpg
+  Missing: article_131/image_008.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Grouping assets.md
+Broken links removed: 5
+
+  Full match: ![grouping-assets-1.jpg](/docs/.document360/assets/article_132/image_001.jpg)
+  Path: /docs/.document360/assets/article_132/image_001.jpg
+  Missing: article_132/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-configuration-asset-groups.jpg](/docs/.document360/assets/article_132/image_002.jpg)
+  Path: /docs/.document360/assets/article_132/image_002.jpg
+  Missing: article_132/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![grouping-assets-5.jpg](/docs/.document360/assets/article_132/image_003.jpg)
+  Path: /docs/.document360/assets/article_132/image_003.jpg
+  Missing: article_132/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![grouping-assets-3.jpg](/docs/.document360/assets/article_132/image_004.jpg)
+  Path: /docs/.document360/assets/article_132/image_004.jpg
+  Missing: article_132/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![grouping-assets-4.jpg](/docs/.document360/assets/article_132/image_005.jpg)
+  Path: /docs/.document360/assets/article_132/image_005.jpg
+  Missing: article_132/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Import assets from a CSV file.md
+Broken links removed: 5
+
+  Full match: ![menu-assets-import-assets.jpg](/docs/.document360/assets/article_133/image_001.jpg)
+  Path: /docs/.document360/assets/article_133/image_001.jpg
+  Missing: article_133/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![importing-assets-1.jpg](/docs/.document360/assets/article_133/image_002.jpg)
+  Path: /docs/.document360/assets/article_133/image_002.jpg
+  Missing: article_133/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![importing-assets-2.jpg](/docs/.document360/assets/article_133/image_003.jpg)
+  Path: /docs/.document360/assets/article_133/image_003.jpg
+  Missing: article_133/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![importing-assets-3.jpg](/docs/.document360/assets/article_133/image_004.jpg)
+  Path: /docs/.document360/assets/article_133/image_004.jpg
+  Missing: article_133/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![importing-assets-4.jpg](/docs/.document360/assets/article_133/image_005.jpg)
+  Path: /docs/.document360/assets/article_133/image_005.jpg
+  Missing: article_133/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Link assets to other assets or users.md
+Broken links removed: 7
+
+  Full match: ![linking-assets-to-other-assets-or-users-1.jpg](/docs/.document360/assets/article_134/image_001.jpg)
+  Path: /docs/.document360/assets/article_134/image_001.jpg
+  Missing: article_134/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![linking-assets-to-other-assets-or-users-2.jpg](/docs/.document360/assets/article_134/image_002.jpg)
+  Path: /docs/.document360/assets/article_134/image_002.jpg
+  Missing: article_134/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![linking-assets-to-other-assets-or-users-3.jpg](/docs/.document360/assets/article_134/image_003.jpg)
+  Path: /docs/.document360/assets/article_134/image_003.jpg
+  Missing: article_134/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![procedure-clicking-assets-link.jpg](/docs/.document360/assets/article_134/image_004.jpg)
+  Path: /docs/.document360/assets/article_134/image_004.jpg
+  Missing: article_134/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![linking-assets-to-other-assets-or-users-4.jpg](/docs/.document360/assets/article_134/image_005.jpg)
+  Path: /docs/.document360/assets/article_134/image_005.jpg
+  Missing: article_134/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![linking-assets-to-other-assets-or-users-5.jpg](/docs/.document360/assets/article_134/image_006.jpg)
+  Path: /docs/.document360/assets/article_134/image_006.jpg
+  Missing: article_134/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![linking-assets-to-other-assets-or-users-6.jpg](/docs/.document360/assets/article_134/image_007.jpg)
+  Path: /docs/.document360/assets/article_134/image_007.jpg
+  Missing: article_134/image_007.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Online status indicator.md
+Broken links removed: 6
+
+  Full match: ![online-status-indicator-1.jpg](/docs/.document360/assets/article_136/image_001.jpg)
+  Path: /docs/.document360/assets/article_136/image_001.jpg
+  Missing: article_136/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![online-status-indicator-2.jpg](/docs/.document360/assets/article_136/image_002.jpg)
+  Path: /docs/.document360/assets/article_136/image_002.jpg
+  Missing: article_136/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![online-status-indicator-3.jpg](/docs/.document360/assets/article_136/image_003.jpg)
+  Path: /docs/.document360/assets/article_136/image_003.jpg
+  Missing: article_136/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![online-status-indicator-4.jpg](/docs/.document360/assets/article_136/image_004.jpg)
+  Path: /docs/.document360/assets/article_136/image_004.jpg
+  Missing: article_136/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![online-status-indicator-5.jpg](/docs/.document360/assets/article_136/image_005.jpg)
+  Path: /docs/.document360/assets/article_136/image_005.jpg
+  Missing: article_136/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![online-status-indicator-6.jpg](/docs/.document360/assets/article_136/image_006.jpg)
+  Path: /docs/.document360/assets/article_136/image_006.jpg
+  Missing: article_136/image_006.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Place assets on a map.md
+Broken links removed: 5
+
+  Full match: ![menu-assets-new-location.jpg](/docs/.document360/assets/article_137/image_001.jpg)
+  Path: /docs/.document360/assets/article_137/image_001.jpg
+  Missing: article_137/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![placing-assets-on-a-map-1.jpg](/docs/.document360/assets/article_137/image_002.jpg)
+  Path: /docs/.document360/assets/article_137/image_002.jpg
+  Missing: article_137/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![placing-assets-on-a-map-2.jpg](/docs/.document360/assets/article_137/image_003.jpg)
+  Path: /docs/.document360/assets/article_137/image_003.jpg
+  Missing: article_137/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![placing-assets-on-a-map-3.jpg](/docs/.document360/assets/article_137/image_004.jpg)
+  Path: /docs/.document360/assets/article_137/image_004.jpg
+  Missing: article_137/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![placing-assets-on-a-map-4.jpg](/docs/.document360/assets/article_137/image_005.jpg)
+  Path: /docs/.document360/assets/article_137/image_005.jpg
+  Missing: article_137/image_005.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Search through assets with the web console search bar.md
+Broken links removed: 21
+
+  Full match: ![searching-through-assets-with-the-web-console-search-bar-1.jpg](/docs/.document360/assets/article_138/image_001.jpg)
+  Path: /docs/.document360/assets/article_138/image_001.jpg
+  Missing: article_138/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-windows.png](/docs/.document360/assets/article_138/image_002.jpg)
+  Path: /docs/.document360/assets/article_138/image_002.jpg
+  Missing: article_138/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-linux.png](/docs/.document360/assets/article_138/image_003.jpg)
+  Path: /docs/.document360/assets/article_138/image_003.jpg
+  Missing: article_138/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-mac.png](/docs/.document360/assets/article_138/image_004.jpg)
+  Path: /docs/.document360/assets/article_138/image_004.jpg
+  Missing: article_138/image_004.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-windows.png](/docs/.document360/assets/article_138/image_005.jpg)
+  Path: /docs/.document360/assets/article_138/image_005.jpg
+  Missing: article_138/image_005.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-linux.png](/docs/.document360/assets/article_138/image_006.jpg)
+  Path: /docs/.document360/assets/article_138/image_006.jpg
+  Missing: article_138/image_006.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-mac.png](/docs/.document360/assets/article_138/image_007.jpg)
+  Path: /docs/.document360/assets/article_138/image_007.jpg
+  Missing: article_138/image_007.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-domain-workgroup.gif](/docs/.document360/assets/article_138/image_008.jpg)
+  Path: /docs/.document360/assets/article_138/image_008.jpg
+  Missing: article_138/image_008.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-ip-address.png](/docs/.document360/assets/article_138/image_009.jpg)
+  Path: /docs/.document360/assets/article_138/image_009.jpg
+  Missing: article_138/image_009.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-mac-address.png](/docs/.document360/assets/article_138/image_010.jpg)
+  Path: /docs/.document360/assets/article_138/image_010.jpg
+  Missing: article_138/image_010.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-barcode.png](/docs/.document360/assets/article_138/image_011.jpg)
+  Path: /docs/.document360/assets/article_138/image_011.jpg
+  Missing: article_138/image_011.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-custom-field.png](/docs/.document360/assets/article_138/image_012.jpg)
+  Path: /docs/.document360/assets/article_138/image_012.jpg
+  Missing: article_138/image_012.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-order-number.png](/docs/.document360/assets/article_138/image_013.jpg)
+  Path: /docs/.document360/assets/article_138/image_013.jpg
+  Missing: article_138/image_013.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-serial-number.png](/docs/.document360/assets/article_138/image_014.jpg)
+  Path: /docs/.document360/assets/article_138/image_014.jpg
+  Missing: article_138/image_014.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-smbiosassettag.png](/docs/.document360/assets/article_138/image_015.jpg)
+  Path: /docs/.document360/assets/article_138/image_015.jpg
+  Missing: article_138/image_015.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-ou-computer.gif](/docs/.document360/assets/article_138/image_016.jpg)
+  Path: /docs/.document360/assets/article_138/image_016.jpg
+  Missing: article_138/image_016.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-ou-user.png](/docs/.document360/assets/article_138/image_017.jpg)
+  Path: /docs/.document360/assets/article_138/image_017.jpg
+  Missing: article_138/image_017.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-username.jpg](/docs/.document360/assets/article_138/image_018.jpg)
+  Path: /docs/.document360/assets/article_138/image_018.jpg
+  Missing: article_138/image_018.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-software-windows.png](/docs/.document360/assets/article_138/image_019.jpg)
+  Path: /docs/.document360/assets/article_138/image_019.jpg
+  Missing: article_138/image_019.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-software-non-windows.png](/docs/.document360/assets/article_138/image_020.jpg)
+  Path: /docs/.document360/assets/article_138/image_020.jpg
+  Missing: article_138/image_020.jpg
+--------------------------------------------------------------------------------
+  Full match: ![search-report.png](/docs/.document360/assets/article_138/image_021.jpg)
+  Path: /docs/.document360/assets/article_138/image_021.jpg
+  Missing: article_138/image_021.jpg
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Track software, memory and other changes on Windows computers.md
+Broken links removed: 4
+
+  Full match: ![menu-scanning-scanned-item-interval.jpg](/docs/.document360/assets/article_139/image_001.jpg)
+  Path: /docs/.document360/assets/article_139/image_001.jpg
+  Missing: article_139/image_001.jpg
+--------------------------------------------------------------------------------
+  Full match: ![tracking-software-memory-and-other-changes-on-windows-computers-1.jpg](/docs/.document360/assets/article_139/image_002.jpg)
+  Path: /docs/.document360/assets/article_139/image_002.jpg
+  Missing: article_139/image_002.jpg
+--------------------------------------------------------------------------------
+  Full match: ![tracking-software-memory-and-other-changes-on-windows-computers-2.jpg](/docs/.document360/assets/article_139/image_003.jpg)
+  Path: /docs/.document360/assets/article_139/image_003.jpg
+  Missing: article_139/image_003.jpg
+--------------------------------------------------------------------------------
+  Full match: ![menu-reports-changes-by-type.jpg](/docs/.document360/assets/article_139/image_004.jpg)
+  Path: /docs/.document360/assets/article_139/image_004.jpg
+  Missing: article_139/image_004.jpg
 --------------------------------------------------------------------------------
 
 
 SUMMARY
 ================================================================================
-Files modified: 10
-Total broken links removed: 44
+Files modified: 56
+Total broken links removed: 365
