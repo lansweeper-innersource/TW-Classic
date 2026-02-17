@@ -1,5 +1,4 @@
 <!-- # Event ID 5605 generated during scanning -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_284/image_001.jpg) **This page explains that when using Lansweeper, you may see event ID 5605 entries in the Event Viewer of some client machines. These can be ignored.**
 
 When you've installed Lansweeper and start scanning your network, you may start seeing event ID 5605 entries in the Event Viewer of some of your client machines. These events are caused by a bug in Windows and can be ignored.
 

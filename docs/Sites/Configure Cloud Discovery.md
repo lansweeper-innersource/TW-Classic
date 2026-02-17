@@ -1,5 +1,4 @@
 <!-- # Configure Cloud Discovery -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_320/image_001.jpg) **This page describes how to configure Cloud Discovery from your Lansweeper Site for Microsoft Azure, Amazon Web Services, and Google Cloud Platform.**
 
 Lansweeper’s Cloud Discovery identifies and catalogs all assets within your cloud infrastructure, including virtual machines, storage buckets, databases, and more.
 

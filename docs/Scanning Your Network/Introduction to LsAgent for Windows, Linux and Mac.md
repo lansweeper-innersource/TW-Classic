@@ -1,5 +1,4 @@
 <!-- # Introduction to LsAgent for Windows, Linux and Mac -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_202/image_001.jpg) **This page provides information about LsAgent, a cross-platform scanning agent that can be installed on Windows, Linux, and Mac computers to scan machines locally and remotely.**
 
 [Lansweeper](https://www.lansweeper.com/ "Lansweeper") includes several scanning methods to scan the assets in your network. You can scan the Linux, Unix, Mac and Windows computers, VMware servers and other devices in your network without installing any Lansweeper software on the machines you're scanning.
 

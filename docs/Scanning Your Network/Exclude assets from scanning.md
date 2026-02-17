@@ -1,5 +1,4 @@
 <!-- # Exclude assets from scanning -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_182/image_001.jpg) **This article explains how to exclude assets from scanning.**
 
 Keep in mind that each scanning target works independently. If an asset is part of only one scanning target, Lansweeper will attempt to scan the asset. However, if an asset is part of one scanning target, it will continue to be scanned regardless of whether it's part of other scanning targets as well. You can determine which scanning targets scanned a Windows machine and when by looking at the **Scan Time** tab of the machine's Lansweeper webpage.
 

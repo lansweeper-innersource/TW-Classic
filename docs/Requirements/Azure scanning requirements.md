@@ -1,5 +1,4 @@
 <!-- # Azure scanning requirements -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_156/image_001.jpg) **This page explains how to scan resources and virtual machines on Microsoft Azure using Lansweeper.**
 
 From version 7.1 onward, Lansweeper is capable of scanning resource groups and virtual machines hosted on the Microsoft Azure cloud computing platform. An asset is created for each resource group and for each virtual machine.
 

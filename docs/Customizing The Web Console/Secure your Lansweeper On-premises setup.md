@@ -1,5 +1,4 @@
 <!-- # Secure your Lansweeper On-premises setup -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_043/image_001.jpg) **This page explains how you can update the AllowedContentDomains appsetting, and covers several key security settings that secure your Lansweeper On-premises environment.**
 
 As part of our ongoing commitment to enhancing security for Lansweeper installations, we’ve implemented several important measures for Lansweeper On-premises. These changes are designed to protect your data and ensure a secure environment for managing your IT assets.
 

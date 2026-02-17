@@ -1,5 +1,4 @@
 <!-- # Troubleshoot Citrix scanning issues -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_268/image_001.jpg) **This page provides troubleshooting steps for scanning Citrix XenServer machines in Lansweeper.**
 
 If you encounter issues while scanning your Citrix XenServer machines:
 

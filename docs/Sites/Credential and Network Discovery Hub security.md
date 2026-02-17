@@ -1,5 +1,4 @@
 <!-- # Credential and Network Discovery Hub security -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_349/image_001.jpg) **This page explains the security measures built into Lansweeper to protect user data and credentials.**
 
 This page is for Lansweeper Sites. For Lansweeper On-prem, see [Credential and database security](/docs/credential-and-database-security-in-lansweeper).
 

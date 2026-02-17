@@ -1,5 +1,4 @@
 <!-- # Convert a deprecated SQL Compact database -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_098/image_001.jpg) **This page explains how to convert a Lansweeper database hosted in SQL Compact to SQL LocalDB or SQL Server.**
 
 From March 2020 onward, Microsoft SQL Compact is deprecated and is no longer a supported database server for hosting the Lansweeper database. SQL Compact is no longer offered as an option in the Lansweeper installer. In addition, when updating a SQL Compact installation to Lansweeper version 8.0 or higher, you are informed that a conversion to SQL LocalDB or SQL Server is required prior to updating.
 

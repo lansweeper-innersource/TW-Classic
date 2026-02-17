@@ -1,5 +1,4 @@
 <!-- # Disable Pay-As-You-Go (PAYG) -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_008/image_001.jpg) **This page explains how to prevent unwanted PAYG billing by disabling your Lansweeper Classic on‑prem installation.**
 
 If you're running a Lansweeper Classic on‑premises installation, it may still contain an active license key. As long as this key is present, your on‑prem environment continues sending telemetry, which results in ongoing PAYG billing.
 

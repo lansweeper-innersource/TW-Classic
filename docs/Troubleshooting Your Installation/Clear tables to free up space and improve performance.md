@@ -1,5 +1,4 @@
 <!-- # Clear tables to free up space and improve performance -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_280/image_001.jpg) **This page explains how you can clear tables in your database to free up space or improve performance in general.**
 
 In general, the cleanup options found in the web console under **Configuration > Server Options** should keep the size of your Lansweeper database within limits. Cleanups are performed when the Lansweeper Server service is started and subsequently every 24 hours. If you're scanning a lot of Windows data however, and storing a lot of historical information, a more radical cleanup of your Lansweeper database may be required.
 

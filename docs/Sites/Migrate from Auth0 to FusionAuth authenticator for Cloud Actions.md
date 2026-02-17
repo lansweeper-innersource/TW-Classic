@@ -1,5 +1,4 @@
 <!-- # Migrate from Auth0 to FusionAuth authenticator for Cloud Actions -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_382/image_001.jpg) **This page explains how to replace Auth0 with FusionAuth as the authentication provider used by your Cloud Actions across Azure, AWS, and GCP.**
 
 To continue using Cloud Actions, you must update your credentials to use FusionAuth instead of Auth0 as the authentication provider.
 

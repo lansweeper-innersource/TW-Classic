@@ -1,5 +1,4 @@
 <!-- # Lansweeper features that access the internet -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_165/image_001.jpg) **This page explains the internet endpoints and access requirements needed for various optional Lansweeper features to function correctly.**
 
 Lansweeper has several optional features that require internet access to function properly.
 

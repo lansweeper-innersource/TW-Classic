@@ -1,5 +1,4 @@
 <!-- # Move your database from SQL LocalDB to SQL Server -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_106/image_001.jpg) **This article explains how to migrate your Lansweeper database from SQL LocalDB to Microsoft SQL Server, ensuring seamless service continuity and proper configuration.**
 
 Lansweeper data, reports and settings are stored in a database, which is hosted in either Microsoft SQL Compact, Microsoft SQL LocalDB or Microsoft SQL Server. If your database is hosted in LocalDB, you can move it to SQL Server on the same or a different machine, if at some point required. If you are unsure which database server you are using, browse to the **Configuration > Your Lansweeper License**section of the web console.  
 ![Moving-your-database-from-SQL-LocalDB-to-SQL-Server-1.jpg](/docs/.document360/assets/article_106/image_002.jpg)

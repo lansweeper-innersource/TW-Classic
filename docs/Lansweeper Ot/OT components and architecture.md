@@ -1,5 +1,4 @@
 <!-- # OT components and architecture -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_117/image_001.jpg) **This page describes Lansweeper OT components and architecture, including the hub, the sensor, the update server, and Lansweeper Sites.**
 
 For more information about Lansweeper OT, see [Lansweeper for OT Asset Management](https://www.lansweeper.com/use-cases/ot-asset-management/).
 

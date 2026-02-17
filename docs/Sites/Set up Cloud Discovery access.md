@@ -2,7 +2,6 @@
 Starting **June 2025**we’re transitioning to FusionAuth as our new authentication provider. Auth0 will be supported until **July 2025**, but we recommend switching as soon as possible. For more information, see [Migrate from Auth0 to FusionAuth authenticator for Cloud Actions](/docs/migrate-from-auth0-to-fusionauth-authenticator-for-cloud-actions).  
 Lansweeper Sites hosted in the United States **only** support FusionAuth.
 
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_307/image_001.jpg) **This page explains how to set up your Microsoft Azure (including Microsoft Cloud resources), Amazon Web Services (AWS) and Google Cloud Platform (GCP) environments for Lansweeper's Cloud Discovery.**
 
 ---
 

@@ -1,5 +1,4 @@
 <!-- # Automate asset and user inventory cleanup -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_332/image_001.jpg) **This page explains the various options provided by Lansweeper Sites to manage your inventory. You will also find information on where to locate these options and gain insight into their specific functionalities.**
 
 Once an asset is scanned and added to your inventory, Lansweeper will not remove it unless instructed to do so.
 

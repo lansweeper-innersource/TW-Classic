@@ -1,5 +1,4 @@
 <!-- # View assets' lifecycle information -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_352/image_001.jpg) **This page explains how to retrieve and view the hardware and operating system lifecycle data of your assets.**
 
 Lifecycle insights are available in Pro and higher plans. For more information on plans, check out [the pricing page](https://www.lansweeper.com/pricing/).
 

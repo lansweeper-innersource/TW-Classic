@@ -1,5 +1,4 @@
 <!-- # Scan untrusted domains -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_236/image_001.jpg) **This page explains how you can scan an untrusted domain using Lansweeper by following a couple of steps.**
 
 If you'd like to submit a domain for scanning other than the one your Lansweeper server is located in and there is no trust between these two domains, you will need to ensure that your Lansweeper server can correctly resolve the domain you're trying to scan. Follow these steps to scan an untrusted domain:
 

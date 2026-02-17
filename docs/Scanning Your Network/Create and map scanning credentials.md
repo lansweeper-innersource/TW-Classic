@@ -1,5 +1,4 @@
 <!-- # Create and map scanning credentials -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_180/image_001.jpg) **This page provides information on how to create and map scanning credentials for various types of devices and platforms in Lansweeper.**
 
 This page is for Lansweeper Classic. For Lansweeper Sites using Network Discovery, see [Create discovery credentials](/docs/create-discovery-credentials).
 

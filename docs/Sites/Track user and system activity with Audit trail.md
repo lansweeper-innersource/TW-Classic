@@ -1,5 +1,4 @@
 <!-- # Track user and system activity with Audit trail -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_341/image_001.jpg) **This page explains how to use Audit trail to monitor and export key user and system activity in your Lansweeper Site, helping you improve visibility, support compliance, and streamline audits.**
 
 Audit trail is a **foundational security feature** in Lansweeper Sites, designed to fill a key visibility gap in user activity monitoring. It enhances audit readiness by providing clear records of who did what and when, directly within your Lansweeper Site.  
   

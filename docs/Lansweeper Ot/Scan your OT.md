@@ -1,5 +1,4 @@
 <!-- # Scan your OT -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_120/image_001.jpg) **This page explains how you can scan your industrial OT devices with Lansweeper.**
 
 Operational technology (OT) is a category of hardware and software that monitors and controls physical assets. Industrial OT can be found on factory floors, e.g. in assembly lines and manufacturing plants. OT assets are becoming more and more network connected, allowing them to be scanned and analyzed.
 

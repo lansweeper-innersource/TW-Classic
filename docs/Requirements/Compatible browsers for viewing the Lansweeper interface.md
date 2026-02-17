@@ -1,5 +1,4 @@
 <!-- # Compatible browsers for viewing the Lansweeper interface -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_159/image_001.jpg) **This article lists the web browsers that are supported for viewing Lansweeper's interface.**
 
 [Lansweeper](https://www.lansweeper.com/ "Lansweeper") has a web interface which can be viewed in a web browser locally from the Lansweeper server, or remotely from other machines in your network. The web console displays scanned and custom data, reports and settings in a comprehensible way and allows you to make changes to them.
 

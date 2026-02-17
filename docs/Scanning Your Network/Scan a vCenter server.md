@@ -1,5 +1,4 @@
 <!-- # Scan a vCenter server -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_215/image_001.jpg) **This page explains how to scan VMware virtual environments using vCenter credentials, and how to retrieve data from a vCenter server.**
 
 You can scan your VMware virtual environments using vCenter credentials. Scanned vCenter data includes version, build, OS, manufacturer, network interfaces, datacenters, ESXi servers, datastores, VMware guests and more. If VMware guests are scanned as separate assets as well, Lansweeper will automatically link them to the correct ESXi server and vCenter server.
 

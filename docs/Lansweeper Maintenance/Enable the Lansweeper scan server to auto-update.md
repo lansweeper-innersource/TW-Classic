@@ -1,5 +1,4 @@
 <!-- # Enable the Lansweeper scan server to auto-update -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_101/image_001.jpg) **Learn how to enable Lansweeper's auto-update feature, ensuring seamless updates, minimized downtime, and enhanced security.**
 
 Auto-updates ensure Lansweeper stays updated with the latest features, security patches, and performance improvements without manual intervention. By enabling automatic updates, you can reduce maintenance efforts, minimize downtime, and keep your system running smoothly.
 

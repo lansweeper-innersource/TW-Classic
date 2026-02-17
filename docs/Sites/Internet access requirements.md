@@ -1,7 +1,6 @@
 <!-- # Internet access requirements -->
 This article is for Lansweeper Sites. For Lansweeper On-premises, go to [Lansweeper features that access the internet](/docs/lansweeper-features-that-access-the-internet "/docs/lansweeper-features-that-access-the-internet").
 
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_374/image_001.jpg) **This page provides an overview of the features in Lansweeper Sites that require internet access.**
 
 Lansweeper Sites requires access to the internet to function properly.
 

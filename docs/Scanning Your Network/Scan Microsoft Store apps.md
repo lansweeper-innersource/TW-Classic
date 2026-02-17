@@ -1,5 +1,4 @@
 <!-- # Scan Microsoft Store apps -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_223/image_001.jpg) **Learn how to scan Microsoft Store apps and how to view them in the Lansweeper web console.**
 
 Microsoft Store app scanning was introduced in Lansweeper 9.3 and further optimized in Lansweeper 9.5. You will need to [update your installation](http://lansweeper.com/knowledgebase/updating-your-installation/ "updating your installation") if you are running a lower Lansweeper version.
 

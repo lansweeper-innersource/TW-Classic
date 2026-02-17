@@ -1,5 +1,4 @@
 <!-- # Buy a cloud license -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_371/image_001.jpg) **This page explains where you can find information about your Lansweeper license, and how to purchase or upgrade your license.**
 
 The **License status** menu shows you all information about your Lansweeper license, namely the license type, the current amount of assets, the license’s asset limit, and the expiry date for paid licenses.
 

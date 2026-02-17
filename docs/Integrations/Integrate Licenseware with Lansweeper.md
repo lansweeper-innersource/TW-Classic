@@ -1,5 +1,4 @@
 <!-- # Integrate Licenseware with Lansweeper -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_090/image_001.jpg) **Streamline software asset management with the Licenseware and Lansweeper integration. This page describes how to create an API connection for seamless syncing or manually add Lansweeper data.**
 
 The integration of Licenseware with Lansweeper offers a comprehensive solution that streamlines the process of gathering crucial license information. This integration removes the need to use manual methods or costly consultancy services to manage software assets. Instead, you can swiftly access granular data about your software assets, empowering you to make informed licensing decisions quickly and accurately.
 

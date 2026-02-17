@@ -1,5 +1,4 @@
 <!-- # Hardware data normalization -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_394/image_001.jpg) **This page explains the hardware data consolidation and prioritization flow used in Lansweeper Sites for the manufacturer and model fields.**
 
 In IT, OT, and IoT asset management, consistent and accurate data is essential for effective monitoring and reporting. Lansweeper Sites’s normalization feature addresses any potential inconsistencies—such as variations in manufacturer names—by standardizing hardware data across the platform. This ensures consistent information, regardless of the source, enhancing the value of your asset inventory.
 

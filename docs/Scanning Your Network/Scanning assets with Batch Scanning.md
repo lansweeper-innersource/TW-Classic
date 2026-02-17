@@ -1,5 +1,4 @@
 <!-- # Scanning assets with Batch Scanning -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_226/image_001.jpg) **This page describes Batch Scanning, an agentless, on-demand scanning method that allows you to quickly scan any IP addresses, IP ranges or DNS names of client machines.**
 
 Batch Scanning is an agentless, on-demand scanning method that allows you to quickly scan any IP addresses, IP ranges or DNS names of client machines submitted by you. It is suitable for scanning Linux, Unix, Mac and Windows computers, VMware servers and other network devices. Some examples of network devices are: cameras, firewalls, mail servers, music systems, NAS devices, printers, routers, switches, UPS devices, VOIP phones and web servers.
 

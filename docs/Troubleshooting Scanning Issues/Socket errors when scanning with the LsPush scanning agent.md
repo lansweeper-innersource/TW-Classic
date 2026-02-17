@@ -1,5 +1,4 @@
 <!-- # Socket errors when scanning with the LsPush scanning agent -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_263/image_001.jpg) **Resolve socket errors when sending LsPush data directly to your Lansweeper server for import.**
 
 You may encounter errors if you attempt to send [LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows "Introduction to the LsPush scanning agent for Windows") data directly to your Lansweeper server and the connection fails.
 

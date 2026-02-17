@@ -1,5 +1,4 @@
 <!-- # Receive tickets through the web console, email, API, import -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_027/image_001.jpg) **This page explains how to set up helpdesk tickets in Lansweeper, using either the web console, emails, an API or importing them manually.**
 
 A helpdesk ticket is a conversation, a back and forth between a user and an agent. A user asks a question or reports an issue and an agent responds. If the question or issue is unresolved, the user can reply again and so on. Tickets can come from various sources.
 

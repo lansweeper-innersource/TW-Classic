@@ -1,5 +1,4 @@
 <!-- # No asset created for scanned computer or device -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_259/image_001.jpg) **Resolve the issue of no asset being created for scanned computers or devices by following these troubleshooting steps.**
 
 If you have attempted to scan a computer or device, but no asset was created for it in the web console, it may be related to a variety of issues.
 

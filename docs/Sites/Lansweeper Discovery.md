@@ -1,5 +1,4 @@
 <!-- # Lansweeper Discovery -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_308/image_001.jpg) **Learn about the benefits and components of Lansweeper Discovery and how it differs from on-premises scanning.**
 
 Lansweeper Discovery is an all-in-one asset discovery solution that identifies IT, OT, and cloud assets and catalogues them into a single inventory. This streamlines asset and user management, allowing you to manage your entire asset inventory through Lansweeper Sites.
 

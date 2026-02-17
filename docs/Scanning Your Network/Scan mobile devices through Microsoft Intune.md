@@ -1,5 +1,4 @@
 <!-- # Scan mobile devices through Microsoft Intune -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_224/image_001.jpg) **This page explains how to use Intune scanning targets to scan Android, iOS (iPhone and iPad) and Windows Phone mobile devices enrolled in Intune.**
 
 This page is for Lansweeper On-prem. For Lansweeper Sites, see [Scan Intune V2 targets](/docs/scan-intune-v2-targets).
 

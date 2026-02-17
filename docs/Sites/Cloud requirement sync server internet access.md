@@ -1,5 +1,4 @@
 <!-- # Cloud requirement: sync server internet access -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_330/image_001.jpg) **This page provides information on the sync server internet access requirement check.**
 
 When you start setting up a link with your [Lansweeper](https://www.lansweeper.com/) Site, some prerequisite checks are performed to ensure your installation is ready to link. When you select **Link with Cloud site** in your local web console, a pop-up is presented with a pass/fail indication for a number of prerequisite checks. One of the checks is whether your sync server has internet access.
 

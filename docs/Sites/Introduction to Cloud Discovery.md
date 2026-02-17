@@ -1,5 +1,4 @@
 <!-- # Introduction to Cloud Discovery -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_336/image_001.jpg) **This page explains what Lansweeper’s Cloud Discovery is, and explains how you can start scanning your cloud infrastructure.**
 
 Lansweeper’s Cloud Discovery identifies and catalogs all assets within your cloud infrastructure, includingvirtual machines, storage buckets, databases, and more.
 

@@ -1,5 +1,4 @@
 <!-- # Create, use and change asset states -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_129/image_001.jpg) **This page explains how to manage asset states in Lansweeper, how to create custom states, and how to change asset states.**
 
 Every scanned or manually created computer and device in Lansweeper has an asset state. States are a Lansweeper feature that allow you to keep track of which machines are active in your network, which have been decommissioned, which are in stock etc.
 

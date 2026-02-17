@@ -1,5 +1,4 @@
 <!-- # Integrate Lansweeper with Syncfish's CI Synchronizer (CI Sync) for ServiceNow CMDB -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_089/image_001.jpg) **Automate asset data syncing from Lansweeper to ServiceNow CMDB with Syncfish's CI Synchronizer, ensuring accurate, real-time updates for improved IT operations, compliance, and risk management.**
 
 Integrate Lansweeper with Syncfish's CI Synchronizer (CI Sync) to automate data synchronization from IT, OT, and IoT assets into your ServiceNow CMDB. This integration ensures your ServiceNow CMDB always has accurate, up-to-date data, improving IT operations, compliance, and risk management.
 

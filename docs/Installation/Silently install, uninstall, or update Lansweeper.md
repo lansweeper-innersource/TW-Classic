@@ -1,5 +1,4 @@
 <!-- # Silently install, uninstall, or update Lansweeper -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_084/image_001.jpg) **This page provides instructions on performing a silent install, uninstall, or update of Lansweeper via Windows Command Prompt.**
 
 You can perform a silent install, uninstall or update of Lansweeper via Windows Command Prompt (CMD). This can be done attended or unattended and can be very useful when setting up large environments with multiple scanning servers in an automated way.   
 To use the silent install feature, open a Windows Command Prompt with elevated permissions. You can find an example CMD below:

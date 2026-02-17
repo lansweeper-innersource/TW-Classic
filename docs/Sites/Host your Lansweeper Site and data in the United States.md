@@ -1,5 +1,4 @@
 <!-- # Host your Lansweeper Site and data in the United States -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_312/image_001.jpg) **This page introduces the U.S. East (Ohio) cloud instance for Lansweeper Sites, allowing U.S.-based customers to ensure their data stays within U.S. borders.**
 
 Lansweeper Sites can be hosted in the United States, giving you greater control over data residency. By choosing U.S. hosting, your Inventory data will be securely stored in our AWS cloud instance in Ohio (us-east-2).
 

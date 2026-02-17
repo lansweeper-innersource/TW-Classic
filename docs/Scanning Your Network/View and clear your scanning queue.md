@@ -1,5 +1,4 @@
 <!-- # View and clear your scanning queue -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_246/image_001.jpg) **This page covers how you can view and clear your scanning queue in your Lansweeper installation.**
 
 To see which assets are currently being scanned by your Lansweeper installation and which are queued for scanning, browse to the **Scanning > Scanning Queue**section of the web console. If you have multiple scanning servers, there will be multiple tabs within this menu, one for each server. Within each tab, you can view and clear the scanning queue of a specific scanning server.
 

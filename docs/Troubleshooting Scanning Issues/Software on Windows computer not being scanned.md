@@ -1,5 +1,4 @@
 <!-- # Software on Windows computer not being scanned -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_264/image_001.jpg) **This page provides troubleshooting tips for when software installed on a Windows computer is not listed in Lansweeper's scans.**
 
 Lansweeper scans Windows computers in your network for installed software. Software information scanned by Lansweeper for Windows computers mimics Windows' Programs and Features on the computer itself.
 

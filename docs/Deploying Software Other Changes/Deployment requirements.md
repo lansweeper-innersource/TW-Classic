@@ -1,5 +1,4 @@
 <!-- # Deployment requirements -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_060/image_001.jpg)  
 **This page explains which requirements you need to fulfil to start using Lansweeper deployment packages.**
 
 ---

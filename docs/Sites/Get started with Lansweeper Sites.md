@@ -1,5 +1,4 @@
 <!-- # Get started with Lansweeper Sites -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_326/image_001.jpg)
 
 **Learn how to install and configure Lansweeper for efficient IT asset management in just a few simple steps.**
 

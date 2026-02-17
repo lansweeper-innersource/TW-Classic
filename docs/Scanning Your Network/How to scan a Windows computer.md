@@ -1,5 +1,4 @@
 <!-- # How to scan a Windows computer -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_191/image_001.jpg) **This page explains how you can use Lansweeper to scan a Windows computer, by either using a scanning agent or setting up scanning targets.**
 
 There are two main ways you can scan a Windows domain or workgroup computer: [using a scanning agent](#heading2) or [without using a scanning agent](#heading1).
 

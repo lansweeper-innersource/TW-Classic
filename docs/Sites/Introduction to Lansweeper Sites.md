@@ -1,5 +1,4 @@
 <!-- # Introduction to Lansweeper Sites -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_315/image_001.jpg) **This page provides an introduction to Lansweeper Sites and its key features.**
 
 Have you tried Lansweeper Sites? For an overview of the features available on Lansweeper Sites, see the [Lansweeper Sites product overview](https://www.lansweeper.com/product-overview/ "Product overview").
 

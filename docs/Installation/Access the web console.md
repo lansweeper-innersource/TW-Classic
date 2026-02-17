@@ -1,5 +1,4 @@
 <!-- # Access the web console -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_071/image_001.jpg) **This page explains how you can access and log in to the Lansweeper On-premises web console.**
 
 Once you've installed Lansweeper, you can access the web console. The web console displays scanned and custom data in a comprehensible way.
 

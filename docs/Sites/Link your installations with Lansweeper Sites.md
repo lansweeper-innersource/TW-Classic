@@ -1,5 +1,4 @@
 <!-- # Link your installations with Lansweeper Sites -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_353/image_001.jpg) **This page explains how to scan and manage assets seamlessly in one site by linking Lansweeper Sites to various installations.**
 
 You can link various installations to your site to access Lansweeper’s full capabilities.
 

@@ -1,5 +1,4 @@
 <!-- # Enable the Lansweeper On-premises web console -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_324/image_001.jpg) **This page explains how to enable the Lansweeper On-premises local web console, which may be useful if you solely use Lansweeper Sites.**
 
 When running only using Lansweeper Sites, you could be requested by the Lansweeper Support or Sales department to enable the Lansweeper On-premises local web console.
 

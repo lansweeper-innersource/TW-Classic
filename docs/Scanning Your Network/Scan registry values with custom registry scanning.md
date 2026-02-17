@@ -1,5 +1,4 @@
 <!-- # Scan registry values with custom registry scanning -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_235/image_001.jpg) **This page explains how to use Lansweeper's custom registry scanning feature to retrieve data stored in a specific registry value on your Windows computers.**
 
 Lansweeper allows you to scan values in your Windows computers' registries, through custom registry scanning. Registry scanning checks what a specific registry value is set to across your Windows computers.
 

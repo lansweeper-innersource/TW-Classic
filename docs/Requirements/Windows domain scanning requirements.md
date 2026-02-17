@@ -1,5 +1,4 @@
 <!-- # Windows domain scanning requirements -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_175/image_001.jpg) **This page provides information on scanning Windows computers with or without a scanning agent.**
 
 There are two main ways to scan a Windows computer: with a scanning agent or without a scanning agent.  
 Both options return the same data, but the scanning agent allows for offsite scanning and is immune to credential and firewall issues.

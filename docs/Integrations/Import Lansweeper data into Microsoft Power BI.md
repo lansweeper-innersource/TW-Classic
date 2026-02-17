@@ -1,5 +1,4 @@
 <!-- # Import Lansweeper data into Microsoft Power BI -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_087/image_001.jpg) **Learn how to import Lansweeper inventory data into Power BI. Transform your IT asset data into dynamic, visually engaging insights using Microsoft Power BI.**
 
 ## Deployment architecture
 

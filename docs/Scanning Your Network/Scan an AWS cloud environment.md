@@ -1,7 +1,6 @@
 <!-- # Scan an AWS cloud environment -->
 This page is for Lansweeper Classic. For Lansweeper Sites (in the cloud), see [Scan an AWS region](/docs/scan-an-aws-region).
 
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_212/image_001.jpg) **This page explains how you can expand your arsenal of AWS scanning tools by using Lansweeper to scan VPCs and instances hosted on the AWS cloud platform.**
 
 ---
 

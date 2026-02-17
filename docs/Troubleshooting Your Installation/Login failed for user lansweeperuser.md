@@ -1,5 +1,4 @@
 <!-- # Login failed for user lansweeperuser -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_293/image_001.jpg) **This page explains how to resolve the following error: "Cannot connect to database, check your config file. Login failed for user lansweeperuser".**
 
 Lansweeper data, reports and settings are stored in a database. Your database is hosted in either the Microsoft SQL Compact, Microsoft SQL LocalDB or Microsoft SQL Server database server. If you install Lansweeper under SQL LocalDB or SQL Server, the installer automatically creates a SQL user called "lansweeperuser". This user is used by the Lansweeper scanning service and web console to connect to the database.
 

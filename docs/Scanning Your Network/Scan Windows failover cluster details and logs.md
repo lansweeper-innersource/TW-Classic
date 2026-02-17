@@ -1,5 +1,4 @@
 <!-- # Scan Windows failover cluster details and logs -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_241/image_001.jpg) **This page explains how to set up and configure Lansweeper to scan and retrieve details and logs of Windows failover clusters.**
 
 From version 7.2 onward, Lansweeper is capable of scanning details and logs of Windows failover clusters. Specifically, Lansweeper can retrieve the name and IP of the cluster, the cluster nodes and cluster logs. If the cluster is used for failover of Hyper-V virtual machines, Lansweeper can also retrieve the guest machines and Hyper-V logs. A detected virtual machine is automatically turned into an asset, if one does not already exist.
 

@@ -1,5 +1,4 @@
 <!-- # Configure Gmail to send alert and ticket emails -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_150/image_001.jpg) **This page explains how you can configure your Gmail settings to use Gmail as a mail server in Lansweeper, either for helpdesk ticketing or for email alerts.**
 
 Lansweeper On-premises includes a helpdesk ticketing system that allows you to receive and respond to tickets via email. In addition, email can also be used in Lansweeper to send [report and event log alerts](/docs/send-report-and-event-log-alerts).
 

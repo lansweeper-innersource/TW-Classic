@@ -1,5 +1,4 @@
 <!-- # Configure Network Discovery -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_314/image_001.jpg) **This page describes how to configure Network Discovery from your Lansweeper Site, and explains how to create and manage agentless discovery actions.**
 
 Lansweeper's Network Discovery enables you to discover all IT and OT assets within your network. By utilizing the necessary discovery credentials, Network Discovery gathers all asset details both on the local machine and on remote IT assets.
 

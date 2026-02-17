@@ -1,5 +1,4 @@
 <!-- # Network device scanning requirements -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_169/image_001.jpg) **This page provides information on the requirements needed to scan network devices.**
 
 Apart from scanning Linux, Unix, Mac and Windows computers, as well as VMware servers, Lansweeper is also capable of scanning network devices. Some examples of network devices are cameras, firewalls, mail servers, music systems, NAS devices, printers, routers, switches, UPS devices, VOIP phones and web servers.
 

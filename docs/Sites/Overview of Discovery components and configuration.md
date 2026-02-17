@@ -1,5 +1,4 @@
 <!-- # Overview of Discovery components and configuration -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_344/image_001.jpg) **This page gives an overview of the different Lansweeper Discovery components in the discovery configuration menu.**
 
 You can set up Lansweeper Discovery by using the discovery configuration menu, which revolves around four components: [discovery actions](#actions), [discovery systems](#systems), [discovery credentials](#credentials), and [discovery groups](#groups).
 

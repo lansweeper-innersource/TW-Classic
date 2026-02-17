@@ -1,5 +1,4 @@
 <!-- # Set up and run Lansweeper IT Agent Discovery Portable -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_345/image_001.jpg) **Learn to set up and run Lansweeper IT Agent Discovery Portable on Windows for on-demand network scanning and asset discovery, without installation or credentials.**
 
 Lansweeper IT Agent Discovery Portable runs on Windows without requiring installation. It allows on-demand local scanning without credentials, making it a convenient solution for targeted network discovery.
 

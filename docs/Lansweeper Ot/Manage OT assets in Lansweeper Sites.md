@@ -1,5 +1,4 @@
 <!-- # Manage OT assets in Lansweeper Sites -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_116/image_001.jpg) **This page explains how you can manage and edit your OT assets in Lansweeper Sites.**
 
 This page is for Lansweeper Sites. For Lansweeper On-premises, see [Manage OT assets in Lansweeper On-premises](/docs/manage-ot-assets-in-lansweeper-on-premises).
 

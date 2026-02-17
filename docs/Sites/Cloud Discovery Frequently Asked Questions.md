@@ -1,5 +1,4 @@
 <!-- # Cloud Discovery: Frequently Asked Questions -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_377/image_001.jpg) **This page covers some frequently asked questions regarding Lansweeper's Cloud Discovery.**
 
 [Lansweeper’s Cloud Discovery](/docs/introduction-to-cloud-discovery) identifies and catalogs all assets within your cloud infrastructure, includingvirtual machines, storage buckets, databases, and more.
 

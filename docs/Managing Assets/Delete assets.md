@@ -1,5 +1,4 @@
 <!-- # Delete assets -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_130/image_001.jpg) **This page explains how to automatically and manually delete assets.**
 
 This page is for Lansweeper Classic. For Lansweeper Sites, see [Delete assets](/docs/delete-assets).
 

@@ -1,5 +1,4 @@
 <!-- # Check for Lansweeper updates -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_095/image_001.jpg) **This page explains how you can check whether your installation has been updated to the latest version of Lansweeper, or if a new version is available.**
 
 It is recommended that you [update your Lansweeper installation](/docs/update-lansweeper-on-premises) on a regular basis, to ensure that you have the latest available patches installed and access to any new features that have been released. Updates are free to anyone with an active Lansweeper license.
 

@@ -1,5 +1,4 @@
 <!-- # Scanserver down, unavailable, or scanning server not listed in web console -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_297/image_001.jpg) **This page provides troubleshooting steps for resolving issues with the Lansweeper scanning service connecting to the database.**
 
 This page is for Lansweeper Classic. For Lansweeper Sites (in the cloud), see [Scan server status unknown or sync server status down](/docs/scan-server-status-unknown-or-sync-server-status-down).
 

@@ -1,5 +1,4 @@
 <!-- # Troubleshoot: Selected Cloud management instead of On-premises management during installation -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_391/image_001.jpg) **This page guides you through resolving an issue in which Cloud management was mistakenly selected during Lansweeper setup instead of On-prem management.**
 
 If you accidentally select Cloud management instead of On-prem management during the initial Lansweeper setup, you will not be able to access the On-premises console or enter your license key to begin scanning. To resolve the error, follow the steps below.
 

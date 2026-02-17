@@ -1,5 +1,4 @@
 <!-- # Manage custom asset data from your Lansweeper Site -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_319/image_001.jpg) **Learn how to manage custom asset data in Lansweeper Sites, including asset states, types, relation types, groups, and custom fields, for seamless integration and transition from Lansweeper On-premises.**
 
 This functionality is available only in Lansweeper On-Premises version 11.3.0.5 and newer. If you're using an older version, please [update to the latest release](/docs/update-lansweeper-on-premises).
 

@@ -1,5 +1,4 @@
 <!-- # Network Discovery: Frequently Asked Questions -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_325/image_001.jpg) **This page covers some frequently asked questions regarding Lansweeper's Network Discovery.**
 
 Lansweeper's Network Discovery enables you to discover all IT and OT assets within your network. If you'd like to learn more about Network Discovery, head on over to [Install Network Discovery](/docs/install-network-discovery).
 

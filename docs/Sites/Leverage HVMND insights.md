@@ -1,5 +1,4 @@
 <!-- # Leverage HVMND insights -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_359/image_001.jpg) **This page provides an overview of HVMND insights in Lansweeper Sites, explaining how HVMND insights work, as well as detailing the available insights and their applications for strategic vulnerability management.**
 
 Lansweeper Sites' HVMND elevates the platform into a powerful intelligence engine. HVMND insights offer you access to benchmarking, actionable recommendations, and best practices, all derived from data aggregated across thousands of live IT environments.
 

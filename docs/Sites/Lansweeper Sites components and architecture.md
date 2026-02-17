@@ -1,5 +1,4 @@
 <!-- # Lansweeper Sites components and architecture -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_313/image_001.jpg) **This page explains which architectural components are involved in linking a Lansweeper installation with a  site, which components are required and how they interact.**
 
 A local [Lansweeper](https://www.lansweeper.com/) installation can be [linked with a Site](/docs/link-lansweeper-on-prem-with-lansweeper-sites). Linking a local installation causes the installation's current data and any subsequent data changes to be sent to Lansweeper Sites. The Sites interface offers [a number of advantages](/docs/introduction-to-lansweeper-sites) over the local one: centralized access to multiple Lansweeper installations, more granular permissions over assets, a new report builder, a fully integrated API, and more.
 

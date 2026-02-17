@@ -1,5 +1,4 @@
 <!-- # IT Agent Discovery: Frequently Asked Questions -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_338/image_001.jpg) **This page covers some frequently asked questions regarding Lansweeper's IT Agent Discovery.**
 
 Lansweeper's IT Agent Discovery is a lightweight, cross-platform scanning agent that can run on Windows, Linux, and Mac computers. If you'd like to know more about IT Agent Discovery, head on over to [Install IT Agent Discovery](/docs/install-it-agent-discovery).
 

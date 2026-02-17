@@ -1,5 +1,4 @@
 <!-- # Resolve vulnerabilities -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_054/image_001.jpg) **This page explains how you can resolve software, hardware and OS vulnerabilities, and how Lansweeper updates your list of active vulnerabilities afterward.**
 
 Resolving vulnerabilities is paramount to safeguarding your assets against potential threats. Lansweeper equips you with the tools to identify vulnerabilities across your network, but the next step is resolving those vulnerabilities. Lansweeper identifies three kinds of vulnerabilities: [Software](#SoftwareOS), [Hardware](#Hardware), and [OS](#SoftwareOS).
 

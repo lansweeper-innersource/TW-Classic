@@ -1,5 +1,4 @@
 <!-- # Integrate with the Lansweeper App for Jira Service Management Ticket Enrichment -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_092/image_001.jpg) **This page provides instructions for installing and configuring the Lansweeper App for Jira Service Management (JSM) Ticket Enrichment.**
 
 Lansweeper App for JSM Ticket Enrichment allows the JSM user to enrich JSM issues with related Lansweeper assets as listed below:
 

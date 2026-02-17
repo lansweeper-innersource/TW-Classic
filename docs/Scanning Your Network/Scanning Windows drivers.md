@@ -1,5 +1,4 @@
 <!-- # Scanning Windows drivers -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_228/image_001.jpg) **This page explains how to set up and use Lansweeper's driver scanning feature, which allows you to scan system drivers, PnP drivers, and printer drivers on Windows computers.**
 
 Lansweeper is capable of scanning system drivers, PnP (plug and play) drivers and printer drivers installed on Windows computers. Scanned data includes driver name, version, manufacturer, path, state, release date and more!
 

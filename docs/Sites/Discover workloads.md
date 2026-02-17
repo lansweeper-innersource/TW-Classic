@@ -1,5 +1,4 @@
 <!-- # Discover workloads -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_361/image_001.jpg) **This page provides an overview of the workloads scanned by Lansweeper's Cloud Discovery.**
 
 Lansweeper's Cloud Discovery can currently detect various workloads across [Microsoft Azure](#azure), [Amazon Web Services (AWS)](#aws), and [Google Cloud Platform (GCP)](#gcp). 
 

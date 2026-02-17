@@ -1,5 +1,4 @@
 <!-- # Integrate Devicie with Lansweeper -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_088/image_001.jpg) **This page provides information on integrating Devicie, an endpoint management platform, with Lansweeper to create a custom dashboard that offers detailed insights and reports on device health.**
 
 [Devicie](https://devicie.com/) is an endpoint management platform designed to help IT teams securely deploy, control, and maintain their device fleets remotely and at scale. Integrating Devicie with Lansweeper modernizes your device management capabilities, helping you identify and address issues such as compliance and usage anomalies that might otherwise go unnoticed.
 

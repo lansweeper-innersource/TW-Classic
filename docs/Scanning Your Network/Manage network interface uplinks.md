@@ -1,5 +1,4 @@
 <!-- # Manage network interface uplinks -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_208/image_001.jpg) **This page explains how you can customize your uplink settings, rescan switches and how automated device scanning linked to uplinks works.**
 
 When Lansweeper scans a router or switch using SNMP, it also tries to detect the assets connected to the device's network interfaces. Specifically, Lansweeper pulls a list of connected MAC addresses from SNMP OIDs on the router or switch.   
 It also tries to match these connected MAC addresses with network devices already present in the Lansweeper database. If there is a match, the switch port not only shows the MAC address of the connected device but also a link to the device's Lansweeper webpage.

@@ -1,5 +1,4 @@
 <!-- # Send Helpdesk and Email alerts via Microsoft Cloud Services -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_151/image_001.jpg) **This page provides instructions on configuring Lansweeper to send emails using Microsoft 365 with modern authentication and a Microsoft Cloud Services application.**
 
 Lansweeper allows you to send emails in the context of both the [helpdesk module](/docs/introduction-to-the-help-desk) and to send [report and event alerts](/docs/send-report-and-event-log-alerts). To use Microsoft 365 with modern authentication as a mail provider, a Microsoft Cloud Services application is required.
 

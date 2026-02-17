@@ -1,5 +1,4 @@
 <!-- # Scanning commands run on Linux computers -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_171/image_001.jpg) **This page provides the commands Lansweeper runs on Linux computers to scan and retrieve data.**
 
 When Lansweeper [scans a Linux or Unix computer](/docs/how-to-scan-a-linux-or-unix-computer) with or without a scanning agent, it runs commands to retrieve data. The most basic command Lansweeper needs to be able to run on a Linux computer for data retrieval is the `uname` command.
 

@@ -1,5 +1,4 @@
 <!-- # Install IT Agent Discovery -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_302/image_001.jpg) **This page describes installing the Lansweeper IT Agent Discovery on Windows, Linux, and MacOS including requirements and installation instructions.**
 
 Lansweeper's IT Agent Discovery is a lightweight, cross-platform scanning agent that can run on Windows, Linux, and Mac computers. IT Agent Discovery automatically collects an inventory from the computer it's installed on, securely sends scanned data to your Lansweeper Site over HTTPS, and can scan computers outside your network and over the internet.
 

@@ -1,5 +1,4 @@
 <!-- # Perform automated database cleanups -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_109/image_001.jpg) **This page explains the various options provided by Lansweeper On-premises to manage your database size. You will also find information on where to locate these options and gain insight into their specific functionalities.**
 
 Once an asset is scanned and added to the database, Lansweeper will not remove it unless instructed to do so.
 

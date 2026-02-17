@@ -1,5 +1,4 @@
 <!-- # Scan Windows computers from a USB drive with LsPush -->
-![TL;DR-Sweepy-Icon (1).png](/docs/.document360/assets/article_238/image_001.jpg) **This page provides instructions on scanning a Windows computer using the LsPush scanning agent from a USB drive.**
 
 Lansweeper includes several scanning methods to scan the assets in your network. You can scan the Linux, Unix, Mac and Windows computers, VMware servers and other devices in your network without installing any Lansweeper software on the machines you're scanning.
 
