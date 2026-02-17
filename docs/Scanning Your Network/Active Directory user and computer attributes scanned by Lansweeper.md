@@ -1,5 +1,5 @@
 <!-- # Active Directory user and computer attributes scanned by Lansweeper -->
-When performing Active Directory user and computer scanning, Lansweeper retrieves specific attributes from your user and computer objects. In Lansweeper 7.2, the attributes that are retrieved were expanded. Below you can find an overview of all the attributes currently scanned by Lansweeper for both [users](#heading1) and [computers](#heading2).
+When performing Active Directory user and computer scanning, Lansweeper retrieves specific attributes from your user and computer objects. In Lansweeper 7.2, the attributes that are retrieved were expanded. Below you can find an overview of all the attributes currently scanned by Lansweeper for both users and computers.
 
 These attributes can be found on AD user and computer pages. You can access AD user pages through one of the following methods: search for a user via the search bar at the top of the web console, via the Active Directory Users OU widget and by clicking users on asset pages, or via reports. In the Lansweeper database, scanned AD attributes are stored in the tblADComputers, tblADusers and tblAdProperty tables. More information on database structure can be found in [our database documentation](/docs/access-lansweeper-database-documentation).
 

@@ -1,8 +1,8 @@
 <!-- # Manage reports -->
-Lansweeper Sites includes a new, intuitive reporting engine. All reports can be found in the [Reports module](#menu) of Lansweeper Sites and are split up into 4 main categories: Hardware, Security, Software, and Users.   
+Lansweeper Sites includes a new, intuitive reporting engine. All reports can be found in the Reports module of Lansweeper Sites and are split up into 4 main categories: Hardware, Security, Software, and Users.   
 By selecting one of these categories, you can view the reports in that specific category.
 
-While there are built-in reports, you can modify or create your own as well using the [report builder](#builder). Lansweeper Sites uses MongoDB to store your data and leverages GraphQL to query your data.  
+While there are built-in reports, you can modify or create your own as well using the report builder. Lansweeper Sites uses MongoDB to store your data and leverages GraphQL to query your data.  
 ![Export Report 4.png](/docs/.document360/assets/article_322/image_002.jpg)
 
 ## Viewing, running, and exporting reports
@@ -13,11 +13,11 @@ Reports may take some time to run if your organization has a large number of ass
 
 Instead of constantly accessing the data in real-time, the execution of reports can be ad-hoc or at a scheduled time. You can track the status of your reports in the **Report > Status** column.
 
-There are four different report states: [scheduled](#scheduledrep), [non-scheduled](#nonscheduledrep), [queued](#queuedrep), and [errored](#errorrep).
+There are four different report states: scheduled, non-scheduled, queued, and errored.
 
 #### Scheduled report
 
-Report schedules can be paused if the reports are not actively used over a defined period. For more information, see [Disabled reports](#disabledreports).
+Report schedules can be paused if the reports are not actively used over a defined period. For more information, see Disabled reports.
 
 This indicates the report is scheduled to run at a user-configured interval. The scheduling information is shown when hovering over the report status icon.  
 ![reporting_18.jpg](/docs/.document360/assets/article_322/image_003.jpg)

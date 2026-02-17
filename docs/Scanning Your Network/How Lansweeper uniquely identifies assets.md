@@ -7,9 +7,9 @@ You can see an asset's unique key listed when selecting **Edit Asset** in the a
 
 Depending on the asset type, the unique key is formed differently:
 
-- [Windows assets](#h_95268645911756978340587)
-- [Monitor assets](#h_62312212881756978353186)
-- [Other non-Windows assets](#h_998241744141756978361699)
+- Windows assets
+- Monitor assets
+- Other non-Windows assets
 
 ## Windows assets
 

@@ -3,12 +3,12 @@ To maintain the health of your asset inventory it's important to address scan is
 
 To view your scan issues, you can:
 
-- [View scan issues](#view "View scan issues")
-- [Create a custom view](#custom "Create a custom view")
-- [Sort by multiple columns](#sort "Sort by multiple columns")
-- [Create an advanced filter view](#Advanced "Create an advanced filter view")
-- [Manage a custom view](#Manage "Manage a custom view")
-- [Export a view](#Export "Export a view")
+- View scan issues
+- Create a custom view
+- Sort by multiple columns
+- Create an advanced filter view
+- Manage a custom view
+- Export a view
 
 ## View scan issues
 

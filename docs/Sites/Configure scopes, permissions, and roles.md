@@ -13,12 +13,12 @@ Check out our YouTube video on [Access Management](https://www.youtube.com/watch
 
 On this page:
 
-- [Configure scopes](#scopes)
-- [Configure permissions and roles](#permissions3)
-- [Create a new role](#role)
-- [Create and link an asset scope to a role](#add)
-- [Add a role to a user](#user)
-- [Priority](#priority)
+- Configure scopes
+- Configure permissions and roles
+- Create a new role
+- Create and link an asset scope to a role
+- Add a role to a user
+- Priority
 
 ## Configure scopes
 
@@ -34,7 +34,7 @@ To configure scopes:
 6. Optionally, select the plus symbol to add another condition. By default, **And** is applied. Select **And** to change the option to **Or**.
 7. Select **Save and exit**.
 
-Once your scope is created, you need to [add it to a role](#add) in order to apply the scope to your desired users.
+Once your scope is created, you need to add it to a role in order to apply the scope to your desired users.
 
 To view a list of your scopes, go to **Configuration > Account management > Asset scopes**.
 
@@ -68,7 +68,7 @@ When you create a new asset scope or edit an asset scope, you can link roles to 
 
    You can use conditions to include installations in your asset scopes.
 3. In the **Available roles**section, select the roles you want to link the asset scope to.
-4. Under **Asset scopes**, select the [asset scope](#scopes) that you previously configured from the list.
+4. Under **Asset scopes**, select the asset scope that you previously configured from the list.
 5. Select **Save and exit**, or select the **Save scope**icon.
 
 ### Add a role to a user

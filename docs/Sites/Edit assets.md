@@ -5,9 +5,9 @@ OT assets can also be edited in Lansweeper Sites. For more information, see [Man
 
 To update your assets' information:
 
-- [Edit individual assets](#individual)
-- [Bulk edit assets](#bulk)
-- [Create custom fields](#customfield)
+- Edit individual assets
+- Bulk edit assets
+- Create custom fields
 
 ## Edit individual assets
 
@@ -50,4 +50,4 @@ To create custom fields:
 
 To add a value to your custom field, individually or bulk edit your assets.
 
-You can also add your custom field to a [custom view](/docs/view-assets#view "View assets") or [advanced filter](#h54067037961674828386919 "Create an advanced filter").
+You can also add your custom field to a [custom view](/docs/view-assets#view "View assets") or advanced filter.

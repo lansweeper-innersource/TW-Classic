@@ -3,7 +3,7 @@ Risk Insights has been greatly improved in version 10.5.0.7. We recommend [upda
 
 As your list of assets grows, the list of active vulnerabilities often increases in size as well. Not all of these vulnerabilities are always relevant to you and might not even apply to your situation.
 
-Ignoring certain [assets](#ignoreassets) or [vulnerabilities](#ignorevulnerabilities) can remove irrelevant entries from the active list, allowing you to focus on more critical assets or vulnerabilities.
+Ignoring certain assets or vulnerabilities can remove irrelevant entries from the active list, allowing you to focus on more critical assets or vulnerabilities.
 
 This feature is available in Pro and higher plans. It is available for a limited time for all users to try it out. For more information on plans, check out [the pricing page](https://www.lansweeper.com/pricing/).
 

@@ -4,10 +4,10 @@ You can link various installations to your site to access Lansweeper’s full ca
 
 Once you’ve [created a new Lansweeper Site](/docs/create-a-lansweeper-cloud-site), the following installation scenarios can occur:
 
-- [Link a new sites-only installation](#cloud)
-- [Link an existing on-premise installation](#existing)
-- [Link a new on-premise installation](#new)
-- [Link an OT installation](#OT)
+- Link a new sites-only installation
+- Link an existing on-premise installation
+- Link a new on-premise installation
+- Link an OT installation
 
 ## Link a new sites-only installation
 

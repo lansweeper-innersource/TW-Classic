@@ -5,16 +5,16 @@ The GatherLogs tool, which is included in every Lansweeper installation, will co
 
 When sent to Lansweeper Support, these files will provide the necessary information for the technical support engineers to start troubleshooting your case.
 
-GatherLogs is available for both [Windows](#Windows) and [Linux](#Linux). The steps to run it vary depending on your operating system.
+GatherLogs is available for both Windows and Linux. The steps to run it vary depending on your operating system.
 
 ## GatherLogs on Windows
 
 You can gather information from:
 
-- [A Lansweeper server](#LansweeperServer)
-- [Windows assets with LsAgent installed](#WindowsAssets)
-- [A Network Discovery installation](#NetworkDiscoveryWindows)
-- [An IT Agent Discovery installation](#ITAgentDiscoveryWindows)
+- A Lansweeper server
+- Windows assets with LsAgent installed
+- A Network Discovery installation
+- An IT Agent Discovery installation
 
 ### Run GatherLogs
 
@@ -164,8 +164,8 @@ System information:
 
 You can gather information from:
 
-- [A Network Discovery installation](#NetworkDiscoveryLinux)
-- [An IT Agent Discovery installation](#ITAgentDiscoveryLinux)
+- A Network Discovery installation
+- An IT Agent Discovery installation
 
 ### Run GatherLogs
 

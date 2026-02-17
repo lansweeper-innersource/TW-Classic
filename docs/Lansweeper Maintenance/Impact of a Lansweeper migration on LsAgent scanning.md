@@ -3,7 +3,7 @@ LsAgent is a cross-platform, lightweight scanning agent that you can install on 
 
 If you are scanning client machines using LsAgent and migrate your Lansweeper installation, there are some things to keep in mind to ensure your clients continue to successfully scan.
 
-This article explains the impact of migrating the Lansweeper server that receives LsAgent scans, both for installations that [connect to our LsAgent relay server](#h1) and installations that [receive LsAgent scans directly from client machines](#h2).
+This article explains the impact of migrating the Lansweeper server that receives LsAgent scans, both for installations that connect to our LsAgent relay server and installations that receive LsAgent scans directly from client machines.
 
 ## Migration impact when using the relay server
 

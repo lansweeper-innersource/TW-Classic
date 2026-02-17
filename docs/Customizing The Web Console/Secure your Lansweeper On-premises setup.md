@@ -4,7 +4,7 @@ As part of our ongoing commitment to enhancing security for Lansweeper installat
 
 These security settings are available starting from Lansweeper On-prem version 11.1. If you haven't already, [update your installation](/docs/update-lansweeper-on-premises) to access the latest features.
 
-In this article, we'll explore [key security settings](#security), guide you through [updating the settings](#update), and we'll share some [best practices](#bestpractices) to improve your Lansweeper installation.
+In this article, we'll explore key security settings, guide you through updating the settings, and we'll share some best practices to improve your Lansweeper installation.
 
 ## Update the AllowedContentDomains appsetting
 

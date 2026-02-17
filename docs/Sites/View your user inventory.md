@@ -5,15 +5,15 @@ At this time, only Active Directory users are available in the user inventory.
 
 On this page:
 
-- [View users](#viewusers)
-  - [Create a custom view](#customview)
-  - [Create an advanced filter view](#advancedfilter)
-  - [Export your view](#export)
-- [Find users](#find)
-- [Learn more about your users](#learnusers)
-  - [Learn about which users are connected to your assets](#assets)
-- [Create user relations](#relations)
-- [Restrict user inventory access](#permissions)
+- View users
+  - Create a custom view
+  - Create an advanced filter view
+  - Export your view
+- Find users
+- Learn more about your users
+  - Learn about which users are connected to your assets
+- Create user relations
+- Restrict user inventory access
 
 ## View users
 
@@ -81,7 +81,7 @@ To learn more about a specific user, select the display name of that user. You�
 
 From here, you can find extra available information about the user such as their address, phone number, organization details, active directory group details, and more.
 
-If the user has relationships configured between it and another asset, they’ll be displayed under **Relations**. You can also [create user relations](#relations) from here.
+If the user has relationships configured between it and another asset, they’ll be displayed under **Relations**. You can also create user relations from here.
 
 If applicable, an Exchange tab is available if the user is connected to a related account.
 
@@ -97,10 +97,10 @@ To view a list of assets where the Last user field displays a user, go to **Inve
 
 ## Create user relations
 
-User relations allow you to see how specific users are related to assets in various ways. The [user summary](#learnusers) page shows existing relationships and allows you to create new user relations.
+User relations allow you to see how specific users are related to assets in various ways. The user summary page shows existing relationships and allows you to create new user relations.
 
 1. Go to **Users**.
-2. Locate the user you want to edit from the list. You can [search](#find) or use a [custom view](#customview) to help narrow your search.
+2. Locate the user you want to edit from the list. You can search or use a custom view to help narrow your search.
 3. Select the user’s display name.
 4. Select **Add relation**.  
    ![add-relation.png](/docs/.document360/assets/article_364/image_002.jpg)

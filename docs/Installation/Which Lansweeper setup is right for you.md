@@ -1,8 +1,8 @@
 <!-- # Which Lansweeper setup is right for you? -->
 A Lansweeper installation consists of [several components](/docs/lansweeper-classic-components-and-architecture): database, web console, one or more scan servers. This article helps you select the correct database type, web server type and number of scan servers for your needs. It also includes diagrams of sample Lansweeper setups.
 
-- [Installation recommendations](#heading1)
-- [Example Lansweeper setups](#heading2)
+- Installation recommendations
+- Example Lansweeper setups
 
 ## Installation recommendations
 

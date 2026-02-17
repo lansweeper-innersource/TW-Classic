@@ -4,19 +4,19 @@ If you have attempted to scan a computer or device, but no asset was created for
 
 Work through the following steps to ensure an asset is created for your scanned computer or device:
 
-1. [Confirm the asset does not exist](#assetnoexist "Confirm the asset does not exist")
-2. [Update Lansweeper](#update "Update Lansweeper")
-3. [Ensure Lansweeper Server service is running](#serverrunning "Ensure Lansweeper Server service is running")
-4. [Ensure the number of assets does not exceed your license limit](#number "Ensure the number of assets does not exceed your license limit")
-5. [Ensure your database is not too large](#database "Ensure your database is not too large")
-6. [Ensure the hosting server has sufficient disk space](#disk "Ensure the hosting server has sufficient disk space")
-7. [Verify the client machine is online](#client "Verify the client machine is online")
-8. [Add the IP range as a scanning target](#IPrange "Add the IP range as a scanning target")
-9. [Ensure the machine is not excluded from scanning](#exclude "Ensure the machine is not excluded from scanning")
-10. [Submit appropriate scanning credentials](#credentials "Submit appropriate scanning credentials")
-11. [Verify scanning requirements](#requirements "Verify scanning requirements")
+1. Confirm the asset does not exist
+2. Update Lansweeper
+3. Ensure Lansweeper Server service is running
+4. Ensure the number of assets does not exceed your license limit
+5. Ensure your database is not too large
+6. Ensure the hosting server has sufficient disk space
+7. Verify the client machine is online
+8. Add the IP range as a scanning target
+9. Ensure the machine is not excluded from scanning
+10. Submit appropriate scanning credentials
+11. Verify scanning requirements
 
-Once you've completed the above steps, [rescan your machine](#h_539106825951680707669206 "Rescan your machine").
+Once you've completed the above steps, rescan your machine.
 
 ## Confirm the asset does not exist
 
@@ -134,4 +134,4 @@ Verify your machine fulfills the necessary scanning requirements. Review the fol
 2. Find your machine's IP range in the list.
 3. Select **Scan now**.  
    ![no-asset-created-for-scanned-computer-or-device-10.jpg](/docs/.document360/assets/article_259/image_010.jpg)
-4. Once the scan is complete, [search for the machine](#assetnoexist "Confirm the asset does not exist").
+4. Once the scan is complete, search for the machine.

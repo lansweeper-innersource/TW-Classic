@@ -1,7 +1,7 @@
 <!-- # Adding owners to a Cloud site -->
 A Cloud site can have one or more site owners. A site owner is the most privileged type of user in a site. In addition to being an administrator, a site owner has special rights over the site that regular administrators don't have. By default, the creator of a site is the only owner of that site. For redundancy and security reasons, a site ideally has more than one owner. That way, you are not dependent on a single person to manage the site.
 
-This article explains [what it means to be a site owner](#heading1) and how you as a site creator can [add more owners to your site](#heading2).
+This article explains what it means to be a site owner and how you as a site creator can add more owners to your site.
 
 ## What it means to be a site owner
 

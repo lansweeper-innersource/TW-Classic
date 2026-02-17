@@ -11,15 +11,15 @@ Lansweeper App for JSM Ticket Enrichment allows the JSM user to enrich JSM issue
 
 On this page:
 
-- [Compatibility matrix](#matrix)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Get a Lansweeper API token](#Get)
-- [Configure Lansweeper App for JSM](#configure)
-- [Ticket enrichment](#enrichment)
-- [Issue linking](#linking)
-- [Known behavior](#known)
-- [Troubleshooting](#troubleshoot)
+- Compatibility matrix
+- Prerequisites
+- Installation
+- Get a Lansweeper API token
+- Configure Lansweeper App for JSM
+- Ticket enrichment
+- Issue linking
+- Known behavior
+- Troubleshooting
 
 ## Compatibility matrix
 

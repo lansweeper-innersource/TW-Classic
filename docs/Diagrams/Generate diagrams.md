@@ -5,19 +5,19 @@ For more information about Diagrams and its features, see [Diagrams](https://ww
 
 On this page:
 
-- [Prerequisites](#prerequisites)
-- [View available types of diagrams](#types)
-- [Templates](#templates)
-  - [Virtual environments](#virtual)
-  - [Network topologies](#network)
-- [Scope](#scope) 
-  - [Inventory](#inventory)
-  - [Installation](#installation)
-  - [IP Location](#location)
-- [Generate a diagram](#generate)
-- [Regenerate diagrams](#regenerate)
-- [Check diagram generation status](#status)
-- [Next steps](#next)
+- Prerequisites
+- View available types of diagrams
+- Templates
+  - Virtual environments
+  - Network topologies
+- Scope 
+  - Inventory
+  - Installation
+  - IP Location
+- Generate a diagram
+- Regenerate diagrams
+- Check diagram generation status
+- Next steps
 
 ## Prerequisites
 

@@ -12,34 +12,34 @@ Scanning credentials must be created and then mapped, so Lansweeper knows when t
 
 Linux, Mac and Windows computers can be scanned locally as well, with a scanning agent. Linux and Mac can be scanned with [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac), while Windows can be scanned with [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac) or the older [LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agent. If you scan your computers exclusively with an agent and don't use the deployment module, you do not need to submit computer scanning credentials.
 
-[Creating scanning credentials](#heading1)
+Creating scanning credentials
 
-- [Airwatch](#heading3)
-- [AWS](#heading4)
-- [Azure](#h376818429901675258920305)
-- [Chrome OS](#h227416601111675258927828)
-- [Citrix](#h6354044191311675258934068)
-- [Intune](#h4472063731501675258939670)
-- [Office 365](#h4823011611681675258947552)
-- [Microsoft Cloud Service to scan Office 365](#h2354863021851675258953778)
-- [Microsoft Cloud Service to scan Intune](#h6858765112011675258961128)
-- [SCCM](#h4970773422161675258967008)
-- [SNMP (v1/v2)](#h9047364642301675258972401)
-- [SNMP (v3)](#h6216594972431675258977178)
-- [SSH](#h3525972072551675258983321)
-- [SSH certificate](#h3734877722661675258990018)
-- [vCenter](#h8377408762761675258995935)
-- [VMware](#h8700711722851675259003240)
-- [Windows](#h7160035012931675259008716)
+- Airwatch
+- AWS
+- Azure
+- Chrome OS
+- Citrix
+- Intune
+- Office 365
+- Microsoft Cloud Service to scan Office 365
+- Microsoft Cloud Service to scan Intune
+- SCCM
+- SNMP (v1/v2)
+- SNMP (v3)
+- SSH
+- SSH certificate
+- vCenter
+- VMware
+- Windows
 
-[Mapping scanning credentials](#heading2)
+Mapping scanning credentials
 
-- [AWS region](#h3771657283061675259023453)
-- [Azure subscription ID](#h8376401773121675259031210)
-- [IP address](#h9811232513171675259037465)
-- [IP range](#h4359842623211675259041972)
-- [Individual Windows computer](#h6351306093241675259047888)
-- [Domain or workgroup](#h6779615743261675259052965)
+- AWS region
+- Azure subscription ID
+- IP address
+- IP range
+- Individual Windows computer
+- Domain or workgroup
 
 ## Creating scanning credentials
 

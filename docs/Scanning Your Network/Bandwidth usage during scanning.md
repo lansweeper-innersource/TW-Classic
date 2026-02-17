@@ -3,10 +3,10 @@ Effective network management requires a balance between thorough data collection
 
 On this page:
 
-- [SSH and SNMP scans](#SSHandSNMP)
-- [Agent-based vs agentless scanning](#AgentbasedAgentless)
-- [Maximum number of subnets per scan server](#subnets)
-- [Best practices for reducing bandwidth usage](#bestpractices)
+- SSH and SNMP scans
+- Agent-based vs agentless scanning
+- Maximum number of subnets per scan server
+- Best practices for reducing bandwidth usage
 
 ## SSH and SNMP scans
 

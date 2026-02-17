@@ -11,9 +11,9 @@ In this introduction to Asset Radar we'll go over the necessary steps for config
 
 Asset Radar's configuration consists of multiple steps:
 
-- [Checking whether your scanning server is compatible with Asset Radar](#compatibility).
-- [Selecting which interfaces you'd like to enable.](#interfaces)
-- [Selecting the mode under which you'd like to run Asset Radar.](#modes)
+- Checking whether your scanning server is compatible with Asset Radar.
+- Selecting which interfaces you'd like to enable.
+- Selecting the mode under which you'd like to run Asset Radar.
 
 Asset Radar can be configured on a per-scanning server basis or for multiple scanning servers at once, using the **All Scanservers** tab found under **Scanning > Compatibility & Settings**in the web console.
 

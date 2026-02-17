@@ -4,25 +4,25 @@ Lansweeper's IT Agent Discovery is a lightweight, cross-platform scanning agent 
 
 On this page:
 
-- [Benefits of IT Agent Discovery](#benefits)
-- [Is IT Agent Discovery or LsAgent right for me?](#LsAgent)
-- [Requirements](#Requirements)   
-  - [Connection requirements](#connection)
-  - [Supported operating systems](#supported)
-- [Installation paths and logs](#pathsandlogs)
-- [Install IT Agent Discovery on Windows](#Windows)
-  - [Install IT Agent Discovery on Windows interactively](#WInteractive)
-  - [Install IT Agent Discovery on Windows silently](#WMethod1)
-  - [Uninstall IT Agent Discovery on Windows](#UnWindows)
-- [Install IT Agent Discovery on Linux](#Linux)
-  - [Install IT Agent Discovery on Linux silently](#LinuxSilent)
-  - [Uninstall IT Agent Discovery on Linux](#UninstallLinux)
-- [Install IT Agent Discovery on macOS](#macOS)
-  - [Install IT Agent Discovery on macOS interactively](#MacInteractive)
-  - [Install IT Agent Discovery on macOS silently](#MacSilent)
-  - [Uninstall IT Agent Discovery on macOS](#UninstallMac)
-- [Next steps](#next)
-- [Frequently asked questions (FAQ)](#faq)
+- Benefits of IT Agent Discovery
+- Is IT Agent Discovery or LsAgent right for me?
+- Requirements   
+  - Connection requirements
+  - Supported operating systems
+- Installation paths and logs
+- Install IT Agent Discovery on Windows
+  - Install IT Agent Discovery on Windows interactively
+  - Install IT Agent Discovery on Windows silently
+  - Uninstall IT Agent Discovery on Windows
+- Install IT Agent Discovery on Linux
+  - Install IT Agent Discovery on Linux silently
+  - Uninstall IT Agent Discovery on Linux
+- Install IT Agent Discovery on macOS
+  - Install IT Agent Discovery on macOS interactively
+  - Install IT Agent Discovery on macOS silently
+  - Uninstall IT Agent Discovery on macOS
+- Next steps
+- Frequently asked questions (FAQ)
 
 ## Benefits of IT Agent Discovery
 
@@ -49,11 +49,11 @@ If you've answered **NO** to any of these questions, then [install LsAgent](/doc
 
 Before installing IT Agent Discovery, make sure the requirements below are met.
 
-- [Connection requirements](#connection)
-- [Supported operating systems](#supported)
-  - [Windows](#OSWindows)
-  - [Linux](#OSLinux)
-  - [MacOS](#OSMac)
+- Connection requirements
+- Supported operating systems
+  - Windows
+  - Linux
+  - MacOS
 
 ### Connection requirements
 
@@ -66,7 +66,7 @@ The computer running IT Agent Discovery must allow the following outbound connec
 | [https://download.lansweeper.com/](https://download.lansweeper.com/ "https://download.lansweeper.com") (port 443) | Downloads updates automatically when a new version is released. |
 | <https://app.lansweeper.com/api/scanner-connect> (port 443) | Required to provide connection data to Lansweeper Site for multi-region (EU/US). |
 
-If the computer running IT Agent Discovery requires a proxy server, you can provide the details using a [silent installation method](#WMethod1).
+If the computer running IT Agent Discovery requires a proxy server, you can provide the details using a silent installation method.
 
 ### Supported operating systems
 
@@ -144,12 +144,12 @@ You can use three methods to install the IT Agent Discovery on a Windows compute
 
 If the computer running IT Agent Discovery requires a proxy server, use a silent install method.
 
-- [Install the IT Agent Discovery on Windows interactively](#WInteractive)
-- [Install the IT Agent Discovery on Windows silently](#WMethod1)
+- Install the IT Agent Discovery on Windows interactively
+- Install the IT Agent Discovery on Windows silently
 
 ### Install IT Agent Discovery on Windows interactively
 
-1. Ensure the [connection requirements](#connection) are met and your [Windows operating system](#OSWindows) is supported.
+1. Ensure the connection requirements are met and your Windows operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. Choose the Lansweeper Site to which you want to link the IT Agent Discovery.
 4. Go to **Discovery (or Scanning) > Discovery systems**, then go to**Download installers/packages > Download IT Agent****installer**.
@@ -169,7 +169,7 @@ Once the installation is complete, you can view your IT Agent Discovery in your 
 
 #### Method 1 - using a config file
 
-1. Ensure the [connection requirements](#connection) are met, and your [Windows operating system](#OSWindows) is supported.
+1. Ensure the connection requirements are met, and your Windows operating system is supported.
 2. In your Lansweeper Site, go to **Discovery (or Scanning)****> Discovery systems**, then go to **Download installers/packages**. Select**Download IT Agent installer** and **Download IT Agent silent installation configuration**.
 3. Select **Link Discovery system**. In the pop-up, select **Create new code**.
 4. Choose an expiration date, select **Apply** and select **Copy code**.
@@ -196,7 +196,7 @@ Once the installation is complete, you can view your IT Agent Discovery in your 
 
 #### Method 2 - without using a config file
 
-1. Ensure the [connection requirements](#connection) are met, and your [Windows operating system](#OSWindows) is supported.
+1. Ensure the connection requirements are met, and your Windows operating system is supported.
 2. In your Lansweeper Site, go to **Discovery (or Scanning)****> Discovery systems**, then go to**Download installers/packages >****Download IT Agent installer**.
 3. Select **Link Discovery system**. In the pop-up, select **Create new code**.
 4. Choose an expiration date, select **Apply** and select **Copy code**.
@@ -210,7 +210,7 @@ Once the installation is complete, you can view your IT Agent Discovery in your 
 
 #### Method 3 - using .msi
 
-1. Ensure the [connection requirements](#connection) are met, and your [Windows operating system](#OSWindows) is supported.
+1. Ensure the connection requirements are met, and your Windows operating system is supported.
 2. In your Lansweeper Site, go to **Discovery (or Scanning)****> Discovery systems**, then go to**Download installers/packages >****Download IT Agent installer**.
 3. Select **Link Discovery system**. In the pop-up, select **Create new code**.
 4. Choose an expiration date, select **Apply** and select **Copy code**.
@@ -226,7 +226,7 @@ Once the installation is complete, you can view your IT Agent Discovery in your 
 
 #### Method 4 - using a deployment script
 
-1. Ensure the [connection requirements](#connection) are met, and your [Windows operating system](#OSWindows) is supported.
+1. Ensure the connection requirements are met, and your Windows operating system is supported.
 2. In your Lansweeper Site, go to **Discovery (or Scanning)****> Discovery systems**, then go to**Link Discovery system**. In the pop-up, select **Create new code**.
 3. Choose an expiration date, select **Apply** and select **Copy code**.
 4. Run the following .ps1 deployment script, replacing `cloudtokenvalue`  with the copied linking code:
@@ -286,7 +286,7 @@ Only silent installs are currently supported for the IT Agent Discovery on Linux
 
 #### Method 1 - without using config file
 
-1. Ensure the [connection requirements](/docs/install-it-agent-discovery#connection) are met, and your [Linux operating system](#OSLinux) is supported.
+1. Ensure the [connection requirements](/docs/install-it-agent-discovery#connection) are met, and your Linux operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. Choose the Lansweeper Site to which you want to link the IT Agent Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems**, then go to **Download installers/packages** and navigate to the **IT Agent Discovery**section.
@@ -327,7 +327,7 @@ Once the installation is complete, you can view your IT Agent Discovery in your 
 
 #### Method 2 - using a deployment script and config file
 
-1. Ensure the [connection requirements](#connection) are met and your [macOS operating system](#OSMac) is supported.
+1. Ensure the connection requirements are met and your macOS operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. Choose the Lansweeper Site to which you want to link the IT Agent Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems**and select **Link Discovery system**. In the pop-up, select **Create new code**.
@@ -426,7 +426,7 @@ There are multiple you can use to install the IT Agent Discovery on a macOS comp
 If the computer running IT Agent Discovery requires a proxy server, use a silent install method.
 ### Install IT Agent Discovery on macOS interactively
 
-1. Ensure the [connection requirements](#connection "/docs/install-it-agent-discovery#connection") are met, and your [macOS operating system](#OSMac) is supported.
+1. Ensure the connection requirements are met, and your macOS operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/ "https://app.lansweeper.com/").
 3. Choose the Lansweeper Site to which you want to link the IT Agent Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems**, then go to**Download installers/packages** and navigate to the **IT Agent Discovery**section.
@@ -446,7 +446,7 @@ Once the installation is complete, you can view your IT Agent Discovery in your 
 
 #### Method 1 - DMG Deployment
 
-1. Ensure the [connection requirements](#connection) are met and your [macOS operating system](#OSMac) is supported.
+1. Ensure the connection requirements are met and your macOS operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. Choose the Lansweeper Site to which you want to link the IT Agent Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems**, then go to **Download installers/packages** and navigate to the **IT Agent Discovery**section.
@@ -466,7 +466,7 @@ Once the installation is complete, you can view your IT Agent Discovery in your 
 
 #### Method 2 - PKG deployment
 
-1. Ensure the [connection requirements](/docs/install-it-agent-discovery#connection) are met, and your [macOS operating system](#OSMac) is supported.
+1. Ensure the [connection requirements](/docs/install-it-agent-discovery#connection) are met, and your macOS operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. Choose the Lansweeper Site to which you want to link the IT Agent Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems**, then go to **Download installers/packages** and navigate to the **IT Agent Discovery**section.
@@ -498,7 +498,7 @@ Once the installation is complete, you can view your IT Agent Discovery in your 
 
 #### Method 3 - PKG deployment using a script
 
-1. Ensure the [connection requirements](#connection) are met and your [macOS operating system](#OSMac) is supported.
+1. Ensure the connection requirements are met and your macOS operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. Choose the Lansweeper Site to which you want to link the IT Agent Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems**and select **Link Discovery system**. In the pop-up, select **Create new code**.

@@ -9,7 +9,7 @@ Users can be made agents in the **Configuration > User Access & Roles** section 
 
 If you have more than one helpdesk agent and your agent trial or separately purchased agent licenses expire, your secondary agents are deactivated and are no longer able to use agent functions within the helpdesk. These agents will see the "You are currently an inactive helpdesk agent" message when logging in.
 
-To get rid of these warnings, you can either [purchase additional agent licenses](#heading1), [request another time-limited agent trial](#heading2) or [make your secondary agents regular users](#heading3) without agent permissions.  
+To get rid of these warnings, you can either purchase additional agent licenses, request another time-limited agent trial or make your secondary agents regular users without agent permissions.  
 ![you-are-currently-an-inactive-helpdesk-agent-1.jpg](/docs/.document360/assets/article_011/image_002.jpg)
 
 ### Purchase agent licenses

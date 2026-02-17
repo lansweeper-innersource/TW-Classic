@@ -1,7 +1,7 @@
 <!-- # Introduction to the report builder -->
 [Lansweeper](https://www.lansweeper.com/) Sites includes a new and intuitive report builder. In addition to built-in reports found in the **Reports** module, you can build your own custom reports using the report builder.
 
-We'll explain the concept of [data collections](#datacollection), the [building steps](#buildingsteps) of the report builder, and [the result pane](#resultpane). Finally, we'll guide you through the creation of a basic custom report in our [step-by-step building guide](#stepbystep).
+We'll explain the concept of data collections, the building steps of the report builder, and the result pane. Finally, we'll guide you through the creation of a basic custom report in our step-by-step building guide.
 
 ## Data collections
 

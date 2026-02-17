@@ -19,7 +19,7 @@ To view a summary of your assets' lifecycle information:
 
 ## View all lifecycle information
 
-You can access all lifecycle data using one of two methods: you can either view all lifecycle information [for an individual asset](#individual), or you can get a specific overview of lifecycle information [for all assets](#all).
+You can access all lifecycle data using one of two methods: you can either view all lifecycle information for an individual asset, or you can get a specific overview of lifecycle information for all assets.
 
 ### View lifecycle information for an individual asset
 

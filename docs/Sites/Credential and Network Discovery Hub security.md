@@ -6,9 +6,9 @@ The security and confidentiality of credentials and discovered data are of criti
 
 This article highlights some of the measures built into Lansweeper to protect your data and credentials, and to eliminate security risks.
 
-- [Security of submitted discovery and other credentials](#credentials)
-- [Security of the Network Discovery Hub UI](#hub)
-- [Permissions on installation folders](#installation)
+- Security of submitted discovery and other credentials
+- Security of the Network Discovery Hub UI
+- Permissions on installation folders
 
 ## Security of submitted discovery and other credentials
 

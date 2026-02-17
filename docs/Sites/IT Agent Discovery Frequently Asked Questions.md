@@ -4,33 +4,33 @@ Lansweeper's IT Agent Discovery is a lightweight, cross-platform scanning agent 
 
 ## Frequently asked questions (FAQ)
 
-- [Can I use a single command to deploy IT Agent to multiple computers over an extended period of time?](#q1)
-- [When should I use IT Agent over LsAgent?](#q2)
-- [During the installer I get the message: “There has been an error. Could not start Lansweeper IT Agen...](#q3)
-- [What are the installer return codes and possible error messages?](#q4)
-- [Why is the size of the IT Agent installer rather big?](#q5)
-- [What is the scan frequency of the IT Agent?](#q6)
-- [Can I force the IT Agent to perform an immediate ad hoc rescan of the asset(s)?](#q7)
-- [How many IT Agent installations can I link to my Lansweeper Site?](#q8)
-- [Can I use another service account to run the IT Agent services(s) instead of Local System?](#q9)
-- [Why am I not seeing all asset data (yet)?](#q10)
-- [How do I solve duplicate issues?](#q11)
-- [Can I disable the auto-update behavior?](#q12)
-- [Can I unlink the IT Agent installation from my Lansweeper Site?](#q13)
-- [If I uninstall IT Agent on the asset, could you also unlink the installation in your Lansweeper Site...](#q14)
-- [Do scan exclusions apply to IT Agent?](#q15)
-- [I’m not seeing an asset for IT Agent/Network Discovery in my inventory. Why is it not appearing?](#q16)
-- [How can I deal with the license limit when using Lansweeper Discovery in Configuration > License sta...](#q17)
-- [I’m currently using Lansweeper On-premises with Lansweeper Site. Can I use Lansweeper Discovery in t...](#q18)
-- [How do I avoid duplicates when using Lansweeper Discovery together with Lansweeper On-Premises in my...](#q19)
-- [Why do I receive the “Unable to locate package lansweeper-it-agent“ message when installing IT Agent...](#q20)
-- [My IT Agent install keeps failing due to a previous corrupt install. How can I completely remove any...](#q21)
-- [Will .NET be required for IT Agent for Linux Devices?](#q22)
-- [IT Agent install keeps failing and I’m seeing this message in the log file: Ensure TLS1.2 is enabled...](#q23)
-- [My discovery results aren’t showing up in my Lansweeper Site, how can I troubleshoot this?](#q24)
-- [Does IT Agent Discovery update automatically on Linux?](#q25)
-- [Why does the installation of IT Agent fail with “Unable to initialize installer” on Windows?](#q26)
-- [Do we need to replace the linking code of the already-existing IT Agent, or is it only required to h...](#q27)
+- Can I use a single command to deploy IT Agent to multiple computers over an extended period of time?
+- When should I use IT Agent over LsAgent?
+- During the installer I get the message: “There has been an error. Could not start Lansweeper IT Agen...
+- What are the installer return codes and possible error messages?
+- Why is the size of the IT Agent installer rather big?
+- What is the scan frequency of the IT Agent?
+- Can I force the IT Agent to perform an immediate ad hoc rescan of the asset(s)?
+- How many IT Agent installations can I link to my Lansweeper Site?
+- Can I use another service account to run the IT Agent services(s) instead of Local System?
+- Why am I not seeing all asset data (yet)?
+- How do I solve duplicate issues?
+- Can I disable the auto-update behavior?
+- Can I unlink the IT Agent installation from my Lansweeper Site?
+- If I uninstall IT Agent on the asset, could you also unlink the installation in your Lansweeper Site...
+- Do scan exclusions apply to IT Agent?
+- I’m not seeing an asset for IT Agent/Network Discovery in my inventory. Why is it not appearing?
+- How can I deal with the license limit when using Lansweeper Discovery in Configuration > License sta...
+- I’m currently using Lansweeper On-premises with Lansweeper Site. Can I use Lansweeper Discovery in t...
+- How do I avoid duplicates when using Lansweeper Discovery together with Lansweeper On-Premises in my...
+- Why do I receive the “Unable to locate package lansweeper-it-agent“ message when installing IT Agent...
+- My IT Agent install keeps failing due to a previous corrupt install. How can I completely remove any...
+- Will .NET be required for IT Agent for Linux Devices?
+- IT Agent install keeps failing and I’m seeing this message in the log file: Ensure TLS1.2 is enabled...
+- My discovery results aren’t showing up in my Lansweeper Site, how can I troubleshoot this?
+- Does IT Agent Discovery update automatically on Linux?
+- Why does the installation of IT Agent fail with “Unable to initialize installer” on Windows?
+- Do we need to replace the linking code of the already-existing IT Agent, or is it only required to h...
 
 ### Can I use a single command to deploy IT Agent to multiple computers over an extended period of time?
 

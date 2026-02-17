@@ -25,7 +25,7 @@ If you plan on having your alerts sent via email, be sure to submit your email s
 
 1. Browse to the **Configuration > Email Alerts**section of the web console.  
    ![menu-configuration-email-alerts.jpg](/docs/.document360/assets/article_152/image_004.jpg)
-2. If you are sending your reports via email, [submit your email server and groups](#heading1).
+2. If you are sending your reports via email, submit your email server and groups.
 3. Tick the **Enable report mailing** checkbox.  
    ![sending-report-and-event-log-alerts-3.jpg](/docs/.document360/assets/article_152/image_005.jpg)
 4. Select **Add report**, select one or more reports and click **Add**. You can use the search box to find specific reports.  
@@ -47,7 +47,7 @@ If you plan on having your alerts sent via email, be sure to submit your email s
 ## Set up event log alerts
 
 1. Browse to the **Configuration > Email Alerts**section of the web console:![menu-configuration-email-alerts.jpg](/docs/.document360/assets/article_152/image_012.jpg)
-2. Make sure you've [submitted your email server and groups](#heading1).
+2. Make sure you've submitted your email server and groups.
 3. Tick the **Enable eventlog alerts** checkbox.  
    ![sending-report-and-event-log-alerts-10.jpg](/docs/.document360/assets/article_152/image_013.jpg)
 4. Select **Add event filter**, select an event from the list of scanned events and click **Ok**. Alternatively, you can manually type an event source and event ID in the pop-up window if you would like to create an alert for an event that hasn't been scanned yet.  

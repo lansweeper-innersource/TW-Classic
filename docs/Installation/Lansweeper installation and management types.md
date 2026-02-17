@@ -1,7 +1,7 @@
 <!-- # Lansweeper installation and management types -->
-Setting up Lansweeper involves choosing from three [installation types](#installationtype): Cloud-first, On-premise, and Hybrid. The installation type determines how you can set up and access your Lansweeper data.
+Setting up Lansweeper involves choosing from three installation types: Cloud-first, On-premise, and Hybrid. The installation type determines how you can set up and access your Lansweeper data.
 
-After choosing an installation type, you’ll also have to choose a [management type](#managementtype): either On-premise management, or Cloud management. The management type dictates how and where your Lansweeper license is managed. Although you can [change your management type](#changemanagement) if needed, it is by no means an easy process.
+After choosing an installation type, you’ll also have to choose a management type: either On-premise management, or Cloud management. The management type dictates how and where your Lansweeper license is managed. Although you can change your management type if needed, it is by no means an easy process.
 
 ## Installation types
 
@@ -9,7 +9,7 @@ There are three ways to set up your Lansweeper installation:
 
 1. **A Cloud-first installation**: the inventory and scanning configuration is managed from [a Cloud-based site](http://app.lansweeper.com/). This is also known as a [Cloud-first site](/docs/install-lansweeper-sites).
 2. **A local on-premise installation**: the inventory and scanning configuration is managed from a locally installed web console. This is known as an [On-premise installation](/docs/install-lansweeper-on-prem).
-3. **A** **local on-premise installation linked to a cloud site**: the inventory and scanning configuration is managed from both a locally installed web console and a cloud site. This is also known as a [Hybrid installation](#hybrid).
+3. **A** **local on-premise installation linked to a cloud site**: the inventory and scanning configuration is managed from both a locally installed web console and a cloud site. This is also known as a Hybrid installation.
 
 Note that you can’t mix different installation types in the same cloud site.
 

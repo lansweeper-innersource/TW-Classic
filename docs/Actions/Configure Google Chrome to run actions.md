@@ -18,11 +18,11 @@ If Chrome is warning you that your plugin is unsupported, reinstall the new Lans
 
    ![Actions chrome 2.png](/docs/.document360/assets/article_001/image_003.jpg)  
 
-   If the extension does not appear in the extension list, [install it from the Chrome Web Store](#heading2).
+   If the extension does not appear in the extension list, install it from the Chrome Web Store.
 
 ## Installing the extension from the Chrome Web Store
 
-Make sure you've [installed the extension components](#heading1) first, as the extension won't work without the extension components.
+Make sure you've installed the extension components first, as the extension won't work without the extension components.
 
 1. Follow [this link](https://chrome.google.com/webstore/detail/lansweeper-shell-execute/nnpeignlpkmbhjegcbfacbgcnhhjlghp) to find the Lansweeper extension in the Chrome Web Store.
 2. Select **Add To Chrome**.

@@ -1,7 +1,7 @@
 <!-- # AWS scanning requirements -->
 Lansweeper can scan VPCs and instances (virtual machines) hosted on the Amazon Web Services (AWS) cloud platform. An asset is created for each VPC that has instances connected to it and for each instance as well. Any EC2-VPC environment can be scanned.
 
-This article explains [what the requirements are for AWS scanning](#heading1) and [how to generate the access key required for scanning](#heading2).
+This article explains what the requirements are for AWS scanning and how to generate the access key required for scanning.
 
 ## Requirements
 

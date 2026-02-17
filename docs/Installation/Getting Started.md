@@ -1,5 +1,5 @@
 <!-- # Getting Started -->
-In this quick start guide, we'll cover how you go from installing Lansweeper Classic to successfully scanning Windows devices. At the [bottom of the page](#h_31756912261671716979456), you'll be able to find links to resources that cover all device types that Lansweeper scans so you can discover any device in your IT environment.
+In this quick start guide, we'll cover how you go from installing Lansweeper Classic to successfully scanning Windows devices. At the bottom of the page, you'll be able to find links to resources that cover all device types that Lansweeper scans so you can discover any device in your IT environment.
 
 We'll cover a Windows device specifically in this article since this is the most frequently scanned asset. At the bottom of the page, you'll be able to find links to resources that cover all device types that Lansweeper scans.
 

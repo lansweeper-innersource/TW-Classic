@@ -60,7 +60,7 @@ Once you've set up your SSO connection new and existing Lansweeper Site users in
 
 ![cloud-sso-login-button.jpg](/docs/.document360/assets/article_304/image_007.jpg)
 
-To log in to Lansweeper directly from your IdP with SSO, toggle **Enable IdP-Initiated Single Sign-On**to **On**when [adding or editing your SSO connection](#addsso).
+To log in to Lansweeper directly from your IdP with SSO, toggle **Enable IdP-Initiated Single Sign-On**to **On**when adding or editing your SSO connection.
 
 You can combine SSO either with Sites-configured MFA (Multi-Factor Authentication) or the MFA of your IdP. That way, you can add an extra layer of security to the login process. If you already have MFA set up or enforced in your IdP, it will automatically be part of the Lansweeper Sites SSO login process for your domain users.
 

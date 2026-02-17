@@ -4,7 +4,7 @@ Lansweeper Sites can be hosted in the United States, giving you greater control 
 
 ## Considerations
 
-- **No migration path**: You cannot migrate your existing Lansweeper Site from Europe to the U.S. To host your site in the U.S., you must [create a new site](#site).
+- **No migration path**: You cannot migrate your existing Lansweeper Site from Europe to the U.S. To host your site in the U.S., you must create a new site.
 - **Data transiting to Europe**: Certain processes, like Credential-free Device Recognition, may still transit data to Europe. 
 - **Centrally stored data**: Essential data is stored in a central European region for service performance and reliability. This data is strictly managed under our data protection protocols.
 

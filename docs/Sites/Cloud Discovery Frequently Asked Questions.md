@@ -4,7 +4,7 @@
 
 ## Frequently asked questions (FAQ)
 
-- [I configured my AWS, Azure or GCP discovery action and assets are not ending up in my Lansweeper Sit...](#q1)
+- I configured my AWS, Azure or GCP discovery action and assets are not ending up in my Lansweeper Sit...
 
 ### I configured my AWS, Azure or GCP discovery action and assets are not ending up in my Lansweeper Site: Inventory > Cloud assets.
 

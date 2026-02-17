@@ -4,14 +4,13 @@ Lansweeper Discovery is an all-in-one asset discovery solution that identifies I
 
 On this page:
 
-- [Benefits](#benefits
-              )
-- [What’s included in Lansweeper Discovery](#what)
-  - [Network Discovery (IT & OT Sensor)](#network)
-  - [IT Agent Discovery](#it)
-  - [Cloud Discovery](#cloud)
-- [Lansweeper Discovery vs. Lansweeper On-premises scanning](#onprem)
-- [Frequently asked questions](#feedbackquestions)
+- Benefits
+- What’s included in Lansweeper Discovery
+  - Network Discovery (IT & OT Sensor)
+  - IT Agent Discovery
+  - Cloud Discovery
+- Lansweeper Discovery vs. Lansweeper On-premises scanning
+- Frequently asked questions
 
 ## Benefits
 
@@ -30,7 +29,7 @@ Each discovery system shares similar configuration components, which you can lea
 
 Depending on your requirements and specific needs, you may want to install a specific discovery system, or a combination of multiple discovery systems. The table below provides additional information to help guide your decision.
 
-|  | [Network Discovery](#network) | [IT Agent Discovery](#it) | [Cloud Discovery](#cloud) |
+|  | Network Discovery | IT Agent Discovery | Cloud Discovery |
 | --- | --- | --- | --- |
 | **Summary** | Discover all IT assets in your network | Collect all details of the computers that have IT Agent Discovery installed and running as a background service or daemon | Identify and catalog all assets within your cloud infrastructure |
 | **Asset reach** | Tracks both the machine running Network Discovery and remotely discovers IT assets | Tracks local computers where IT Agent Discovery is running | Tracks cloud environments with authentication set up |

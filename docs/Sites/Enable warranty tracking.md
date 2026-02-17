@@ -22,7 +22,7 @@ Warranty tracking can only be enabled on one scan server in your installation.
 
 ## Set up a warranty check
 
-To trigger a warranty check for Dell, Fujitsu, IBM, Lenovo or Toshiba/Dynabook, follow the below steps. To set up a warranty check for HP, see [Enable HP warranty tracking](#HP).
+To trigger a warranty check for Dell, Fujitsu, IBM, Lenovo or Toshiba/Dynabook, follow the below steps. To set up a warranty check for HP, see Enable HP warranty tracking.
 
 1. Ensure your server has internet connection to the following URLs:  
    - <https://api.dell.com/support/assetinfo>

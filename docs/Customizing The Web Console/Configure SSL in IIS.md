@@ -7,7 +7,7 @@ If your Lansweeper installation is not running under HTTPS, a notification will 
 
 ## Prerequisites
 
-Install your own certificate on the server hosting the Lansweeper web service. For detailed instructions on installing SSL certificates, see [Install an IIS certificate](#installcert).   
+Install your own certificate on the server hosting the Lansweeper web service. For detailed instructions on installing SSL certificates, see Install an IIS certificate.   
 Make sure your certificate is available under **Server Certificates** in IIS:
 
 1. Open the IIS Manager home page.

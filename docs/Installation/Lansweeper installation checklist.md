@@ -1,9 +1,9 @@
 <!-- # Lansweeper installation checklist -->
 The below checklist can be used to prepare a Lansweeper installation, from a simple Easy install to a distributed setup with multiple scan servers. Being prepared ensures a smooth installation process, as well as efficient scanning of your network after installation. This checklist includes the following sections:
 
-1. [Pre-install recommendations](#heading1)
-2. [Installing Lansweeper](#heading2)
-3. [Post-install recommendations](#heading3)
+1. Pre-install recommendations
+2. Installing Lansweeper
+3. Post-install recommendations
 
 ## 1. Pre-install recommendations
 

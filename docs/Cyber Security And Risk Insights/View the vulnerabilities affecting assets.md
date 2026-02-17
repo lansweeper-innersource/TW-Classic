@@ -7,8 +7,8 @@ Risk insights is available in Pro and higher plans. For more information on plan
 
 This article describes two ways to efficiently manage the vulnerabilities affecting your assets.
 
-- [Starting from a specific asset](#Asset)
-- [Starting from a specific vulnerability](#Vulnerability)
+- Starting from a specific asset
+- Starting from a specific vulnerability
 
 You can also identify and address potential security vulnerabilities in your environment through [Lansweeper's Vulnerability API](https://docs.lansweeper.com/docs/api/vulnerabilities "Request vulnerabilities").
 

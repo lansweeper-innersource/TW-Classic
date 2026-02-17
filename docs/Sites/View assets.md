@@ -7,13 +7,13 @@ In **All assets**, you can view all of your assets from every installation that 
 
 There are a variety of configuration options available to view your assets in a structure that best suits your unique environment. You can:
 
-- [Create a custom view](#view "Create a custom view")
-- [Sort by multiple columns](#sort "Sort by multiple columns")
-- [Create an advanced filter view](#filter "Create an advanced filter view")
-- [Manage a custom view](#hmanage "Manage a custom view")
-- [Export view](#export "Export view")
-- [View assets with issues](#issues "View assets with issues")
-- [View assets with vulnerabilities](#vulnerabilities "View assets with vulnerabilities")
+- Create a custom view
+- Sort by multiple columns
+- Create an advanced filter view
+- Manage a custom view
+- Export view
+- View assets with issues
+- View assets with vulnerabilities
 
 The Customize and Advanced filter views can be combined to create customized views adapted to your specific needs.
 

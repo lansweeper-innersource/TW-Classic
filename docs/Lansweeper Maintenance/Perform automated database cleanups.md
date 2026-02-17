@@ -4,7 +4,7 @@ Once an asset is scanned and added to the database, Lansweeper will not remove i
 
 You can [manually delete](/docs/delete-assets) old assets or have them deleted automatically through your several cleanup options, found in the Lansweeper On-prem web console under **Configuration > Server Options**or **Scanning > Scanning Targets**. These options can be used to delete assets as well as other stale data.
 
-There are [Asset Cleanup Options](#heading1), [User Cleanup Options](#heading2) and [History Cleanup Options](#heading3).  
+There are Asset Cleanup Options, User Cleanup Options and History Cleanup Options.  
 ![Automated database cleanups 1.png](/docs/.document360/assets/article_109/image_002.jpg)
 
 If enabled, most of the cleanup operations are performed when the Lansweeper Server service starts on your Lansweeper server and automatically every 24 hours afterward.

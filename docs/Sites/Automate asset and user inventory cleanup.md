@@ -4,7 +4,7 @@ Once an asset is scanned and added to your inventory, Lansweeper will not remove
 
 You can either manually delete old assets, or have them deleted automatically using several cleanup rules.
 
-[Asset cleanup rules](#asset) and [user cleanup rules](#user) are managed separately: enabling asset cleanup rules in Lansweeper Sites will **only** disable asset rules in Lansweeper On-prem; enabling user cleanup rules in Lansweeper Sites will **only** disable user cleanup rules in Lansweeper On-prem.
+Asset cleanup rules and user cleanup rules are managed separately: enabling asset cleanup rules in Lansweeper Sites will **only** disable asset rules in Lansweeper On-prem; enabling user cleanup rules in Lansweeper Sites will **only** disable user cleanup rules in Lansweeper On-prem.
 
 If your site is linked to a Lansweeper On-prem installation that currently manages your cleanup rules, saving changes in your site will permanently transfer cleanup rule management to Lansweeper Sites and disable on-prem management.   
 Update Lansweeper On-prem to version **12.5.1.1** or higher to ensure cleanup rules are properly disabled; On-prem rules will otherwise not be blocked after switching to Lansweeper Sites.

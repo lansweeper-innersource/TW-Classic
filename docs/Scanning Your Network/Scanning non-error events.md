@@ -23,6 +23,6 @@ To enable scanning of additional (non-error) event types, follow these steps:
 
    ![scanning-non-error-events-3.jpg](/docs/.document360/assets/article_227/image_004.jpg)
 4. Wait for your scanning schedules to trigger or manually rescan your Windows computers, e.g. with the **Rescan** buttons found in asset overviews.
-5. View scanned events through dashboard widgets, reports or in the **Event log** tab of individual Windows computer webpages. Examples of event log widgets are Event Filter and Event Summary. A sample report that lists all scanned events that occurred in the last 7 days can be found [here in our report center](#post52845). Event log data is stored in the tblNtlog database tables.
+5. View scanned events through dashboard widgets, reports or in the **Event log** tab of individual Windows computer webpages. Examples of event log widgets are Event Filter and Event Summary. A sample report that lists all scanned events that occurred in the last 7 days can be found here in our report center. Event log data is stored in the tblNtlog database tables.
 
    ![scanning-non-error-events-4.jpg](/docs/.document360/assets/article_227/image_005.jpg)

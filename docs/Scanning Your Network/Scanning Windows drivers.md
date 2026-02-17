@@ -4,10 +4,10 @@ Lansweeper is capable of scanning system drivers, PnP (plug and play) drivers an
 
 This knowledge base article explains how to set up driver scanning and how to view the driver data in Lansweeper:
 
-1. [Configure client machines for scanning](#heading1)
-2. [Enable driver scanning](#heading2)
-3. [Scan driver data](#heading3)
-4. [View driver data](#heading4)
+1. Configure client machines for scanning
+2. Enable driver scanning
+3. Scan driver data
+4. View driver data
 
 ![scanned-windows-drivers.png](/docs/.document360/assets/article_228/image_002.jpg)
 

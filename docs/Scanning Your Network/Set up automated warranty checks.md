@@ -14,7 +14,7 @@ The current implementation of IBM warranty scanning relies on the IBM Support Po
 
 ## Set up a warranty check
 
-To trigger a warranty check for Dell, Fujitsu, IBM, Lenovo or Toshiba/Dynabook, follow the below steps. To set up a warranty check for HP, see [Enable HP warranty tracking](#HP).
+To trigger a warranty check for Dell, Fujitsu, IBM, Lenovo or Toshiba/Dynabook, follow the below steps. To set up a warranty check for HP, see Enable HP warranty tracking.
 
 1. If you have not already done so, update to the latest Lansweeper release by following the instructions in [this knowledge base article](/docs/update-lansweeper-on-premises). You can verify whether you are on the latest release by selecting **Check for updates now** in the **Configuration > Your Lansweeper license**section of the web console.  
 

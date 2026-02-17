@@ -4,7 +4,7 @@ The **License status** menu shows you all information about your Lansweeper lice
 
 Current assets includes all scanned or manually created assets, except for monitors, unless they have associated extended display data.
 
-If you have a trial or freeware site, you can [buy a license](#h1) from this menu. Alternatively, if you already have a license but want to upgrade, you can [upgrade your license](#h2).
+If you have a trial or freeware site, you can buy a license from this menu. Alternatively, if you already have a license but want to upgrade, you can upgrade your license.
 
 If you already have a cloud-first subscription that you want to transfer to another cloud site, please contact the Lansweeper sales team via [our sales form](https://www.lansweeper.com/contact-sales/).
 

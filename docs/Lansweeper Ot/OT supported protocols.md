@@ -1,7 +1,7 @@
 <!-- # OT supported protocols -->
 Lansweeper OT allows you to scan various vendors' devices with supported protocols.
 
-Various protocols are [supported by default](#supported "Supported protocols"), but you can also [add protocol configurations](#protocolconfig "Add protocol configurations") as necessary.
+Various protocols are supported by default, but you can also add protocol configurations as necessary.
 
 For an overview of Lansweeper OT, see [Lansweeper for OT Asset Management](https://www.lansweeper.com/use-cases/ot-asset-management/).
 

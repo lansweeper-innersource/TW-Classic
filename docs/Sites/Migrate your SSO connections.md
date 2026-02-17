@@ -1,7 +1,7 @@
 <!-- # Migrate your SSO connections -->
 
 Starting June 16th, we will begin migrating our authentication provider. This migration process will impact all Lansweeper Sites users.
-Although your current SSO login will be supported during phase 1, we recommend switching as soon as possible. If you hold off migrating until phase 2, you will not be able to use SSO to log in, until you [update your Identity Provider](#idp).
+Although your current SSO login will be supported during phase 1, we recommend switching as soon as possible. If you hold off migrating until phase 2, you will not be able to use SSO to log in, until you update your Identity Provider.
 
 If your Lansweeper Sites has SSO enabled, your SSO connection will need to be migrated, and your SSO admin will need to update the connection parameters in your Identity Provider (IdP).
 

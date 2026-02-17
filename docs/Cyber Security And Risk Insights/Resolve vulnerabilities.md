@@ -1,6 +1,6 @@
 <!-- # Resolve vulnerabilities -->
 
-Resolving vulnerabilities is paramount to safeguarding your assets against potential threats. Lansweeper equips you with the tools to identify vulnerabilities across your network, but the next step is resolving those vulnerabilities. Lansweeper identifies three kinds of vulnerabilities: [Software](#SoftwareOS), [Hardware](#Hardware), and [OS](#SoftwareOS).
+Resolving vulnerabilities is paramount to safeguarding your assets against potential threats. Lansweeper equips you with the tools to identify vulnerabilities across your network, but the next step is resolving those vulnerabilities. Lansweeper identifies three kinds of vulnerabilities: Software, Hardware, and OS.
 
 Vulnerabilities may involve a combination of the Software, Hardware or OS categories. Read through the mitigation recommendations to learn how to resolve mixed vulnerabilities.   
 Resolving vulnerabilities in one category might resolve the entire mixed vulnerability.

@@ -4,7 +4,7 @@ Operational technology (OT) is a category of hardware and software that monitors
 
 [Lansweeper OT](https://www.lansweeper.com/use-cases/ot-asset-management/) is a new, standalone software designed to scan industrial OT. When installed and configured, it lets you retrieve data on your PLCs (Programmable Logic Controllers) and other industrial OT assets. Scanned properties include, among others: MAC address, manufacturer, model, serial number, firmware version and bus size info. Data retrieved by Lansweeper OT enables you to monitor the accessibility and security of your assets, prevent firmware vulnerabilities, plan maintenance and more.
 
-You can scan your OT assets using one of two flows. The [default flow](#h85855550931675346298788) uses Lansweeper OT's smart scanning to detect both the IP range and the asset's protocol configuration. The [advanced flow](#h99593092371675346307360) allows you to customize this process, to cover your specific needs.
+You can scan your OT assets using one of two flows. The default flow uses Lansweeper OT's smart scanning to detect both the IP range and the asset's protocol configuration. The advanced flow allows you to customize this process, to cover your specific needs.
 
 The advanced flow is only available when [linked to a Lansweeper On-premises installation](/docs/link-network-discovery-hub-with-lansweeper-on-premises).
 

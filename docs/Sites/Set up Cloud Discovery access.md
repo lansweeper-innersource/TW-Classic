@@ -7,7 +7,7 @@ Lansweeper Sites hosted in the United States **only** support FusionAuth.
 
 Before scanning your cloud provider, you’ll first need to set up your infrastructure to allow Cloud Discovery to access your environment. Depending on your cloud provider, these steps may differ, but setting up authentication to your cloud environment is crucial. 
 
-On this page, we'll go over the steps needed to set up your [Microsoft Azure, Microsoft Intune, or Microsoft 365](#azure), [Amazon Web Services (AWS)](#aws), and [Google Cloud Platform (GCP)](#gcp) environments.
+On this page, we'll go over the steps needed to set up your Microsoft Azure, Microsoft Intune, or Microsoft 365, Amazon Web Services (AWS), and Google Cloud Platform (GCP) environments.
 
 ## Set up Microsoft Azure, Microsoft Intune, and Microsoft 365
 

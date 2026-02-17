@@ -9,7 +9,7 @@ To filter your assets:
 
 1. In your Lansweeper Site, go to **Diagrams** and select the diagram you want to filter.
 2. Select **Filters** ![filter.png](/docs/.document360/assets/article_066/image_002.jpg).
-3. Select the [filter category](#categories) you desire, including if the filtered items should be [reduced or hidden](#filtered).
+3. Select the filter category you desire, including if the filtered items should be reduced or hidden.
 
 Your diagram is automatically updated.
 
@@ -28,7 +28,7 @@ To find specific asset types:
 
 1. Scroll through the list of asset types or use the search bar to locate a specific type.
 2. Toggle the type **On** or **Off**.
-3. Decide to [hide or reduce filtered items](#filtered).
+3. Decide to hide or reduce filtered items.
 
 ![asset-types.gif](/docs/.document360/assets/article_066/image_004.jpg)
 
@@ -48,7 +48,7 @@ To filter by IP location:
 2. Either:
    - Quickly select or unselect all your IP locations with **Select all** or **Unselect all**.
    - Scroll through the list of IP locations or use the search bar to locate a specific location, then toggle the location **On** or **Off**.
-3. Decide to [hide or reduce filtered items](#filtered) by selecting **Reduced** or **Hidden**.
+3. Decide to hide or reduce filtered items by selecting **Reduced** or **Hidden**.
 
 ![ip-range.gif](/docs/.document360/assets/article_066/image_005.jpg)
 
@@ -58,7 +58,7 @@ To filter by IP Range:
 2. Select either:
    - **Enter Start IP Address and End IP Address**: Enter the start and end IP addresses.
    - **Ender a range of IP Addresses**: Enter the IP range or a CIDR block by using - or / to define the location.
-3. Decide to [hide or reduce filtered items](#filtered) by selecting **Reduced** or **Hidden**.
+3. Decide to hide or reduce filtered items by selecting **Reduced** or **Hidden**.
 
 ### State
 

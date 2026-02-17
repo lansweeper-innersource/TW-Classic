@@ -1,5 +1,5 @@
 <!-- # Discover the Marketplace -->
-The **Marketplace** provides an overview of the currently available [Integrations](#heading1) and [Services](#heading2).
+The **Marketplace** provides an overview of the currently available Integrations and Services.
 
 ## Integrations
 

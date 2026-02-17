@@ -5,11 +5,11 @@ For an overview of all your scanning options, see [Lansweeper's Scanning Guide](
 
 This guide provides troubleshooting steps for issues you may encounter while scanning:
 
-- [Windows computers](#heading1)
-- [Linux or Unix computers](#heading2)
-- [Mac computers](#heading3)
-- [ESX, vCenter or Citrix servers](#heading4)
-- [Network devices like printers, switches, etc](#heading5)
+- Windows computers
+- Linux or Unix computers
+- Mac computers
+- ESX, vCenter or Citrix servers
+- Network devices like printers, switches, etc
 
 ## Windows computers
 

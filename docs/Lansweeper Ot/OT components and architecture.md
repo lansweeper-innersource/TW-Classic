@@ -4,10 +4,10 @@ For more information about Lansweeper OT, see [Lansweeper for OT Asset Manageme
 
 Lansweeper OT enables organizations to scan, detect, and identify a wide range of OT devices from popular manufacturers. It’s made up of four components:
 
-- [The hub](#hub)
-- [The sensor](#sensor)
-- [The update service](#update)
-- [Lansweeper Sites environment](#cloud)
+- The hub
+- The sensor
+- The update service
+- Lansweeper Sites environment
 
 ![sophie_0-1681926321446.png](/docs/.document360/assets/article_117/image_002.jpg)
 

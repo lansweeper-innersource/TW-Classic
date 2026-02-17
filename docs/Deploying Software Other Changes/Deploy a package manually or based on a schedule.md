@@ -1,5 +1,5 @@
 <!-- # Deploy a package manually or based on a schedule -->
-A package can be deployed [manually](#heading1) or [based on a schedule](#heading2). When a deployment is initiated, Lansweeper uses your scanning credentials to access the Task Scheduler on your machines, creates a task on your computers that will run the deployment steps, and ends the connection. The task is then run under your computer's system account, the scanning credential mapped to the computer or the user currently logged into the computer.
+A package can be deployed manually or based on a schedule. When a deployment is initiated, Lansweeper uses your scanning credentials to access the Task Scheduler on your machines, creates a task on your computers that will run the deployment steps, and ends the connection. The task is then run under your computer's system account, the scanning credential mapped to the computer or the user currently logged into the computer.
 
 It is generally recommended that you use the system account to run the task, which is the most secure. However, the other two options may be useful if your deployment requires special permissions or is meant to make changes to a specific user's installed software or registry keys.
 

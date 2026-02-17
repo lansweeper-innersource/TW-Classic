@@ -6,13 +6,13 @@ Once you’ve installed Lansweeper, [scanned your OT environment](/docs/scan-you
 
 There are a variety of options available to manage your OT assets. You can:
 
-- [View OT assets](#viewOT)
-- [Create OT assets](#createOT)
-- [Edit OT assets](#editOT)
-- [Create asset relationships](#relations)
-- [Add OT assets to groups](#groups)
-- [Add attachments or comments to OT assets](#attach)
-- [Delete OT assets](#deleteOT)
+- View OT assets
+- Create OT assets
+- Edit OT assets
+- Create asset relationships
+- Add OT assets to groups
+- Add attachments or comments to OT assets
+- Delete OT assets
 
 Your OT installation needs at least version 3.4.0 to manage OT assets on your site.
 

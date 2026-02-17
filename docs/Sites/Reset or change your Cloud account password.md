@@ -5,7 +5,7 @@ Using a strong, unique password for your [Lansweeper](https://www.lansweeper.com
 
 You can easily reset your password using the Cloud login page. Browse to [the login page](https://app.lansweeper.com/) and select **Forgot password?**![cloud-reset-password.png](/docs/.document360/assets/article_370/image_002.jpg)
 
-You will be asked to submit the email address of your Cloud account. An email is now sent to your email address, with a link to change your password. Click the link in the email and submit your new, preferred password. Make sure your password meets [the Cloud password requirements](#pswrequirements). After submission, you can log into Cloud with your email address and new password.
+You will be asked to submit the email address of your Cloud account. An email is now sent to your email address, with a link to change your password. Click the link in the email and submit your new, preferred password. Make sure your password meets the Cloud password requirements. After submission, you can log into Cloud with your email address and new password.
 
 Check your spam folder if you're unable to find the email sent to your Cloud account email address.
 
@@ -14,7 +14,7 @@ Check your spam folder if you're unable to find the email sent to your Cloud acc
 If you simply want to change your password, first log into the Cloud application. Browse to the **Settings** module, and select the **Account settings** menu within. In this view, you can select **Change password**.  
 ![cloud-change-password.png](/docs/.document360/assets/article_370/image_003.jpg)
 
-This triggers an email to be sent to your Cloud account email address, with a link to change your password. Click the link in the email and submit your new, preferred password. Make sure your password meets [the Cloud password requirements](#pswrequirements). After submission, you are taken back to the Cloud login page and you can log back in with your new password.
+This triggers an email to be sent to your Cloud account email address, with a link to change your password. Click the link in the email and submit your new, preferred password. Make sure your password meets the Cloud password requirements. After submission, you are taken back to the Cloud login page and you can log back in with your new password.
 
 Check your spam folder if you're unable to find the email sent to your Cloud account email address.
 

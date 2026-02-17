@@ -1,7 +1,7 @@
 <!-- # Grouping assets -->
 Lansweeper allows you to group various assets, making it quick and easy to look at specific network segments. You can group based on IP range (IP location group), other criteria like asset name or model (dynamic group) or manually (static group). To view the members of any group, hover over the **Assets** section in the web console and click the group name.
 
-This article explains how to configure the three types of available groups: [IP address range locations](#heading1), [static asset groups](#heading2), and [dynamic asset groups](#heading3).  
+This article explains how to configure the three types of available groups: IP address range locations, static asset groups, and dynamic asset groups.  
 ![grouping-assets-1.jpg](/docs/.document360/assets/article_132/image_001.jpg)
 
 An asset can belong to an unlimited number of asset groups. Asset groups are configured in the **Configuration > Asset Groups**section of the web console.  

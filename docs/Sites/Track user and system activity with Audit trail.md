@@ -28,11 +28,11 @@ For technical details and schema definitions, check out [the Types specificatio
 
 Currently, audit trails are grouped into four main categories:
 
-- [Site access](#siteaccess)
-- [Accounts configuration](#accountsconfig)
-- [Inventory configuration](#inventoryconfig)
-- [Discovery configuration](#discoveryconfig)
-- [Data extraction](#dataextraction)
+- Site access
+- Accounts configuration
+- Inventory configuration
+- Discovery configuration
+- Data extraction
 
 **All plans** **have access** to Site access, Accounts configuration, and Custom views. Inventory configuration is **only available** on Pro and higher plans. For more information on plans, check out [the pricing page](https://www.lansweeper.com/pricing/).
 

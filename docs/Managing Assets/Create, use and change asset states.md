@@ -4,7 +4,7 @@ Every scanned or manually created computer and device in Lansweeper has an asset
 
 There are built-in states, but you can create your own as well. By default, a machine's state is set to "active". However, this state can be changed, either manually or by enabling automated cleanup options.
 
-Reports found in the **Reports** tab of the web console can also be modified to list machines with other states. Assets with a state other than "active" can be found through the search bar as well and in the list in the **Assets** section of the web console. This article explains how you can [create your own asset states](#heading1), [change an asset's state manually](#heading2) or [change an asset's state through automated cleanup options](#heading3).
+Reports found in the **Reports** tab of the web console can also be modified to list machines with other states. Assets with a state other than "active" can be found through the search bar as well and in the list in the **Assets** section of the web console. This article explains how you can create your own asset states, change an asset's state manually or change an asset's state through automated cleanup options.
 
 ![creating-using-and-changing-asset-states-1.jpg](/docs/.document360/assets/article_129/image_002.jpg)
 

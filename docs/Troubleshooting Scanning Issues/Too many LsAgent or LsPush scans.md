@@ -5,8 +5,8 @@ If your server has less than 1 GB or less than 10% of available memory, the Lans
 
 To resolve this issue, you can:
 
-- [Direct agent scans to a different or new server](#heading1)
-- [Reduce the frequency or scope of your agent scans](#heading2)
+- Direct agent scans to a different or new server
+- Reduce the frequency or scope of your agent scans
 
 ## Direct agent scans to a different scan server
 

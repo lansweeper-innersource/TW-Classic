@@ -5,10 +5,10 @@ If you want to learn more about how Lansweeper protects your information, check 
 
 You can modify your site and accounts in a variety of ways. For example, you can:
 
-- [Delete a cloud site](#h10170307861676901789282)
-- [Disable a user's access](#h3123203151676901800243 "Disable a user's access")
-- [Delete a user's account](#h732073806181676901807533 "Delete a user's account")
-- [Delete your own account](#h370772145201676901816643 "Delete your own account")
+- Delete a cloud site
+- Disable a user's access
+- Delete a user's account
+- Delete your own account
 
 ## Delete a cloud site
 
@@ -30,10 +30,10 @@ If your Lansweeper Cloud site is linked to a paid license, it can only be manual
 
 To revoke a user's access to your cloud site:
 
-- [Disable a user's access](#h3123203151676901800243 "Disable a user's access")
-- [Delete a user's account](#h732073806181676901807533 "Delete a user's account")
+- Disable a user's access
+- Delete a user's account
 
-You can also permanently [Delete your own account](#h370772145201676901816643 "Delete your own account").
+You can also permanently Delete your own account.
 
 ### Disable a user's access
 

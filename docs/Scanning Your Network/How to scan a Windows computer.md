@@ -1,6 +1,6 @@
 <!-- # How to scan a Windows computer -->
 
-There are two main ways you can scan a Windows domain or workgroup computer: [using a scanning agent](#heading2) or [without using a scanning agent](#heading1).
+There are two main ways you can scan a Windows domain or workgroup computer: using a scanning agent or without using a scanning agent.
 
 You can use any of the following scan types to scan a new Windows computer that hasn't been scanned before: Active Directory Computer Path, Active Directory Domain, IP Range, Windows Computer, or Workgroup.
 

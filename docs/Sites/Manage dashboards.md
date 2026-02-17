@@ -7,11 +7,11 @@ Want to learn more about all the reports Lansweeper offers? Check out our [Repo
 
 On this page:
 
-- [View dashboards](#view)
-- [Create dashboards](#create)
-- [Configure widgets](#configure)
-- [Share dashboards](#share)
-- [Update dashboard information](#Update)
+- View dashboards
+- Create dashboards
+- Configure widgets
+- Share dashboards
+- Update dashboard information
 
 ## View dashboards
 
@@ -34,7 +34,7 @@ To create a new dashboard:
 1. Go to **Dashboard > Create new board.**
 2. Give your board a name, then select **Create board****.**
 3. Select **Add new widget** ![+.png](/docs/.document360/assets/article_339/image_002.jpg).
-4. [Configure widgets](#configure) as necessary.
+4. Configure widgets as necessary.
 5. Select **Save board** ![save.png](/docs/.document360/assets/article_339/image_003.jpg).
 
 ### Configure widgets

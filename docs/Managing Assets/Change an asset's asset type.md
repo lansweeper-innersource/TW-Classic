@@ -1,7 +1,7 @@
 <!-- # Change an asset's asset type -->
 When Lansweeper scans an asset, it automatically tries to determine its type: Linux, Unix, Mac or Windows computer, VMware server, NAS, printer, switch, etc. It does this by looking at open ports and information pulled from the following protocols: Bonjour, DNS-SD, FTP, HTTP, HTTPS, JetDirect, DNS, SIP, SMTP, SNMP (SNMPv1, SNMPv2 or SNMPv3), SSDP, SSH, Telnet, UPnP, and WMI.
 
-You may want to override scanned asset type information, however. There are two ways you can do this: by [manually editing the asset](#heading1) or by [remapping the asset's OID](#heading2). Remapping is useful if you have many assets of the same model whose type you want to change.
+You may want to override scanned asset type information, however. There are two ways you can do this: by manually editing the asset or by remapping the asset's OID. Remapping is useful if you have many assets of the same model whose type you want to change.
 
 You cannot change a Windows computer's type. An asset is automatically identified as Windows if port 135 is open on the asset and if you've submitted a valid credential. For Active Directory objects, the operating system attribute is also used to determine whether the asset is Windows or non-Windows. If the attribute includes the words "Windows" or "Hyper-V," the asset is deemed a Windows computer.
 

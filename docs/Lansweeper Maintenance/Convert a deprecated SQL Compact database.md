@@ -5,9 +5,9 @@ From March 2020 onward, Microsoft SQL Compact is deprecated and is no longer a s
 Existing data, reports and settings remain intact after converting a deprecated database. The exact procedure you should follow for converting your SQL Compact database depends on which Lansweeper version you are currently using.   
 It also depends on whether you have a fully functional Lansweeper installation under SQL Compact, or just a SQL Compact database file. If you have a functional Lansweeper installation, you can check its version number in the **Configuration > Your Lansweeper License** section of the web console.
 
-- [Convert a SQL Compact installation on Lansweeper version 7.2.107.4 or lower](#heading1)
-- [Convert a SQL Compact installation on Lansweeper version 7.2.108.6](#heading2)
-- [Converting if you only have a SQL Compact database file](#heading3)
+- Convert a SQL Compact installation on Lansweeper version 7.2.107.4 or lower
+- Convert a SQL Compact installation on Lansweeper version 7.2.108.6
+- Converting if you only have a SQL Compact database file
 
 ## Convert SQL Compact installation on version 7.2.107.4 or lower
 
@@ -27,7 +27,7 @@ If your SQL Compact installation is on Lansweeper version 7.2.108.6, you must ma
 3. Stop your web server service in Windows Services. Your web server service is either **IIS Express** or **World Wide Web Publishing Service** (IIS). Keep in mind that this will log everyone out of the console.   
    ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_098/image_003.jpg)
 4. Back up your SQL Compact database and other Lansweeper files. Your SQL Compact database stores all of your data, reports and settings. Create a copy of your SQL Compact database file and move it to a safe location outside of the Program Files folder. Your SQL Compact database file can be found at `Program Files (x86)\Lansweeper\SQLData\lansweeperdb.sdf`. ![moving-your-database-from-sql-compact-to-sql-localdb-5.jpg](/docs/.document360/assets/article_098/image_004.jpg)
-5. If you added any documents, images, widgets or other files to Lansweeper, back these up as well. Information on which folders store which files can be found in [this knowledge base article](#heading2). Make sure to back up Encryption.txt as well, which is used to encrypt and decrypt the credentials in your database. The file can be found at `Program Files (x86)\Lansweeper\Key\Encryption.txt`.  
+5. If you added any documents, images, widgets or other files to Lansweeper, back these up as well. Information on which folders store which files can be found in this knowledge base article. Make sure to back up Encryption.txt as well, which is used to encrypt and decrypt the credentials in your database. The file can be found at `Program Files (x86)\Lansweeper\Key\Encryption.txt`.  
 
    Do not back up the entire Website folder. Only back up the specific subfolders you need. Backing up and restoring the entire Website folder can lead to issues.
 6. Download and run [the 7.2.108.6 installer](https://cdn.lansweeper.com/download/7.2.108/6/LansweeperSetup.exe), choose **New installation** and then **Advanced install**.
@@ -55,7 +55,7 @@ If you only have a SQL Compact lansweeperdb.sdf file and not a fully functional 
 6. Stop your web server service, **IIS Express**, in Windows Services. Keep in mind that this will log everyone out of the console.  
    ![procedure-stopping-the-web-server-service.jpg](/docs/.document360/assets/article_098/image_009.jpg)
 7. Back up your SQL Compact database and other Lansweeper files. Your SQL Compact database stores all of your data, reports and settings. Create a copy of your 7.2.107.4 SQL Compact database file and move it to a safe location outside of the Program Files folder. Your SQL Compact database file can be found at `Program Files (x86)\Lansweeper\SQLData\lansweeperdb.sdf`. ![moving-your-database-from-sql-compact-to-sql-localdb-5.jpg](/docs/.document360/assets/article_098/image_010.jpg)
-8. If you added any documents, images, widgets or other files to Lansweeper, back these up as well. Information on which folders store which files can be found in [this knowledge base article](#heading2). Make sure to back up Encryption.txt as well, which is used to encrypt and decrypt the credentials in your database. This file can be found at `Program Files (x86)\Lansweeper\Key\Encryption.txt`.  
+8. If you added any documents, images, widgets or other files to Lansweeper, back these up as well. Information on which folders store which files can be found in this knowledge base article. Make sure to back up Encryption.txt as well, which is used to encrypt and decrypt the credentials in your database. This file can be found at `Program Files (x86)\Lansweeper\Key\Encryption.txt`.  
 
    Do not back up the entire Website folder. Only back up the specific subfolders you need. Backing up and restoring the entire Website folder can lead to issues.
 9. Run [the same 7.2.107.4 installer](https://cdn.lansweeper.com/download/7.2.107/4/LansweeperSetup.exe) you used earlier, choose **New installation** and then **Advanced install**.

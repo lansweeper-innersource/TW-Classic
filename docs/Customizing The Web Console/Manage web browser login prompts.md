@@ -7,8 +7,8 @@ If you enable authentication in your web server settings, the login screen disap
 
 Whether your browser starts prompting you for a username and password depends on the web browser itself. Some browsers will by default prompt for credentials. Others will by default automatically log into the console as the currently logged on Windows user, a process that is often referred to as Single Sign-On or SSO. To enable or disable web browser login prompts, you will need to make changes to your browser configuration. This article contains configuration instructions for:
 
-- [Chromium Browsers](#heading1) (e.g. Google Chrome, Microsoft Edge, Opera)
-- [Mozilla Firefox](#heading2)
+- Chromium Browsers (e.g. Google Chrome, Microsoft Edge, Opera)
+- Mozilla Firefox
 
 ## Manage login prompts in Chromium Browsers
 

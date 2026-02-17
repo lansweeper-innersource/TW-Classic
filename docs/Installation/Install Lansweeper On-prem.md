@@ -8,8 +8,8 @@ If you don't have Lansweeper On-prem yet, you can always [download Lansweeper On
 
 You don't need a Lansweeper license key to try out Lansweeper On-prem, but your installation will be in freeware mode. To fully unlock Lansweeper's potential, request an on-prem trial key at [Start Your Lansweeper On-prem Trial](https://www.lansweeper.com/classic/) or take a look at our [pricing & plans](https://www.lansweeper.com/pricing/) to purchase a license key.
 
-There are two main ways you can install the Lansweeper software, both of which are documented in this installation guide: you can choose an [Easy](#heading1) or an [Advanced](#heading2) install.  
-Regardless of your installation type, the [First Run Wizard](#FRW) will pop up after Lansweeper has finished installing.
+There are two main ways you can install the Lansweeper software, both of which are documented in this installation guide: you can choose an Easy or an Advanced install.  
+Regardless of your installation type, the First Run Wizard will pop up after Lansweeper has finished installing.
 
 To help you select the correct database server for your needs, we recommend reviewing the comparison list in [this knowledge base article](/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
 

@@ -4,12 +4,12 @@ Lansweeper has several optional features that require internet access to functio
 
 This information can help you correctly configure your firewalls and proxy servers for proper Lansweeper functioning. Most of the below features are disabled by default. This article is divided into multiple categories:
 
-- [Scanning](#heading1)
-- [Mailing](#heading2)
-- [Auto-update](#heading6)
-- [Lansweeper Sites](#heading3)
-- [Dashboard widgets](#heading4)
-- [Miscellaneous other features](#heading5)
+- Scanning
+- Mailing
+- Auto-update
+- Lansweeper Sites
+- Dashboard widgets
+- Miscellaneous other features
 
 ## Scanning
 

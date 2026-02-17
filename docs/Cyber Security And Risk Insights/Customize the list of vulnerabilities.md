@@ -7,11 +7,11 @@ Since more and more vulnerabilities are discovered, the list of Active vulnerabi
 
 With custom views, you can:
 
-- [Create a custom view](#customize)
-- [Sort by multiple columns](#sort)
-- [Create an advanced filter view](#advanced)
-- [Manage a custom view](#manage)
-- [Export a view](#export)
+- Create a custom view
+- Sort by multiple columns
+- Create an advanced filter view
+- Manage a custom view
+- Export a view
 
 This feature is available in Pro and higher plans. It is available for a limited time for all users to try it out. For more information on plans, check out [the pricing page](https://www.lansweeper.com/pricing/).
 

@@ -1,7 +1,7 @@
 <!-- # VMware server scanning requirements -->
 VMware servers can be scanned directly with a read-only credential to the server or [indirectly through their vCenter server](/docs/scan-a-vcenter-server). To scan a VMware ESX(i) server directly, certain requirements must be met. Specifically, you must set up a user with read-only access to the server. In order for Lansweeper to link your VMware guest assets to their hosts, you must also ensure that the VMware Tools are installed on the guest machines.
 
-This article explains how to set up a user with read-only access to your VMware server, so you can submit it as a scanning credential in Lansweeper. There are instructions for both the [VMware web client](#heading1) and [locally installed vSphere client](#heading2).
+This article explains how to set up a user with read-only access to your VMware server, so you can submit it as a scanning credential in Lansweeper. There are instructions for both the VMware web client and locally installed vSphere client.
 
 ## Configuring a VMware server with web client
 

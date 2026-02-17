@@ -7,7 +7,7 @@ Credential-free Device Recognition is a feature introduced in Lansweeper 8.2. Yo
 
 CDR allows Lansweeper to more accurately determine the asset type of certain devices, adding additional information that could previously not be retrieved without credentials, such as the manufacturer, model and operating system. This means that assets that were previously generically identified can now be enriched.
 
-This article details [how this feature works](#howitworks), [how to enable it](#howto/) and [what the pitfalls are](#troubleshooting).
+This article details how this feature works, how to enable it and what the pitfalls are.
 
 ## How Credential-free Device Recognition works
 

@@ -1,7 +1,7 @@
 <!-- # Manage Lansweeper Cloud SSO -->
 Using Single Sign-On (SSO) to log in to Lansweeper is recommended, as it has a number of benefits; it simplifies management tasks, eliminates the need for each user to have multiple login/password combinations and allows you to enforce your own security policies, among other things. If you want to set up your SSO connection, see [Set up Lansweeper Cloud SSO](/docs/set-up-lansweeper-sso).
 
-However, there are occasions when you may need to [disable](#disabledomain) or [delete](#deletedomain.) a verified and enabled domain from your SSO configuration, or [delete](#deletesso) the SSO connection altogether.
+However, there are occasions when you may need to disable or delete a verified and enabled domain from your SSO configuration, or delete the SSO connection altogether.
 
 ## Disable or delete a domain
 
@@ -23,7 +23,7 @@ The domain has been disabled for the SSO connection.
 
 ### Delete a domain
 
-If the domain is not disabled yet, follow the steps on [disabling a domain](#disabledomain).
+If the domain is not disabled yet, follow the steps on disabling a domain.
 
 1. Go to **Settings > Single Sign-On**.
 2. Select **Delete domain** for the domain you want to disable.  
@@ -36,7 +36,7 @@ The domain has been deleted for the SSO connection.
 
 You will lose all information of the SSO connection and its added domains if you delete an SSO connection.
 
-Before you can delete an SSO connection, you need to [disable or delete](#disabledeletedomain) all its enabled domains.   
+Before you can delete an SSO connection, you need to disable or delete all its enabled domains.   
 To delete an SSO connection:
 
 1. Go to **Settings > Single Sign-On**.

@@ -7,27 +7,27 @@ Remember that Diagrams currently only display IT assets that are synced in your 
 
 On this page:
 
-- [Types of relations](#types)
+- Types of relations
 
-- [Discovered SNMP relations](#SNMP)
-- [Other discovered relations](#Other)
-- [Relations created manually](#Manual)
+- Discovered SNMP relations
+- Other discovered relations
+- Relations created manually
 
-- [How are relations displayed?](#Display)
-- [Discovered relations](#discoveredrelations)
-- [Manual relations](#manualrelations)
-- [Logical groups](#logicalgroups)
+- How are relations displayed?
+- Discovered relations
+- Manual relations
+- Logical groups
 
-- [Assets with a shared IP location](#sharedIP)
-- [Locations](#Locations)
-- [Physical machines hosting virtual machines](#Physical)
-- [Shared properties on virtual templates](#Shared)
+- Assets with a shared IP location
+- Locations
+- Physical machines hosting virtual machines
+- Shared properties on virtual templates
 
-- [Groups of relations](#groups)
-- [Types of relationship indicators](#indicators)
-- [Handle orphan assets](#Orphan)
-- [Add relations](#addrelations)
-- [Next steps](#Next)
+- Groups of relations
+- Types of relationship indicators
+- Handle orphan assets
+- Add relations
+- Next steps
 
 ## Types of relations
 
@@ -45,7 +45,7 @@ You may also want to expose network interface uplinks. By default, if Lansweeper
 
 To learn more about a discovered SNMP relation, select the link to display the relation type, speed, and information port.
 
-By configuring your SNMP credentials correctly, you can improve the discovery and display of these relationships on your diagrams. This limits the number of [orphan assets](#Orphan "Handle orphan assets") and the number of relations you would have to create manually.
+By configuring your SNMP credentials correctly, you can improve the discovery and display of these relationships on your diagrams. This limits the number of orphan assets and the number of relations you would have to create manually.
 
 ### **Other discovered relations**
 
@@ -88,10 +88,10 @@ Other discovered relations and relations created manually are represented by a s
 
 Some relations between assets are displayed as logical groups to simplify how you view your diagrams. Relations are shown as logical groups in the following scenarios:
 
-- [Assets with a shared IP location](#sharedIP)
-- [Location asset type](#Location)
-- [Physical machines hosting virtual machines](#Physical)
-- [Shared properties on Virtual Environment templates](#Shared)
+- Assets with a shared IP location
+- Location asset type
+- Physical machines hosting virtual machines
+- Shared properties on Virtual Environment templates
 
 #### Assets with a shared IP location
 
@@ -112,10 +112,10 @@ If you have a Location asset type within the scope of your diagram, it will be d
 You can choose to not display Location asset types on your diagram by going to **Settings > Informational** and not selecting the **Location (asset)** option in the **Grouping behavior** section.  
 ![sophie_3-1686148047013.png](/docs/.document360/assets/article_064/image_006.jpg)
 
-To add an asset to a Location, [add a relation](#addrelation) to your asset. For **Asset**, select the asset with a Location asset type, then for **Relation type** select the **Is located in** option.  
+To add an asset to a Location, add a relation to your asset. For **Asset**, select the asset with a Location asset type, then for **Relation type** select the **Is located in** option.  
 ![location-add-relation.png](/docs/.document360/assets/article_064/image_007.jpg)
 
-[Regenerate your diagram](#Regenerate) to ensure the asset is displayed within the Location’s logical group.
+Regenerate your diagram to ensure the asset is displayed within the Location’s logical group.
 
 #### Physical machines hosting virtual machines
 

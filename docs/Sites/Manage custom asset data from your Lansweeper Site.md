@@ -11,20 +11,20 @@ The benefits of enabling this feature are:
 - **Custom asset data in integrations:** Include custom asset data in your integrations for enhanced data management.
 - **Multiple Lansweeper On-premises installations:** If you have multiple Lansweeper On-premises installations, your custom asset data is federated, providing a consolidated view in your site.
 
-Before enabling this feature, it’s essential to understand the implications. Please make sure to carefully review the [requirements and considerations](#requirements).
+Before enabling this feature, it’s essential to understand the implications. Please make sure to carefully review the requirements and considerations.
 
 On this page:
 
-- [What Is Custom Asset Data?](#what)
-- [Requirements & Considerations](#requirements)
-- [Manage Custom Fields](#customfields)
-  - [Enable the Management of Custom Fields](#enable-customfields)
-  - [View, Edit, Delete, or Add Custom Fields](#edit-customfields)
-  - [Edit the Values of Custom Fields](#values-customfields)
-- [Manage Asset States, Types, Relation Types, and Groups](#customassetdata)
-  - [Enable the Management of Asset States, Types, Relation Types, and Groups](#enable-customassetdata)
-  - [View, Edit, Delete, or Add Asset States, Types, Relation Types, and Groups](#edit-customassetdata)
-  - [Edit Asset Data Values](#values-customassetdata)
+- What Is Custom Asset Data?
+- Requirements & Considerations
+- Manage Custom Fields
+  - Enable the Management of Custom Fields
+  - View, Edit, Delete, or Add Custom Fields
+  - Edit the Values of Custom Fields
+- Manage Asset States, Types, Relation Types, and Groups
+  - Enable the Management of Asset States, Types, Relation Types, and Groups
+  - View, Edit, Delete, or Add Asset States, Types, Relation Types, and Groups
+  - Edit Asset Data Values
 
 ## What Is Custom Asset Data?
 

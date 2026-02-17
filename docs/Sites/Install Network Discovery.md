@@ -4,27 +4,27 @@ Lansweeper's Network Discovery enables you to discover all IT and OT assets with
 
 On this page:
 
-- [Requirements](#requirements)   
-  - [Connection requirements](#connection)
-  - [Supported operating systems](#OS "Supported operating systems")
-  - [System requirements](#SystemRequirements)
-- [Installation paths and logs](#pathsandlogs)
-- [Install Network Discovery on Windows](#Windows "Install Network Discovery on Windows")
-  - [Install Network Discovery on Windows interactively](#WInteractive "Install Network Discovery on Windows interactively")
-  - [Install Network Discovery on Windows silently](#WMethod1)
-  - [Uninstall Network Discovery on Windows](#WUninstall "Uninstall Network Discovery on Windows")
-- [Install Network Discovery on Linux](#ILinux "Install Network Discovery on Linux")
-  - [Uninstall Network Discovery on Linux](#ULinux "Uninstall Network Discovery on Linux")
-- [Install Network Discovery on macOS](#InstallMac "Install Network Discovery on macOS")
-  - [Install Lansweeper Network Discovery on macOS interactively](#ImacoOS "Install Lansweeper Network Discovery on macOS interactively ")
-  - [Install Network Discovery on macOS silently](#silentmacoOS)
-  - [Uninstall Network Discovery on macOS](#UmacOS "Uninstall Network Discovery on macOS")
-- [Start Network Discovery](#startnetworkdiscovery)
-- [Change the default certificate](#changecertificate)
-- [Set a proxy for Network Discovery](#setProxy)
-- [Link Network Discovery to Lansweeper site](#linkdiscovery)
-- [Remove Network Discovery from Lansweeper site](#remove)
-- [Frequently asked questions (FAQ)](#faq)
+- Requirements   
+  - Connection requirements
+  - Supported operating systems
+  - System requirements
+- Installation paths and logs
+- Install Network Discovery on Windows
+  - Install Network Discovery on Windows interactively
+  - Install Network Discovery on Windows silently
+  - Uninstall Network Discovery on Windows
+- Install Network Discovery on Linux
+  - Uninstall Network Discovery on Linux
+- Install Network Discovery on macOS
+  - Install Lansweeper Network Discovery on macOS interactively
+  - Install Network Discovery on macOS silently
+  - Uninstall Network Discovery on macOS
+- Start Network Discovery
+- Change the default certificate
+- Set a proxy for Network Discovery
+- Link Network Discovery to Lansweeper site
+- Remove Network Discovery from Lansweeper site
+- Frequently asked questions (FAQ)
 
 ## Requirements
 
@@ -39,7 +39,7 @@ The computer running the hub component of Network Discovery must allow the follo
 | [https://download.lansweeper.com/](https://download.lansweeper.com/ "https://download.lansweeper.com") (port 443) | Downloads updates automatically when a new version is released. |
 | <https://app.lansweeper.com/api/scanner-connect> (port 443) | Required to provide connection data to your Lansweeper site for multi-region (EU/US). |
 
-If the computer running Network Discovery requires a proxy server, you can provide the details using [this procedure](#setProxy).
+If the computer running Network Discovery requires a proxy server, you can provide the details using this procedure.
 
 If you're seeing "An issue occurred during linking: Cloud installation could not be created. You can try again by clicking the button link with Lansweeper site Or go to your local Hub", ensure these connection requirements are met.
 
@@ -130,7 +130,7 @@ Gather the logs on Windows using `C:\Program Files\Lansweeper Network Discovery
 
 #### Install Network Discovery on Windows interactively
 
-1. Ensure your [Windows operating system](#OSWindows) is supported.
+1. Ensure your Windows operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. If you have multiple Lansweeper sites, select the site to which you want to link Network Discovery.
 4. Go to **Discovery (or Scanning) > Discovery systems > Download installers/packages** and navigate to the**Network Discovery**section.
@@ -147,13 +147,13 @@ Gather the logs on Windows using `C:\Program Files\Lansweeper Network Discovery
 13. Select **Next**.
 14. Select **Open Hub after finishing the installer > Finish**.
 
-Now that Network Discovery is installed, [check out the Hub and start Network Discovery](#startnetworkdiscovery "Configure Network Discovery").
+Now that Network Discovery is installed, check out the Hub and start Network Discovery.
 
 ### Install Network Discovery on Windows silently
 
 #### Method 1
 
-1. Ensure your [Windows operating system](#OSWindows) is supported.
+1. Ensure your Windows operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. If you have multiple Lansweeper sites, select the site to which you want to link Network Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems > Download installers/packages** and navigate to the**Network Discovery**section.
@@ -185,11 +185,11 @@ Now that Network Discovery is installed, [check out the Hub and start Network Di
 
     The version numbers for your installer can be found in your Lansweeper site. Go to **Scanning > Download installers/packages > Network Discovery installer > Version** and locate your installer.
 
-Now that Network Discovery is installed, [check out the Hub and start Network Discovery](#startnetworkdiscovery "Configure Network Discovery").
+Now that Network Discovery is installed, check out the Hub and start Network Discovery.
 
 #### Method 2
 
-1. Ensure your [Windows operating system](#OSWindows) is supported.
+1. Ensure your Windows operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. If you have multiple Lansweeper sites, select the site to which you want to link Network Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems> Download installers/packages** and navigate to the**Network Discovery**section.
@@ -205,7 +205,7 @@ Now that Network Discovery is installed, [check out the Hub and start Network Di
 
    The version numbers for your installer can be found in your Lansweeper site. Go to **Scanning > Download installers/packages > Network Discovery installer > Version** and locate your installer.
 
-Now that Network Discovery is installed, [check out the Hub and start Network Discovery](#startnetworkdiscovery "Configure Network Discovery").
+Now that Network Discovery is installed, check out the Hub and start Network Discovery.
 
 ## Uninstall Network Discovery on Windows
 
@@ -225,7 +225,7 @@ Active Directory discovery is not supported on Linux sensors due to connectivity
 
 Only silent installs are currently supported for Network Discovery on Linux.
 
-1. Ensure your [Linux operating system](#OSLinux) is supported.
+1. Ensure your Linux operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. If you have multiple Lansweeper sites, select the site to which you want to link Network Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems > Download installers/packages** and navigate to the**Network Discovery**section.
@@ -273,7 +273,7 @@ sudo apt update && apt upgrade lansweeper-network-discovery-hub sudo apt update 
    sudo yum update && yum upgrade lansweeper-network-discovery-ot-sensor
    ```
 
-Now that Network Discovery is installed, [check out the Hub and start Network Discovery](#startnetworkdiscovery "Configure Network Discovery").
+Now that Network Discovery is installed, check out the Hub and start Network Discovery.
 
 ### Optional: Link your Linux sensor to a remote Windows/Linux/macOS Network Discovery hub
 
@@ -315,7 +315,7 @@ If the computer running Network Discovery requires a proxy server, use a silent 
 
 #### Install Lansweeper Network Discovery on macOS interactively
 
-1. Ensure your [macOS operating system](#OSMac) is supported.
+1. Ensure your macOS operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. If you have multiple Lansweeper sites, select the site to which you want to link Network Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems > Download installers/packages** and navigate to the**Network Discovery**section.
@@ -331,13 +331,13 @@ If the computer running Network Discovery requires a proxy server, use a silent 
 
     On macOS 15 and higher, you will need to manually trust the certificate. You can do so by opening a browser and navigating to [https://localhost:59525](https://localhost:59525/ "https://localhost:59525"), and selecting **View certificate**.
 
-Now that Network Discovery is installed, [check out the Hub and start Network Discovery](#startnetworkdiscovery "Configure Network Discovery").
+Now that Network Discovery is installed, check out the Hub and start Network Discovery.
 
 ### Install Network Discovery on macOS silently
 
 #### Method 1 - PKG deployment
 
-1. Ensure your [macOS operating system](#OSMac) is supported.
+1. Ensure your macOS operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. If you have multiple Lansweeper sites, select the site to which you want to link Network Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems > Download installers/packages** and navigate to the**Network Discovery**section.
@@ -371,11 +371,11 @@ Now that Network Discovery is installed, [check out the Hub and start Network Di
 
     On macOS 15 and higher, you will need to manually trust the certificate. You can do so by opening a browser and navigating to [https://localhost:59525](https://localhost:59525/ "https://localhost:59525"), and selecting **View certificate**.
 
-Now that Network Discovery is installed, [check out the Hub and start Network Discovery](#startnetworkdiscovery "Configure Network Discovery").
+Now that Network Discovery is installed, check out the Hub and start Network Discovery.
 
 ### Method 2 - DMG deployment
 
-1. Ensure your [macOS operating system](#OSMac) is supported.
+1. Ensure your macOS operating system is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. If you have multiple Lansweeper sites, select the site to which you want to link Network Discovery.
 4. Go to **Discovery (or Scanning)****> Discovery systems > Download installers/packages** and navigate to the**Network Discovery**section.
@@ -393,7 +393,7 @@ Now that Network Discovery is installed, [check out the Hub and start Network Di
 
     On macOS 15 and higher, you will need to manually trust the certificate. You can do so by opening a browser and navigating to [https://localhost:59525](https://localhost:59525/ "https://localhost:59525"), and selecting **View certificate**.
 
-Now that Network Discovery is installed, [check out the Hub and start Network Discovery](#startnetworkdiscovery "Configure Network Discovery").
+Now that Network Discovery is installed, check out the Hub and start Network Discovery.
 
 ### Uninstall Network Discovery on macOS
 

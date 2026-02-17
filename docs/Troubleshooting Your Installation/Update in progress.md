@@ -12,7 +12,7 @@ Update in progress. Processing script -1 of Y.
 ```
 
 The message below indicates that your web console is on a higher Lansweeper release than the database and is waiting for the database update scripts to finish processing. It is recommended that you wait at least 15 minutes and refresh the web console to see if the execution of the scripts is progressing as expected. If this message does not change after 15 minutes, however, your scanning server might not be on the same Lansweeper release as the web console. This might suggest that there is an issue with your scanning service connecting to your Lansweeper database or a database issue in general.   
-In this article, you can find [quick steps](#heading1) and more [extensive steps](#heading2) you can perform to resolve this issue.![Update-in-progress-1.png](/docs/.document360/assets/article_301/image_001.jpg)
+In this article, you can find quick steps and more extensive steps you can perform to resolve this issue.![Update-in-progress-1.png](/docs/.document360/assets/article_301/image_001.jpg)
 
 ## Quick Steps to resolve update in progress
 

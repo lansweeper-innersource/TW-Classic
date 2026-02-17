@@ -15,7 +15,7 @@ For more information on preparing your cloud environment, see [Set up Cloud sens
 
 ### Create a new Cloud Discovery action
 
-Cloud Discovery uses the Cloud discovery action to scan for assets in your cloud infrastructure. Currently, you can select either [Microsoft Azure](#azure), [Microsoft Intune](#intune), [Microsoft Entra ID and Microsoft 365](#entra365), [Amazon Web Services (AWS)](#aws), or [Google Cloud Platform (GCP)](#gcp) as your cloud provider.
+Cloud Discovery uses the Cloud discovery action to scan for assets in your cloud infrastructure. Currently, you can select either Microsoft Azure, Microsoft Intune, Microsoft Entra ID and Microsoft 365, Amazon Web Services (AWS), or Google Cloud Platform (GCP) as your cloud provider.
 
 #### Microsoft Azure
 

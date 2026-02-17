@@ -3,7 +3,7 @@ Lansweeper allows you to scan networks ranging from just a few to hundreds of th
 
 A Lansweeper Classic installation consists of 3 components. A default setup contains one database, one web console and one scanning service, all located on the same machine. Depending on the size and complexity of your network you can choose to spread out your components and/or add additional scanning services across several machines.
 
-This article explains the layout and function of both a [default Lansweeper Classic setup](#heading1) and an [advanced, custom setup](#heading2).
+This article explains the layout and function of both a default Lansweeper Classic setup and an advanced, custom setup.
 
 ## Default setup
 

@@ -29,7 +29,7 @@ This is useful to detect software packages not listed in Add/Remove Programs for
 8. To view scan results, browse to the **Scanning > File & Registry Scanning** section, and select **Report**.  
    ![File and directory scanning Windows 3.png](/docs/.document360/assets/article_247/image_006.jpg)  
 
-   Alternatively, you can run a [custom report](#post39292) or view an individual computer's scan results in the **Config > Scanned Info > File Info** section of the computer's Lansweeper webpage.
+   Alternatively, you can run a custom report or view an individual computer's scan results in the **Config > Scanned Info > File Info** section of the computer's Lansweeper webpage.
 
    ![scanning-file-properties-with-custom-file-scanning-6.jpg](/docs/.document360/assets/article_247/image_007.jpg)
    - If a file's **Found** value is set to **True**, that means the file was found on the computer and you can view the file's properties.

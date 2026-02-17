@@ -69,4 +69,4 @@ Generate or purchase a certificate and add it to the root certificate store of 
 
 ![sophie_5-1680175610259.png](/docs/.document360/assets/article_179/image_007.jpg)
 
-To use the application, see the list of possible tasks you can complete in [How does Lansweeper use Microsoft Cloud Services applications?](#how "How does Lansweeper use Microsoft Cloud Services applications?") and follow the instructions in the related article.
+To use the application, see the list of possible tasks you can complete in How does Lansweeper use Microsoft Cloud Services applications? and follow the instructions in the related article.

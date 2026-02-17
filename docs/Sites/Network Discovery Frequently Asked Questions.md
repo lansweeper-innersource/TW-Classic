@@ -4,28 +4,28 @@ Lansweeper's Network Discovery enables you to discover all IT and OT assets with
 
 ## Frequently asked questions (FAQ)
 
-- [Can I install "(full) Network Discovery" on a machine that already has "OT Network Discovery"?](#q1)
-- [During the installer I get the message: “There has been an error. Could not start Lansweeper IT Netw...](#q2)
-- [What are the installer return codes and possible error messages?](#q3)
-- [Why am I not seeing all asset data (yet)?](#q4)
-- [How do I solve duplicate issues?](#q5)
-- [Can I unlink the Network Discovery from my Lansweeper Site?](#q6)
-- [Can I reset or change the password from my Network Discovery Hub?](#q7)
-- [I’m not seeing an asset for IT Agent/Network Discovery in my inventory. Why is it not appearing?](#q8)
-- [How can I deal with the license limit when using Lansweeper Discovery in Configuration > License sta...](#q9)
-- [I’m currently using Lansweeper On-premises with Lansweeper Site. Can I use Lansweeper Discovery in t...](#q10)
-- [How do I avoid duplicates when using Lansweeper Discovery together with Lansweeper On-Premises in my...](#q11)
-- [My discovery results aren’t showing up in my Lansweeper Site, how can I troubleshoot this?](#q12)
-- [If I want to move from Lansweeper On Prem to Lansweeper Discovery but have thousands of manually cre...](#q13)
-- [How many Network Discovery IT/OT sensors should I deploy? Does Network Discovery have load balancing...](#q14)
-- [Can I install Lansweeper Network Discovery on Linux box?](#q15)
-- [If I have two hubs installed and the credentials are saved to the first hub, are they only used for ...](#q16)
-- [Why is my Network Discovery installed on Linux only reporting back recognition data but no detailed ...](#q17)
-- [What is the packet size of the message Lansweeper sends to the assets for discovery, and what can be...](#q18)
-- [Do the Network Discovery hub and/or sensor update automatically on Linux?](#q19)
-- [Why does the installation of Network Discovery fail with “Unable to initialize installer” on Windows...](#q20)
-- [How are the credentials handled in rest and in transit when using Network Discovery?](#q21)
-- [How can I backup Network Discovery?](#q22)
+- Can I install "(full) Network Discovery" on a machine that already has "OT Network Discovery"?
+- During the installer I get the message: “There has been an error. Could not start Lansweeper IT Netw...
+- What are the installer return codes and possible error messages?
+- Why am I not seeing all asset data (yet)?
+- How do I solve duplicate issues?
+- Can I unlink the Network Discovery from my Lansweeper Site?
+- Can I reset or change the password from my Network Discovery Hub?
+- I’m not seeing an asset for IT Agent/Network Discovery in my inventory. Why is it not appearing?
+- How can I deal with the license limit when using Lansweeper Discovery in Configuration > License sta...
+- I’m currently using Lansweeper On-premises with Lansweeper Site. Can I use Lansweeper Discovery in t...
+- How do I avoid duplicates when using Lansweeper Discovery together with Lansweeper On-Premises in my...
+- My discovery results aren’t showing up in my Lansweeper Site, how can I troubleshoot this?
+- If I want to move from Lansweeper On Prem to Lansweeper Discovery but have thousands of manually cre...
+- How many Network Discovery IT/OT sensors should I deploy? Does Network Discovery have load balancing...
+- Can I install Lansweeper Network Discovery on Linux box?
+- If I have two hubs installed and the credentials are saved to the first hub, are they only used for ...
+- Why is my Network Discovery installed on Linux only reporting back recognition data but no detailed ...
+- What is the packet size of the message Lansweeper sends to the assets for discovery, and what can be...
+- Do the Network Discovery hub and/or sensor update automatically on Linux?
+- Why does the installation of Network Discovery fail with “Unable to initialize installer” on Windows...
+- How are the credentials handled in rest and in transit when using Network Discovery?
+- How can I backup Network Discovery?
 
 ### Can I install "(full) Network Discovery" on a machine that already has "OT Network Discovery"?
 

@@ -3,11 +3,11 @@ The new BI Dashboards in Lansweeper Sites are designed to empower you with flexi
 
 With advanced filtering capabilities, you can quickly refine your data to uncover precise insights, while alert features let you stay on top of key metrics through timely email notifications. For sharing and analysis, the dashboards offer versatile export options and powerful tools for in-depth data exploration, enabling a deeper understanding of your analytics than ever before.
 
-- [Create a new dashboard](#create)
-- [Modify a dashboard](#modify)
-- [Share dashboards](#share)
-- [Datasets](#datasets)
-- [Static and dynamic filters](#filters)
+- Create a new dashboard
+- Modify a dashboard
+- Share dashboards
+- Datasets
+- Static and dynamic filters
 
 ## Create a new dashboard
 

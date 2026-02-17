@@ -6,11 +6,11 @@ The security and confidentiality of credentials and scanned data are of critical
 
 This article highlights some of the measures built into Lansweeper to protect your data and credentials and to eliminate security risks. Topics discussed are:
 
-- [Security of submitted scanning and other credentials](#heading1)
-- [Security of the database and its connection string](#heading2)
-- [Restrictions on running database scripts](#heading3)
-- [Security of the web console](#heading4)
-- [Permissions on installation folders](#heading5)
+- Security of submitted scanning and other credentials
+- Security of the database and its connection string
+- Restrictions on running database scripts
+- Security of the web console
+- Permissions on installation folders
 
 ## Security of submitted scanning and other credentials
 
