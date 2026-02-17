@@ -1,0 +1,2860 @@
+URL REPLACEMENT BY ID REPORT
+================================================================================
+
+File: Actions\Create and run actions.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64275
+  Old: https://community.lansweeper.com/t5/actions/configuring-google-chrome-to-run-actions/ta-p/64275
+  New: /docs/configure-google-chrome-to-run-actions
+--------------------------------------------------------------------------------
+  ID: 64264
+  Old: https://community.lansweeper.com/t5/actions/configuring-mozilla-firefox-to-run-actions/ta-p/64264
+  New: /docs/configure-mozilla-firefox-to-run-actions
+--------------------------------------------------------------------------------
+  ID: 64562
+  Old: https://community.lansweeper.com/t5/actions/configuring-opera-to-run-actions/ta-p/64562
+  New: /docs/configure-opera-to-run-actions
+--------------------------------------------------------------------------------
+  ID: 64561
+  Old: https://community.lansweeper.com/t5/actions/configuring-microsoft-edge-to-run-actions/ta-p/64561
+  New: /docs/configure-microsoft-edge-to-run-actions
+--------------------------------------------------------------------------------
+
+File: Billing Related Questions\Assets that count toward your licensed asset limit.md
+  ID: 75091
+  Old: https://community.lansweeper.com/t5/cloud/discovery-configuration/ta-p/75091
+  New: /docs/overview-of-discovery-components-and-configuration
+--------------------------------------------------------------------------------
+
+File: Billing Related Questions\Freeware and trial limitations.md
+  ID: 64515
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-lansweeper-cloud/ta-p/64515
+  New: /docs/introduction-to-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 65180
+  Old: https://community.lansweeper.com/t5/cloud/install-the-lansweeper-cloud-first-trial/ta-p/65180
+  New: /docs/install-the-lansweeper-trial
+--------------------------------------------------------------------------------
+
+File: Billing Related Questions\Manage helpdesk agents.md
+  ID: 64310
+  Old: https://community.lansweeper.com/t5/installation/applying-your-lansweeper-license/ta-p/64310
+  New: /docs/apply-your-lansweeper-license
+--------------------------------------------------------------------------------
+  ID: 64310
+  Old: https://community.lansweeper.com/t5/installation/applying-your-lansweeper-license/ta-p/64310
+  New: /docs/apply-your-lansweeper-license
+--------------------------------------------------------------------------------
+
+File: Billing Related Questions\Register Lansweeper as a vendor if you're located in the United States.md
+  ID: 72659
+  Old: https://community.lansweeper.com/t5/billing-related-questions/i-m-outside-of-the-united-states-and-want-to-register-lansweeper-as-a/ta-p/72659
+  New: /docs/register-lansweeper-as-a-vendor-if-youre-located-outside-of-the-united-states
+--------------------------------------------------------------------------------
+  ID: 72659
+  Old: https://community.lansweeper.com/t5/billing-related-questions/i-m-outside-of-the-united-states-and-want-to-register-lansweeper-as-a/ta-p/72659
+  New: /docs/register-lansweeper-as-a-vendor-if-youre-located-outside-of-the-united-states
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Configure ticket types, states and priorities.md
+  ID: 64395
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/creating-and-adding-custom-fields-to-ticket-types/ta-p/64395
+  New: /docs/create-and-add-custom-fields-to-ticket-types
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Configure, use and create articles in the knowledge base.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Create ticket templates.md
+  ID: 64419
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/configuring-using-and-creating-articles-in-the-knowledge-base/ta-p/64419
+  New: /docs/configure-use-and-create-articles-in-the-knowledge-base
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Introduction to the help desk.md
+  ID: 64509
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/converting-a-deprecated-sql-compact-database/ta-p/64509
+  New: /docs/convert-a-deprecated-sql-compact-database
+--------------------------------------------------------------------------------
+  ID: 64392
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/receiving-tickets-through-the-web-console-email-api-import/ta-p/64392
+  New: /docs/receive-tickets-through-the-web-console-email-api-import
+--------------------------------------------------------------------------------
+  ID: 64393
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/configuring-ticket-types-states-and-priorities/ta-p/64393
+  New: /docs/configure-ticket-types-states-and-priorities
+--------------------------------------------------------------------------------
+  ID: 64395
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/creating-and-adding-custom-fields-to-ticket-types/ta-p/64395
+  New: /docs/create-and-add-custom-fields-to-ticket-types
+--------------------------------------------------------------------------------
+  ID: 64446
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/configuring-and-using-ticket-filters/ta-p/64446
+  New: /docs/configure-and-use-ticket-filters
+--------------------------------------------------------------------------------
+  ID: 64394
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/configuring-service-level-agreements/ta-p/64394
+  New: /docs/configure-service-level-agreements
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Perform actions on new tickets using dispatching rules.md
+  ID: 64392
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/receiving-tickets-through-the-web-console-email-api-import/ta-p/64392
+  New: /docs/receive-tickets-through-the-web-console-email-api-import
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Reset the ticket ID counter.md
+  ID: 64309
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/backing-up-your-installation/ta-p/64309
+  New: /docs/back-up-your-installation
+--------------------------------------------------------------------------------
+  ID: 64412
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/deleting-tickets/ta-p/64412
+  New: /docs/delete-tickets-from-the-helpdesk
+--------------------------------------------------------------------------------
+  ID: 64493
+  Old: https://community.lansweeper.com/t5/reporting/how-to-add-a-report-to-your-lansweeper-installation/ta-p/64493
+  New: /docs/add-a-report-to-your-lansweeper-installation
+--------------------------------------------------------------------------------
+  ID: 64309
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/backing-up-your-installation/ta-p/64309
+  New: /docs/back-up-your-installation
+--------------------------------------------------------------------------------
+  ID: 64412
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/deleting-tickets/ta-p/64412
+  New: /docs/delete-tickets-from-the-helpdesk
+--------------------------------------------------------------------------------
+  ID: 64493
+  Old: https://community.lansweeper.com/t5/reporting/how-to-add-a-report-to-your-lansweeper-installation/ta-p/64493
+  New: /docs/add-a-report-to-your-lansweeper-installation
+--------------------------------------------------------------------------------
+
+File: Configuring Using The Helpdesk\Share information with the News widget.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Automatically logging in with the built-in admin.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Enable authentication in IIS Express.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64362
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/enabling-or-disabling-web-browser-login-prompts/ta-p/64362
+  New: /docs/manage-web-browser-login-prompts
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Enable authentication in IIS.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64362
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/enabling-or-disabling-web-browser-login-prompts/ta-p/64362
+  New: /docs/manage-web-browser-login-prompts
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\List of currency culture codes.md
+  ID: 64344
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/setting-the-currency-format/ta-p/64344
+  New: /docs/set-the-currency-format
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Manage web browser login prompts.md
+  ID: 64278
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/enabling-authentication-in-iis-express/ta-p/64278
+  New: /docs/enable-authentication-in-iis-express
+--------------------------------------------------------------------------------
+  ID: 64279
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/enabling-authentication-in-iis/ta-p/64279
+  New: /docs/enable-authentication-in-iis
+--------------------------------------------------------------------------------
+  ID: 64278
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/enabling-authentication-in-iis-express/ta-p/64278
+  New: /docs/enable-authentication-in-iis-express
+--------------------------------------------------------------------------------
+  ID: 64279
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/enabling-authentication-in-iis/ta-p/64279
+  New: /docs/enable-authentication-in-iis
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Restrict access to the web console.md
+  ID: 64278
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/enabling-authentication-in-iis-express/ta-p/64278
+  New: /docs/enable-authentication-in-iis-express
+--------------------------------------------------------------------------------
+  ID: 64279
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/enabling-authentication-in-iis/ta-p/64279
+  New: /docs/enable-authentication-in-iis
+--------------------------------------------------------------------------------
+  ID: 64362
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/enabling-or-disabling-web-browser-login-prompts/ta-p/64362
+  New: /docs/manage-web-browser-login-prompts
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Set the date format.md
+  ID: 64322
+  Old: https://community.lansweeper.com/t5/installation/accessing-the-web-console/ta-p/64322
+  New: /docs/access-the-web-console
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Share dashboard tabs with other users.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Customizing The Web Console\Web console user roles and permissions.md
+  ID: 64512
+  Old: https://community.lansweeper.com/t5/cloud/configure-scopes-permissions-and-roles/ta-p/64512
+  New: /docs/configure-scopes-permissions-and-roles
+--------------------------------------------------------------------------------
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+  ID: 64272
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-file-properties-with-custom-file-scanning/ta-p/64272
+  New: /docs/windows-custom-file-scanning
+--------------------------------------------------------------------------------
+  ID: 64271
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-registry-values-with-custom-registry-scanning/ta-p/64271
+  New: /docs/scan-registry-values-with-custom-registry-scanning
+--------------------------------------------------------------------------------
+  ID: 64335
+  Old: https://community.lansweeper.com/t5/scanning-your-network/managing-how-often-specific-data-is-scanned/ta-p/64335
+  New: /docs/manage-scanned-item-intervals
+--------------------------------------------------------------------------------
+  ID: 64461
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-extra-snmp-data-with-custom-oid-scanning/ta-p/64461
+  New: /docs/scan-extra-snmp-data-with-custom-oid-scanning
+--------------------------------------------------------------------------------
+  ID: 64342
+  Old: https://community.lansweeper.com/t5/managing-assets/adding-comments-to-assets/ta-p/64342
+  New: /docs/add-comments-to-assets
+--------------------------------------------------------------------------------
+  ID: 64341
+  Old: https://community.lansweeper.com/t5/managing-assets/adding-documents-to-assets/ta-p/64341
+  New: /docs/add-documents-to-assets
+--------------------------------------------------------------------------------
+  ID: 64314
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/sharing-dashboard-tabs-with-other-users/ta-p/64314
+  New: /docs/share-dashboard-tabs-with-other-users
+--------------------------------------------------------------------------------
+  ID: 64412
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/deleting-tickets/ta-p/64412
+  New: /docs/delete-tickets-from-the-helpdesk
+--------------------------------------------------------------------------------
+  ID: 64385
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/restoring-your-installation-from-a-backup/ta-p/64385
+  New: /docs/restore-your-installation-from-a-backup
+--------------------------------------------------------------------------------
+
+File: Cyber Security And Risk Insights\Introduction to Vulnerability Risk Assessment.md
+  ID: 64778
+  Old: https://community.lansweeper.com/t5/cloud/how-to-take-advantage-of-the-ignore-vulnerabilities-feature/ta-p/64778
+  New: /docs/ignore-assets-and-vulnerabilities
+--------------------------------------------------------------------------------
+
+File: Cyber Security And Risk Insights\View the vulnerabilities affecting assets.md
+  ID: 64778
+  Old: https://community.lansweeper.com/t5/cyber-security-and-risk-insights/ignore-vulnerabilities/ta-p/64778
+  New: /docs/ignore-assets-and-vulnerabilities
+--------------------------------------------------------------------------------
+
+File: Deploying Software Other Changes\Check the status of a deployment.md
+  ID: 64332
+  Old: https://community.lansweeper.com/t5/deploying-software-other-changes/creating-a-deployment-package/ta-p/64332
+  New: /docs/create-a-deployment-package
+--------------------------------------------------------------------------------
+  ID: 64329
+  Old: https://community.lansweeper.com/t5/deploying-software-other-changes/deploying-a-package-manually-or-based-on-a-schedule/ta-p/64329
+  New: /docs/deploy-a-package-manually-or-based-on-a-schedule
+--------------------------------------------------------------------------------
+
+File: Deploying Software Other Changes\Deployment requirements.md
+  ID: 64332
+  Old: https://community.lansweeper.com/t5/deploying-software-other-changes/creating-a-deployment-package/ta-p/64332
+  New: /docs/create-a-deployment-package
+--------------------------------------------------------------------------------
+  ID: 64329
+  Old: https://community.lansweeper.com/t5/deploying-software-other-changes/deploying-a-package-manually-or-based-on-a-schedule/ta-p/64329
+  New: /docs/deploy-a-package-manually-or-based-on-a-schedule
+--------------------------------------------------------------------------------
+  ID: 64259
+  Old: https://community.lansweeper.com/t5/requirements/configuring-windows-firewall-for-agentless-scanning-of-computers/ta-p/64259
+  New: /docs/configure-windows-firewall-for-agentless-scanning-of-computers
+--------------------------------------------------------------------------------
+
+File: Diagrams\Discover asset relations with diagrams.md
+  ID: 67645
+  Old: https://community.lansweeper.com/t5/cloud/personalize-diagrams/ta-p/67645
+  New: /docs/personalize-diagrams
+--------------------------------------------------------------------------------
+  ID: 67647
+  Old: https://community.lansweeper.com/t5/cloud/generate-diagrams/ta-p/67647
+  New: /docs/generate-diagrams
+--------------------------------------------------------------------------------
+  ID: 67647
+  Old: https://community.lansweeper.com/t5/cloud/generate-diagrams/ta-p/67647
+  New: /docs/generate-diagrams
+--------------------------------------------------------------------------------
+  ID: 67649
+  Old: https://community.lansweeper.com/t5/cloud/find-assets-with-integrated-search-on-diagrams/ta-p/67649
+  New: /docs/find-assets-with-integrated-search-on-diagrams
+--------------------------------------------------------------------------------
+  ID: 67650
+  Old: https://community.lansweeper.com/t5/cloud/filter-assets-on-diagrams/ta-p/67650
+  New: /docs/filter-assets-on-diagrams
+--------------------------------------------------------------------------------
+  ID: 67647
+  Old: https://community.lansweeper.com/t5/cloud/generate-diagrams/ta-p/67647
+  New: /docs/generate-diagrams
+--------------------------------------------------------------------------------
+  ID: 67649
+  Old: https://community.lansweeper.com/t5/cloud/find-assets-with-integrated-search-on-diagrams/ta-p/67649
+  New: /docs/find-assets-with-integrated-search-on-diagrams
+--------------------------------------------------------------------------------
+  ID: 67650
+  Old: https://community.lansweeper.com/t5/cloud/filter-assets-on-diagrams/ta-p/67650
+  New: /docs/filter-assets-on-diagrams
+--------------------------------------------------------------------------------
+
+File: Diagrams\Export diagrams.md
+  ID: 67645
+  Old: https://community.lansweeper.com/t5/cloud/personalize-diagrams/ta-p/67645
+  New: /docs/personalize-diagrams
+--------------------------------------------------------------------------------
+  ID: 67650
+  Old: https://community.lansweeper.com/t5/cloud/filter-assets-on-diagrams/ta-p/67650
+  New: /docs/filter-assets-on-diagrams
+--------------------------------------------------------------------------------
+  ID: 67652
+  Old: https://community.lansweeper.com/t5/cloud/create-permissions-for-diagrams/ta-p/67652
+  New: /docs/create-permissions-for-diagrams
+--------------------------------------------------------------------------------
+
+File: Diagrams\Filter assets on diagrams.md
+  ID: 67647
+  Old: https://community.lansweeper.com/t5/cloud/generate-diagrams/ta-p/67647
+  New: /docs/generate-diagrams
+--------------------------------------------------------------------------------
+  ID: 67645
+  Old: https://community.lansweeper.com/t5/cloud/personalize-diagrams/ta-p/67645
+  New: /docs/personalize-diagrams
+--------------------------------------------------------------------------------
+
+File: Diagrams\Find assets with integrated search on diagrams.md
+  ID: 67647
+  Old: https://community.lansweeper.com/t5/cloud/generate-diagrams/ta-p/67647
+  New: /docs/generate-diagrams
+--------------------------------------------------------------------------------
+  ID: 67648
+  Old: https://community.lansweeper.com/t5/cloud/discover-asset-relations-with-diagrams/ta-p/67648
+  New: /docs/discover-asset-relations-with-diagrams
+--------------------------------------------------------------------------------
+  ID: 67650
+  Old: https://community.lansweeper.com/t5/cloud/filter-assets-on-diagrams/ta-p/67650
+  New: /docs/filter-assets-on-diagrams
+--------------------------------------------------------------------------------
+  ID: 67648
+  Old: https://community.lansweeper.com/t5/cloud/discover-asset-relations-with-diagrams/ta-p/67648
+  New: /docs/discover-asset-relations-with-diagrams
+--------------------------------------------------------------------------------
+  ID: 67650
+  Old: https://community.lansweeper.com/t5/cloud/filter-assets-on-diagrams/ta-p/67650
+  New: /docs/filter-assets-on-diagrams
+--------------------------------------------------------------------------------
+
+File: Diagrams\Generate diagrams.md
+  ID: 67650
+  Old: https://community.lansweeper.com/t5/cloud/filter-assets-on-diagrams/ta-p/67650
+  New: /docs/filter-assets-on-diagrams
+--------------------------------------------------------------------------------
+  ID: 67650
+  Old: https://community.lansweeper.com/t5/cloud/filter-assets-on-diagrams/ta-p/67650
+  New: /docs/filter-assets-on-diagrams
+--------------------------------------------------------------------------------
+  ID: 67648
+  Old: https://community.lansweeper.com/t5/cloud/discover-asset-relations-with-diagrams/ta-p/67648
+  New: /docs/discover-asset-relations-with-diagrams
+--------------------------------------------------------------------------------
+  ID: 67793
+  Old: https://community.lansweeper.com/t5/cloud/navigate-diagrams/ta-p/67793
+  New: /docs/navigate-diagrams
+--------------------------------------------------------------------------------
+
+File: Diagrams\Navigate diagrams.md
+  ID: 67647
+  Old: https://community.lansweeper.com/t5/cloud/generate-diagrams/ta-p/67647
+  New: /docs/generate-diagrams
+--------------------------------------------------------------------------------
+  ID: 67648
+  Old: https://community.lansweeper.com/t5/cloud/discover-asset-relations-with-diagrams/ta-p/67648
+  New: /docs/discover-asset-relations-with-diagrams
+--------------------------------------------------------------------------------
+  ID: 67645
+  Old: https://community.lansweeper.com/t5/cloud/personalize-diagrams/ta-p/67645
+  New: /docs/personalize-diagrams
+--------------------------------------------------------------------------------
+  ID: 67648
+  Old: https://community.lansweeper.com/t5/cloud/discover-asset-relations-with-diagrams/ta-p/67648
+  New: /docs/discover-asset-relations-with-diagrams
+--------------------------------------------------------------------------------
+
+File: Installation\Access the web console.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Installation\Apply your Lansweeper license.md
+  ID: 66311
+  Old: https://community.lansweeper.com/t5/cloud/buy-a-cloud-license/ta-p/66311
+  New: /docs/buy-a-cloud-license
+--------------------------------------------------------------------------------
+
+File: Installation\Configuring a SQL Server instance to host the Lansweeper database.md
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+
+File: Installation\Credential and database security in Lansweeper.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+  ID: 64387
+  Old: https://community.lansweeper.com/t5/installation/lansweeper-component-overview/ta-p/64387
+  New: /docs/lansweeper-classic-components-and-architecture
+--------------------------------------------------------------------------------
+  ID: 64305
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/changing-the-lansweeper-database-password/ta-p/64305
+  New: /docs/change-the-lansweeper-database-password
+--------------------------------------------------------------------------------
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Installation\Getting Started.md
+  ID: 64259
+  Old: https://community.lansweeper.com/t5/requirements/configuring-windows-firewall-for-agentless-scanning-of-computers/ta-p/64259
+  New: /docs/configure-windows-firewall-for-agentless-scanning-of-computers
+--------------------------------------------------------------------------------
+  ID: 64349
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-with-an-active-directory-domain-scanning-target/ta-p/64349
+  New: /docs/scan-an-active-directory-domain-scanning-target
+--------------------------------------------------------------------------------
+  ID: 64494
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-mobile-devices-through-vmware-airwatch/ta-p/64494
+  New: /docs/scan-mobile-devices-through-vmware-workspace-one-uem-powered-by-airwatch
+--------------------------------------------------------------------------------
+  ID: 64485
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-an-aws-cloud-environment/ta-p/64485
+  New: /docs/scan-an-aws-cloud-environment
+--------------------------------------------------------------------------------
+  ID: 64487
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-an-azure-cloud-environment/ta-p/64487
+  New: /docs/scan-an-azure-cloud-environment
+--------------------------------------------------------------------------------
+  ID: 64546
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-intune-with-a-microsoft-cloud-services-credential/ta-p/64546
+  New: /docs/scan-mobile-devices-through-microsoft-intune
+--------------------------------------------------------------------------------
+  ID: 64545
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-office-365-with-a-microsoft-cloud-credential/ta-p/64545
+  New: /docs/scan-microsoft-365-targets
+--------------------------------------------------------------------------------
+  ID: 64501
+  Old: https://community.lansweeper.com/t5/scanning-your-network/integrating-lansweeper-with-sccm/ta-p/64501
+  New: /docs/integrate-lansweeper-with-sccm
+--------------------------------------------------------------------------------
+
+File: Installation\Install IIS (Internet Information Services).md
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+
+File: Installation\Install Lansweeper On-prem.md
+  ID: 65180
+  Old: https://community.lansweeper.com/t5/cloud/lansweeper-cloud-first-trial-installation/ta-p/65180
+  New: /docs/install-the-lansweeper-trial
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/linking-with-cloud/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 65216
+  Old: https://community.lansweeper.com/t5/cloud/cloud-first-installation-for-existing-customers/ta-p/65216
+  New: /docs/install-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64305
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/changing-the-lansweeper-database-password/ta-p/64305
+  New: /docs/change-the-lansweeper-database-password
+--------------------------------------------------------------------------------
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+
+File: Installation\Lansweeper Classic components and architecture.md
+  ID: 64322
+  Old: https://community.lansweeper.com/t5/installation/accessing-the-web-console/ta-p/64322
+  New: /docs/access-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64358
+  Old: https://community.lansweeper.com/t5/installation/setting-up-an-installation-with-multiple-scanning-servers/ta-p/64358
+  New: /docs/set-up-an-installation-with-multiple-scanning-servers
+--------------------------------------------------------------------------------
+
+File: Installation\Lansweeper installation and management types.md
+  ID: 65216
+  Old: https://community.lansweeper.com/t5/cloud/install-lansweeper-cloud/ta-p/65216
+  New: /docs/install-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/install-lansweeper-classic/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 65216
+  Old: https://community.lansweeper.com/t5/cloud/install-lansweeper-cloud/ta-p/65216
+  New: /docs/install-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 65180
+  Old: https://community.lansweeper.com/t5/cloud/install-the-lansweeper-cloud-first-trial/ta-p/65180
+  New: /docs/install-the-lansweeper-trial
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/install-lansweeper-classic/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/install-lansweeper-classic/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/link-lansweeper-classic-with-lansweeper-cloud/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 65086
+  Old: https://community.lansweeper.com/t5/cloud/enable-the-lansweeper-classic-web-console/ta-p/65086
+  New: /docs/enable-the-lansweeper-on-premises-web-console
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/link-lansweeper-on-prem-with-lansweeper-cloud/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 66399
+  Old: https://community.lansweeper.com/t5/cloud/remove-an-installation-from-your-cloud-site/ta-p/66399
+  New: /docs/remove-an-installation-from-your-cloud-site
+--------------------------------------------------------------------------------
+  ID: 66399
+  Old: https://community.lansweeper.com/t5/cloud/remove-an-installation-from-your-cloud-site/ta-p/66399
+  New: /docs/remove-an-installation-from-your-cloud-site
+--------------------------------------------------------------------------------
+  ID: 65216
+  Old: https://community.lansweeper.com/t5/cloud/install-lansweeper-cloud/ta-p/65216
+  New: /docs/install-lansweeper-sites
+--------------------------------------------------------------------------------
+
+File: Installation\Lansweeper installation checklist.md
+  ID: 64422
+  Old: https://community.lansweeper.com/t5/installation/how-to-install-iis-internet-information-services/ta-p/64422
+  New: /docs/install-iis-internet-information-services
+--------------------------------------------------------------------------------
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+  ID: 65180
+  Old: https://community.lansweeper.com/t5/cloud/install-the-lansweeper-cloud-first-trial/ta-p/65180
+  New: /docs/install-the-lansweeper-trial
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64306
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/setting-the-date-format/ta-p/64306
+  New: /docs/set-the-date-format
+--------------------------------------------------------------------------------
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+  ID: 64462
+  Old: https://community.lansweeper.com/t5/scanning-your-network/installing-lsagent-on-a-windows-computer/ta-p/64462
+  New: /docs/install-lsagent-on-a-windows-computer
+--------------------------------------------------------------------------------
+  ID: 64469
+  Old: https://community.lansweeper.com/t5/scanning-your-network/installing-lsagent-on-a-linux-computer/ta-p/64469
+  New: /docs/install-lsagent-on-a-linux-computer
+--------------------------------------------------------------------------------
+  ID: 64470
+  Old: https://community.lansweeper.com/t5/scanning-your-network/installing-lsagent-on-a-mac-computer/ta-p/64470
+  New: /docs/install-lsagent-on-a-mac-computer
+--------------------------------------------------------------------------------
+  ID: 64298
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/configuring-ssl-in-iis-express/ta-p/64298
+  New: /docs/configure-ssl-in-iis-express
+--------------------------------------------------------------------------------
+  ID: 64560
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/configuring-ssl-in-iis/ta-p/64560
+  New: /docs/configure-ssl-in-iis
+--------------------------------------------------------------------------------
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64384
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/performing-automated-database-cleanups/ta-p/64384
+  New: /docs/perform-automated-database-cleanups
+--------------------------------------------------------------------------------
+  ID: 64309
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/backing-up-your-installation/ta-p/64309
+  New: /docs/back-up-your-installation
+--------------------------------------------------------------------------------
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/update-lansweeper-classic/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 65418
+  Old: https://community.lansweeper.com/t5/cloud/update-your-lansweeper-cloud-scan-server/ta-p/65418
+  New: /docs/update-your-lansweeper-sites-scan-server
+--------------------------------------------------------------------------------
+
+File: Installation\Set up an installation with multiple scanning servers.md
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64305
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/changing-the-lansweeper-database-password/ta-p/64305
+  New: /docs/change-the-lansweeper-database-password
+--------------------------------------------------------------------------------
+
+File: Installation\Which Lansweeper setup is right for you.md
+  ID: 64387
+  Old: https://community.lansweeper.com/t5/installation/lansweeper-component-overview/ta-p/64387
+  New: /docs/lansweeper-classic-components-and-architecture
+--------------------------------------------------------------------------------
+  ID: 64387
+  Old: https://community.lansweeper.com/t5/installation/lansweeper-component-overview/ta-p/64387
+  New: /docs/lansweeper-classic-components-and-architecture
+--------------------------------------------------------------------------------
+  ID: 64315
+  Old: https://community.lansweeper.com/t5/scanning-your-network/viewing-and-clearing-your-scanning-queue/ta-p/64315
+  New: /docs/view-and-clear-your-scanning-queue
+--------------------------------------------------------------------------------
+  ID: 64422
+  Old: https://community.lansweeper.com/t5/installation/how-to-install-iis-internet-information-services/ta-p/64422
+  New: /docs/install-iis-internet-information-services
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Back up your installation.md
+  ID: 64509
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/converting-a-deprecated-sql-compact-database/ta-p/64509
+  New: /docs/convert-a-deprecated-sql-compact-database
+--------------------------------------------------------------------------------
+  ID: 64398
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/where-lansweeper-data-reports-and-settings-are-stored/ta-p/64398
+  New: /docs/where-are-lansweeper-data-reports-and-settings-stored
+--------------------------------------------------------------------------------
+  ID: 64398
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/where-lansweeper-data-reports-and-settings-are-stored/ta-p/64398
+  New: /docs/where-are-lansweeper-data-reports-and-settings-stored
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Check for Lansweeper updates.md
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Connect to a SQL Compact database with SQL Compact Toolbox.md
+  ID: 64509
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/converting-a-deprecated-sql-compact-database/ta-p/64509
+  New: /docs/convert-a-deprecated-sql-compact-database
+--------------------------------------------------------------------------------
+  ID: 64481
+  Old: https://community.lansweeper.com/t5/reporting/accessing-the-lansweeper-database-documentation/ta-p/64481
+  New: /docs/access-lansweeper-database-documentation
+--------------------------------------------------------------------------------
+  ID: 64309
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/backing-up-your-installation/ta-p/64309
+  New: /docs/back-up-your-installation
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Connect to SQL LocalDB using SQL Server Management Studio.md
+  ID: 64309
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/backing-up-your-installation/ta-p/64309
+  New: /docs/back-up-your-installation
+--------------------------------------------------------------------------------
+  ID: 64385
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/restoring-your-installation-from-a-backup/ta-p/64385
+  New: /docs/restore-your-installation-from-a-backup
+--------------------------------------------------------------------------------
+  ID: 64305
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/changing-the-lansweeper-database-password/ta-p/64305
+  New: /docs/change-the-lansweeper-database-password
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Copy Lansweeper scanning server configuration to a different server.md
+  ID: 64270
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/moving-your-lansweeper-installation-to-a-different-server/ta-p/64270
+  New: /docs/move-your-lansweeper-installation-to-a-different-server
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Disable IIS Express logging.md
+  ID: 64387
+  Old: https://community.lansweeper.com/t5/installation/lansweeper-component-overview/ta-p/64387
+  New: /docs/lansweeper-classic-components-and-architecture
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\How to use the ConfigEditor tool.md
+  ID: 64387
+  Old: https://community.lansweeper.com/t5/installation/lansweeper-component-overview/ta-p/64387
+  New: /docs/lansweeper-classic-components-and-architecture
+--------------------------------------------------------------------------------
+  ID: 64305
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/changing-the-lansweeper-database-password/ta-p/64305
+  New: /docs/change-the-lansweeper-database-password
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Identify which database server Lansweeper is using.md
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64509
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/converting-a-deprecated-sql-compact-database/ta-p/64509
+  New: /docs/convert-a-deprecated-sql-compact-database
+--------------------------------------------------------------------------------
+  ID: 64509
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/converting-a-deprecated-sql-compact-database/ta-p/64509
+  New: /docs/convert-a-deprecated-sql-compact-database
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Move your database from SQL Compact to SQL Server.md
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64398
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/where-lansweeper-data-reports-and-settings-are-stored/ta-p/64398
+  New: /docs/where-are-lansweeper-data-reports-and-settings-stored
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64305
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/changing-the-lansweeper-database-password/ta-p/64305
+  New: /docs/change-the-lansweeper-database-password
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Move your Lansweeper installation to a different server.md
+  ID: 64509
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/converting-a-deprecated-sql-compact-database/ta-p/64509
+  New: /docs/convert-a-deprecated-sql-compact-database
+--------------------------------------------------------------------------------
+  ID: 64309
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/backing-up-your-installation/ta-p/64309
+  New: /docs/back-up-your-installation
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64385
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/restoring-your-installation-from-a-backup/ta-p/64385
+  New: /docs/restore-your-installation-from-a-backup
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Move your SQL Server database to a different server or SQL Server instance.md
+  ID: 64270
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/moving-your-lansweeper-installation-to-a-different-server/ta-p/64270
+  New: /docs/move-your-lansweeper-installation-to-a-different-server
+--------------------------------------------------------------------------------
+  ID: 64387
+  Old: https://community.lansweeper.com/t5/installation/lansweeper-component-overview/ta-p/64387
+  New: /docs/lansweeper-classic-components-and-architecture
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Perform automated database cleanups.md
+  ID: 64319
+  Old: https://community.lansweeper.com/t5/managing-assets/deleting-assets/ta-p/64319
+  New: /docs/delete-assets
+--------------------------------------------------------------------------------
+  ID: 64501
+  Old: https://community.lansweeper.com/t5/scanning-your-network/integrating-lansweeper-with-sccm/ta-p/64501
+  New: /docs/integrate-lansweeper-with-sccm
+--------------------------------------------------------------------------------
+  ID: 64414
+  Old: https://community.lansweeper.com/t5/reporting/see-who-logged-into-lansweeper-or-made-changes-to-settings/ta-p/64414
+  New: /docs/track-lansweeper-classic-logins-and-setting-changes
+--------------------------------------------------------------------------------
+  ID: 64414
+  Old: https://community.lansweeper.com/t5/reporting/see-who-logged-into-lansweeper-or-made-changes-to-settings/ta-p/64414
+  New: /docs/track-lansweeper-classic-logins-and-setting-changes
+--------------------------------------------------------------------------------
+  ID: 64499
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-windows-failover-cluster-details-and-logs/ta-p/64499
+  New: /docs/scan-windows-failover-cluster-details-and-logs
+--------------------------------------------------------------------------------
+  ID: 64499
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-windows-failover-cluster-details-and-logs/ta-p/64499
+  New: /docs/scan-windows-failover-cluster-details-and-logs
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Restore your installation from a backup.md
+  ID: 64309
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/backing-up-your-installation/ta-p/64309
+  New: /docs/back-up-your-installation
+--------------------------------------------------------------------------------
+  ID: 64398
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/where-lansweeper-data-reports-and-settings-are-stored/ta-p/64398
+  New: /docs/where-are-lansweeper-data-reports-and-settings-stored
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Update Lansweeper On-premises.md
+  ID: 65418
+  Old: https://community.lansweeper.com/t5/cloud/update-your-lansweeper-cloud-scan-server/ta-p/65418
+  New: /docs/update-your-lansweeper-sites-scan-server
+--------------------------------------------------------------------------------
+  ID: 64339
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/checking-for-lansweeper-updates/ta-p/64339
+  New: /docs/check-for-lansweeper-updates
+--------------------------------------------------------------------------------
+  ID: 64309
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/backing-up-your-installation/ta-p/64309
+  New: /docs/back-up-your-installation
+--------------------------------------------------------------------------------
+
+File: Lansweeper Maintenance\Where are Lansweeper data, reports, and settings stored.md
+  ID: 64309
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/backing-up-your-installation/ta-p/64309
+  New: /docs/back-up-your-installation
+--------------------------------------------------------------------------------
+  ID: 64385
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/restoring-your-installation-from-a-backup/ta-p/64385
+  New: /docs/restore-your-installation-from-a-backup
+--------------------------------------------------------------------------------
+
+File: Lansweeper Ot\Manage OT assets in Lansweeper On-premises.md
+  ID: 70991
+  Old: https://community.lansweeper.com/t5/lansweeper-ot/manage-ot-assets/ta-p/70991
+  New: /docs/manage-ot-assets-in-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 70777
+  Old: https://community.lansweeper.com/t5/lansweeper-ot/link-ot-hub-with-lansweeper-on-premises/ta-p/70777
+  New: /docs/link-network-discovery-hub-with-lansweeper-on-premises
+--------------------------------------------------------------------------------
+
+File: Lansweeper Ot\Manage OT assets in Lansweeper Sites.md
+  ID: 64517
+  Old: https://community.lansweeper.com/t5/cloud/manage-dashboards/ta-p/64517
+  New: /docs/manage-dashboards
+--------------------------------------------------------------------------------
+  ID: 64513
+  Old: https://community.lansweeper.com/t5/cloud/reporting-in-lansweeper-cloud/ta-p/64513
+  New: /docs/manage-reports
+--------------------------------------------------------------------------------
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+  ID: 65652
+  Old: https://community.lansweeper.com/t5/cloud/edit-assets/ta-p/65652
+  New: /docs/edit-assets
+--------------------------------------------------------------------------------
+
+File: Lansweeper Ot\Scan your OT.md
+  ID: 70777
+  Old: https://community.lansweeper.com/t5/lansweeper-ot/link-ot-hub-with-lansweeper-on-premises/ta-p/70777
+  New: /docs/link-network-discovery-hub-with-lansweeper-on-premises
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Add comments to assets.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Add documents to assets.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Add manufacturer support links.md
+  ID: 64408
+  Old: https://community.lansweeper.com/t5/scanning-your-network/automated-warranty-check-for-dell-fujitsu-hp-ibm-lenovo-and-toshiba/ta-p/64408
+  New: /docs/set-up-automated-warranty-checks
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Change an asset's asset type.md
+  ID: 64317
+  Old: https://community.lansweeper.com/t5/managing-assets/creating-asset-types/ta-p/64317
+  New: /docs/create-asset-types
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Configure and add data to asset custom fields.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Create asset relation types.md
+  ID: 64304
+  Old: https://community.lansweeper.com/t5/managing-assets/linking-assets-to-other-assets-or-users/ta-p/64304
+  New: /docs/link-assets-to-other-assets-or-users
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Create asset types.md
+  ID: 64316
+  Old: https://community.lansweeper.com/t5/managing-assets/changing-an-asset-s-asset-type/ta-p/64316
+  New: /docs/change-an-assets-asset-type
+--------------------------------------------------------------------------------
+  ID: 64316
+  Old: https://community.lansweeper.com/t5/managing-assets/changing-an-asset-s-asset-type/ta-p/64316
+  New: /docs/change-an-assets-asset-type
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Create, use and change asset states.md
+  ID: 64384
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/performing-automated-database-cleanups/ta-p/64384
+  New: /docs/perform-automated-database-cleanups
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Delete assets.md
+  ID: 69588
+  Old: https://community.lansweeper.com/t5/cloud/delete-assets/ta-p/69588
+  New: /docs/delete-assets
+--------------------------------------------------------------------------------
+  ID: 64384
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/performing-automated-database-cleanups/ta-p/64384
+  New: /docs/perform-automated-database-cleanups
+--------------------------------------------------------------------------------
+  ID: 64385
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/restoring-your-installation-from-a-backup/ta-p/64385
+  New: /docs/restore-your-installation-from-a-backup
+--------------------------------------------------------------------------------
+  ID: 64320
+  Old: https://community.lansweeper.com/t5/scanning-your-network/excluding-assets-from-scanning/ta-p/64320
+  New: /docs/exclude-assets-from-scanning
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Grouping assets.md
+  ID: 64475
+  Old: https://community.lansweeper.com/t5/managing-assets/creating-using-and-changing-asset-states/ta-p/64475
+  New: /docs/create-use-and-change-asset-states
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Import assets from a CSV file.md
+  ID: 64306
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/setting-the-date-format/ta-p/64306
+  New: /docs/set-the-date-format
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Link assets to other assets or users.md
+  ID: 64302
+  Old: https://community.lansweeper.com/t5/managing-assets/creating-asset-relation-types/ta-p/64302
+  New: /docs/create-asset-relation-types
+--------------------------------------------------------------------------------
+  ID: 64302
+  Old: https://community.lansweeper.com/t5/managing-assets/creating-asset-relation-types/ta-p/64302
+  New: /docs/create-asset-relation-types
+--------------------------------------------------------------------------------
+  ID: 64302
+  Old: https://community.lansweeper.com/t5/managing-assets/creating-asset-relation-types/ta-p/64302
+  New: /docs/create-asset-relation-types
+--------------------------------------------------------------------------------
+  ID: 64302
+  Old: https://community.lansweeper.com/t5/managing-assets/creating-asset-relation-types/ta-p/64302
+  New: /docs/create-asset-relation-types
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Search through assets with the web console search bar.md
+  ID: 64403
+  Old: https://community.lansweeper.com/t5/managing-assets/configuring-and-adding-data-to-asset-custom-fields/ta-p/64403
+  New: /docs/configure-and-add-data-to-asset-custom-fields
+--------------------------------------------------------------------------------
+
+File: Managing Assets\Track software, memory and other changes on Windows computers.md
+  ID: 64335
+  Old: https://community.lansweeper.com/t5/scanning-your-network/managing-how-often-specific-data-is-scanned/ta-p/64335
+  New: /docs/manage-scanned-item-intervals
+--------------------------------------------------------------------------------
+
+File: Managing Licenses\View and scan software license keys on Windows computers.md
+  ID: 64335
+  Old: https://community.lansweeper.com/t5/scanning-your-network/managing-how-often-specific-data-is-scanned/ta-p/64335
+  New: /docs/manage-scanned-item-intervals
+--------------------------------------------------------------------------------
+  ID: 64308
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/license-keys-of-recent-microsoft-office-versions-not-detected/ta-p/64308
+  New: /docs/microsoft-office-license-keys-not-detected
+--------------------------------------------------------------------------------
+
+File: Managing Software\How Lansweeper scans antivirus information.md
+  ID: 72944
+  Old: https://community.lansweeper.com/t5/cloud/view-software/ta-p/72944
+  New: /docs/view-software
+--------------------------------------------------------------------------------
+
+File: Managing Software\Software installations vs. software license keys.md
+  ID: 64352
+  Old: https://community.lansweeper.com/t5/managing-software/viewing-and-scanning-software-installations-on-windows-computers/ta-p/64352
+  New: /docs/view-and-scan-software-installations-on-windows-computers
+--------------------------------------------------------------------------------
+  ID: 64351
+  Old: https://community.lansweeper.com/t5/managing-licenses/viewing-and-scanning-software-license-keys-on-windows-computers/ta-p/64351
+  New: /docs/view-and-scan-software-license-keys-on-windows-computers
+--------------------------------------------------------------------------------
+
+File: Managing Software\View and scan software installations on Windows computers.md
+  ID: 64335
+  Old: https://community.lansweeper.com/t5/scanning-your-network/managing-how-often-specific-data-is-scanned/ta-p/64335
+  New: /docs/manage-scanned-item-intervals
+--------------------------------------------------------------------------------
+  ID: 64272
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-file-properties-with-custom-file-scanning/ta-p/64272
+  New: /docs/windows-custom-file-scanning
+--------------------------------------------------------------------------------
+  ID: 64271
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-registry-values-with-custom-registry-scanning/ta-p/64271
+  New: /docs/scan-registry-values-with-custom-registry-scanning
+--------------------------------------------------------------------------------
+
+File: Reporting\Access Lansweeper database documentation.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64397
+  Old: https://community.lansweeper.com/t5/managing-assets/tracking-software-memory-and-other-changes-on-windows-computers/ta-p/64397
+  New: /docs/track-software-memory-and-other-changes-on-windows-computers
+--------------------------------------------------------------------------------
+
+File: Reporting\Add a report to your Lansweeper installation.md
+  ID: 64333
+  Old: https://community.lansweeper.com/t5/reporting/sending-report-and-event-log-alerts/ta-p/64333
+  New: /docs/send-report-and-event-log-alerts
+--------------------------------------------------------------------------------
+
+File: Reporting\Configure Gmail to send alert and ticket emails.md
+  ID: 64333
+  Old: https://community.lansweeper.com/t5/reporting/sending-report-and-event-log-alerts/ta-p/64333
+  New: /docs/send-report-and-event-log-alerts
+--------------------------------------------------------------------------------
+
+File: Reporting\Send Helpdesk and Email alerts via Microsoft Cloud Services.md
+  ID: 64333
+  Old: https://community.lansweeper.com/t5/reporting/sending-report-and-event-log-alerts/ta-p/64333
+  New: /docs/send-report-and-event-log-alerts
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+
+File: Reporting\Track Lansweeper Classic logins and setting changes.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Requirements\AWS scanning requirements.md
+  ID: 64485
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-an-aws-cloud-environment/ta-p/64485
+  New: /docs/scan-an-aws-cloud-environment
+--------------------------------------------------------------------------------
+
+File: Requirements\Azure scanning requirements.md
+  ID: 64487
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-an-azure-cloud-environment/ta-p/64487
+  New: /docs/scan-an-azure-cloud-environment
+--------------------------------------------------------------------------------
+
+File: Requirements\Compatible browsers for viewing the Lansweeper interface.md
+  ID: 64515
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-cloud/ta-p/64515
+  New: /docs/introduction-to-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64275
+  Old: https://community.lansweeper.com/t5/actions/configuring-google-chrome-to-run-actions/ta-p/64275
+  New: /docs/configure-google-chrome-to-run-actions
+--------------------------------------------------------------------------------
+  ID: 64264
+  Old: https://community.lansweeper.com/t5/actions/configuring-mozilla-firefox-to-run-actions/ta-p/64264
+  New: /docs/configure-mozilla-firefox-to-run-actions
+--------------------------------------------------------------------------------
+  ID: 64562
+  Old: https://community.lansweeper.com/t5/actions/configuring-opera-to-run-actions/ta-p/64562
+  New: /docs/configure-opera-to-run-actions
+--------------------------------------------------------------------------------
+  ID: 64561
+  Old: https://community.lansweeper.com/t5/actions/configuring-microsoft-edge-to-run-actions/ta-p/64561
+  New: /docs/configure-microsoft-edge-to-run-actions
+--------------------------------------------------------------------------------
+
+File: Requirements\Compatible SQL database servers for hosting the Lansweeper database.md
+  ID: 64509
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/converting-a-deprecated-sql-compact-database/ta-p/64509
+  New: /docs/convert-a-deprecated-sql-compact-database
+--------------------------------------------------------------------------------
+
+File: Requirements\DCOM and other changes made by the Lansweeper installer.md
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64507
+  Old: https://community.lansweeper.com/t5/installation/silently-installing-uninstalling-or-updating-lansweeper/ta-p/64507
+  New: /docs/silently-install-uninstall-or-update-lansweeper
+--------------------------------------------------------------------------------
+  ID: 64507
+  Old: https://community.lansweeper.com/t5/installation/silently-installing-uninstalling-or-updating-lansweeper/ta-p/64507
+  New: /docs/silently-install-uninstall-or-update-lansweeper
+--------------------------------------------------------------------------------
+
+File: Requirements\Introduction to the SQL LocalDB database server.md
+  ID: 64305
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/changing-the-lansweeper-database-password/ta-p/64305
+  New: /docs/change-the-lansweeper-database-password
+--------------------------------------------------------------------------------
+  ID: 64509
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/converting-a-deprecated-sql-compact-database/ta-p/64509
+  New: /docs/convert-a-deprecated-sql-compact-database
+--------------------------------------------------------------------------------
+  ID: 64509
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/converting-a-deprecated-sql-compact-database/ta-p/64509
+  New: /docs/convert-a-deprecated-sql-compact-database
+--------------------------------------------------------------------------------
+  ID: 64505
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/moving-your-database-from-sql-localdb-to-sql-server/ta-p/64505
+  New: /docs/move-your-database-from-sql-localdb-to-sql-server
+--------------------------------------------------------------------------------
+
+File: Requirements\Lansweeper features that access the internet.md
+  ID: 64494
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-mobile-devices-through-vmware-airwatch/ta-p/64494
+  New: /docs/scan-mobile-devices-through-vmware-workspace-one-uem-powered-by-airwatch
+--------------------------------------------------------------------------------
+  ID: 64485
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-an-aws-cloud-environment/ta-p/64485
+  New: /docs/scan-an-aws-cloud-environment
+--------------------------------------------------------------------------------
+  ID: 64487
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-an-azure-cloud-environment/ta-p/64487
+  New: /docs/scan-an-azure-cloud-environment
+--------------------------------------------------------------------------------
+  ID: 64577
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-azure-active-directory-users-and-groups/ta-p/64577
+  New: /docs/scan-microsoft-entra-id-azure-ad-users-and-groups
+--------------------------------------------------------------------------------
+  ID: 64546
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-intune-with-a-microsoft-cloud-services-credential/ta-p/64546
+  New: /docs/scan-mobile-devices-through-microsoft-intune
+--------------------------------------------------------------------------------
+  ID: 64545
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-office-365-with-a-microsoft-cloud-credential/ta-p/64545
+  New: /docs/scan-microsoft-365-targets
+--------------------------------------------------------------------------------
+  ID: 64408
+  Old: https://community.lansweeper.com/t5/scanning-your-network/automated-warranty-check-for-dell-fujitsu-hp-ibm-lenovo-and-toshiba/ta-p/64408
+  New: /docs/set-up-automated-warranty-checks
+--------------------------------------------------------------------------------
+  ID: 64333
+  Old: https://community.lansweeper.com/t5/reporting/sending-report-and-event-log-alerts/ta-p/64333
+  New: /docs/send-report-and-event-log-alerts
+--------------------------------------------------------------------------------
+
+File: Requirements\Lansweeper installation requirements.md
+  ID: 64509
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/converting-a-deprecated-sql-compact-database/ta-p/64509
+  New: /docs/convert-a-deprecated-sql-compact-database
+--------------------------------------------------------------------------------
+
+File: Requirements\Network device scanning requirements.md
+  ID: 64378
+  Old: https://community.lansweeper.com/t5/requirements/linux-and-unix-scanning-requirements/ta-p/64378
+  New: /docs/linux-and-unix-agentless-scanning-requirements
+--------------------------------------------------------------------------------
+
+File: Requirements\Ports scanned or used by Lansweeper.md
+  ID: 64578
+  Old: https://community.lansweeper.com/t5/scanning-your-network/using-ldaps-for-active-directory-scanning/ta-p/64578
+  New: /docs/use-ldaps-for-active-directory-scanning
+--------------------------------------------------------------------------------
+  ID: 64259
+  Old: https://community.lansweeper.com/t5/requirements/configuring-windows-firewall-for-agentless-scanning-of-computers/ta-p/64259
+  New: /docs/configure-windows-firewall-for-agentless-scanning-of-computers
+--------------------------------------------------------------------------------
+
+File: Requirements\vCenter scanning requirements.md
+  ID: 64460
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-a-vcenter-server/ta-p/64460
+  New: /docs/scan-a-vcenter-server
+--------------------------------------------------------------------------------
+
+File: Requirements\VMware server scanning requirements.md
+  ID: 64460
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-a-vcenter-server/ta-p/64460
+  New: /docs/scan-a-vcenter-server
+--------------------------------------------------------------------------------
+
+File: Requirements\VMware Workspace One UEM (powered by AirWatch) scanning requirements.md
+  ID: 64494
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-mobile-devices-through-vmware-airwatch/ta-p/64494
+  New: /docs/scan-mobile-devices-through-vmware-workspace-one-uem-powered-by-airwatch
+--------------------------------------------------------------------------------
+
+File: Requirements\Windows domain scanning requirements.md
+  ID: 64259
+  Old: https://community.lansweeper.com/t5/requirements/configuring-windows-firewall-for-agentless-scanning-of-computers/ta-p/64259
+  New: /docs/configure-windows-firewall-for-agentless-scanning-of-computers
+--------------------------------------------------------------------------------
+
+File: Requirements\Windows workgroup scanning requirements.md
+  ID: 64259
+  Old: https://community.lansweeper.com/t5/requirements/configuring-windows-firewall-for-agentless-scanning-of-computers/ta-p/64259
+  New: /docs/configure-windows-firewall-for-agentless-scanning-of-computers
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Active Directory user and computer attributes scanned by Lansweeper.md
+  ID: 64481
+  Old: https://community.lansweeper.com/t5/reporting/accessing-the-lansweeper-database-documentation/ta-p/64481
+  New: /docs/access-lansweeper-database-documentation
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Create a Microsoft Cloud Services application.md
+  ID: 66039
+  Old: https://community.lansweeper.com/t5/cloud/scan-intune-v2-targets/ta-p/66039
+  New: /docs/scan-intune-v2-targets
+--------------------------------------------------------------------------------
+  ID: 64546
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scan-intune-targets/ta-p/64546
+  New: /docs/scan-mobile-devices-through-microsoft-intune
+--------------------------------------------------------------------------------
+  ID: 64545
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-office-365-with-a-microsoft-cloud-credential/ta-p/64545
+  New: /docs/scan-microsoft-365-targets
+--------------------------------------------------------------------------------
+  ID: 64577
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-azure-active-directory-users-and-groups/ta-p/64577
+  New: /docs/scan-microsoft-entra-id-azure-ad-users-and-groups
+--------------------------------------------------------------------------------
+  ID: 64540
+  Old: https://community.lansweeper.com/t5/reporting/using-a-microsoft-cloud-services-application-for-sending-helpdesk-and-email/ta-p/64540
+  New: /docs/send-helpdesk-and-email-alerts-via-microsoft-cloud-services
+--------------------------------------------------------------------------------
+  ID: 64540
+  Old: https://community.lansweeper.com/t5/reporting/using-a-microsoft-cloud-services-application-for-sending-helpdesk-and-email/ta-p/64540
+  New: /docs/send-helpdesk-and-email-alerts-via-microsoft-cloud-services
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Create and map scanning credentials.md
+  ID: 64496
+  Old: https://community.lansweeper.com/t5/requirements/vmware-airwatch-scanning-requirements/ta-p/64496
+  New: /docs/vmware-workspace-one-uem-powered-by-airwatch-scanning-requirements
+--------------------------------------------------------------------------------
+  ID: 64546
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-intune-with-a-microsoft-cloud-services-credential/ta-p/64546
+  New: /docs/scan-mobile-devices-through-microsoft-intune
+--------------------------------------------------------------------------------
+  ID: 64378
+  Old: https://community.lansweeper.com/t5/requirements/linux-and-unix-scanning-requirements/ta-p/64378
+  New: /docs/linux-and-unix-agentless-scanning-requirements
+--------------------------------------------------------------------------------
+  ID: 64378
+  Old: https://community.lansweeper.com/t5/requirements/linux-and-unix-scanning-requirements/ta-p/64378
+  New: /docs/linux-and-unix-agentless-scanning-requirements
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Credential-free Device Recognition (CDR).md
+  ID: 64358
+  Old: https://community.lansweeper.com/t5/installation/setting-up-an-installation-with-multiple-scanning-servers/ta-p/64358
+  New: /docs/set-up-an-installation-with-multiple-scanning-servers
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Exclude assets from scanning.md
+  ID: 64319
+  Old: https://community.lansweeper.com/t5/managing-assets/deleting-assets/ta-p/64319
+  New: /docs/delete-assets
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Excluding events from scanning.md
+  ID: 64384
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/performing-automated-database-cleanups/ta-p/64384
+  New: /docs/perform-automated-database-cleanups
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Finding your domains' DNS and NetBIOS names.md
+  ID: 64349
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-with-an-active-directory-domain-scanning-target/ta-p/64349
+  New: /docs/scan-an-active-directory-domain-scanning-target
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\How to scan a Linux or Unix computer.md
+  ID: 64378
+  Old: https://community.lansweeper.com/t5/requirements/linux-and-unix-scanning-requirements/ta-p/64378
+  New: /docs/linux-and-unix-agentless-scanning-requirements
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\How to scan a VMware server.md
+  ID: 64460
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-a-vcenter-server/ta-p/64460
+  New: /docs/scan-a-vcenter-server
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\How to scan performance information of Windows and Linux computers.md
+  ID: 64378
+  Old: https://community.lansweeper.com/t5/requirements/linux-and-unix-scanning-requirements/ta-p/64378
+  New: /docs/linux-and-unix-agentless-scanning-requirements
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\How to scan users.md
+  ID: 73295
+  Old: https://community.lansweeper.com/t5/cloud/user-management/ta-p/73295
+  New: /docs/view-your-user-inventory
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/link-lansweeper-on-prem-with-lansweeper-cloud/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Import and export custom OID scanning targets.md
+  ID: 64461
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-extra-snmp-data-with-custom-oid-scanning/ta-p/64461
+  New: /docs/scan-extra-snmp-data-with-custom-oid-scanning
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Install LsAgent on a Linux computer.md
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 65086
+  Old: https://community.lansweeper.com/t5/cloud/enabling-the-lansweeper-classic-web-console/ta-p/65086
+  New: /docs/enable-the-lansweeper-on-premises-web-console
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Install LsAgent on a Mac computer.md
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 65086
+  Old: https://community.lansweeper.com/t5/cloud/enabling-the-lansweeper-classic-web-console/ta-p/65086
+  New: /docs/enable-the-lansweeper-on-premises-web-console
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Install LsAgent on a Windows computer.md
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 65086
+  Old: https://community.lansweeper.com/t5/cloud/enabling-the-lansweeper-classic-web-console/ta-p/65086
+  New: /docs/enable-the-lansweeper-on-premises-web-console
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Introduction to Asset Radar.md
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64507
+  Old: https://community.lansweeper.com/t5/installation/silently-installing-uninstalling-or-updating-lansweeper/ta-p/64507
+  New: /docs/silently-install-uninstall-or-update-lansweeper
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Introduction to LsAgent for Windows, Linux and Mac.md
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 64462
+  Old: https://community.lansweeper.com/t5/scanning-your-network/installing-lsagent-on-a-windows-computer/ta-p/64462
+  New: /docs/install-lsagent-on-a-windows-computer
+--------------------------------------------------------------------------------
+  ID: 64469
+  Old: https://community.lansweeper.com/t5/scanning-your-network/installing-lsagent-on-a-linux-computer/ta-p/64469
+  New: /docs/install-lsagent-on-a-linux-computer
+--------------------------------------------------------------------------------
+  ID: 64470
+  Old: https://community.lansweeper.com/t5/scanning-your-network/installing-lsagent-on-a-mac-computer/ta-p/64470
+  New: /docs/install-lsagent-on-a-mac-computer
+--------------------------------------------------------------------------------
+  ID: 65216
+  Old: https://community.lansweeper.com/t5/cloud/install-lansweeper-cloud/ta-p/65216
+  New: /docs/install-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 65086
+  Old: https://community.lansweeper.com/t5/cloud/enabling-the-lansweeper-classic-web-console/ta-p/65086
+  New: /docs/enable-the-lansweeper-on-premises-web-console
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Introduction to the LsPush scanning agent for Windows.md
+  ID: 64434
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-windows-computers-with-the-lspush-scanning-agent-in-a-group/ta-p/64434
+  New: /docs/scan-windows-computers-with-lspush-in-a-group-policy
+--------------------------------------------------------------------------------
+  ID: 64444
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-windows-computers-with-the-lspush-scanning-agent-in-a-scheduled/ta-p/64444
+  New: /docs/scan-windows-computers-with-the-lspush-scanning-agent-in-a-scheduled-task
+--------------------------------------------------------------------------------
+  ID: 64400
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-windows-computers-from-a-usb-drive-with-the-lspush-scanning/ta-p/64400
+  New: /docs/scan-windows-computers-from-a-usb-drive-with-lspush
+--------------------------------------------------------------------------------
+  ID: 64432
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-individual-windows-computers-with-the-lspush-scanning-agent/ta-p/64432
+  New: /docs/scan-individual-windows-computers-with-the-lspush-scanning-agent
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Introduction to the MIB Importer and MIB Library.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Overview of scanning targets and methods.md
+  ID: 64349
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-with-an-active-directory-domain-scanning-target/ta-p/64349
+  New: /docs/scan-an-active-directory-domain-scanning-target
+--------------------------------------------------------------------------------
+  ID: 64494
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-mobile-devices-through-vmware-airwatch/ta-p/64494
+  New: /docs/scan-mobile-devices-through-vmware-workspace-one-uem-powered-by-airwatch
+--------------------------------------------------------------------------------
+  ID: 64485
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-an-aws-cloud-environment/ta-p/64485
+  New: /docs/scan-an-aws-cloud-environment
+--------------------------------------------------------------------------------
+  ID: 64487
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-an-azure-cloud-environment/ta-p/64487
+  New: /docs/scan-an-azure-cloud-environment
+--------------------------------------------------------------------------------
+  ID: 64546
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scan-intune-targets/ta-p/64546
+  New: /docs/scan-mobile-devices-through-microsoft-intune
+--------------------------------------------------------------------------------
+  ID: 64546
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scan-intune-targets/ta-p/64546
+  New: /docs/scan-mobile-devices-through-microsoft-intune
+--------------------------------------------------------------------------------
+  ID: 64501
+  Old: https://community.lansweeper.com/t5/scanning-your-network/integrating-lansweeper-with-sccm/ta-p/64501
+  New: /docs/integrate-lansweeper-with-sccm
+--------------------------------------------------------------------------------
+  ID: 64354
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-with-a-windows-computer-scanning-target/ta-p/64354
+  New: /docs/scan-a-windows-computer-scanning-target
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan a network device.md
+  ID: 64378
+  Old: https://community.lansweeper.com/t5/requirements/linux-and-unix-scanning-requirements/ta-p/64378
+  New: /docs/linux-and-unix-agentless-scanning-requirements
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan a Windows Computer scanning target.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan an Active Directory Domain scanning target.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan an AWS cloud environment.md
+  ID: 70441
+  Old: https://community.lansweeper.com/t5/cloud/scan-an-aws-region/ta-p/70441
+  New: /docs/scan-an-aws-region
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan Exchange Server mailboxes.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan extra SNMP data with custom OID scanning.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64489
+  Old: https://community.lansweeper.com/t5/scanning-your-network/importing-and-exporting-custom-oid-scanning-targets/ta-p/64489
+  New: /docs/import-and-export-custom-oid-scanning-targets
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan Microsoft 365 targets.md
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan Microsoft Entra ID (Azure AD) users and groups.md
+  ID: 64546
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-intune-with-a-microsoft-cloud-services-credential/ta-p/64546
+  New: /docs/scan-mobile-devices-through-microsoft-intune
+--------------------------------------------------------------------------------
+  ID: 64545
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-office-365-with-a-microsoft-cloud-credential/ta-p/64545
+  New: /docs/scan-microsoft-365-targets
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan Microsoft Store apps.md
+  ID: 64335
+  Old: https://community.lansweeper.com/t5/scanning-your-network/managing-how-often-specific-data-is-scanned/ta-p/64335
+  New: /docs/manage-scanned-item-intervals
+--------------------------------------------------------------------------------
+  ID: 64479
+  Old: https://community.lansweeper.com/t5/managing-assets/searching-through-assets-with-the-web-console-search-bar/ta-p/64479
+  New: /docs/search-through-assets-with-the-web-console-search-bar
+--------------------------------------------------------------------------------
+  ID: 64336
+  Old: https://community.lansweeper.com/t5/managing-software/marking-software-and-add-ons-as-authorized/ta-p/64336
+  New: /docs/mark-software-and-add-ons-as-authorized
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan mobile devices through Microsoft Intune.md
+  ID: 66039
+  Old: https://community.lansweeper.com/t5/cloud/scan-intune-v2-targets/ta-p/66039
+  New: /docs/scan-intune-v2-targets
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan mobile devices through VMware Workspace One UEM (powered by AirWatch).md
+  ID: 64496
+  Old: https://community.lansweeper.com/t5/requirements/vmware-airwatch-scanning-requirements/ta-p/64496
+  New: /docs/vmware-workspace-one-uem-powered-by-airwatch-scanning-requirements
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scan Windows computer certificates.md
+  ID: 64335
+  Old: https://community.lansweeper.com/t5/scanning-your-network/managing-how-often-specific-data-is-scanned/ta-p/64335
+  New: /docs/manage-scanned-item-intervals
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scanning assets with Batch Scanning.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scanning Windows drivers.md
+  ID: 64335
+  Old: https://community.lansweeper.com/t5/scanning-your-network/managing-how-often-specific-data-is-scanned/ta-p/64335
+  New: /docs/manage-scanned-item-intervals
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scanning with a Workgroup scanning target.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scanning with an Active Directory Computer Path scanning target.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scanning with an Active Directory UserGroup Path scanning target.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scanning with an Asset Group, Asset Type or Report scanning target.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scanning with an Eventlog Only scanning target.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+  ID: 64333
+  Old: https://community.lansweeper.com/t5/reporting/sending-report-and-event-log-alerts/ta-p/64333
+  New: /docs/send-report-and-event-log-alerts
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Scanning with an IP Range scanning target.md
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Set up automated warranty checks.md
+  ID: 70334
+  Old: https://community.lansweeper.com/t5/cloud/enable-warranty-tracking/ta-p/70334
+  New: /docs/enable-warranty-tracking
+--------------------------------------------------------------------------------
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64493
+  Old: https://community.lansweeper.com/t5/reporting/how-to-add-a-report-to-your-lansweeper-installation/ta-p/64493
+  New: /docs/add-a-report-to-your-lansweeper-installation
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Silently installing LsAgent on a Windows, Linux or Mac computer.md
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 65086
+  Old: https://community.lansweeper.com/t5/cloud/enabling-the-lansweeper-classic-web-console/ta-p/65086
+  New: /docs/enable-the-lansweeper-on-premises-web-console
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Uninstall LsAgent.md
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\Use LDAPS for Active Directory scanning.md
+  ID: 64349
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-with-an-active-directory-domain-scanning-target/ta-p/64349
+  New: /docs/scan-an-active-directory-domain-scanning-target
+--------------------------------------------------------------------------------
+  ID: 64384
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/performing-automated-database-cleanups/ta-p/64384
+  New: /docs/perform-automated-database-cleanups
+--------------------------------------------------------------------------------
+  ID: 64468
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-exchange-server-mailboxes/ta-p/64468
+  New: /docs/scan-exchange-server-mailboxes
+--------------------------------------------------------------------------------
+
+File: Scanning Your Network\View and clear your scanning queue.md
+  ID: 64494
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-mobile-devices-through-vmware-airwatch/ta-p/64494
+  New: /docs/scan-mobile-devices-through-vmware-workspace-one-uem-powered-by-airwatch
+--------------------------------------------------------------------------------
+  ID: 64485
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-an-aws-cloud-environment/ta-p/64485
+  New: /docs/scan-an-aws-cloud-environment
+--------------------------------------------------------------------------------
+  ID: 64487
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-an-azure-cloud-environment/ta-p/64487
+  New: /docs/scan-an-azure-cloud-environment
+--------------------------------------------------------------------------------
+  ID: 64546
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scan-intune-targets/ta-p/64546
+  New: /docs/scan-mobile-devices-through-microsoft-intune
+--------------------------------------------------------------------------------
+  ID: 64501
+  Old: https://community.lansweeper.com/t5/scanning-your-network/integrating-lansweeper-with-sccm/ta-p/64501
+  New: /docs/integrate-lansweeper-with-sccm
+--------------------------------------------------------------------------------
+  ID: 64408
+  Old: https://community.lansweeper.com/t5/scanning-your-network/automated-warranty-check-for-dell-fujitsu-hp-ibm-lenovo-and-toshiba/ta-p/64408
+  New: /docs/set-up-automated-warranty-checks
+--------------------------------------------------------------------------------
+
+File: Sites\Add managers to an SSO connection.md
+  ID: 64566
+  Old: https://community.lansweeper.com/t5/cloud/how-to-set-up-cloud-sso/ta-p/64566
+  New: /docs/set-up-lansweeper-sso
+--------------------------------------------------------------------------------
+
+File: Sites\Add users to a cloud site.md
+  ID: 64512
+  Old: https://community.lansweeper.com/t5/cloud/configure-scopes-permissions-and-roles/ta-p/64512
+  New: /docs/configure-scopes-permissions-and-roles
+--------------------------------------------------------------------------------
+
+File: Sites\Adding owners to a Cloud site.md
+  ID: 64537
+  Old: https://community.lansweeper.com/t5/cloud/adding-users-to-a-cloud-site/ta-p/64537
+  New: /docs/add-users-to-a-cloud-site
+--------------------------------------------------------------------------------
+
+File: Sites\Asset deduplication in Cloud.md
+  ID: 64320
+  Old: https://community.lansweeper.com/t5/scanning-your-network/excluding-assets-from-scanning/ta-p/64320
+  New: /docs/exclude-assets-from-scanning
+--------------------------------------------------------------------------------
+
+File: Sites\Assets.md
+  ID: 65180
+  Old: https://community.lansweeper.com/t5/cloud/install-the-lansweeper-cloud-first-trial/ta-p/65180
+  New: /docs/install-the-lansweeper-trial
+--------------------------------------------------------------------------------
+
+File: Sites\Changing date and time display settings in Cloud.md
+  ID: 64515
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-cloud/ta-p/64515
+  New: /docs/introduction-to-lansweeper-sites
+--------------------------------------------------------------------------------
+
+File: Sites\Cloud Discovery Frequently Asked Questions.md
+  ID: 75098
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-cloud-discovery/ta-p/75098
+  New: /docs/introduction-to-cloud-discovery
+--------------------------------------------------------------------------------
+  ID: 74941
+  Old: https://community.lansweeper.com/t5/cloud/set-up-cloud-discovery-access/ta-p/74941
+  New: /docs/set-up-cloud-discovery-access
+--------------------------------------------------------------------------------
+  ID: 74941
+  Old: https://community.lansweeper.com/t5/cloud/set-up-cloud-discovery-access/ta-p/74941
+  New: /docs/set-up-cloud-discovery-access
+--------------------------------------------------------------------------------
+  ID: 74941
+  Old: https://community.lansweeper.com/t5/cloud/set-up-cloud-discovery-access/ta-p/74941
+  New: /docs/set-up-cloud-discovery-access
+--------------------------------------------------------------------------------
+
+File: Sites\Cloud linking requirements.md
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/linking-with-cloud/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64520
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirement-web-server-internet-access/ta-p/64520
+  New: /docs/cloud-requirement-web-server-internet-access
+--------------------------------------------------------------------------------
+  ID: 64523
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirement-web-server-tls-1-2/ta-p/64523
+  New: /docs/cloud-requirement-web-server-tls-12
+--------------------------------------------------------------------------------
+  ID: 64524
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirement-sync-server-status/ta-p/64524
+  New: /docs/cloud-requirement-sync-server-status
+--------------------------------------------------------------------------------
+  ID: 64525
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirement-sync-server-internet-access/ta-p/64525
+  New: /docs/cloud-requirement-sync-server-internet-access
+--------------------------------------------------------------------------------
+  ID: 64526
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirement-sync-server-tls-1-2/ta-p/64526
+  New: /docs/cloud-requirement-sync-server-tls-12
+--------------------------------------------------------------------------------
+  ID: 64527
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirement-lansweeper-version/ta-p/64527
+  New: /docs/cloud-requirement-lansweeper-version
+--------------------------------------------------------------------------------
+  ID: 64528
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirement-lansweeper-license/ta-p/64528
+  New: /docs/cloud-requirement-lansweeper-license
+--------------------------------------------------------------------------------
+  ID: 64531
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirement-capacity/ta-p/64531
+  New: /docs/cloud-requirement-capacity
+--------------------------------------------------------------------------------
+
+File: Sites\Cloud requirement database.md
+  ID: 64305
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/changing-the-lansweeper-database-password/ta-p/64305
+  New: /docs/change-the-lansweeper-database-password
+--------------------------------------------------------------------------------
+
+File: Sites\Cloud requirement Lansweeper license.md
+  ID: 64310
+  Old: https://community.lansweeper.com/t5/installation/applying-your-lansweeper-license/ta-p/64310
+  New: /docs/apply-your-lansweeper-license
+--------------------------------------------------------------------------------
+
+File: Sites\Cloud requirement Lansweeper version.md
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+
+File: Sites\Configure Cloud Discovery.md
+  ID: 75091
+  Old: https://community.lansweeper.com/t5/sites/discovery-configuration/ta-p/75091
+  New: /docs/overview-of-discovery-components-and-configuration
+--------------------------------------------------------------------------------
+
+File: Sites\Configure Microsoft Entra ID (Azure AD) with Lansweeper SSO.md
+  ID: 64566
+  Old: https://community.lansweeper.com/t5/cloud/how-to-set-up-cloud-sso/ta-p/64566
+  New: /docs/set-up-lansweeper-sso
+--------------------------------------------------------------------------------
+
+File: Sites\Configure Network Discovery.md
+  ID: 72388
+  Old: https://community.lansweeper.com/t5/cloud/install-network-discovery/ta-p/72388
+  New: /docs/install-network-discovery
+--------------------------------------------------------------------------------
+  ID: 75091
+  Old: https://community.lansweeper.com/t5/cloud/discovery-configuration/ta-p/75091
+  New: /docs/overview-of-discovery-components-and-configuration
+--------------------------------------------------------------------------------
+  ID: 75091
+  Old: https://community.lansweeper.com/t5/cloud/discovery-configuration/ta-p/75091
+  New: /docs/overview-of-discovery-components-and-configuration
+--------------------------------------------------------------------------------
+
+File: Sites\Configure Okta with Lansweeper SSO.md
+  ID: 64566
+  Old: https://community.lansweeper.com/t5/cloud/how-to-set-up-cloud-sso/ta-p/64566
+  New: /docs/set-up-lansweeper-sso
+--------------------------------------------------------------------------------
+
+File: Sites\Configure scopes, permissions, and roles.md
+  ID: 64586
+  Old: https://community.lansweeper.com/t5/cloud/adding-owners-to-a-cloud-site/ta-p/64586
+  New: /docs/adding-owners-to-a-cloud-site
+--------------------------------------------------------------------------------
+  ID: 64537
+  Old: https://community.lansweeper.com/t5/cloud/add-users-to-a-cloud-site/ta-p/64537
+  New: /docs/add-users-to-a-cloud-site
+--------------------------------------------------------------------------------
+
+File: Sites\Customizing your Cloud site.md
+  ID: 64512
+  Old: https://community.lansweeper.com/t5/cloud/scopes-and-permissions-in-cloud/ta-p/64512
+  New: /docs/configure-scopes-permissions-and-roles
+--------------------------------------------------------------------------------
+  ID: 64548
+  Old: https://community.lansweeper.com/t5/cloud/enabling-multi-factor-authentication-mfa-in-cloud/ta-p/64548
+  New: /docs/enable-multi-factor-authentication-mfa
+--------------------------------------------------------------------------------
+  ID: 64566
+  Old: https://community.lansweeper.com/t5/cloud/how-to-set-up-cloud-sso/ta-p/64566
+  New: /docs/set-up-lansweeper-sso
+--------------------------------------------------------------------------------
+  ID: 64535
+  Old: https://community.lansweeper.com/t5/cloud/software-data-and-normalization/ta-p/64535
+  New: /docs/software-data-normalization
+--------------------------------------------------------------------------------
+  ID: 64521
+  Old: https://community.lansweeper.com/t5/cloud/deleting-a-site-in-cloud/ta-p/64521
+  New: /docs/delete-cloud-sites-and-accounts
+--------------------------------------------------------------------------------
+
+File: Sites\Delete assets.md
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+  ID: 69593
+  Old: https://community.lansweeper.com/t5/cloud/create-scan-exclusions/ta-p/69593
+  New: /docs/exclude-assets-from-scans
+--------------------------------------------------------------------------------
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+  ID: 69593
+  Old: https://community.lansweeper.com/t5/cloud/create-scan-exclusions/ta-p/69593
+  New: /docs/exclude-assets-from-scans
+--------------------------------------------------------------------------------
+
+File: Sites\Delete cloud sites and accounts.md
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+  ID: 64549
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-the-cloud-report-builder/ta-p/64549
+  New: /docs/introduction-to-the-report-builder
+--------------------------------------------------------------------------------
+  ID: 65652
+  Old: https://community.lansweeper.com/t5/cloud/edit-assets/ta-p/65652
+  New: /docs/edit-assets
+--------------------------------------------------------------------------------
+
+File: Sites\Discover workloads.md
+  ID: 75098
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-cloud-discovery/ta-p/75098
+  New: /docs/introduction-to-cloud-discovery
+--------------------------------------------------------------------------------
+
+File: Sites\Edit assets.md
+  ID: 70991
+  Old: https://community.lansweeper.com/t5/lansweeper-ot/manage-ot-assets-from-lansweeper-sites/ta-p/70991
+  New: /docs/manage-ot-assets-in-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+  ID: 64535
+  Old: https://community.lansweeper.com/t5/cloud/software-data-and-normalization/ta-p/64535
+  New: /docs/software-data-normalization
+--------------------------------------------------------------------------------
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+
+File: Sites\Enable Multi-Factor Authentication (MFA).md
+  ID: 64515
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-cloud/ta-p/64515
+  New: /docs/introduction-to-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64566
+  Old: https://community.lansweeper.com/t5/cloud/set-up-lansweeper-sso/ta-p/64566
+  New: /docs/set-up-lansweeper-sso
+--------------------------------------------------------------------------------
+
+File: Sites\Enable warranty tracking.md
+  ID: 64408
+  Old: https://community.lansweeper.com/t5/scanning-your-network/automated-warranty-check-for-dell-fujitsu-hp-ibm-lenovo-and-toshiba/ta-p/64408
+  New: /docs/set-up-automated-warranty-checks
+--------------------------------------------------------------------------------
+
+File: Sites\Get started with Lansweeper Sites.md
+  ID: 65180
+  Old: https://community.lansweeper.com/t5/sites/install-the-lansweeper-cloud-first-trial/ta-p/65180
+  New: /docs/install-the-lansweeper-trial
+--------------------------------------------------------------------------------
+
+File: Sites\Host your Lansweeper Site and data in the United States.md
+  ID: 64520
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirement-web-server-internet-access/ta-p/64520
+  New: /docs/cloud-requirement-web-server-internet-access
+--------------------------------------------------------------------------------
+  ID: 64536
+  Old: https://community.lansweeper.com/t5/cloud/create-a-lansweeper-cloud-site/ta-p/64536
+  New: /docs/create-a-lansweeper-cloud-site
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/link-lansweeper-on-prem-with-lansweeper-sites/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+
+File: Sites\Install IT Agent Discovery.md
+  ID: 76722
+  Old: https://community.lansweeper.com/t5/cloud/set-up-and-run-lansweeper-it-agent-discovery-portable/ta-p/76722
+  New: /docs/set-up-and-run-lansweeper-it-agent-discovery-portable
+--------------------------------------------------------------------------------
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 72780
+  Old: https://community.lansweeper.com/t5/cloud/configure-it-agent-discovery/ta-p/72780
+  New: /docs/configure-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 76108
+  Old: https://community.lansweeper.com/t5/cloud/it-agent-discovery-frequently-asked-questions/ta-p/76108
+  New: /docs/it-agent-discovery-frequently-asked-questions
+--------------------------------------------------------------------------------
+
+File: Sites\Install Network Discovery.md
+  ID: 75094
+  Old: https://community.lansweeper.com/t5/cloud/configure-network-discovery/ta-p/75094
+  New: /docs/configure-network-discovery
+--------------------------------------------------------------------------------
+  ID: 76107
+  Old: https://community.lansweeper.com/t5/cloud/network-discovery-frequently-asked-questions/ta-p/76107
+  New: /docs/network-discovery-frequently-asked-questions
+--------------------------------------------------------------------------------
+
+File: Sites\Internet access requirements.md
+  ID: 64525
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirement-sync-server-internet-access/ta-p/64525
+  New: /docs/cloud-requirement-sync-server-internet-access
+--------------------------------------------------------------------------------
+  ID: 66982
+  Old: https://community.lansweeper.com/t5/cloud/scan-airwatch-targets/ta-p/66982
+  New: /docs/scan-vmware-workspace-one-uem-powered-by-airwatch-targets
+--------------------------------------------------------------------------------
+  ID: 70441
+  Old: https://community.lansweeper.com/t5/cloud/scan-an-aws-region/ta-p/70441
+  New: /docs/scan-an-aws-region
+--------------------------------------------------------------------------------
+  ID: 66990
+  Old: https://community.lansweeper.com/t5/cloud/scan-chrome-os-targets/ta-p/66990
+  New: /docs/scan-chrome-os-targets
+--------------------------------------------------------------------------------
+  ID: 66039
+  Old: https://community.lansweeper.com/t5/cloud/scan-intune-v2-targets/ta-p/66039
+  New: /docs/scan-intune-v2-targets
+--------------------------------------------------------------------------------
+  ID: 70334
+  Old: https://community.lansweeper.com/t5/cloud/enable-warranty-tracking/ta-p/70334
+  New: /docs/enable-warranty-tracking
+--------------------------------------------------------------------------------
+
+File: Sites\Introduction to Cloud Discovery.md
+  ID: 74941
+  Old: https://community.lansweeper.com/t5/cloud/set-up-cloud-sensor-access/ta-p/74941
+  New: /docs/set-up-cloud-discovery-access
+--------------------------------------------------------------------------------
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+
+File: Sites\Introduction to Lansweeper Sites.md
+  ID: 64536
+  Old: https://community.lansweeper.com/t5/cloud/create-a-site-in-cloud/ta-p/64536
+  New: /docs/create-a-lansweeper-cloud-site
+--------------------------------------------------------------------------------
+  ID: 64512
+  Old: https://community.lansweeper.com/t5/cloud/scopes-and-permissions-in-cloud/ta-p/64512
+  New: /docs/configure-scopes-permissions-and-roles
+--------------------------------------------------------------------------------
+  ID: 64513
+  Old: https://community.lansweeper.com/t5/cloud/reporting-in-cloud/ta-p/64513
+  New: /docs/manage-reports
+--------------------------------------------------------------------------------
+
+File: Sites\IT Agent Discovery Frequently Asked Questions.md
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 72780
+  Old: https://community.lansweeper.com/t5/cloud/configure-it-agent-discovery/ta-p/72780
+  New: /docs/configure-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 72388
+  Old: https://community.lansweeper.com/t5/cloud/install-network-discovery/ta-p/72388
+  New: /docs/install-network-discovery
+--------------------------------------------------------------------------------
+
+File: Sites\Lansweeper Discovery.md
+  ID: 75091
+  Old: https://community.lansweeper.com/t5/cloud/discovery-configuration/ta-p/75091
+  New: /docs/overview-of-discovery-components-and-configuration
+--------------------------------------------------------------------------------
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 72388
+  Old: https://community.lansweeper.com/t5/cloud/install-network-discovery/ta-p/72388
+  New: /docs/install-network-discovery
+--------------------------------------------------------------------------------
+  ID: 75094
+  Old: https://community.lansweeper.com/t5/cloud/configure-network-discovery/ta-p/75094
+  New: /docs/configure-network-discovery
+--------------------------------------------------------------------------------
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 72780
+  Old: https://community.lansweeper.com/t5/cloud/configure-it-agent-discovery/ta-p/72780
+  New: /docs/configure-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 75098
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-cloud-discovery/ta-p/75098
+  New: /docs/introduction-to-cloud-discovery
+--------------------------------------------------------------------------------
+  ID: 74941
+  Old: https://community.lansweeper.com/t5/cloud/set-up-cloud-sensor-access/ta-p/74941
+  New: /docs/set-up-cloud-discovery-access
+--------------------------------------------------------------------------------
+  ID: 75095
+  Old: https://community.lansweeper.com/t5/cloud/configure-cloud-discovery/ta-p/75095
+  New: /docs/configure-cloud-discovery
+--------------------------------------------------------------------------------
+  ID: 76107
+  Old: https://community.lansweeper.com/t5/cloud/network-discovery-frequently-asked-questions/ta-p/76107
+  New: /docs/network-discovery-frequently-asked-questions
+--------------------------------------------------------------------------------
+  ID: 78908
+  Old: https://community.lansweeper.com/t5/cloud/cloud-discovery-frequently-asked-question/ta-p/78908
+  New: /docs/cloud-discovery-frequently-asked-questions
+--------------------------------------------------------------------------------
+  ID: 76108
+  Old: https://community.lansweeper.com/t5/cloud/it-agent-discovery-frequently-asked-questions/ta-p/76108
+  New: /docs/it-agent-discovery-frequently-asked-questions
+--------------------------------------------------------------------------------
+
+File: Sites\Lansweeper Sites components and architecture.md
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/linking-with-cloud/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64515
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-cloud/ta-p/64515
+  New: /docs/introduction-to-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64516
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirements/ta-p/64516
+  New: /docs/cloud-linking-requirements
+--------------------------------------------------------------------------------
+  ID: 64512
+  Old: https://community.lansweeper.com/t5/cloud/scopes-and-permissions-in-cloud/ta-p/64512
+  New: /docs/configure-scopes-permissions-and-roles
+--------------------------------------------------------------------------------
+  ID: 64512
+  Old: https://community.lansweeper.com/t5/cloud/scopes-and-permissions-in-cloud/ta-p/64512
+  New: /docs/configure-scopes-permissions-and-roles
+--------------------------------------------------------------------------------
+  ID: 64551
+  Old: https://community.lansweeper.com/t5/cloud/asset-deduplication-in-cloud/ta-p/64551
+  New: /docs/asset-deduplication-in-cloud
+--------------------------------------------------------------------------------
+  ID: 64512
+  Old: https://community.lansweeper.com/t5/cloud/scopes-and-permissions-in-cloud/ta-p/64512
+  New: /docs/configure-scopes-permissions-and-roles
+--------------------------------------------------------------------------------
+
+File: Sites\Link Lansweeper On-prem with Lansweeper Sites.md
+  ID: 64515
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-cloud/ta-p/64515
+  New: /docs/introduction-to-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 70299
+  Old: https://community.lansweeper.com/t5/cloud/link-lansweeper-cloud-with-lansweeper-classic/ta-p/70299
+  New: /docs/link-lansweeper-sites-with-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 65180
+  Old: https://community.lansweeper.com/t5/cloud/lansweeper-cloud-first-trial-installation/ta-p/65180
+  New: /docs/install-the-lansweeper-trial
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/linking-with-cloud/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 65216
+  Old: https://community.lansweeper.com/t5/cloud/cloud-first-installation-for-existing-customers/ta-p/65216
+  New: /docs/install-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper-classic/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64516
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirements/ta-p/64516
+  New: /docs/cloud-linking-requirements
+--------------------------------------------------------------------------------
+  ID: 64516
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirements/ta-p/64516
+  New: /docs/cloud-linking-requirements
+--------------------------------------------------------------------------------
+  ID: 64536
+  Old: https://community.lansweeper.com/t5/cloud/create-a-lansweeper-cloud-site/ta-p/64536
+  New: /docs/create-a-lansweeper-cloud-site
+--------------------------------------------------------------------------------
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+
+File: Sites\Link Lansweeper Sites with Lansweeper On-prem.md
+  ID: 64515
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-cloud/ta-p/64515
+  New: /docs/introduction-to-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/link-lansweeper-on-prem-with-lansweeper-cloud/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 65180
+  Old: https://community.lansweeper.com/t5/cloud/lansweeper-cloud-first-trial-installation/ta-p/65180
+  New: /docs/install-the-lansweeper-trial
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/linking-with-cloud/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 65216
+  Old: https://community.lansweeper.com/t5/cloud/cloud-first-installation-for-existing-customers/ta-p/65216
+  New: /docs/install-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper-classic/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64536
+  Old: https://community.lansweeper.com/t5/cloud/create-a-lansweeper-cloud-site/ta-p/64536
+  New: /docs/create-a-lansweeper-cloud-site
+--------------------------------------------------------------------------------
+  ID: 64516
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirements/ta-p/64516
+  New: /docs/cloud-linking-requirements
+--------------------------------------------------------------------------------
+  ID: 64516
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirements/ta-p/64516
+  New: /docs/cloud-linking-requirements
+--------------------------------------------------------------------------------
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+
+File: Sites\Link your installations with Lansweeper Sites.md
+  ID: 64536
+  Old: https://community.lansweeper.com/t5/cloud/create-a-lansweeper-cloud-site/ta-p/64536
+  New: /docs/create-a-lansweeper-cloud-site
+--------------------------------------------------------------------------------
+  ID: 65418
+  Old: https://community.lansweeper.com/t5/cloud/update-your-lansweeper-cloud-scan-server/ta-p/65418
+  New: /docs/update-your-lansweeper-sites-scan-server
+--------------------------------------------------------------------------------
+  ID: 70991
+  Old: https://community.lansweeper.com/t5/lansweeper-ot/manage-ot-assets-from-lansweeper-sites/ta-p/70991
+  New: /docs/manage-ot-assets-in-lansweeper-sites
+--------------------------------------------------------------------------------
+
+File: Sites\Local database space issues when linked with Cloud.md
+  ID: 64505
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/moving-your-database-from-sql-localdb-to-sql-server/ta-p/64505
+  New: /docs/move-your-database-from-sql-localdb-to-sql-server
+--------------------------------------------------------------------------------
+  ID: 64388
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/moving-your-sql-server-database-to-a-different-server-or-sql-server/ta-p/64388
+  New: /docs/move-your-sql-server-database-to-a-different-server-or-sql-server-instance
+--------------------------------------------------------------------------------
+  ID: 64384
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/performing-automated-database-cleanups/ta-p/64384
+  New: /docs/perform-automated-database-cleanups
+--------------------------------------------------------------------------------
+
+File: Sites\Manage dashboards.md
+  ID: 64549
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-the-cloud-report-builder/ta-p/64549
+  New: /docs/introduction-to-the-report-builder
+--------------------------------------------------------------------------------
+
+File: Sites\Manage Lansweeper Cloud SSO.md
+  ID: 64566
+  Old: https://community.lansweeper.com/t5/cloud/set-up-lansweeper-cloud-sso/ta-p/64566
+  New: /docs/set-up-lansweeper-sso
+--------------------------------------------------------------------------------
+
+File: Sites\Manage reports.md
+  ID: 64549
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-the-cloud-report-builder/ta-p/64549
+  New: /docs/introduction-to-the-report-builder
+--------------------------------------------------------------------------------
+
+File: Sites\Network Discovery Frequently Asked Questions.md
+  ID: 72388
+  Old: https://community.lansweeper.com/t5/cloud/install-network-discovery/ta-p/72388
+  New: /docs/install-network-discovery
+--------------------------------------------------------------------------------
+  ID: 66399
+  Old: https://community.lansweeper.com/t5/cloud/remove-an-installation-from-your-cloud-site/ta-p/66399
+  New: /docs/remove-an-installation-from-your-cloud-site
+--------------------------------------------------------------------------------
+  ID: 66399
+  Old: https://community.lansweeper.com/t5/cloud/remove-an-installation-from-your-cloud-site/ta-p/66399
+  New: /docs/remove-an-installation-from-your-cloud-site
+--------------------------------------------------------------------------------
+  ID: 72388
+  Old: https://community.lansweeper.com/t5/cloud/install-network-discovery/ta-p/72388
+  New: /docs/install-network-discovery
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/link-lansweeper-on-prem-with-lansweeper-sites/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/link-lansweeper-on-prem-with-lansweeper-sites/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 72388
+  Old: https://community.lansweeper.com/t5/cloud/install-network-discovery/ta-p/72388
+  New: /docs/install-network-discovery
+--------------------------------------------------------------------------------
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 72388
+  Old: https://community.lansweeper.com/t5/cloud/install-network-discovery/ta-p/72388
+  New: /docs/install-network-discovery
+--------------------------------------------------------------------------------
+
+File: Sites\Overview of Discovery components and configuration.md
+  ID: 72780
+  Old: https://community.lansweeper.com/t5/cloud/configure-it-agent-discovery/ta-p/72780
+  New: /docs/configure-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 75094
+  Old: https://community.lansweeper.com/t5/cloud/configure-network-discovery/ta-p/75094
+  New: /docs/configure-network-discovery
+--------------------------------------------------------------------------------
+  ID: 75095
+  Old: https://community.lansweeper.com/t5/cloud/configure-cloud-discovery/ta-p/75095
+  New: /docs/configure-cloud-discovery
+--------------------------------------------------------------------------------
+
+File: Sites\Reset or change your Cloud account password.md
+  ID: 64566
+  Old: https://community.lansweeper.com/t5/cloud/how-to-set-up-cloud-sso/ta-p/64566
+  New: /docs/set-up-lansweeper-sso
+--------------------------------------------------------------------------------
+  ID: 64548
+  Old: https://community.lansweeper.com/t5/cloud/enabling-multi-factor-authentication-mfa-in-cloud/ta-p/64548
+  New: /docs/enable-multi-factor-authentication-mfa
+--------------------------------------------------------------------------------
+
+File: Sites\Scan Intune V2 targets.md
+  ID: 64546
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scan-intune-targets/ta-p/64546
+  New: /docs/scan-mobile-devices-through-microsoft-intune
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+  ID: 64538
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-a-microsoft-cloud-services-application-for-scanning-and-email/ta-p/64538
+  New: /docs/create-a-microsoft-cloud-services-application
+--------------------------------------------------------------------------------
+
+File: Sites\Scan VMware Workspace One UEM (powered by AirWatch) targets.md
+  ID: 64496
+  Old: https://community.lansweeper.com/t5/requirements/vmware-airwatch-scanning-requirements/ta-p/64496
+  New: /docs/vmware-workspace-one-uem-powered-by-airwatch-scanning-requirements
+--------------------------------------------------------------------------------
+
+File: Sites\Set up and run Lansweeper IT Agent Discovery Portable.md
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 72388
+  Old: https://community.lansweeper.com/t5/cloud/install-network-discovery/ta-p/72388
+  New: /docs/install-network-discovery
+--------------------------------------------------------------------------------
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+  ID: 67029
+  Old: https://community.lansweeper.com/t5/cloud/install-it-agent-discovery/ta-p/67029
+  New: /docs/install-it-agent-discovery
+--------------------------------------------------------------------------------
+
+File: Sites\Set up Cloud Discovery access.md
+  ID: 75095
+  Old: https://community.lansweeper.com/t5/cloud/configure-cloud-discovery/ta-p/75095
+  New: /docs/configure-cloud-discovery
+--------------------------------------------------------------------------------
+  ID: 75095
+  Old: https://community.lansweeper.com/t5/cloud/configure-cloud-discovery/ta-p/75095
+  New: /docs/configure-cloud-discovery
+--------------------------------------------------------------------------------
+  ID: 75095
+  Old: https://community.lansweeper.com/t5/cloud/configure-cloud-discovery/ta-p/75095
+  New: /docs/configure-cloud-discovery
+--------------------------------------------------------------------------------
+
+File: Sites\Set up Lansweeper SSO.md
+  ID: 71942
+  Old: https://community.lansweeper.com/t5/cloud/manage-lansweeper-cloud-sso/ta-p/71942
+  New: /docs/manage-lansweeper-cloud-sso
+--------------------------------------------------------------------------------
+  ID: 64568
+  Old: https://community.lansweeper.com/t5/cloud/how-to-use-azure-ad-with-cloud-sso/ta-p/64568
+  New: /docs/configure-microsoft-entra-id-azure-ad-with-lansweeper-sso
+--------------------------------------------------------------------------------
+  ID: 64567
+  Old: https://community.lansweeper.com/t5/cloud/how-to-use-okta-with-cloud-sso/ta-p/64567
+  New: /docs/configure-okta-with-lansweeper-sso
+--------------------------------------------------------------------------------
+  ID: 64574
+  Old: https://community.lansweeper.com/t5/cloud/add-managers-to-a-cloud-sso-connection/ta-p/64574
+  New: /docs/add-managers-to-an-sso-connection
+--------------------------------------------------------------------------------
+
+File: Sites\Troubleshoot a failed initial push to Cloud.md
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/linking-with-cloud/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64516
+  Old: https://community.lansweeper.com/t5/cloud/cloud-requirements/ta-p/64516
+  New: /docs/cloud-linking-requirements
+--------------------------------------------------------------------------------
+
+File: Sites\Troubleshoot Selected Cloud management instead of On-premises management during installation.md
+  ID: 65086
+  Old: https://community.lansweeper.com/t5/cloud/enable-the-lansweeper-classic-web-console/ta-p/65086
+  New: /docs/enable-the-lansweeper-on-premises-web-console
+--------------------------------------------------------------------------------
+  ID: 64514
+  Old: https://community.lansweeper.com/t5/cloud/link-lansweeper-on-prem-with-lansweeper-sites/ta-p/64514
+  New: /docs/link-lansweeper-on-prem-with-lansweeper-sites
+--------------------------------------------------------------------------------
+
+File: Sites\Update your Lansweeper Sites scan server.md
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/update-lansweeper-classic/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64309
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/backing-up-your-installation/ta-p/64309
+  New: /docs/back-up-your-installation
+--------------------------------------------------------------------------------
+
+File: Sites\View assets.md
+  ID: 64535
+  Old: https://community.lansweeper.com/t5/cloud/software-data-and-normalization/ta-p/64535
+  New: /docs/software-data-normalization
+--------------------------------------------------------------------------------
+  ID: 65652
+  Old: https://community.lansweeper.com/t5/cloud/edit-assets/ta-p/65652
+  New: /docs/edit-assets
+--------------------------------------------------------------------------------
+  ID: 64881
+  Old: https://community.lansweeper.com/t5/cloud/customize-the-list-of-scan-issues/ta-p/64881
+  New: /docs/view-scan-issues
+--------------------------------------------------------------------------------
+  ID: 64551
+  Old: https://community.lansweeper.com/t5/cloud/asset-deduplication-in-cloud/ta-p/64551
+  New: /docs/asset-deduplication-in-cloud
+--------------------------------------------------------------------------------
+
+File: Sites\View scan issues.md
+  ID: 65662
+  Old: https://community.lansweeper.com/t5/cloud/view-assets/ta-p/65662
+  New: /docs/view-assets
+--------------------------------------------------------------------------------
+
+File: Sites\View your user inventory.md
+  ID: 64512
+  Old: https://community.lansweeper.com/t5/cloud/configure-scopes-permissions-and-roles/ta-p/64512
+  New: /docs/configure-scopes-permissions-and-roles
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\Debug scan issues by enabling scan logging.md
+  ID: 64493
+  Old: https://community.lansweeper.com/t5/reporting/how-to-add-a-report-to-your-lansweeper-installation/ta-p/64493
+  New: /docs/add-a-report-to-your-lansweeper-installation
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\Linux scanning error TTY required.md
+  ID: 64378
+  Old: https://community.lansweeper.com/t5/requirements/linux-and-unix-scanning-requirements/ta-p/64378
+  New: /docs/linux-and-unix-agentless-scanning-requirements
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\Microsoft Office license keys not detected.md
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-lansweeper-classic-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\No asset created for scanned computer or device.md
+  ID: 64359
+  Old: https://community.lansweeper.com/t5/troubleshooting-your/clearing-tables-to-free-up-space-and-improve-performance/ta-p/64359
+  New: /docs/clear-tables-to-free-up-space-and-improve-performance
+--------------------------------------------------------------------------------
+  ID: 64328
+  Old: https://community.lansweeper.com/t5/scanning-your-network/creating-and-mapping-scanning-credentials/ta-p/64328
+  New: /docs/create-and-map-scanning-credentials
+--------------------------------------------------------------------------------
+  ID: 64378
+  Old: https://community.lansweeper.com/t5/requirements/linux-and-unix-scanning-requirements/ta-p/64378
+  New: /docs/linux-and-unix-agentless-scanning-requirements
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\Repair a corrupt WMI installation.md
+  ID: 64432
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-individual-windows-computers-with-the-lspush-scanning-agent/ta-p/64432
+  New: /docs/scan-individual-windows-computers-with-the-lspush-scanning-agent
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\Scanning troubleshoot guide.md
+  ID: 64293
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/repairing-a-corrupt-wmi-installation/ta-p/64293
+  New: /docs/repair-a-corrupt-wmi-installation
+--------------------------------------------------------------------------------
+  ID: 64293
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/repairing-a-corrupt-wmi-installation/ta-p/64293
+  New: /docs/repair-a-corrupt-wmi-installation
+--------------------------------------------------------------------------------
+  ID: 64441
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/quot-wmi-service-is-disabled-on-this-machine-quot/ta-p/64441
+  New: /docs/wmi-service-is-disabled-on-this-machine
+--------------------------------------------------------------------------------
+  ID: 64286
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/linuxnosudorights-error-during-linux-scanning/ta-p/64286
+  New: /docs/linux-scanning-error-linuxnosudorights
+--------------------------------------------------------------------------------
+  ID: 64289
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/dmidecode-error-during-linux-scanning/ta-p/64289
+  New: /docs/linux-scanning-error-dmidecode
+--------------------------------------------------------------------------------
+  ID: 64288
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/hal-find-by-property-error-during-linux-scanning/ta-p/64288
+  New: /docs/linux-scanning-error-hal-find-by-property
+--------------------------------------------------------------------------------
+  ID: 64287
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/tty-required-error-during-linux-scanning/ta-p/64287
+  New: /docs/linux-scanning-error-tty-required
+--------------------------------------------------------------------------------
+  ID: 64466
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/troubleshooting-citrix-scanning-issues/ta-p/64466
+  New: /docs/troubleshoot-citrix-scanning-issues
+--------------------------------------------------------------------------------
+  ID: 64471
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/troubleshooting-snmp-scanning-issues/ta-p/64471
+  New: /docs/troubleshoot-snmp-scanning-issues
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\Software on Windows computer not being scanned.md
+  ID: 64359
+  Old: https://community.lansweeper.com/t5/troubleshooting-your/clearing-tables-to-free-up-space-and-improve-performance/ta-p/64359
+  New: /docs/clear-tables-to-free-up-space-and-improve-performance
+--------------------------------------------------------------------------------
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/update-lansweeper-classic/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64272
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-file-properties-with-custom-file-scanning/ta-p/64272
+  New: /docs/windows-custom-file-scanning
+--------------------------------------------------------------------------------
+  ID: 64271
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-registry-values-with-custom-registry-scanning/ta-p/64271
+  New: /docs/scan-registry-values-with-custom-registry-scanning
+--------------------------------------------------------------------------------
+  ID: 64335
+  Old: https://community.lansweeper.com/t5/scanning-your-network/managing-how-often-specific-data-is-scanned/ta-p/64335
+  New: /docs/manage-scanned-item-intervals
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\The RPC server is unavailable. 0x800706BA.md
+  ID: 70498
+  Old: https://community.lansweeper.com/t5/cloud/rpc-server-is-unavailable-0x800706ba/ta-p/70498
+  New: /docs/rpc-server-is-unavailable-0x800706ba
+--------------------------------------------------------------------------------
+  ID: 64259
+  Old: https://community.lansweeper.com/t5/requirements/configuring-windows-firewall-for-agentless-scanning-of-computers/ta-p/64259
+  New: /docs/configure-windows-firewall-for-agentless-scanning-of-computers
+--------------------------------------------------------------------------------
+  ID: 64391
+  Old: https://community.lansweeper.com/t5/requirements/configuring-symantec-endpoint-protection-for-use-with-lansweeper/ta-p/64391
+  New: /docs/configure-symantec-endpoint-protection-for-use-with-lansweeper
+--------------------------------------------------------------------------------
+  ID: 64259
+  Old: https://community.lansweeper.com/t5/requirements/configuring-windows-firewall-for-agentless-scanning-of-computers/ta-p/64259
+  New: /docs/configure-windows-firewall-for-agentless-scanning-of-computers
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\Too many LsAgent or LsPush scans.md
+  ID: 64434
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-windows-computers-with-the-lspush-scanning-agent-in-a-group/ta-p/64434
+  New: /docs/scan-windows-computers-with-lspush-in-a-group-policy
+--------------------------------------------------------------------------------
+  ID: 64358
+  Old: https://community.lansweeper.com/t5/installation/setting-up-an-installation-with-multiple-scanning-servers/ta-p/64358
+  New: /docs/set-up-an-installation-with-multiple-scanning-servers
+--------------------------------------------------------------------------------
+  ID: 64434
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-windows-computers-with-the-lspush-scanning-agent-in-a-group/ta-p/64434
+  New: /docs/scan-windows-computers-with-lspush-in-a-group-policy
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\Troubleshooting custom OID scanning issues.md
+  ID: 64461
+  Old: https://community.lansweeper.com/t5/scanning-your-network/scanning-extra-snmp-data-with-custom-oid-scanning/ta-p/64461
+  New: /docs/scan-extra-snmp-data-with-custom-oid-scanning
+--------------------------------------------------------------------------------
+  ID: 64471
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/troubleshooting-snmp-scanning-issues/ta-p/64471
+  New: /docs/troubleshoot-snmp-scanning-issues
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\Unable to scan SNMP on Ricoh printers.md
+  ID: 64379
+  Old: https://community.lansweeper.com/t5/scanning-your-network/how-to-scan-a-network-device/ta-p/64379
+  New: /docs/scan-a-network-device
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\View your scanning queue under port 9524.md
+  ID: 64315
+  Old: https://community.lansweeper.com/t5/scanning-your-network/viewing-and-clearing-your-scanning-queue/ta-p/64315
+  New: /docs/view-and-clear-your-scanning-queue
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Scanning Issues\WMI Access is denied. 0x80070005.md
+  ID: 72127
+  Old: https://community.lansweeper.com/t5/cloud/wmi-access-is-denied-0x80070005/ta-p/72127
+  New: /docs/wmi-access-is-denied-0x80070005
+--------------------------------------------------------------------------------
+  ID: 64259
+  Old: https://community.lansweeper.com/t5/requirements/configuring-windows-firewall-for-agentless-scanning-of-computers/ta-p/64259
+  New: /docs/configure-windows-firewall-for-agentless-scanning-of-computers
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Automatically redirected to login screen.md
+  ID: 64339
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/checking-for-lansweeper-updates/ta-p/64339
+  New: /docs/check-for-lansweeper-updates
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Emails not imported as tickets into the help desk.md
+  ID: 64392
+  Old: https://community.lansweeper.com/t5/configuring-using-the-helpdesk/receiving-tickets-through-the-web-console-email-api-import/ta-p/64392
+  New: /docs/receive-tickets-through-the-web-console-email-api-import
+--------------------------------------------------------------------------------
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\ExecuteReader CommandText property has not been initialized.md
+  ID: 64385
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/restoring-your-installation-from-a-backup/ta-p/64385
+  New: /docs/restore-your-installation-from-a-backup
+--------------------------------------------------------------------------------
+  ID: 64493
+  Old: https://community.lansweeper.com/t5/reporting/how-to-add-a-report-to-your-lansweeper-installation/ta-p/64493
+  New: /docs/add-a-report-to-your-lansweeper-installation
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Invalid object name tsysWebRoles.md
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Issue with self-replicating dashboard tabs and unusual tab names.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Lansweeper installer not launching.md
+  ID: 64515
+  Old: https://community.lansweeper.com/t5/cloud/introduction-to-cloud/ta-p/64515
+  New: /docs/introduction-to-lansweeper-sites
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Lansweeper LocalDB Service install failed. ErrorId -1.md
+  ID: 64322
+  Old: https://community.lansweeper.com/t5/installation/accessing-the-web-console/ta-p/64322
+  New: /docs/access-the-web-console
+--------------------------------------------------------------------------------
+  ID: 64321
+  Old: https://community.lansweeper.com/t5/installation/installing-lansweeper/ta-p/64321
+  New: /docs/install-lansweeper-on-prem
+--------------------------------------------------------------------------------
+  ID: 64505
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/moving-your-database-from-sql-localdb-to-sql-server/ta-p/64505
+  New: /docs/move-your-database-from-sql-localdb-to-sql-server
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Locked out of the web console.md
+  ID: 64262
+  Old: https://community.lansweeper.com/t5/customizing-the-web-console/restricting-access-to-the-web-console/ta-p/64262
+  New: /docs/restrict-access-to-the-web-console
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Put the scanning service in debug mode.md
+  ID: 64387
+  Old: https://community.lansweeper.com/t5/installation/lansweeper-component-overview/ta-p/64387
+  New: /docs/lansweeper-classic-components-and-architecture
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Reinstalling the web console.md
+  ID: 64305
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/changing-the-lansweeper-database-password/ta-p/64305
+  New: /docs/change-the-lansweeper-database-password
+--------------------------------------------------------------------------------
+  ID: 64398
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/where-lansweeper-data-reports-and-settings-are-stored/ta-p/64398
+  New: /docs/where-are-lansweeper-data-reports-and-settings-stored
+--------------------------------------------------------------------------------
+  ID: 64422
+  Old: https://community.lansweeper.com/t5/installation/how-to-install-iis-internet-information-services/ta-p/64422
+  New: /docs/install-iis-internet-information-services
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Scanserver down, unavailable, or scanning server not listed in web console.md
+  ID: 70481
+  Old: https://community.lansweeper.com/t5/cloud/scan-server-status-unknown-or-sync-server-status-down/ta-p/70481
+  New: /docs/scan-server-status-unknown-or-sync-server-status-down
+--------------------------------------------------------------------------------
+  ID: 64305
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/changing-the-lansweeper-database-password/ta-p/64305
+  New: /docs/change-the-lansweeper-database-password
+--------------------------------------------------------------------------------
+  ID: 64386
+  Old: https://community.lansweeper.com/t5/troubleshooting-your/quot-login-failed-for-user-lansweeperuser-quot/ta-p/64386
+  New: /docs/login-failed-for-user-lansweeperuser
+--------------------------------------------------------------------------------
+  ID: 64389
+  Old: https://community.lansweeper.com/t5/troubleshooting-your/quot-a-network-related-or-instance-specific-error-occurred-quot/ta-p/64389
+  New: /docs/a-network-related-or-instance-specific-error-occurred
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\The interface is unknown.md
+  ID: 64293
+  Old: https://community.lansweeper.com/t5/troubleshooting-scanning-issues/repairing-a-corrupt-wmi-installation/ta-p/64293
+  New: /docs/repair-a-corrupt-wmi-installation
+--------------------------------------------------------------------------------
+
+File: Troubleshooting Your\Update in progress.md
+  ID: 64338
+  Old: https://community.lansweeper.com/t5/lansweeper-maintenance/updating-your-installation/ta-p/64338
+  New: /docs/update-lansweeper-on-premises
+--------------------------------------------------------------------------------
+  ID: 64386
+  Old: https://community.lansweeper.com/t5/troubleshooting-your/quot-login-failed-for-user-lansweeperuser-quot/ta-p/64386
+  New: /docs/login-failed-for-user-lansweeperuser
+--------------------------------------------------------------------------------
+  ID: 64389
+  Old: https://community.lansweeper.com/t5/troubleshooting-your/quot-a-network-related-or-instance-specific-error-occurred-quot/ta-p/64389
+  New: /docs/a-network-related-or-instance-specific-error-occurred
+--------------------------------------------------------------------------------
+
+
+SUMMARY
+================================================================================
+Files modified: 224
+Total replacements: 601
