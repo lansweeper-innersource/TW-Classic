@@ -1,1 +1,0 @@
-<!-- # Scan an AWS region -->

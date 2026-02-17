@@ -1,1 +1,0 @@
-<!-- # Install Lansweeper components separately -->
