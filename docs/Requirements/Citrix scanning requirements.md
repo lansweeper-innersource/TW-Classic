@@ -10,7 +10,7 @@ Full root access is not necessary.
 
 XenServers are scanned via port 443. At this time, you cannot configure a custom TCP port for your XenServers as they will not be scanned as a XenServer if you do.   
 The HTTPS title of the machine must contain the text "XenServer" or "Citrix Hypervisor" in order for the machine to be correctly identified as a XenServer. Custom HTTPS titles are not supported at this time.   
-[Use our devicetester](/docs/troubleshoot-device-scanning-issues-with-devicetester) to check if TCP port 443 is open on the XenServer and to check that the HTTPS title is correct.
+[Use our devicetester](/classic/docs/troubleshoot-device-scanning-issues-with-devicetester) to check if TCP port 443 is open on the XenServer and to check that the HTTPS title is correct.
 
   To configure a XenServer host for scanning, follow these steps:
 
@@ -34,4 +34,4 @@ The HTTPS title of the machine must contain the text "XenServer" or "Citrix Hype
    `lsscan ALL = NETWORKING, SOFTWARE, SERVICES, STORAGE, DELEGATING, PROCESSES, LOCATE, DRIVERS`
 7. The newly created user and password can now be used to scan the Citrix XenServer.  
 
-   More information on how to enter your newly created Citrix credentials can be found in [this knowledge base article](/docs/how-to-scan-a-citrix-xenserver).
+   More information on how to enter your newly created Citrix credentials can be found in [this knowledge base article](/classic/docs/how-to-scan-a-citrix-xenserver).

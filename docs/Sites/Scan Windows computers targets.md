@@ -9,7 +9,7 @@ To add a Windows computer scan target:
 3. Choose an available scan server to configure the target, select **Windows computer** from the list of target types, then select **Add target**.
 4. Enter the target credentials:  
    - Target: a name for your scanning target. This is for personal reference only.
-   - Domain (Netbios): your domaind's Netbois name. If you're unsure what this name is, see [Find your domains' DNS and NetBOIS names](/docs/finding-your-domains-dns-and-netbios-names "Find your domains' DNS and NetBOIS names").
+   - Domain (Netbios): your domaind's Netbois name. If you're unsure what this name is, see [Find your domains' DNS and NetBOIS names](/classic/docs/finding-your-domains-dns-and-netbios-names "Find your domains' DNS and NetBOIS names").
    - Description: an optional description for your scanning target. This is for personal reference only.
 5. Select a scanning schedule for the Windows computer target.
 6. Select an available credential to execute the scanning target.

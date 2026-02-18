@@ -28,8 +28,8 @@ The following parameters can be used:
 - /httpsport: to specify the web console's HTTPS port (e.g. httpsport=82).
 - /folder: to specify the Lansweeper installation folder.
 - /credkeyfile: to specify the encryption key file (**Encryption.txt**) to be used.
-- /noDCOMReset: to prevent the Lansweeper installer from making [DCOM changes](/docs/dcom-and-other-changes-made-by-the-lansweeper-installer) on the Lansweeper server.
-- /SkipNpCapDriver: to prevent the Lansweeper installer from installing the Npcap driver, used by [Asset Radar](/docs/introduction-to-asset-radar).
+- /noDCOMReset: to prevent the Lansweeper installer from making [DCOM changes](/classic/docs/dcom-and-other-changes-made-by-the-lansweeper-installer) on the Lansweeper server.
+- /SkipNpCapDriver: to prevent the Lansweeper installer from installing the Npcap driver, used by [Asset Radar](/classic/docs/introduction-to-asset-radar).
 - /ConfigurationFile: to perform the installation by pointing to a config file that contains the necessary parameters.
 
 All parameters and values are case-insensitive, except the values provided for /dbuserconfig and /dbpassword.   

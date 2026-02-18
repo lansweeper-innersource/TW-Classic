@@ -3,7 +3,7 @@ SNMP is one of the protocols through which Lansweeper can retrieve data regardin
 
 If the SNMP protocol was not scanned for a device in your network:
 
-1. Follow the steps in [No asset created for scanned computer or device](/docs/no-asset-created-for-scanned-computer-or-device) to ensure there is no general scanning issues.
+1. Follow the steps in [No asset created for scanned computer or device](/classic/docs/no-asset-created-for-scanned-computer-or-device) to ensure there is no general scanning issues.
 2. Make sure that TCP port 135 is closed on the device, as having this port open will cause the device to be identified as a Windows computer. Windows computers are not scanned via SNMP.
 3. Make sure SNMP is enabled on the device.  
 

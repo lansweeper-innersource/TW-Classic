@@ -8,6 +8,6 @@ Anti-virus software can make changes to the Lansweeper installation files and ca
 
 To prevent session errors and automatic redirects to the login screen:
 
-1. Double-check that you are running the latest Lansweeper release by following [these instructions](/docs/check-for-lansweeper-updates). It is recommended that you update your Lansweeper installation on a regular basis, to ensure that you have the latest available patches installed, as well as access to any new features that have been released.
+1. Double-check that you are running the latest Lansweeper release by following [these instructions](/classic/docs/check-for-lansweeper-updates). It is recommended that you update your Lansweeper installation on a regular basis, to ensure that you have the latest available patches installed, as well as access to any new features that have been released.
 2. Either disable any anti-virus software on the server hosting your Lansweeper installation, or reconfigure your anti-virus software not to scan the Lansweeper installation folder.   
    Specific instructions for disabling or reconfiguring your anti-virus software should be available in the anti-virus software's documentation. Alternatively, the vendor of the anti-virus software should be able to provide information on this. The default Lansweeper installation folder, which should be excluded from anti-virus scans, is `C:\Program Files (x86)\Lansweeper`.

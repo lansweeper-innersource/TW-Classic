@@ -1,6 +1,6 @@
 <!-- # Configure Gmail to send alert and ticket emails -->
 
-Lansweeper On-premises includes a helpdesk ticketing system that allows you to receive and respond to tickets via email. In addition, email can also be used in Lansweeper to send [report and event log alerts](/docs/send-report-and-event-log-alerts).
+Lansweeper On-premises includes a helpdesk ticketing system that allows you to receive and respond to tickets via email. In addition, email can also be used in Lansweeper to send [report and event log alerts](/classic/docs/send-report-and-event-log-alerts).
 
 From June 2022 onward, Google no longer allows applications like Lansweeper to sign into Gmail using your email account and account password. Instead, two-factor authentication and an app password should be set up in your Google account.
 

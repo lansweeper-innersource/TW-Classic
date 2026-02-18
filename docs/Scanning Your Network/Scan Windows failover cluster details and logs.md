@@ -47,7 +47,7 @@ To keep your database as small as possible, Lansweeper deletes old failover clus
 
 ### Step 4: scan failover cluster data
 
-Once you've configured your client machines as specified in step 1 of this article, you can [scan them like any other Windows computer](/docs/how-to-scan-a-windows-computer). The failover cluster and Hyper-V information is automatically retrieved.
+Once you've configured your client machines as specified in step 1 of this article, you can [scan them like any other Windows computer](/classic/docs/how-to-scan-a-windows-computer). The failover cluster and Hyper-V information is automatically retrieved.
 
 ### Step 5: view failover cluster data
 

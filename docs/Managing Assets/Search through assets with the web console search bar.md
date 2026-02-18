@@ -3,7 +3,7 @@ A search bar is available in the Lansweeper Classic web console that allows you 
 
 When you start typing, the search bar starts displaying search term matches. Press **Enter** after submitting your search term for a complete results list. Search is not case-sensitive. Submitting "lan" or "LAN" for instance returns the same results.
 
-For performance reasons, the search bar only searches specific asset fields and for some fields only returns results that start with the specified search term. More specific searches for other fields or using different filters can be performed using other means: [dynamic asset groups](/docs/grouping-assets#heading3 "Dynamic asset groups"), built-in or custom reports in the **Reports** tab or widgets. Reports allow you to perform "contains" searches in each column, without modifying the report's underlying SQL query.
+For performance reasons, the search bar only searches specific asset fields and for some fields only returns results that start with the specified search term. More specific searches for other fields or using different filters can be performed using other means: [dynamic asset groups](/classic/docs/grouping-assets#heading3 "Dynamic asset groups"), built-in or custom reports in the **Reports** tab or widgets. Reports allow you to perform "contains" searches in each column, without modifying the report's underlying SQL query.
 
 
 
@@ -20,7 +20,7 @@ Below is a list of items searched by the asset search bar. This list also shows 
 -  Asset barcodes  
   If filled in, these are the values you see in the Barcode field of your assets' Summary tabs.
 -  Asset Custom1 through Custom20 fields   
-  More info on what custom fields are and how to use them can be found in [this knowledge base article](/docs/configure-and-add-data-to-asset-custom-fields).
+  More info on what custom fields are and how to use them can be found in [this knowledge base article](/classic/docs/configure-and-add-data-to-asset-custom-fields).
 -  Asset (purchase) order numbers  
   If filled in, these are the numbers you see in the Order field of your assets' Summary tabs.
 -  Asset serial numbers

@@ -1,5 +1,5 @@
 <!-- # Introduction to the SQL LocalDB database server -->
-From Lansweeper 7.2 onward, SQL LocalDB is [one of the available database server options](/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database) for hosting your Lansweeper database. The LocalDB option is a custom variant of Microsoft SQL Server 2014 Express. It was introduced into Lansweeper as a replacement for the deprecated Microsoft SQL Compact database server.
+From Lansweeper 7.2 onward, SQL LocalDB is [one of the available database server options](/classic/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database) for hosting your Lansweeper database. The LocalDB option is a custom variant of Microsoft SQL Server 2014 Express. It was introduced into Lansweeper as a replacement for the deprecated Microsoft SQL Compact database server.
 
 This knowledge base article provides further information on what LocalDB is, why it was introduced, how to manage it and how to convert from or to this database server.
 
@@ -26,7 +26,7 @@ LocalDB was introduced primarily as a replacement for the deprecated Microsoft S
 
 ## How to manage your Lansweeper LocalDB database
 
-Lansweeper tools like **DatabaseMaintenance.exe** and **ConfigEditor.exe** can be used to perform certain operations on your LocalDB instance, as is the case for other database servers. For instance, you can [change the LocalDB database password](/docs/change-the-lansweeper-database-password "Changing the Lansweeper database password") in the same way as you would change a SQL Server password.   
+Lansweeper tools like **DatabaseMaintenance.exe** and **ConfigEditor.exe** can be used to perform certain operations on your LocalDB instance, as is the case for other database servers. For instance, you can [change the LocalDB database password](/classic/docs/change-the-lansweeper-database-password "Changing the Lansweeper database password") in the same way as you would change a SQL Server password.   
 In addition, you can connect to your LocalDB instance using SQL Server Management Studio (SSMS), though only locally from your Lansweeper server. The following users have access to your LocalDB instance by default:
 
 - The Windows user that performed the Lansweeper installation.
@@ -44,11 +44,11 @@ You can convert a SQL Compact database to LocalDB. You can also convert a LocalD
 
 ### Automatically migrating from Compact to LocalDB
 
-If your Lansweeper installation is on version 7.2.107.4 or lower and hosted in the Compact database server, you can easily convert your database by following [these update instructions](/docs/convert-a-deprecated-sql-compact-database#heading1 "Convert SQL Compact installation that is on version 7.2.107.4 or lower"). During the Lansweeper update process, your database is converted to LocalDB. This process is automatic and requires no user input.
+If your Lansweeper installation is on version 7.2.107.4 or lower and hosted in the Compact database server, you can easily convert your database by following [these update instructions](/classic/docs/convert-a-deprecated-sql-compact-database#heading1 "Convert SQL Compact installation that is on version 7.2.107.4 or lower"). During the Lansweeper update process, your database is converted to LocalDB. This process is automatic and requires no user input.
 
 ### Manually migrating from Compact to LocalDB
 
-If your Lansweeper installation is on version 7.2.108.6 or if you only have a SQL Compact `lansweeperdb.sdf` file and not a full Lansweeper installation, you will need to [manually convert your database](/docs/convert-a-deprecated-sql-compact-database "Manually migrating from Compact to SQL Server").
+If your Lansweeper installation is on version 7.2.108.6 or if you only have a SQL Compact `lansweeperdb.sdf` file and not a full Lansweeper installation, you will need to [manually convert your database](/classic/docs/convert-a-deprecated-sql-compact-database "Manually migrating from Compact to SQL Server").
 
 ### Migrating from LocalDB to SQL Server
 
@@ -59,4 +59,4 @@ There are various reasons why you might choose to move from LocalDB to SQL Serve
 - Increase your database capacity by using a paid SQL Server edition
 - Connect to your database remotely to perform remote queries
 
-If required, you can [move from LocalDB to a full SQL Server 2014 or newer](/docs/move-your-database-from-sql-localdb-to-sql-server "Moving your database from SQL LocalDB to SQL Server"), any edition.
+If required, you can [move from LocalDB to a full SQL Server 2014 or newer](/classic/docs/move-your-database-from-sql-localdb-to-sql-server "Moving your database from SQL LocalDB to SQL Server"), any edition.

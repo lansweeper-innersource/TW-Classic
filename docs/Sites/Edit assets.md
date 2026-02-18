@@ -1,7 +1,7 @@
 <!-- # Edit assets -->
 Lansweeper automatically discovers your assets' data through scans. You can also edit your asset to correct existing scanned data, or add financial information, asset location, maintenance records, relations, and more!
 
-OT assets can also be edited in Lansweeper Sites. For more information, see [Manage OT assets from Lansweeper Sites](/docs/manage-ot-assets-in-lansweeper-sites).
+OT assets can also be edited in Lansweeper Sites. For more information, see [Manage OT assets from Lansweeper Sites](/classic/docs/manage-ot-assets-in-lansweeper-sites).
 
 To update your assets' information:
 
@@ -13,7 +13,7 @@ To update your assets' information:
 
 1. In **Inventory**, find the asset you want to edit. To find your assets, you can:
    - Use the search bar.
-   - Create an [advanced filter or custom view](/docs/view-assets  "View assets").
+   - Create an [advanced filter or custom view](/classic/docs/view-assets  "View assets").
    - Search through the pre-configured views.
 2. Select the name of the asset that you want to edit.
 3. You’re redirected to the asset page. Select **Edit asset**.
@@ -22,7 +22,7 @@ To update your assets' information:
    Although you can change the **Asset type** for a Windows asset to another type, rescanning the asset will automatically revert its asset type back to Windows.
 5. Select **Save and Exit**.
 
-You can not modify fields with [normalized data](/docs/software-data-normalization "Normalize your data") to ensure the data within the inventory remains consistent.
+You can not modify fields with [normalized data](/classic/docs/software-data-normalization "Normalize your data") to ensure the data within the inventory remains consistent.
 
 ## Bulk edit assets
 
@@ -50,4 +50,4 @@ To create custom fields:
 
 To add a value to your custom field, individually or bulk edit your assets.
 
-You can also add your custom field to a [custom view](/docs/view-assets#view "View assets") or advanced filter.
+You can also add your custom field to a [custom view](/classic/docs/view-assets#view "View assets") or advanced filter.

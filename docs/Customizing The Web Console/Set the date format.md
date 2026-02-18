@@ -1,5 +1,5 @@
 <!-- # Set the date format -->
-Each user [who logs into the Lansweeper Classic web console](/docs/access-the-web-console) can choose their own date format, which will be used throughout the console.
+Each user [who logs into the Lansweeper Classic web console](/classic/docs/access-the-web-console) can choose their own date format, which will be used throughout the console.
 
 We automatically try to determine your preferred date format based on your web browser language settings, but you can manually select one as well. This article explains how to manually change the date format.
 

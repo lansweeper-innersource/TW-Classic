@@ -5,4 +5,4 @@ If you update a server hosting the **Lansweeper Server** service to version 6.0 
 
 
 
-The solution to this error is to update your web console and any other servers hosting a Lansweeper component to the latest Lansweeper release by following [these instructions](/docs/update-lansweeper-on-premises). Running mismatched Lansweeper components can cause other issues as well, so it is always recommended that you update all servers to the same Lansweeper release.
+The solution to this error is to update your web console and any other servers hosting a Lansweeper component to the latest Lansweeper release by following [these instructions](/classic/docs/update-lansweeper-on-premises). Running mismatched Lansweeper components can cause other issues as well, so it is always recommended that you update all servers to the same Lansweeper release.

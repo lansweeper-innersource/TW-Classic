@@ -10,7 +10,7 @@ To prevent unwanted assets from being scanned, make sure those assets are not pa
 
 
 
-Changing your scanning setup or excluding an asset from scanning only prevents future scan attempts from taking place. If the asset was already scanned prior to excluding or changing your scanning setup, it will not automatically be removed from your database. You can always [delete the asset](/docs/delete-assets) separately.
+Changing your scanning setup or excluding an asset from scanning only prevents future scan attempts from taking place. If the asset was already scanned prior to excluding or changing your scanning setup, it will not automatically be removed from your database. You can always [delete the asset](/classic/docs/delete-assets) separately.
 
 If an excluded asset is part of a scanning target, the asset will still be scanned but the data will be ignored as the exclusion has priority over the scanning target.
 
@@ -23,7 +23,7 @@ If you have multiple scanning servers, you can choose to add the exclusion to al
 
   Excluding an asset type from scanning only prevents assets of the specified type from being added to the database. It doesn't prevent Lansweeper from querying assets of the specified type, as a device's asset type cannot be determined without querying the device.
 
-  If you're excluding types because you've reached your license's asset limit, keep in mind that [some monitors do not count toward your limit](/docs/assets-that-count-toward-your-licensed-asset-limit). Excluding the Monitor asset type may not have an effect on your licensed asset count.
+  If you're excluding types because you've reached your license's asset limit, keep in mind that [some monitors do not count toward your limit](/classic/docs/assets-that-count-toward-your-licensed-asset-limit). Excluding the Monitor asset type may not have an effect on your licensed asset count.
 - **IP Address or Range**: enter an individual IP address or an IP range into the exclusion pop-up window.  
   The ability to exclude entire IP ranges was added in Lansweeper 6.0.  
   

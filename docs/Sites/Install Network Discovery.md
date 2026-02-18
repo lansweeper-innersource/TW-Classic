@@ -432,7 +432,7 @@ Now that Network Discovery is installed, you can check out the Hub and start Net
 
 ### Trial installation
 
-If you need a proxy for your trial installation, follow the [interactive Windows installation](/docs/install-network-discovery#WInteractive), but instead of double-clicking the installer, open a command prompt and run:
+If you need a proxy for your trial installation, follow the [interactive Windows installation](/classic/docs/install-network-discovery#WInteractive), but instead of double-clicking the installer, open a command prompt and run:
 
 ```
 Lansweeper-network-discovery-x.y.z-windows-x64-installer.exe --advanced=1
@@ -472,8 +472,8 @@ Removing a Network Discovery system from your Lansweeper site will remove all li
 
 ## Next steps
 
-Now that you've installed Network Discovery, learn how to [Configure Network Discovery](/docs/configure-network-discovery).
+Now that you've installed Network Discovery, learn how to [Configure Network Discovery](/classic/docs/configure-network-discovery).
 
 ## Frequently asked questions (FAQ)
 
-For a list of answers to frequently asked questions, check out [Network Discovery: Frequently Asked Questions](/docs/network-discovery-frequently-asked-questions).
+For a list of answers to frequently asked questions, check out [Network Discovery: Frequently Asked Questions](/classic/docs/network-discovery-frequently-asked-questions).

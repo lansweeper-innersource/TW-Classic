@@ -7,7 +7,7 @@ This article explains how to set up Windows certificate scanning and how to view
 
 ## Configure client machines for certificate scanning
 
-To scan certificates of a Windows computer, the computer must meet [the general Windows scanning requirements](/docs/windows-domain-scanning-requirements). In addition, the machine must either have the Remote Registry service or PowerShell enabled. Only one of the two is necessary: Lansweeper first tries to retrieve certificates using the Remote Registry service, but if that fails, it tries PowerShell as a fall-back.
+To scan certificates of a Windows computer, the computer must meet [the general Windows scanning requirements](/classic/docs/windows-domain-scanning-requirements). In addition, the machine must either have the Remote Registry service or PowerShell enabled. Only one of the two is necessary: Lansweeper first tries to retrieve certificates using the Remote Registry service, but if that fails, it tries PowerShell as a fall-back.
 
 ### 1. Remote Registry service
 
@@ -46,7 +46,7 @@ Certificate scanning is enabled by default in new and updated Lansweeper install
 
 1. Browse to the **Scanning > Scanned Item Interval** menu of the web console.  
    
-2. Make sure the **Enable** checkbox of the CERTIFICATES item is ticked. The default [refresh interval](/docs/manage-scanned-item-intervals) of the item is 6 days.
+2. Make sure the **Enable** checkbox of the CERTIFICATES item is ticked. The default [refresh interval](/classic/docs/manage-scanned-item-intervals) of the item is 6 days.
 
 ## Add certificate permission to relevant roles
 

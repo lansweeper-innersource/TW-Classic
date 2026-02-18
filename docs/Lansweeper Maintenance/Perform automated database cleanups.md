@@ -2,7 +2,7 @@
 
 Once an asset is scanned and added to the database, Lansweeper will not remove it unless instructed to do so.
 
-You can [manually delete](/docs/delete-assets) old assets or have them deleted automatically through your several cleanup options, found in the Lansweeper On-prem web console under **Configuration > Server Options**or **Scanning > Scanning Targets**. These options can be used to delete assets as well as other stale data.
+You can [manually delete](/classic/docs/delete-assets) old assets or have them deleted automatically through your several cleanup options, found in the Lansweeper On-prem web console under **Configuration > Server Options**or **Scanning > Scanning Targets**. These options can be used to delete assets as well as other stale data.
 
 There are Asset Cleanup Options, User Cleanup Options and History Cleanup Options.  
 
@@ -41,7 +41,7 @@ Below is an overview of currently available asset cleanup options. You'll find t
   This changes the state of domain assets that are disabled in Active Directory to "non-active". "Non-active" assets are excluded from most reports.
 - **Permanently delete SCCM data not scanned by an SCCM scanning target after X days**
 
-  This deletes both stale SCCM data from the SCCM database tables and stale assets that were only detected through SCCM scanning. More info on SCCM scanning can be found in [this knowledge base article](/docs/integrate-lansweeper-with-sccm).
+  This deletes both stale SCCM data from the SCCM database tables and stale assets that were only detected through SCCM scanning. More info on SCCM scanning can be found in [this knowledge base article](/classic/docs/integrate-lansweeper-with-sccm).
 
 ## On-Premises Active Directory Scanning Options
 
@@ -119,19 +119,19 @@ Below is an overview of currently available history cleanup options. You'll fin
   
 - **Delete configurations older than X days**
 
-  This deletes information on who made changes to assets or Lansweeper settings and when. More info on this logging feature can be found in [this knowledge base article](/docs/track-lansweeper-classic-logins-and-setting-changes).
+  This deletes information on who made changes to assets or Lansweeper settings and when. More info on this logging feature can be found in [this knowledge base article](/classic/docs/track-lansweeper-classic-logins-and-setting-changes).
 - **Delete Lansweeper login logs after X days**
 
-  This deletes information on who logged into the Lansweeper web console and when. More info on this logging feature can be found in [this knowledge base article](/docs/track-lansweeper-classic-logins-and-setting-changes).
+  This deletes information on who logged into the Lansweeper web console and when. More info on this logging feature can be found in [this knowledge base article](/classic/docs/track-lansweeper-classic-logins-and-setting-changes).
 - **Delete performance counter data after X days**
 
-  This deletes performance information found in the **Performance** tab of Windows and Linux computer webpages. More info on the performance scanning feature can be found in [this knowledge base article](/docs/how-to-scan-performance-information-of-windows-and-linux-computers).
+  This deletes performance information found in the **Performance** tab of Windows and Linux computer webpages. More info on the performance scanning feature can be found in [this knowledge base article](/classic/docs/how-to-scan-performance-information-of-windows-and-linux-computers).
 - **Delete Windows cluster logs after X days**
 
-  This deletes event log entries retrieved as part of Windows cluster scanning. These are the events visible in the **Windows Cluster** tab of computer webpages. More info on Windows cluster scanning can be found in [this knowledge base article](/docs/scan-windows-failover-cluster-details-and-logs).
+  This deletes event log entries retrieved as part of Windows cluster scanning. These are the events visible in the **Windows Cluster** tab of computer webpages. More info on Windows cluster scanning can be found in [this knowledge base article](/classic/docs/scan-windows-failover-cluster-details-and-logs).
 - **Delete Hyper-V logs after X days**
 
-  This deletes event log entries retrieved as part of Hyper-V log scanning. These are the events visible in the **Hyper-V Log** tab of computer webpages. More info on Windows cluster log and Hyper-V log scanning can be found in [this knowledge base article](/docs/scan-windows-failover-cluster-details-and-logs).
+  This deletes event log entries retrieved as part of Hyper-V log scanning. These are the events visible in the **Hyper-V Log** tab of computer webpages. More info on Windows cluster log and Hyper-V log scanning can be found in [this knowledge base article](/classic/docs/scan-windows-failover-cluster-details-and-logs).
 - **Delete Asset Radar logs after X days**
 - **Delete unique records from already removed data after X days**  
   Delete detail data for Windows assets that are no longer in the inventory (Features, Services, Shares, Drivers, etc).

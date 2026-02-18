@@ -1,5 +1,5 @@
 <!-- # Configure scopes, permissions, and roles -->
-This page is for Lansweeper Sites. For Lansweeper On-prem, see [Web console user roles and permissions](/docs/web-console-user-roles-and-permissions).
+This page is for Lansweeper Sites. For Lansweeper On-prem, see [Web console user roles and permissions](/classic/docs/web-console-user-roles-and-permissions).
 
 Lansweeper Sites allows you to granularly control which users have access and control over various features and assets in your site.
 
@@ -44,7 +44,7 @@ Roles are made up of permissions and scopes. Permissions control the features th
 
 By default, Lansweeper Sites includes the following roles:
 
-- Administrator: All permissions are granted, except for those that are only granted to [site owners](/docs/adding-owners-to-a-cloud-site), such as managing site settings and deleting a site.
+- Administrator: All permissions are granted, except for those that are only granted to [site owners](/classic/docs/adding-owners-to-a-cloud-site), such as managing site settings and deleting a site.
 - Analyze data: Permissions allow the user to view all the data available from a Lansweeper Site, create reports, and create dashboards without configuring asset information or details.
 - Application admin: Permissions allow the user to access API and applications for your Lansweeper Site.
 - Manage assets: Permissions allow the user to manage and configure assets, but not configure the site itself.
@@ -75,7 +75,7 @@ When you create a new asset scope or edit an asset scope, you can link roles to 
 
 For scopes and permissions to apply to a user, you must assign that user with an appropriate role.
 
-When you invite a new user, you can add the role to the user when you [invite them to your site](/docs/add-users-to-a-cloud-site).
+When you invite a new user, you can add the role to the user when you [invite them to your site](/classic/docs/add-users-to-a-cloud-site).
 
 You can also add a role to an existing user or account group.
 

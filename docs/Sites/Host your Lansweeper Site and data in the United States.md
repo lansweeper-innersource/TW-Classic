@@ -11,7 +11,7 @@ Lansweeper Sites can be hosted in the United States, giving you greater control 
 ## Requirements
 
 - **Minimum Lansweeper On-premises version**: If you're using an On-premises scanner, Lansweeper On-premises 11.4 or a newer version is required.
-- **Web server access**: Review the [web server internet requirements](/docs/cloud-requirement-web-server-internet-access) for U.S.-hosted sites.  
+- **Web server access**: Review the [web server internet requirements](/classic/docs/cloud-requirement-web-server-internet-access) for U.S.-hosted sites.  
 
   If it's your first time creating a U.S.-based Lansweeper Site from the Lansweeper On-premises console, you must whitelist <http://app.lansweeper.com> when you initially create your site. Once you create the site, you can unlist the URL.
 
@@ -26,7 +26,7 @@ If neither of the above points applies to you, the European (Ireland) region mig
 
 ## Create a Lansweeper Site in the U.S.
 
-1. Create a new Lansweeper Site. You can do this from [your Lansweeper Site](/docs/create-a-lansweeper-cloud-site), or [your Lansweeper On-Premises console](/docs/link-lansweeper-on-prem-with-lansweeper-sites).
+1. Create a new Lansweeper Site. You can do this from [your Lansweeper Site](/classic/docs/create-a-lansweeper-cloud-site), or [your Lansweeper On-Premises console](/classic/docs/link-lansweeper-on-prem-with-lansweeper-sites).
 2. When you’re prompted to pick a name for your site, next to **Select data hosting region**, select **US East (Ohio)** from the dropdown.  
    
 3. Continue with the steps to create a new site.

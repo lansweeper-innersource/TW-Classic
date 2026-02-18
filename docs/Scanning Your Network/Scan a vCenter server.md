@@ -6,7 +6,7 @@ You can scan your VMware virtual environments using vCenter credentials. Scanned
 
 To retrieve data from a vCenter server, follow these steps:
 
-1. Make sure you meet [the vCenter scanning requirements](/docs/vcenter-scanning-requirements).
+1. Make sure you meet [the vCenter scanning requirements](/classic/docs/vcenter-scanning-requirements).
 2. Submit your vCenter server's IP range for scanning by clicking **Add Scanning Target** in the **Scanning > Scanning Targets** section of the web console. If you have multiple scanning servers, there will be a separate configuration tab for each server. When submitting your range, you will be asked to specify a scanning schedule.  
    
 

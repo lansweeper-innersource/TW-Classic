@@ -3,7 +3,7 @@ Creating a custom data widget in Lansweeper On-premises is a straightforward pro
 
 In this article, we'll walk you through building a basic widget. We'll start from basic data retrieval, and then explore enhancing your widget with images, links, and additional functionality such as auto-refresh.
 
-If you want to create a widget using external sources, you may need to update your appsettings. For more information, see [Secure your Lansweeper On-premises setup](/docs/secure-your-lansweeper-on-premises-setup).
+If you want to create a widget using external sources, you may need to update your appsettings. For more information, see [Secure your Lansweeper On-premises setup](/classic/docs/secure-your-lansweeper-on-premises-setup).
 
 ## Create a custom widget
 

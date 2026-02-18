@@ -71,7 +71,7 @@ To create an advanced filter view:
 
 Your view is added to **Scanning > Scan issues > Custom views**.
 
-You can also view a list of your assets with scan issues in the Inventory module. For more information, see [View assets with scan issues](/docs/view-assets#scanissues "scanissues").
+You can also view a list of your assets with scan issues in the Inventory module. For more information, see [View assets with scan issues](/classic/docs/view-assets#scanissues "scanissues").
 
 ## Manage a custom view
 

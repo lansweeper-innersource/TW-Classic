@@ -64,7 +64,7 @@ If you don’t get the success notification for the installation, create an Atla
 
 1. This app requires an API token from Lansweeper, which is used to make API calls from Jira to Lansweeper.
 2. The API token is required after installation to configure the app.
-3. [Generate an API token.](https://developer.lansweeper.com/docs/data-api/get-started/quickstart/#personal-access-token-pat) Ensure that you choose the API client type as PAT (Personal Access Token).
+3. [Generate an API token.](https://developer.lansweeper.com/classic/docs/data-api/get-started/quickstart/#personal-access-token-pat) Ensure that you choose the API client type as PAT (Personal Access Token).
 4. We recommended that you keep a long period of expiration time or no expiration time for the token to allow the app to function seamlessly.
 
 ### Configure Lansweeper App for JSM
@@ -146,7 +146,7 @@ This will only link issues that do not have the Jira status **Done** which inclu
   5. Select the 3 dots, then Download logs.
 - Manage users, groups, permissions, and roles in Jira Cloud
 - To manage users, groups, permissions and roles in Jira Cloud, review the following link and execute the steps  
-  [https://support.atlassian.com/jira-cloud-administration/docs/manage-users-groups-permissions-and-rol...](https://support.atlassian.com/jira-cloud-administration/docs/manage-users-groups-permissions-and-roles-in-jira-cloud/)
+  [https://support.atlassian.com/jira-cloud-administration/classic/docs/manage-users-groups-permissions-and-rol...](https://support.atlassian.com/jira-cloud-administration/classic/docs/manage-users-groups-permissions-and-roles-in-jira-cloud/)
 - Unable to install/activate the app on Jira Cloud: If any issue is faced during installation/activation of the app on the Jira Cloud, review the following link and execute the steps.  
   <https://confluence.atlassian.com/upm/installing-marketplace-apps-273875715.html>
 - Issue encountered in Issue Enrichment UI: If any issue is faced while viewing the asset details, selecting/deselecting the assets or viewing the updated asset data, a refresh button has been provided on the right side of the Asset Details page. Click on the refresh button or hard refresh the page.

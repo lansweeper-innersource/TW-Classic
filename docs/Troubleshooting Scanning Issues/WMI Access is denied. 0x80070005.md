@@ -1,5 +1,5 @@
 <!-- # WMI Access is denied. 0x80070005 -->
-This page is for Lansweeper Classic. For Lansweeper Cloud, see [WMI Access is denied. 0x80070005](/docs/wmi-access-is-denied-0x80070005).
+This page is for Lansweeper Classic. For Lansweeper Cloud, see [WMI Access is denied. 0x80070005](/classic/docs/wmi-access-is-denied-0x80070005).
 
 [Lansweeper](https://www.lansweeper.com/) pulls Windows computer data from WMI (Windows Management Instrumentation), a management infrastructure built into Windows operating systems. When scanning Windows computers without a scanning agent, you may at some point encounter machines that return "access denied" scanning errors. These errors are usually caused by your scanning credential lacking administrative privileges on the client machine, but can be caused by incorrect DCOM or other settings as well.
 
@@ -10,7 +10,7 @@ To successfully perform an agentless scan with [RequireIntegrityActivationAuthen
 1. Make sure the client machine is running a non-Home edition of Windows.  
    Older versions of Windows Home operating systems cannot be scanned remotely and will need to be scanned with LsAgent or LsPush. Non-Home editions of Windows can be scanned remotely without issue.  
 
-   You can scan Windows computers locally with the [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac) or [LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agents. Scanning with an agent returns the same data and is a guaranteed solution to any access denied errors.
+   You can scan Windows computers locally with the [LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac) or [LsPush](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agents. Scanning with an agent returns the same data and is a guaranteed solution to any access denied errors.
 2. Make sure the client machine's OS is fully patched, as older Windows builds had issues with remote WMI access.
 3. Look at the **Last scan attempt**date in the computer's **Summary** tab in the Lansweeper Classic web console to determine when the scanning error occurred.  
    If the scanning error is not recent, rescan the computer first to verify whether the scanning issue is still present. To rescan the computer, go to **Assets**, select the computer and click **Rescan**.
@@ -18,8 +18,8 @@ To successfully perform an agentless scan with [RequireIntegrityActivationAuthen
 5. Make sure you have the correct password for the user account and that the password has not expired.  
    You can re-submit the user account's password in the Lansweeper Classic web console to ensure it's correct.
 6. Make sure the client machine's firewall is configured to allow WMI traffic.   
-   If the machine uses Windows Firewall, read through the configuration instructions found in [Configure Windows Firewall for agentless scanning of computers](/docs/configure-windows-firewall-for-agentless-scanning-of-computers).
-7. Make sure the computer meets the other Windows [domain](/docs/windows-domain-scanning-requirements) or [workgroup](/docs/windows-workgroup-scanning-requirements) scanning requirements.  
+   If the machine uses Windows Firewall, read through the configuration instructions found in [Configure Windows Firewall for agentless scanning of computers](/classic/docs/configure-windows-firewall-for-agentless-scanning-of-computers).
+7. Make sure the computer meets the other Windows [domain](/classic/docs/windows-domain-scanning-requirements) or [workgroup](/classic/docs/windows-workgroup-scanning-requirements) scanning requirements.  
    You can download (right-click and Save Link As) and run [this script](https://www.lansweeper.com/files/lansweeper.vbs) within an elevated Command Prompt on a problem computer to ensure DCOM, Windows Firewall, and some other settings are correct. If you are using third-party firewalls, you will still need to check their configuration separately.
 8. Run the testconnection tool found at `Program Files (x86)\Lansweeper\Actions\testconnection.exe` on your Lansweeper scan server and submit the same scanning credentials used by Lansweeper.
 

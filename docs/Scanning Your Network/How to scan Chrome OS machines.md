@@ -11,7 +11,7 @@ This article explains how to scan your Chrome OS devices in three steps.
 
 ### Step 1: make sure you meet the scanning requirements
 
-Before scanning your Chromebook devices, verify that you meet the scanning requirements. More information on Lansweeper's Chrome OS scanning requirements can be found in [this knowledge base article](/docs/chrome-os-scanning-requirements).
+Before scanning your Chromebook devices, verify that you meet the scanning requirements. More information on Lansweeper's Chrome OS scanning requirements can be found in [this knowledge base article](/classic/docs/chrome-os-scanning-requirements).
 
 ### Step 2: add your scanning target
 

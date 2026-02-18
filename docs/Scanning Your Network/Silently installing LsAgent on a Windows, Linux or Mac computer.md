@@ -3,7 +3,7 @@
 
 Optionally, you can scan your computers with a scanning agent instead. LsAgent is a scanning agent introduced in Lansweeper 7.0. It is a cross-platform, lightweight program that you can install on Windows, Linux and Mac computers and that automatically collects an inventory from the computer it's installed on. LsAgent sends scanned data back to your Lansweeper installation, either directly or through our relay server in the cloud. Data is securely sent to the relay server over HTTPS, stored in an encrypted format and deleted once a scanning server has retrieved it.
 
-If you are using a Lansweeper Site, the IT Agent Discovery scanning agent might be the optimal choice over LsAgent. To determine if IT Agent Discovery aligns with your needs, explore the [Install IT Agent Discovery](/docs/install-it-agent-discovery) guide.
+If you are using a Lansweeper Site, the IT Agent Discovery scanning agent might be the optimal choice over LsAgent. To determine if IT Agent Discovery aligns with your needs, explore the [Install IT Agent Discovery](/classic/docs/install-it-agent-discovery) guide.
 
 Thanks to the relay server connectivity, LsAgent can even scan computers outside of your network and over the internet. LsAgent can be visibly or silently installed on Windows, Linux and Mac computers. When LsAgent's been installed on a computer, it automatically starts scanning the machine once per day. Scanning schedules can be customized further through the Lansweeper web console.
 
@@ -30,7 +30,7 @@ LsAgent accepts the following parameters:
 - `--agentkey <cloud relay authentication key>`   
   If you want LsAgent to send scanned data to our relay server in the cloud, where your Lansweeper scanning server can retrieve it, you must include your relay authentication key in your LsAgent install command. Your relay authentication key is the key you can see in the **Scanning > Relay Configuration** section of the Lansweeper Classic web console after enabling relay access on the same page. If you include both your scanning server and relay authentication key in your LsAgent install command, LsAgent will first try to send data directly to the scanning server. If that fails, LsAgent will send data to our cloud relay server instead, where your scanning server can collect it. To access the relay server, your scanning server must be able to make an outbound connection to port 443 of lsagentrelay.lansweeper.com.  
 
-  The LsAgent relay configuration can only be switched on from the Lansweeper Classic web console. If you don't have access to the web console yet, see [enabling the Lansweeper Classic web console](/docs/enable-the-lansweeper-on-premises-web-console).
+  The LsAgent relay configuration can only be switched on from the Lansweeper Classic web console. If you don't have access to the web console yet, see [enabling the Lansweeper Classic web console](/classic/docs/enable-the-lansweeper-on-premises-web-console).
 - `--prefix <installation folder>`   
   You can include the LsAgent install directory in your command. If this parameter is omitted, the default install directory is used.
 - `--mode unattended`   

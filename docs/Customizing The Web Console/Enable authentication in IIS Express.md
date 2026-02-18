@@ -1,9 +1,9 @@
 <!-- # Enable authentication in IIS Express -->
-By default, everyone in your network has access to the Lansweeper Classic web console. Access can also be restricted however, by following [these instructions](/docs/restrict-access-to-the-web-console).
+By default, everyone in your network has access to the Lansweeper Classic web console. Access can also be restricted however, by following [these instructions](/classic/docs/restrict-access-to-the-web-console).
 
 To have your browser handle authentication of anyone accessing the console, you will need to make changes to your web server settings. Your web server is either IIS or IIS Express. If you're unsure which web server you're using, have a look at the **Configuration > Website Settings** section of the Lansweeper Classic console.
 
-If you have your browser handle authentication, you may be prompted for a username and password whenever you open the web console. Login prompts are browser specific. Some browsers will, by default, prompt for credentials. Others will, by default, automatically log into the console as the currently logged on Windows user. To enable or disable prompts, follow the instructions in [this knowledge base article](/docs/manage-web-browser-login-prompts).
+If you have your browser handle authentication, you may be prompted for a username and password whenever you open the web console. Login prompts are browser specific. Some browsers will, by default, prompt for credentials. Others will, by default, automatically log into the console as the currently logged on Windows user. To enable or disable prompts, follow the instructions in [this knowledge base article](/classic/docs/manage-web-browser-login-prompts).
 
 ## Enable authentication in IIS Express
 

@@ -1,7 +1,7 @@
 <!-- # Manage dashboards -->
 Lansweeper Sites' dashboards provide an overview of crucial information about your environment.
 
-Dashboards are made up of a variety of widgets. Widgets visually represent the data retrieved from various views and [reports](/docs/introduction-to-the-report-builder).
+Dashboards are made up of a variety of widgets. Widgets visually represent the data retrieved from various views and [reports](/classic/docs/introduction-to-the-report-builder).
 
 Want to learn more about all the reports Lansweeper offers? Check out our [Reports Library](https://www.lansweeper.com/report/)!
 

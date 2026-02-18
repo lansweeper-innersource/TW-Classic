@@ -1,9 +1,9 @@
 <!-- # Assets that count toward your licensed asset limit -->
 Most [Lansweeper subscriptions](https://www.lansweeper.com/pricing/) limit the number of assets you can scan. Once you've reached your licensed asset limit, scanning of new and existing assets may stop until you delete some assets or upgrade your subscription.
 
-Any computers, servers, network devices, OT devices, OT cards, Public Cloud workloads (that are included in [Discovery actions](/docs/overview-of-discovery-components-and-configuration#actions)) and manually created assets count toward your limit.
+Any computers, servers, network devices, OT devices, OT cards, Public Cloud workloads (that are included in [Discovery actions](/classic/docs/overview-of-discovery-components-and-configuration#actions)) and manually created assets count toward your limit.
 
-Monitors without [extended display data](/docs/extended-display-scanning) do not count toward the limit. Although monitors are technically assets, they only count if they have extended display data associated with them.
+Monitors without [extended display data](/classic/docs/extended-display-scanning) do not count toward the limit. Although monitors are technically assets, they only count if they have extended display data associated with them.
 
 ## Assets in Lansweeper Sites
 

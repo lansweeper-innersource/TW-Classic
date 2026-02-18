@@ -1,8 +1,8 @@
 <!-- # Compatible SQL database servers for hosting the Lansweeper database -->
 Lansweeper data, reports and settings are stored in a database. Below you can find a list of supported database servers for hosting the Lansweeper database. Key differences between the database servers are listed as well, to help you decide which one to select.
 
-Note that SQL Compact was an old database server option, which is no longer supported. If you are still using SQL Compact as your Lansweeper database server, you should [convert your database to SQL LocalDB or SQL Server](/docs/convert-a-deprecated-sql-compact-database).   
-For other Lansweeper installation requirements like architecture, operating system, disk space, web browser and installed software, please review [this knowledge base article](/docs/lansweeper-installation-requirements).
+Note that SQL Compact was an old database server option, which is no longer supported. If you are still using SQL Compact as your Lansweeper database server, you should [convert your database to SQL LocalDB or SQL Server](/classic/docs/convert-a-deprecated-sql-compact-database).   
+For other Lansweeper installation requirements like architecture, operating system, disk space, web browser and installed software, please review [this knowledge base article](/classic/docs/lansweeper-installation-requirements).
 
 ## List of supported database servers
 

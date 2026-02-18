@@ -1,5 +1,5 @@
 <!-- # Reset or change your Cloud account password -->
-Using a strong, unique password for your [Lansweeper](https://www.lansweeper.com/) account is strongly recommended for security reasons. You can further elevate the security of your account through the use of [SSO (single sign-on)](/docs/set-up-lansweeper-sso) and/or [MFA (multi-factor authentication)](/docs/enable-multi-factor-authentication-mfa).
+Using a strong, unique password for your [Lansweeper](https://www.lansweeper.com/) account is strongly recommended for security reasons. You can further elevate the security of your account through the use of [SSO (single sign-on)](/classic/docs/set-up-lansweeper-sso) and/or [MFA (multi-factor authentication)](/classic/docs/enable-multi-factor-authentication-mfa).
 
 ## Reset your Cloud password
 

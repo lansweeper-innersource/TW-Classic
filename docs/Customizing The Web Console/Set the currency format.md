@@ -13,7 +13,7 @@ To change the web console's currency format:
    <globalization culture ="en-US"/>
    ```
 
-   Some common currencies and their culture values are listed below, but a complete list of culture values can be found in [this knowledge base article](/docs/list-of-currency-culture-codes).   
+   Some common currencies and their culture values are listed below, but a complete list of culture values can be found in [this knowledge base article](/classic/docs/list-of-currency-culture-codes).   
    $ = en-US   
    £ = en-GB   
    € = de-DE   

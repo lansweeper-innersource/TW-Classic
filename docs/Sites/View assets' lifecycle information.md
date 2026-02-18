@@ -7,7 +7,7 @@ Lansweeper can retrieve and display the hardware and operating system lifecycle 
 ## Prerequisites
 
 Ensure Credential-free Device Recognition (CDR) is enabled. CDR is enabled by default, but can be disabled manually.  
-For more information on Credential-free Device Recognition, check out [Credential-free Device Recognition](/docs/credential-free-device-recognition-cdr).
+For more information on Credential-free Device Recognition, check out [Credential-free Device Recognition](/classic/docs/credential-free-device-recognition-cdr).
 
 ## Retrieve lifecycle information
 

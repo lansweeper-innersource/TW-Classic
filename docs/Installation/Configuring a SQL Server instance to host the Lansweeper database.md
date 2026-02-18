@@ -39,7 +39,7 @@ To correctly configure your SQL Server instance so you can install the Lansweepe
    - Right-click the SQL Server service under SQL Server Services and select **Restart**.  
      
 4. If your Lansweeper service and/or web console will be hosted on a different server than the Lansweeper database, make sure SQL Server traffic is allowed through your firewall(s). TCP port 1433 is the most basic port used by SQL Server, though other ports are sometimes used as well. More info on allowing SQL Server traffic through firewalls can be found in [this Microsoft knowledge base article](https://support.microsoft.com/en-us/kb/287932).
-5. With your SQL Server and firewall configuration taken care of, follow the instructions in [this article](/docs/install-lansweeper-on-prem#heading2 "Advanced install Lansweeper") to install Lansweeper. The SQL instance name you submit in the Lansweeper installer should match what you see in SQL Server Management Studio. The installer will connect to the instance and create the lansweeperdb database. Don't try to manually create the database, as this will likely cause an installation failure.
+5. With your SQL Server and firewall configuration taken care of, follow the instructions in [this article](/classic/docs/install-lansweeper-on-prem#heading2 "Advanced install Lansweeper") to install Lansweeper. The SQL instance name you submit in the Lansweeper installer should match what you see in SQL Server Management Studio. The installer will connect to the instance and create the lansweeperdb database. Don't try to manually create the database, as this will likely cause an installation failure.
 
    
 

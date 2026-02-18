@@ -19,8 +19,8 @@ Go to **Scanning > Scanning Targets** and add the below scanning targets. Afterw
 
 These targets connect directly to Active Directory to retrieve the user and computer objects.
 
-- For computers, the scan type will be an Active Directory Computer Path. More information on this target type and how to set it up can be found in [this article](/docs/scanning-with-an-active-directory-computer-path-scanning-target).
-- For users, the scan type will be an Active Directory User Path. More information on this target type and how to set it up can be found in [this article](/docs/scanning-with-an-active-directory-usergroup-path-scanning-target).
+- For computers, the scan type will be an Active Directory Computer Path. More information on this target type and how to set it up can be found in [this article](/classic/docs/scanning-with-an-active-directory-computer-path-scanning-target).
+- For users, the scan type will be an Active Directory User Path. More information on this target type and how to set it up can be found in [this article](/classic/docs/scanning-with-an-active-directory-usergroup-path-scanning-target).
 
 ### Step 3: view the scanning results
 

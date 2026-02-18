@@ -69,10 +69,10 @@ Actions are listed in the left pane of asset and user pages in Lansweeper Classi
 ## Run actions
 
 1. Grant the appropriate users the right to run asset and user actions.   
-   There are two permissions for running actions, one for running basic actions and one for running advanced actions. You can configure which actions are basic and which are advanced. Info on setting up permissions in the web console can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+   There are two permissions for running actions, one for running basic actions and one for running advanced actions. You can configure which actions are basic and which are advanced. Info on setting up permissions in the web console can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 2. Configure your web browser to run actions. Officially supported web browsers are Google Chrome, Mozilla Firefox, Opera and Microsoft Edge.
-   - Configuration instructions for Google Chrome can be found in [this article](/docs/configure-google-chrome-to-run-actions).
-   - Configuration instructions for Mozilla Firefox can be found in [this article](/docs/configure-mozilla-firefox-to-run-actions).
-   - Configuration instructions for Opera can be found in [this article](/docs/configure-opera-to-run-actions).
-   - Configuration instructions for Microsoft Edge can be found in [this article](/docs/configure-microsoft-edge-to-run-actions).
+   - Configuration instructions for Google Chrome can be found in [this article](/classic/docs/configure-google-chrome-to-run-actions).
+   - Configuration instructions for Mozilla Firefox can be found in [this article](/classic/docs/configure-mozilla-firefox-to-run-actions).
+   - Configuration instructions for Opera can be found in [this article](/classic/docs/configure-opera-to-run-actions).
+   - Configuration instructions for Microsoft Edge can be found in [this article](/classic/docs/configure-microsoft-edge-to-run-actions).
 3. Browse to the Lansweeper webpage of the asset or user you want to run the action on. You can then select the action on the left side of the page.

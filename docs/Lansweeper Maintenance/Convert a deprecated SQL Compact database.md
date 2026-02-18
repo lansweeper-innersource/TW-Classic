@@ -22,7 +22,7 @@ If your SQL Compact installation is on Lansweeper version 7.2.108.6, you must ma
 1. Your SQL Compact installation can be converted to SQL LocalDB or SQL Server.
    - If you choose to convert your SQL Compact installation to SQL Server, first install your SQL Server instance on a machine of your choice.
    - If you choose to convert your SQL Compact installation to SQL LocalDB, you don't need to set up the SQL instance yourself. The Lansweeper installer will do this for you.
-   - If you're unsure whether you should choose SQL Server or SQL LocalDB as your database server, we recommend reviewing [this database server comparison article](/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
+   - If you're unsure whether you should choose SQL Server or SQL LocalDB as your database server, we recommend reviewing [this database server comparison article](/classic/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
 2. Stop the **Lansweeper Server** service in Windows Services. 
 3. Stop your web server service in Windows Services. Your web server service is either **IIS Express** or **World Wide Web Publishing Service** (IIS). Keep in mind that this will log everyone out of the console.   
    
@@ -49,7 +49,7 @@ If you only have a SQL Compact lansweeperdb.sdf file and not a fully functional 
 4. Convert your SQL Compact installation to SQL LocalDB or SQL Server.
    - If you choose to convert your SQL Compact installation to SQL Server, first install your SQL Server instance on a machine of your choice.
    - If you choose to convert your SQL Compact installation to SQL LocalDB, you don't need to set up the SQL instance yourself, as the Lansweeper installer will do this for you.
-   - If you're unsure whether you should choose SQL Server or SQL LocalDB as your database server, we recommend reviewing [this database server comparison article](/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
+   - If you're unsure whether you should choose SQL Server or SQL LocalDB as your database server, we recommend reviewing [this database server comparison article](/classic/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
 5. Stop the **Lansweeper Server** service in Windows Services.  
    
 6. Stop your web server service, **IIS Express**, in Windows Services. Keep in mind that this will log everyone out of the console.  

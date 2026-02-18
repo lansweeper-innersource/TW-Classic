@@ -11,7 +11,7 @@ To ensure a smooth Lansweeper integration with SCCM, follow the steps in this ar
 When Lansweeper scans an SCCM server, it does so without an agent and uses WMI (Windows Management Instrumentation) to retrieve assets from the SCCM database. To make this process work, you must:
 
 - Provide Lansweeper with the name, IPv4 address or IPv6 address of an SMS Provider server in your SCCM environment.
-- Ensure your SCCM server meets [the general Windows scanning requirements](/docs/windows-domain-scanning-requirements) for agentless scanning.
+- Ensure your SCCM server meets [the general Windows scanning requirements](/classic/docs/windows-domain-scanning-requirements) for agentless scanning.
 - Provide Lansweeper with a user account that has local administrative permissions on the SCCM server and, at a minimum, the Read-Only Analyst security role within SCCM's Administrative Users.
 
 ### Step 2: set up the SCCM integration

@@ -9,4 +9,4 @@ If you'd like to submit a domain for scanning other than the one your Lansweeper
 5. Click the **Advanced...** button and select the **DNS** tab.
 6. Select the upper **Add...** button in the **DNS** tab, enter the DNS server of the untrusted domain you'd like to scan and click **Add**.
 7. Tick **Append these DNS suffixes (in order)**, select **Add...**, enter the DNS suffix of the untrusted domain you'd like to scan and click **Add**.
-8. Submit the untrusted domain for scanning as normal, e.g. by following the instructions in [this knowledge base article](/docs/scan-a-windows-computer-scanning-target).
+8. Submit the untrusted domain for scanning as normal, e.g. by following the instructions in [this knowledge base article](/classic/docs/scan-a-windows-computer-scanning-target).

@@ -1,7 +1,7 @@
 <!-- # Connect to SQL LocalDB using SQL Server Management Studio -->
-From Lansweeper 7.2 onward, [SQL LocalDB](/docs/introduction-to-the-sql-localdb-database-server) is one of the available database server options for hosting your Lansweeper database. Lansweeper LocalDB is a custom variant of Microsoft SQL (MSSQL) Server 2014 Express. It was introduced as a replacement for the now deprecated Microsoft SQL Compact database server.
+From Lansweeper 7.2 onward, [SQL LocalDB](/classic/docs/introduction-to-the-sql-localdb-database-server) is one of the available database server options for hosting your Lansweeper database. Lansweeper LocalDB is a custom variant of Microsoft SQL (MSSQL) Server 2014 Express. It was introduced as a replacement for the now deprecated Microsoft SQL Compact database server.
 
-To perform certain actions such as [backing up](/docs/back-up-your-installation) and [restoring your database](/docs/restore-your-installation-from-a-backup), you will need to be able to manage your database directly. This knowledge base article explains how to connect to your Lansweeper SQL LocalDB database using SQL Server Management Studio (SSMS).
+To perform certain actions such as [backing up](/classic/docs/back-up-your-installation) and [restoring your database](/classic/docs/restore-your-installation-from-a-backup), you will need to be able to manage your database directly. This knowledge base article explains how to connect to your Lansweeper SQL LocalDB database using SQL Server Management Studio (SSMS).
 
 ## Connect to your Lansweeper SQL LocalDB database
 
@@ -22,4 +22,4 @@ To connect to your LocalDB instance, you can use SQL Server Management Studio (S
 
      Only the user that installed Lansweeper can connect to your LocalDB instance via Windows Authentication.
    - SQL Server Authentication  
-     By default, the SQL user lansweeperuser has access to your SQL LocalDB instance. This user is created during the installation of Lansweeper and is assigned a random password. The first time you connect to your LocalDB instance, you will need to log in as the Windows user that performed the Lansweeper installation. Once you're connected to your instance, you can [configure a custom password](/docs/change-the-lansweeper-database-password) for the lansweeperuser account. 
+     By default, the SQL user lansweeperuser has access to your SQL LocalDB instance. This user is created during the installation of Lansweeper and is assigned a random password. The first time you connect to your LocalDB instance, you will need to log in as the Windows user that performed the Lansweeper installation. Once you're connected to your instance, you can [configure a custom password](/classic/docs/change-the-lansweeper-database-password) for the lansweeperuser account. 

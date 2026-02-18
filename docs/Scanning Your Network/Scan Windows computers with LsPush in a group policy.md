@@ -6,7 +6,7 @@ For Windows computers, however, you can choose to perform your scans with a scan
 There are many ways to run LsPush on your machines. Any process that can run the LsPush executable, preferably with a parameter, can trigger LsPush scans of your machines. For instance, LsPush scans can be fully automated by integrating the scanning agent into logon scripts, group policies, or scheduled tasks.  
 This article explains how to scan Windows computers with the LsPush agent in a group policy and have the scan results automatically sent back to your Lansweeper server. This scanning approach allows you to scan your domain computers as soon as users log into them.
 
-This article only explains how to scan Windows computers with the LsPush scanning agent in a group policy, so domain computers are scanned as soon as users log into them. There are many other methods to run LsPush on one or more machines in your network. In a workgroup environment, LsPush can be deployed with a scheduled task for instance. A list of other ways to run LsPush can be found in [this knowledge base article](/docs/introduction-to-the-lspush-scanning-agent-for-windows).
+This article only explains how to scan Windows computers with the LsPush scanning agent in a group policy, so domain computers are scanned as soon as users log into them. There are many other methods to run LsPush on one or more machines in your network. In a workgroup environment, LsPush can be deployed with a scheduled task for instance. A list of other ways to run LsPush can be found in [this knowledge base article](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows).
 
 ## Scanning with LsPush in a group policy
 

@@ -63,13 +63,13 @@ To view your diagrams' scopes, go to **Diagrams** and check the **Scope** column
 
 Diagrams with an Inventory scope provide the broadest overview by including all IT assets that are available in the Inventory. This holistic view lets you see the entire IT estate, offering comprehensive insights and control.
 
-Additionally, diagrams with an Inventory scope offer the capability to [filter by IP location](/docs/filter-assets-on-diagrams).
+Additionally, diagrams with an Inventory scope offer the capability to [filter by IP location](/classic/docs/filter-assets-on-diagrams).
 
 #### Installation
 
 Diagrams with an Installation scope encompass all assets from a specific installation that has been configured and synced in Lansweeper Site. These diagrams are shown only if more than one installation has been configured in your site. Each additional installation in your site will add a new preconfigured diagram specific to that installation.
 
-Additionally, diagrams with an Installation scope offer the capability to [filter by IP location](/docs/filter-assets-on-diagrams).
+Additionally, diagrams with an Installation scope offer the capability to [filter by IP location](/classic/docs/filter-assets-on-diagrams).
 
 #### IP Location
 
@@ -91,7 +91,7 @@ Once a diagram is generated, you can check the diagram's generation status.
 
 ## Regenerate diagrams
 
-Diagrams are not automatically updated or generated, so it’s essential to regularly regenerate your diagrams to ensure the information on the diagram is up-to-date. Remember to regenerate your diagram if you’ve updated your Inventory, such as by adding assets or [asset relations](/docs/discover-asset-relations-with-diagrams).
+Diagrams are not automatically updated or generated, so it’s essential to regularly regenerate your diagrams to ensure the information on the diagram is up-to-date. Remember to regenerate your diagram if you’ve updated your Inventory, such as by adding assets or [asset relations](/classic/docs/discover-asset-relations-with-diagrams).
 
 You can regenerate your diagram using two methods:
 
@@ -116,4 +116,4 @@ You can regenerate your diagram using two methods:
 
 ## Next steps
 
-Once you’ve generated a diagram, you can [navigate your diagrams](/docs/navigate-diagrams).
+Once you’ve generated a diagram, you can [navigate your diagrams](/classic/docs/navigate-diagrams).

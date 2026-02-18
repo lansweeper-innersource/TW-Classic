@@ -13,10 +13,10 @@ For Linux computers, the **/proc/stat**, **/proc/diskstats** and **/proc/net/dev
 
 Make sure your Windows and Linux computers have been successfully scanned without an agent at least once. Instructions for setting up scanning of Windows and Linux computers can be found below.
 
-- [Windows scanning requirements](/docs/windows-domain-scanning-requirements)
-- [How to scan a Windows computer](/docs/how-to-scan-a-windows-computer)
-- [Linux scanning requirements](/docs/linux-and-unix-agentless-scanning-requirements)
-- [How to scan a Linux computer](/docs/how-to-scan-a-linux-or-unix-computer)
+- [Windows scanning requirements](/classic/docs/windows-domain-scanning-requirements)
+- [How to scan a Windows computer](/classic/docs/how-to-scan-a-windows-computer)
+- [Linux scanning requirements](/classic/docs/linux-and-unix-agentless-scanning-requirements)
+- [How to scan a Linux computer](/classic/docs/how-to-scan-a-linux-or-unix-computer)
 
 ### Step 2: configure cleanup options
 

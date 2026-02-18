@@ -1,6 +1,6 @@
 <!-- # Network Discovery: Frequently Asked Questions -->
 
-Lansweeper's Network Discovery enables you to discover all IT and OT assets within your network. If you'd like to learn more about Network Discovery, head on over to [Install Network Discovery](/docs/install-network-discovery).
+Lansweeper's Network Discovery enables you to discover all IT and OT assets within your network. If you'd like to learn more about Network Discovery, head on over to [Install Network Discovery](/classic/docs/install-network-discovery).
 
 ## Frequently asked questions (FAQ)
 
@@ -182,7 +182,7 @@ To verify if a port is not open, or if access is missing:
 4. Optionally, enter any credentials.
 5. Start the discovery.
 
-The result will appear in Discovery results where you can for instance compare the open ports to [this list](/docs/ports-scanned-or-used-by-lansweeper "/docs/ports-scanned-or-used-by-lansweeper"), to see if any required ports are missing.
+The result will appear in Discovery results where you can for instance compare the open ports to [this list](/classic/docs/ports-scanned-or-used-by-lansweeper "/classic/docs/ports-scanned-or-used-by-lansweeper"), to see if any required ports are missing.
 
 ### How can I deal with the license limit when using Lansweeper Discovery in Configuration > License status?
 
@@ -228,10 +228,10 @@ If the above is not an option:
 
 Both Lansweeper On-Premises and Lansweeper Network Discovery can work alongside one another; you don’t convert one into the other, as you can install and uninstall both independently.
 
-- Remove a Lansweeper On-premises installation from your Lansweeper Site: check out [Remove an installation from your site](/docs/remove-an-installation-from-your-cloud-site#:~:text=In%20your%20cloud%20site%2C%20go,data%20or%20Remove%20all%20data. "/docs/remove-an-installation-from-your-cloud-site#:~:text=In%20your%20cloud%20site%2C%20go,data%20or%20Remove%20all%20data.").
-- Remove a Lansweeper Network Discovery system from your Lansweeper Site: check out [Install Network Discovery](/docs/install-network-discovery#remove).
-- Link a Lansweeper On-premises installation to your Lansweeper Site: check out [Link Lansweeper On-prem with Lansweeper Sites](/docs/link-lansweeper-on-prem-with-lansweeper-sites "/docs/link-lansweeper-on-prem-with-lansweeper-sites").
-- Link a Lansweeper Network Discovery system to your Lansweeper Site: check out [Install Network Discovery](/docs/install-network-discovery#linkdiscovery).
+- Remove a Lansweeper On-premises installation from your Lansweeper Site: check out [Remove an installation from your site](/classic/docs/remove-an-installation-from-your-cloud-site#:~:text=In%20your%20cloud%20site%2C%20go,data%20or%20Remove%20all%20data. "/classic/docs/remove-an-installation-from-your-cloud-site#:~:text=In%20your%20cloud%20site%2C%20go,data%20or%20Remove%20all%20data.").
+- Remove a Lansweeper Network Discovery system from your Lansweeper Site: check out [Install Network Discovery](/classic/docs/install-network-discovery#remove).
+- Link a Lansweeper On-premises installation to your Lansweeper Site: check out [Link Lansweeper On-prem with Lansweeper Sites](/classic/docs/link-lansweeper-on-prem-with-lansweeper-sites "/classic/docs/link-lansweeper-on-prem-with-lansweeper-sites").
+- Link a Lansweeper Network Discovery system to your Lansweeper Site: check out [Install Network Discovery](/classic/docs/install-network-discovery#linkdiscovery).
 
 ### How do I prevent Lansweeper Network Discovery from automatically adding assets to the inventory?
 
@@ -253,7 +253,7 @@ This will stop sensors from inspecting network packets, and restrict asset disco
   - [Notification API](https://discovery-gateway.lansweeper.com/notification-api/ready) (Add/update notifications in Lansweeper Site about Lansweeper Discovery)
   - [Recognition API](https://discovery-gateway.lansweeper.com/recognition-api/ready) (Recognize assets in Lansweeper Site from received data from Lansweeper Discovery)
 - Ensure either the IT Agent or Network Discovery service is running by opening `services.msc` on Windows or Activity Monitor app on macOS or `sudo ps -aux | less` on Linux
-- Check the logs for errors using [paths and logs](/docs/install-it-agent-discovery#pathsandlogs) or [network discovery paths and logs](/docs/install-network-discovery#pathsandlogs)
+- Check the logs for errors using [paths and logs](/classic/docs/install-it-agent-discovery#pathsandlogs) or [network discovery paths and logs](/classic/docs/install-network-discovery#pathsandlogs)
 
 ### If I want to move from Lansweeper On Prem to Lansweeper Discovery but have thousands of manually created assets in their database, how can we ensure those stay visible inside of LS Site after the Lansweeper database is no longer sync'd?
 
@@ -276,7 +276,7 @@ Depending on the type of asset, access, and provided credentials, it takes sever
 
 ### Can I install Lansweeper Network Discovery on Linux box?
 
-Yes, as long as the Linux operating system (and version) is mentioned in the supported operating system list, found in [Install Network Discovery](/docs/install-network-discovery#OS).
+Yes, as long as the Linux operating system (and version) is mentioned in the supported operating system list, found in [Install Network Discovery](/classic/docs/install-network-discovery#OS).
 
 ### If I have two hubs installed and the credentials are saved to the first hub, are they only used for actions where the first hub is mapped to? Or can the second hub also use those same credentials? Or do I need to save credentials to the Hub on the network where they'll be used?
 

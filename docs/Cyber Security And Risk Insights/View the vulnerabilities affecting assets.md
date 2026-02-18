@@ -10,7 +10,7 @@ This article describes two ways to efficiently manage the vulnerabilities affect
 - Starting from a specific asset
 - Starting from a specific vulnerability
 
-You can also identify and address potential security vulnerabilities in your environment through [Lansweeper's Vulnerability API](https://docs.lansweeper.com/docs/api/vulnerabilities "Request vulnerabilities").
+You can also identify and address potential security vulnerabilities in your environment through [Lansweeper's Vulnerability API](https://docs.lansweeper.com/classic/docs/api/vulnerabilities "Request vulnerabilities").
 
 ## Starting from a specific asset
 
@@ -21,7 +21,7 @@ You can also identify and address potential security vulnerabilities in your en
    The default view displays the active vulnerabilities with a high confidence score affecting this asset, but ignored vulnerabilities can be shown as well.  
    
 
-To ignore assets and active vulnerabilities, or restore ignored assets and vulnerabilities, take a look at [Ignore assets and vulnerabilities](/docs/ignore-assets-and-vulnerabilities).
+To ignore assets and active vulnerabilities, or restore ignored assets and vulnerabilities, take a look at [Ignore assets and vulnerabilities](/classic/docs/ignore-assets-and-vulnerabilities).
 
 ## Starting from a specific vulnerability
 

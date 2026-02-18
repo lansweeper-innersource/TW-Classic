@@ -19,9 +19,9 @@ Windows workgroup scanning will not work unless the following key has been added
 
 By default, Windows sends WMI data over random ports, as explained in [this Microsoft knowledge base article](https://docs.microsoft.com/en-us/windows/win32/wmisdk/connecting-to-wmi-on-a-remote-computer). There are three options to ensure the data stream:   
 
-1. Configure your firewalls to allow all WMI traffic. Windows Firewall includes a remote administration exception that you can enable to allow WMI traffic, as explained in [this knowledge base article](/docs/configure-windows-firewall-for-agentless-scanning-of-computers). For third-party firewalls, consult your firewall's documentation.
+1. Configure your firewalls to allow all WMI traffic. Windows Firewall includes a remote administration exception that you can enable to allow WMI traffic, as explained in [this knowledge base article](/classic/docs/configure-windows-firewall-for-agentless-scanning-of-computers). For third-party firewalls, consult your firewall's documentation.
 2. [Configure a fixed WMI port](https://docs.microsoft.com/en-us/windows/win32/wmisdk/setting-up-a-fixed-port-for-wmi) and allow traffic through that port.
-3. If you are unable to allow WMI traffic through your firewalls, scan your computers with [the LsPush scanning agent](/docs/introduction-to-the-lspush-scanning-agent-for-windows) instead, which does not require firewall reconfiguration.
+3. If you are unable to allow WMI traffic through your firewalls, scan your computers with [the LsPush scanning agent](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows) instead, which does not require firewall reconfiguration.
 
 The firewall on the scanning server must whitelist **Lansweeperservice.exe** to make outbound connections and correctly scan your network.
 
@@ -32,7 +32,7 @@ The firewall on the scanning server must whitelist **Lansweeperservice.exe** t
 
 ## Requirements for scanning with a scanning agent
 
-To scan a Windows workgroup computer with [our LsPush scanning agent](/docs/introduction-to-the-lspush-scanning-agent-for-windows), the computer must meet the following requirements:
+To scan a Windows workgroup computer with [our LsPush scanning agent](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows), the computer must meet the following requirements:
 
 - **Architecture**32-bit or 64-bit
 - **Operating system**Windows XP or any more recent operating system. Unlike agentless scanning, agent based scanning supports Home editions of Windows.

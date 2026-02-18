@@ -1,5 +1,5 @@
 <!-- # Web console user roles and permissions -->
-This page is for Lansweeper Classic. For Lansweeper Sites (in the cloud), see [Configure scopes, permissions, and roles](/docs/configure-scopes-permissions-and-roles).
+This page is for Lansweeper Classic. For Lansweeper Sites (in the cloud), see [Configure scopes, permissions, and roles](/classic/docs/configure-scopes-permissions-and-roles).
 
 By default, everyone in your network can access all of Lansweeper's features and menus simply by browsing to the web console URL and selecting **Built-in Admin**. However, you can restrict access to the console and configure what users can see or do once they've been granted access.
 
@@ -8,7 +8,7 @@ To do this, you can assign a built-in or custom user role (a set of permissions)
 There are built-in roles, which you can modify with the pencil shaped edit buttons, but you can create your own as well. Roles are configured in the **User Roles** section of the **Configuration > User Access & Roles**menu.  
 
 
-This article simply lists the built-in roles, the permissions that can be included in a role and the rights these permissions provide. For a complete guide on how to restrict web console access, please review [this knowledge base article](/docs/restrict-access-to-the-web-console).
+This article simply lists the built-in roles, the permissions that can be included in a role and the rights these permissions provide. For a complete guide on how to restrict web console access, please review [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 
 User permissions are cached. If you make changes to a user's permissions, have that user log out of Lansweeper and back in to see the changes take effect. A logout can be achieved by restarting the web browser.
 
@@ -37,9 +37,9 @@ Below is a list of available asset management and other general permissions.
 - **Access Asset Management**: gives users read-only access to all assets in the Lansweeper database. This includes both scanned and manually added assets.
 - **Access Scanning Targets**: allows users to view and modify submitted network segments and other settings under **Scanning > Scanning Targets**.  
   
-- **Access Scanning Credentials**: allows users to [modify and map scanning credentials](/docs/create-and-map-scanning-credentials) under **Scanning > Scanning Credentials**.  
+- **Access Scanning Credentials**: allows users to [modify and map scanning credentials](/classic/docs/create-and-map-scanning-credentials) under **Scanning > Scanning Credentials**.  
   
-- **Access Data Selection**: allows users to access the **Data Selection** section of the **Scanning** menu. These menus allow you to configure [file scanning](/docs/windows-custom-file-scanning), [registry scanning](/docs/scan-registry-values-with-custom-registry-scanning), [item intervals](/docs/manage-scanned-item-intervals), [custom OID scanning](/docs/scan-extra-snmp-data-with-custom-oid-scanning) and [performance scanning](/docs/how-to-scan-performance-information-of-windows-and-linux-computers). Item intervals control how often specific data is scanned for Windows computers and whether a change history of this data is kept.  
+- **Access Data Selection**: allows users to access the **Data Selection** section of the **Scanning** menu. These menus allow you to configure [file scanning](/classic/docs/windows-custom-file-scanning), [registry scanning](/classic/docs/scan-registry-values-with-custom-registry-scanning), [item intervals](/classic/docs/manage-scanned-item-intervals), [custom OID scanning](/classic/docs/scan-extra-snmp-data-with-custom-oid-scanning) and [performance scanning](/classic/docs/how-to-scan-performance-information-of-windows-and-linux-computers). Item intervals control how often specific data is scanned for Windows computers and whether a change history of this data is kept.  
   
 - **Edit Asset Data**: allows users to make manual changes to asset data. Changes can be made for instance by selecting **Edit asset** on individual asset pages or by clicking the **Assets** link at the top of the web console and using one of the edit buttons on the left.
 - **View And Use Basic Actions**: allows users to view and run Basic asset and user actions. Which actions are considered Basic actions can be configured in the web console under **Configuration > Asset Pages** and **Configuration > User Pages**.  
@@ -49,9 +49,9 @@ Below is a list of available asset management and other general permissions.
   
 - **Rescan Assets**: allows users to rescan assets with the **Rescan** and **Rescan Asset** buttons found throughout the web console, e.g. on individual asset pages and in asset overviews.  
   
-- **Add Asset Comments**: allows users to [add comments to assets](/docs/add-comments-to-assets) by selecting **Add comment** in the **Comments** tab of individual asset pages.  
+- **Add Asset Comments**: allows users to [add comments to assets](/classic/docs/add-comments-to-assets) by selecting **Add comment** in the **Comments** tab of individual asset pages.  
   
-- **Add Asset Docs**: allows users to [add documents to assets](/docs/add-documents-to-assets) by selecting **Add document** in the **Docs** tab of individual asset pages.  
+- **Add Asset Docs**: allows users to [add documents to assets](/classic/docs/add-documents-to-assets) by selecting **Add document** in the **Docs** tab of individual asset pages.  
   
 - **View License Keys**: allows users to view scanned license keys of Windows computers, e.g. on individual computer webpages, in reports and under **Software > Scanned License Keys**.  
   
@@ -63,14 +63,14 @@ Below is a list of available asset management and other general permissions.
   
 - **Edit Reports**: allows users to create and modify reports in the **Reports** menu of the web console.
 - **View Reports Containing Helpdesk Tables**: allows users to see the results of reports in the **Reports** menu that contain helpdesk database tables. Helpdesk tables start with "htbl...", e.g. "htblticket". Keep in mind that this permission allows users to see all tickets that meet the report criteria, even tickets that they would otherwise not be authorized to view in ticket filters.
-- **Share Dashboard Tabs**: allows users to [share dashboard tabs with other users](/docs/share-dashboard-tabs-with-other-users) and to change the contents of shared dashboard tabs.  
+- **Share Dashboard Tabs**: allows users to [share dashboard tabs with other users](/classic/docs/share-dashboard-tabs-with-other-users) and to change the contents of shared dashboard tabs.  
   
 - **Access Deployment**: allows users to create, modify and delete deployment packages in the **Deployment** menu, to schedule deployments and to run deployment packages with the **Deploy Package** buttons found throughout the web console.  
   
 - **Access Configuration**: allows users to access the items in the **Configuration** menu of the web console, the **Software > Authorization** menu and the **Software > Anti-Virus Settings** menu. Keep in mind that users with this permission can change their own user role to add additional permissions.
 - **View Database Tables**: allows users to access the **Configuration > Database Tables** menu, which lists information on the Lansweeper database like table names and sizes.  
   
-- **LsAgent Configuration**: allows users to access the **LsAgent** section of the **Scanning** menu. These menus allow you to configure [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac) settings like groups, schedules, relay access etc. The permission also allows users to access the **LsAgent Assets** section of the **Assets** menu.
+- **LsAgent Configuration**: allows users to access the **LsAgent** section of the **Scanning** menu. These menus allow you to configure [LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac) settings like groups, schedules, relay access etc. The permission also allows users to access the **LsAgent Assets** section of the **Assets** menu.
 - **Access Uptime Information**: allows users to view scanned uptime events of Windows computers, both in the **Uptime** tab of individual computer webpages and in reports.
 - **Access BitLocker Recovery Keys**: allows users to view BitLocker recovery keys scanned from Active Directory for Windows computers. These keys can be viewed in the **Config > Windows > BitLocker encryption > Recovery keys** tab of individual computer webpages and in reports.
 
@@ -115,7 +115,7 @@ Many of the permissions below control what operations an agent can perform on a 
 - **Duplicate Ticket**: allows agents to quickly create a new ticket based on an existing one, with the same ticket properties (user, type, state, priority...) and initial note as the original ticket.
 - **Ignore Tickets**: allows agents to mark tickets as ignored. Ignored tickets are not deleted from your database, but excluded from most ticket overviews, text searches and help desk widgets. Ignored tickets can still be viewed by searching for their specific ticket ID or creating a ticket filter with the Ignored Tickets option checked.
 - **Set Personal**: allows agents to set tickets to personal. If a ticket is set to personal, the agent's name is displayed in any public agent replies sent via email to the user of the ticket. Personal tickets can be identified in the web console by the speech bubble icons accompanying their notes.
-- **Delete Tickets**: allows agents to [delete tickets from the database](/docs/delete-tickets-from-the-helpdesk). Keep in mind that deleted tickets can only be recovered through [a database restore](/docs/restore-your-installation-from-a-backup).
+- **Delete Tickets**: allows agents to [delete tickets from the database](/classic/docs/delete-tickets-from-the-helpdesk). Keep in mind that deleted tickets can only be recovered through [a database restore](/classic/docs/restore-your-installation-from-a-backup).
 - **Edit Ticket Description / Subject**: allows agents to use the pencil shaped edit button in the upper right corner of a ticket's initial note to modify this note and the ticket subject.
 - **Delete Attachments**: allows agents to remove attachments from tickets with the delete buttons next to each attachment.
 

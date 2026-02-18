@@ -7,5 +7,5 @@ To link purchase or other documents to an asset, follow these steps:
 
    Uploaded asset docs are stored in the `Program Files (x86)\Lansweeper\Website\DOCS` folder, found on the computer hosting your web console.
 
-   You can prevent users from uploading documents. More info on restricting web console access can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+   You can prevent users from uploading documents. More info on restricting web console access can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 4. You can open a document you've uploaded by clicking its display name in the **Docs** tab of the asset's detailed webpage. The **Docs** tab header allows you to quickly identify machines with attached documents, without actually opening the Docs tab.

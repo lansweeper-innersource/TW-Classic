@@ -5,8 +5,8 @@ In order for Lansweeper to scan your vCenter servers, you need to ensure that TC
 
 If you encounter issues while scanning your VMware vCenter servers:
 
-1. Follow the steps in [No asset created for scanned computer or device](/docs/no-asset-created-for-scanned-computer-or-device) to ensure there are no general scan issues, including rescanning your machine.
-2. Use the [Lansweeper Devicetester](/docs/troubleshoot-device-scanning-issues-with-devicetester) to make sure that the vCenter server meets the [vCenter scanning requirements](/docs/vcenter-scanning-requirements). Check that TCP port 443 is open on the vCenter server and that the HTTPS title contains the text "ID\_VC\_Welcome".
+1. Follow the steps in [No asset created for scanned computer or device](/classic/docs/no-asset-created-for-scanned-computer-or-device) to ensure there are no general scan issues, including rescanning your machine.
+2. Use the [Lansweeper Devicetester](/classic/docs/troubleshoot-device-scanning-issues-with-devicetester) to make sure that the vCenter server meets the [vCenter scanning requirements](/classic/docs/vcenter-scanning-requirements). Check that TCP port 443 is open on the vCenter server and that the HTTPS title contains the text "ID\_VC\_Welcome".
 
    
 

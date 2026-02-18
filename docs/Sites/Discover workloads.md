@@ -2,7 +2,7 @@
 
 Lansweeper's Cloud Discovery can currently detect various workloads across Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP). 
 
-For more information about Cloud Discovery, take a look at [Introduction to Cloud Discovery](/docs/introduction-to-cloud-discovery).
+For more information about Cloud Discovery, take a look at [Introduction to Cloud Discovery](/classic/docs/introduction-to-cloud-discovery).
 
 ## Discover workloads
 

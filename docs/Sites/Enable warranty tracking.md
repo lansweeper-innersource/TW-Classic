@@ -1,5 +1,5 @@
 <!-- # Enable warranty tracking -->
-This page is for Lansweeper Sites. For Lansweeper On-premises, see [Warranty check for Dell, Fujitsu, IBM, Lenovo, Toshiba, and HP](/docs/set-up-automated-warranty-checks).
+This page is for Lansweeper Sites. For Lansweeper On-premises, see [Warranty check for Dell, Fujitsu, IBM, Lenovo, Toshiba, and HP](/classic/docs/set-up-automated-warranty-checks).
 
 Lansweeper Sites can track warranty information for assets from the following manufacturers:
 
@@ -67,7 +67,7 @@ HP currently does not accept registrations from Lansweeper directly. Access is g
 
 1. In your web console, go to **Configuration** > **Server options**.  
 
-   If you haven't enabled your web console yet, see [Enable the Lansweeper On-premises web console](/docs/enable-the-lansweeper-on-premises-web-console).
+   If you haven't enabled your web console yet, see [Enable the Lansweeper On-premises web console](/classic/docs/enable-the-lansweeper-on-premises-web-console).
 2. In the **Warranty Tracking** section, select **Edit warranty keys** for the blank HP API key.   
    
 3. In the popup, enter the API Key and API Secret you received from HP.

@@ -7,7 +7,7 @@ In the Lansweeper console, VMware Workspace One UEM (powered by AirWatch) is re
 
 ### Step 1: make sure scanning requirements are met
 
-Before you attempt to scan VMware Workspace One UEM devices, make sure you meet [the scanning requirements](/docs/vmware-workspace-one-uem-powered-by-airwatch-scanning-requirements).
+Before you attempt to scan VMware Workspace One UEM devices, make sure you meet [the scanning requirements](/classic/docs/vmware-workspace-one-uem-powered-by-airwatch-scanning-requirements).
 
 ### Step 2: create a scanning target
 

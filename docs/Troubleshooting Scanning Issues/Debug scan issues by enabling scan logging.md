@@ -11,7 +11,7 @@ To enable scan logging:
 
    Scan logging can significantly increase your database's size, so enter the fewest days possible and delete the data on a regular basis.
 4. Open **Windows Services** on your system and find **Lansweeper Server**. Right-click then select **Restart**.
-5. Once the new scan attempts have been completed, [create a report](/docs/add-a-report-to-your-lansweeper-installation "Create a new report") based on the tblScanHistory database table. For example, the SQL query might resemble the following:
+5. Once the new scan attempts have been completed, [create a report](/classic/docs/add-a-report-to-your-lansweeper-installation "Create a new report") based on the tblScanHistory database table. For example, the SQL query might resemble the following:
 
    ```
    Select Top 1000000 tsysAssetTypes.AssetTypeIcon10 As icon,  

@@ -66,8 +66,8 @@ To efficiently distribute the scanning load, it's important to optimize your sca
   The number of concurrent scans is determined by the **Computer Threads** and **IP Threads** values configured in the **Service Options** section of the **Configuration > Server Options**page in the web console.  
 
   Computer or IP thread changes won't take effect until you restart the **Lansweeper Server** service on your Lansweeper server.
-- Scan your Windows, Linux and Mac computers with [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac) instead  
-  LsAgent scans locally, doesn't need to set up client connections and therefore generates a small amount of traffic for one full Windows computer scan. Windows computers can also be scanned locally with [LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows) instead.
+- Scan your Windows, Linux and Mac computers with [LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac) instead  
+  LsAgent scans locally, doesn't need to set up client connections and therefore generates a small amount of traffic for one full Windows computer scan. Windows computers can also be scanned locally with [LsPush](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows) instead.
 - Set up a Lansweeper installation with multiple scanning servers  
   A multi-scanning server setup allows for more efficient load balancing, as the scanning load and network traffic are divided among multiple machines.
 - Disable scanning of any Windows data you're not interested in  

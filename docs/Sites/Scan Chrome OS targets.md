@@ -5,8 +5,8 @@ For more information about Lansweeper's various scan targets, see the [Scanning
 
 ## Prerequisites
 
-- Before scanning your Chrome devices, verify that you meet the scanning requirements specified in [Chrome OS scanning requirements](/docs/chrome-os-scanning-requirements).
-- Ensure you save the JSON key that you create in the [step 4: copy service account ID and generate JSON key](/docs/chrome-os-scanning-requirements#heading6).
+- Before scanning your Chrome devices, verify that you meet the scanning requirements specified in [Chrome OS scanning requirements](/classic/docs/chrome-os-scanning-requirements).
+- Ensure you save the JSON key that you create in the [step 4: copy service account ID and generate JSON key](/classic/docs/chrome-os-scanning-requirements#heading6).
 - Ensure your selected scan server belongs to an installation [capable of encrypting credentials](https://www.lansweeper.com/trust/security/).
 
 ## Add Chrome OS as a scan target
@@ -22,7 +22,7 @@ For more information about Lansweeper's various scan targets, see the [Scanning
 5. Enter the following information:
    - Name: Enter a name to identify the target. Must be unique to the installation and can not contain "<" or ">".
    - Username: Enter a valid username. Must be an email address.
-   - JSON Key: Enter the JSON key created in [step 4: copy service account ID and generate JSON key](/docs/chrome-os-scanning-requirements#heading6).
+   - JSON Key: Enter the JSON key created in [step 4: copy service account ID and generate JSON key](/classic/docs/chrome-os-scanning-requirements#heading6).
    - Schedule: Enter a scan schedule. Can be scheduled to run every few minutes, hours, daily, or weekly. It can also not be run on a schedule.  
      
 6. Select **Save and exit**.

@@ -63,7 +63,7 @@ To generate the access key that you'll need to submit in Lansweeper for AWS scan
 10. Optionally, tag your user and select **Next: Review**.
 11. Check whether your submitted settings are correct and select **Create user**.
 12. On the resulting page, select **Show** to display your secret access key. Copy both the access key ID and secret access key displayed on the page. This is what you'll need to submit as a credential in Lansweeper.   
-    You can configure AWS scanning in Lansweeper by following the instructions in [this knowledge base article](/docs/scan-an-aws-cloud-environment).
+    You can configure AWS scanning in Lansweeper by following the instructions in [this knowledge base article](/classic/docs/scan-an-aws-cloud-environment).
 
     
 

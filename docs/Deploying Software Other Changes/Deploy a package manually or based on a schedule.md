@@ -10,7 +10,7 @@ The default run mode is configured in the **Deployment > Security options**secti
 Three credentials come into play when performing a deployment:
 
 - Your scanning credentials will be used to create tasks on your machines that will run the deployment.
-- Your [share credentials](/docs/deployment-requirements) are used by the tasks to access files stored in your package shares and referenced in your deployment package.
+- Your [share credentials](/classic/docs/deployment-requirements) are used by the tasks to access files stored in your package shares and referenced in your deployment package.
 - The tasks are run under your system accounts, scanning credentials, or currently logged-on users, depending on which run mode you choose.
 
 Deployments are performed in batches. The number of concurrent deployments is determined by the **Deployment Threads** value configured in the **Configuration > Server Options >****Service Options** section of the web console.

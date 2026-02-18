@@ -7,4 +7,4 @@ Linking an old Lansweeper installation with your Cloud site can result in an inc
 
 ## What do I do if the version check fails?
 
-Update your web server and scan servers, including the sync server, to the latest Lansweeper version. You can run the latest Lansweeper installer on these servers and choose the **Upgrade** option. To be safe, performing a backup first is strongly recommended. [More detailed update instructions](/docs/update-lansweeper-on-premises) are available in our knowledge base.
+Update your web server and scan servers, including the sync server, to the latest Lansweeper version. You can run the latest Lansweeper installer on these servers and choose the **Upgrade** option. To be safe, performing a backup first is strongly recommended. [More detailed update instructions](/classic/docs/update-lansweeper-on-premises) are available in our knowledge base.

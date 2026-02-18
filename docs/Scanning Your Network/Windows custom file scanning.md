@@ -24,7 +24,7 @@ This is useful to detect software packages not listed in Add/Remove Programs for
      
 
    Exporting file scanning settings is only necessary if you are scanning with our LsPush scanning agent and if your LsPush command does not reference your Lansweeper server, i.e. if LsPush is not connecting directly to your Lansweeper server.   
-   If LsPush is connecting to your server, it will automatically retrieve your settings and an export is not required. More info on how to scan Windows computers with LsPush can be found in [this knowledge base article](/docs/introduction-to-the-lspush-scanning-agent-for-windows).
+   If LsPush is connecting to your server, it will automatically retrieve your settings and an export is not required. More info on how to scan Windows computers with LsPush can be found in [this knowledge base article](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows).
 7. Rescan your Windows computers with LsPush, or by going to the **Assets** section of the web console, selecting the Windows asset and selecting **Rescan asset(s)**.
 8. To view scan results, browse to the **Scanning > File & Registry Scanning** section, and select **Report**.  
      

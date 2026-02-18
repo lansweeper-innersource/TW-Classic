@@ -5,7 +5,7 @@ The Devicetester.exe tool is included in your Lansweeper installation. You can f
 
 **Program Files (x86)\Lansweeper\Actions**
 
-If you are experiencing [RPC unavailable](/docs/the-rpc-server-is-unavailable-0x800706ba) or [access denied](/docs/wmi-access-is-denied-0x80070005) errors on a Windows machine, use the Lansweeper testconnection.exe tool instead.
+If you are experiencing [RPC unavailable](/classic/docs/the-rpc-server-is-unavailable-0x800706ba) or [access denied](/classic/docs/wmi-access-is-denied-0x80070005) errors on a Windows machine, use the Lansweeper testconnection.exe tool instead.
 
 Always run the program on the same machine as the Lansweeper Service otherwise connection errors may go undetected.
 

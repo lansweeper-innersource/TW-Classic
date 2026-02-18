@@ -9,7 +9,7 @@ Corrupt LsPush file, repair WMI on this computer! The interface is unknown Inval
 Below are several options you can try to repair WMI on a client machine. Reboot the client computer after each step and verify whether the issue has been resolved by rescanning the machine.   
 One way to rescan is by clicking the **Assets** link at the top of the web console, ticking the checkbox in front of the asset and selecting the **Rescan** button on the left. Wait for the **Last Successful Scan** or **Last Scan Attempt** date listed in the **Summary** tab of the computer webpage to update, indicating that a new scan attempt has taken place.
 
-Run the script and commands below at your own risk, as they may affect other applications. To double-check that WMI on a client machine is actually corrupt before attempting a repair, [scan the machine with the LsPush scanning agent](/docs/scan-individual-windows-computers-with-the-lspush-scanning-agent).   
+Run the script and commands below at your own risk, as they may affect other applications. To double-check that WMI on a client machine is actually corrupt before attempting a repair, [scan the machine with the LsPush scanning agent](/classic/docs/scan-individual-windows-computers-with-the-lspush-scanning-agent).   
 If LsPush cannot retrieve data from the client machine either, WMI is corrupt.   
 If LsPush can retrieve data, WMI is not corrupt and any scanning errors you may be getting during agentless scanning are caused by something else, e.g. a firewall or incorrect credential.
 

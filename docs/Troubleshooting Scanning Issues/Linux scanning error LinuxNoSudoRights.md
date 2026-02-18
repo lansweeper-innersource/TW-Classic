@@ -1,5 +1,5 @@
 <!-- # Linux scanning error: LinuxNoSudoRights -->
-If your scanning credential does not have the sudo rights to scan the required Linux information, you may receive a LinuxNoSudoRights error during a [Linux scan](/docs/how-to-scan-a-linux-or-unix-computer "How to scan a Linux or Unix computer").
+If your scanning credential does not have the sudo rights to scan the required Linux information, you may receive a LinuxNoSudoRights error during a [Linux scan](/classic/docs/how-to-scan-a-linux-or-unix-computer "How to scan a Linux or Unix computer").
 
 Different Linux distributions may require different configuration commands.
 
@@ -17,6 +17,6 @@ To resolve the Linux scanning error:
    
 9. When you are done editing the file, click **Escape** to exit insert mode.
 10. Type `:wq` then click **Enter** to save and exit the editor.
-11. Navigate to the Lansweeper web console and [rescan the client machine](/docs/how-to-scan-a-linux-or-unix-computer "How to scan a Linux or Unix computer") with the user account you granted sudo rights to.
+11. Navigate to the Lansweeper web console and [rescan the client machine](/classic/docs/how-to-scan-a-linux-or-unix-computer "How to scan a Linux or Unix computer") with the user account you granted sudo rights to.
 
 The LinuxNoSudoRights errors should now be resolved. If the issue persists, browse and post in our [Community Forum](https://community.lansweeper.com/t5/forum/bd-p/Lansweeper_General_Forum "Lansweeper Community Forum"), or contact our [support team](https://www.lansweeper.com/contact-support/ "Contact Support") directly.

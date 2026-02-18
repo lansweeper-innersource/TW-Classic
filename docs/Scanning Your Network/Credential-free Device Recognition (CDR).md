@@ -15,7 +15,7 @@ Using a combination of data gathered from IP scanning and, most importantly, Ass
 These fingerprints are generated, encrypted, and stored in the Lansweeper database. They are then sent to the Lansweeper-owned recognition API.   
 Based on the received fingerprint, the recognition API returns more information about the device, which is then also stored in the Lansweeper database. Finally, during the next scan of the device, this information is applied to the asset, i.e. its asset type is updated, extra fields are filled in.
 
-To make optimal use of both Asset Radar and CDR, it is recommended to have [a scanning server](/docs/set-up-an-installation-with-multiple-scanning-servers) in each subnet or VLAN that contains relevant devices. CDR will have the greatest impact on devices for which you don't have credentials (yet), IoT devices and unmanaged devices.
+To make optimal use of both Asset Radar and CDR, it is recommended to have [a scanning server](/classic/docs/set-up-an-installation-with-multiple-scanning-servers) in each subnet or VLAN that contains relevant devices. CDR will have the greatest impact on devices for which you don't have credentials (yet), IoT devices and unmanaged devices.
 
 ## How to enable Credential-free Device Recognition
 

@@ -19,4 +19,4 @@ If you want to know more about what information Lansweeper can discover on your 
 
 Lansweeper helps to manage assets in your IT environment by discovering new assets in your network, tracking information about your assets, and providing reports and analytics on your IT environment.
 
-To benefit from Lansweeper's asset management capabilities, [install the Lansweeper Cloud-first trial](/docs/install-the-lansweeper-trial "Install the Lansweeper Cloud-first trial").
+To benefit from Lansweeper's asset management capabilities, [install the Lansweeper Cloud-first trial](/classic/docs/install-the-lansweeper-trial "Install the Lansweeper Cloud-first trial").

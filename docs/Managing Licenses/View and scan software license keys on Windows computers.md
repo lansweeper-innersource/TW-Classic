@@ -1,5 +1,5 @@
 <!-- # View and scan software license keys on Windows computers -->
-[Lansweeper](https://www.lansweeper.com/ "Lansweeper") scans the Windows computers in your network for software license keys, unless you manually [disable the SERIALNUMBER scan item](/docs/manage-scanned-item-intervals).
+[Lansweeper](https://www.lansweeper.com/ "Lansweeper") scans the Windows computers in your network for software license keys, unless you manually [disable the SERIALNUMBER scan item](/classic/docs/manage-scanned-item-intervals).
 
 To reduce network traffic during scanning, only a limited number of keys are scanned by default and most scanning methods only scan keys once every 40 days. However, you can customize which keys are scanned and adjust the item interval of the SERIALNUMBER scan item.
 
@@ -11,7 +11,7 @@ The **Reports** tab of the console includes a built-in report called "License: S
 
   
 
-It's important to note that, from a Lansweeper point of view, software installations and software license keys are completely unrelated. You should not use license keys as an indicator of how many software installations exist in your network. [This knowledge base article](/docs/software-installations-vs-software-license-keys) provides more info on the difference between software installations and license keys.
+It's important to note that, from a Lansweeper point of view, software installations and software license keys are completely unrelated. You should not use license keys as an indicator of how many software installations exist in your network. [This knowledge base article](/classic/docs/software-installations-vs-software-license-keys) provides more info on the difference between software installations and license keys.
 
 Lansweeper uses two methods to retrieve software license keys:
 
@@ -34,4 +34,4 @@ Lansweeper uses two methods to retrieve software license keys:
 
     
 
-  If you are running the latest Lansweeper release, have recently and successfully rescanned your machines and are unable to find certain license keys, Lansweeper was unable to locate the keys using either of the aforementioned detection methods. Microsoft MAK keys, Microsoft Office 2000 (and lower) keys and some [Microsoft Office 2013 (and higher) keys](/docs/microsoft-office-license-keys-not-detected) are not stored in the registry for instance, which makes these keys impossible to scan.
+  If you are running the latest Lansweeper release, have recently and successfully rescanned your machines and are unable to find certain license keys, Lansweeper was unable to locate the keys using either of the aforementioned detection methods. Microsoft MAK keys, Microsoft Office 2000 (and lower) keys and some [Microsoft Office 2013 (and higher) keys](/classic/docs/microsoft-office-license-keys-not-detected) are not stored in the registry for instance, which makes these keys impossible to scan.

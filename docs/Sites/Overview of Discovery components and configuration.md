@@ -14,19 +14,19 @@ There are three different types of discovery actions, depending on the method us
 
 The IT Agent-based discovery action allows you to configure the discovery settings for IT Agents from within your Lansweeper Site, allowing you to determine what to scan and when the scans should take place.
 
-For more information on setting up IT Agent-based discovery actions, take a look at [Configure IT Agent Discovery](/docs/configure-it-agent-discovery).
+For more information on setting up IT Agent-based discovery actions, take a look at [Configure IT Agent Discovery](/classic/docs/configure-it-agent-discovery).
 
 ### Agent-less discovery actions
 
 The Agent-less discovery action allows you to remotely discover more information about your IT and OT assets with Lansweeper's Network Discovery.
 
-For more information on setting up Agent-less discovery actions, take a look at [Configure Network Discovery](/docs/configure-network-discovery).
+For more information on setting up Agent-less discovery actions, take a look at [Configure Network Discovery](/classic/docs/configure-network-discovery).
 
 ### Cloud discovery actions
 
 The Cloud discovery action allows you to discover all assets within your cloud infrastructure. Currently, you can select either Microsoft Azure, Amazon Web Services (AWS), or Google Cloud Platform (GCP) as your cloud provider.
 
-For more information on setting up Cloud discovery actions, take a look at [Configure Cloud Discovery](/docs/configure-cloud-discovery).
+For more information on setting up Cloud discovery actions, take a look at [Configure Cloud Discovery](/classic/docs/configure-cloud-discovery).
 
 ## Discovery systems
 

@@ -1,7 +1,7 @@
 <!-- # The relay could not be contacted -->
 [Lansweeper](https://www.lansweeper.com/) includes a scanning agent called LsAgent. LsAgent is a cross-platform, lightweight program that you can install on Windows, Linux and Mac computers and that automatically collects an inventory from the computer it's installed on.
 
-LsAgent sends scanned data back to your Lansweeper installation, either directly or through our relay server in the cloud. Data is securely sent to the relay server over HTTPS, stored in an encrypted format and deleted once a scanning server has retrieved it. Thanks to the relay server connectivity, LsAgent can even scan computers outside of your network and over the Internet. An introduction to LsAgent can be found in [this knowledge base article](/docs/introduction-to-lsagent-for-windows-linux-and-mac).
+LsAgent sends scanned data back to your Lansweeper installation, either directly or through our relay server in the cloud. Data is securely sent to the relay server over HTTPS, stored in an encrypted format and deleted once a scanning server has retrieved it. Thanks to the relay server connectivity, LsAgent can even scan computers outside of your network and over the Internet. An introduction to LsAgent can be found in [this knowledge base article](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac).
 
 In order for LsAgent to send scanned data back to your Lansweeper installation through the cloud relay server, relay access must first be enabled in the **Scanning > Relay Configuration** section of the Lansweeper web console.   
 If setting up access to the cloud relay server fails, the page may return an error similar to:

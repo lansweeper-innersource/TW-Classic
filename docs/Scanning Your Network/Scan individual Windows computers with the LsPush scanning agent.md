@@ -6,7 +6,7 @@ For Windows computers, however, you can choose to perform your scans with a scan
 There are many ways to run LsPush on your machines. Any process that can run the LsPush executable, preferably with a parameter, can trigger LsPush scans of your machines. For instance, LsPush scans can be fully automated by integrating the scanning agent into logon scripts, group policies, or scheduled tasks.  
 This article explains what the most basic way is to scan a Windows computer using LsPush, i.e. by manually running the executable. This scanning approach can be useful if you have a stock computer for instance that you quickly want to scan without fully deploying it in your network.
 
-This article only explains how to perform a basic, manual scan of a single Windows computer using the LsPush scanning agent. There are many other methods to run LsPush on one or more machines in your network, including silent and automated methods. A list of other ways to run LsPush can be found in [this knowledge base article](/docs/introduction-to-the-lspush-scanning-agent-for-windows).
+This article only explains how to perform a basic, manual scan of a single Windows computer using the LsPush scanning agent. There are many other methods to run LsPush on one or more machines in your network, including silent and automated methods. A list of other ways to run LsPush can be found in [this knowledge base article](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows).
 
 ## Scanning individual Windows computers with LsPush
 

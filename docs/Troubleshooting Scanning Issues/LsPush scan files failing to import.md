@@ -1,5 +1,5 @@
 <!-- # LsPush scan files failing to import -->
-If you choose to store [LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows "Introduction to the LsPush scanning agent for Windows") results in files, these files must be placed in the import folder on your Lansweeper server, where they are automatically processed. When the files have disappeared from the import folder, the import process has completed and the machines can be found in the web console.
+If you choose to store [LsPush](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows "Introduction to the LsPush scanning agent for Windows") results in files, these files must be placed in the import folder on your Lansweeper server, where they are automatically processed. When the files have disappeared from the import folder, the import process has completed and the machines can be found in the web console.
 
 However, import may fail for a variety of reasons. To resolve import failures, follow the troubleshooting steps below.
 
@@ -44,7 +44,7 @@ In your Lansweeper scanning server, navigate to **Program Files (x86)\Lansweepe
 1. In the Lansweeper Classic web console, go to **Configuration > Your Lansweeper license**.
 2. Ensure the **Licensed assets** count does not exceed the **Asset limit**.
 
-   Most Lansweeper licenses limit the number of assets you can scan. Once you've reached [your licensed asset limit](/docs/assets-that-count-toward-your-licensed-asset-limit), you can not scan new or existing assets until you [delete assets](/docs/delete-assets "Delete assets") or [upgrade your license](https://www.lansweeper.com/pricing/ "Pricing & Plans").
+   Most Lansweeper licenses limit the number of assets you can scan. Once you've reached [your licensed asset limit](/classic/docs/assets-that-count-toward-your-licensed-asset-limit), you can not scan new or existing assets until you [delete assets](/classic/docs/delete-assets "Delete assets") or [upgrade your license](https://www.lansweeper.com/pricing/ "Pricing & Plans").
 
 ## Ensure the machine is not excluded from scanning
 
@@ -81,4 +81,4 @@ If your Window's computer appear in the file, the LsPush files are likely to hav
 
 ## Rescan the Windows computers
 
-To generate new files, [rescan the Windows computers with LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows "Introduction to the LsPush scanning agent for Windows") to generate new scan files, and replace them in the import folder.
+To generate new files, [rescan the Windows computers with LsPush](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows "Introduction to the LsPush scanning agent for Windows") to generate new scan files, and replace them in the import folder.

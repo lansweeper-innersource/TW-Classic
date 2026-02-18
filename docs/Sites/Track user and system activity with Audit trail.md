@@ -22,7 +22,7 @@ For automated workflows, integrations, or advanced analytics, audit trail data c
 
 The Data API includes a dedicated **AuditTrail** data type, allowing you to filter records by date or event type, retrieve detailed user information, and manage large datasets through built‑in pagination.
 
-For technical details and schema definitions, check out [the Types specification](https://developer.lansweeper.com/docs/data-api/reference/types#audittrail).
+For technical details and schema definitions, check out [the Types specification](https://developer.lansweeper.com/classic/docs/data-api/reference/types#audittrail).
 
 ## Audit trail events
 

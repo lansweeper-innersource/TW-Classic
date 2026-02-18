@@ -12,14 +12,14 @@ License key reports should not be used to report on software installations. If s
 ## Software installations
 
 Software installations are listed in both the **Software** section of a Windows computer's **Software** tab, and in the built-in Lansweeper report "Software: List of software by computer".  
-Software installation scanning mimics the Add/Remove Programs (Programs and Features) section of the control panel on the computer itself, as explained in [this knowledge base article](/docs/view-and-scan-software-installations-on-windows-computers).
+Software installation scanning mimics the Add/Remove Programs (Programs and Features) section of the control panel on the computer itself, as explained in [this knowledge base article](/classic/docs/view-and-scan-software-installations-on-windows-computers).
 
 
 
 ## Software license keys
 
 Software license keys are listed in both the **License Keys** section of a Windows computer's **Software** tab, and in the built-in Lansweeper report "License: Software licensekey overview".   
-License keys are pulled from various locations within the registry, as explained in [this knowledge base article](/docs/view-and-scan-software-license-keys-on-windows-computers), and are often left behind when the corresponding software is uninstalled.
+License keys are pulled from various locations within the registry, as explained in [this knowledge base article](/classic/docs/view-and-scan-software-license-keys-on-windows-computers), and are often left behind when the corresponding software is uninstalled.
 
   
 

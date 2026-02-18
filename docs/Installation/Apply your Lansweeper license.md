@@ -2,7 +2,7 @@
 
 When you purchase a Lansweeper or helpdesk agent license for Lansweeper On-premises, an email receipt is sent to you with a license key included. You can use the **Click here to download your license** link in your receipt to retrieve your license key. This key must be applied to your installation to unlock Lansweeper's paid features or additional helpdesk agents.
 
-If you purchased a [Lansweeper license from the cloud environment](/docs/buy-a-cloud-license), you can continue to use both Lansweeper On-premises and Lansweeper Sites. However, if you do not plan to use our cloud solution, please contact the Lansweeper Sales team via [our sales form](https://www.lansweeper.com/contact-sales/) to move your license.
+If you purchased a [Lansweeper license from the cloud environment](/classic/docs/buy-a-cloud-license), you can continue to use both Lansweeper On-premises and Lansweeper Sites. However, if you do not plan to use our cloud solution, please contact the Lansweeper Sales team via [our sales form](https://www.lansweeper.com/contact-sales/) to move your license.
 
 License keys can only be applied through Lansweeper's **Configuration** menu, as explained in this knowledge base article.
 

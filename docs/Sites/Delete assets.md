@@ -1,5 +1,5 @@
 <!-- # Delete assets -->
-This page is for Lansweeper Sites. For Lansweeper Classic, see [Delete assets](/docs/delete-assets).
+This page is for Lansweeper Sites. For Lansweeper Classic, see [Delete assets](/classic/docs/delete-assets).
 
 If you have assets that have been decommissioned and are no longer part of your network, you can delete them from your Lansweeper inventory.
 
@@ -21,21 +21,21 @@ If you have assets that have been decommissioned and are no longer part of your 
 To delete an asset:
 
 1. In your Lansweeper Site, go to **Inventory**.
-2. Select the asset you want to delete from your list. To locate your asset, you can search or [filter](/docs/view-assets#h54067037961674828386919) for it.
+2. Select the asset you want to delete from your list. To locate your asset, you can search or [filter](/classic/docs/view-assets#h54067037961674828386919) for it.
 3. Select the checkbox for the asset.
 4. Select **Delete asset**.
 5. In the pop-up window, select **Yes**.
 
-Ensure you add the asset to the [scan exclusions list](/docs/exclude-assets-from-scans), otherwise the asset will reappear when you scan the installation.
+Ensure you add the asset to the [scan exclusions list](/classic/docs/exclude-assets-from-scans), otherwise the asset will reappear when you scan the installation.
 
 ### Bulk delete assets
 
 You can bulk delete 250 assets at one time.
 
 1. In your Lansweeper Site, go to **Inventory**.
-2. Select the asset you want to delete from your list. To locate your assets, you can search or [filter](/docs/view-assets#h54067037961674828386919) for them.
+2. Select the asset you want to delete from your list. To locate your assets, you can search or [filter](/classic/docs/view-assets#h54067037961674828386919) for them.
 3. Select the checkbox for your desired assets. You can select all assets by selecting the checkbox at the top of the page.
 4. Select **Delete asset**.
 5. In the pop-up window, select **Yes**.
 
-Ensure you add the asset to the [scan exclusions list](/docs/exclude-assets-from-scans), otherwise the asset will reappear when you scan the installation.
+Ensure you add the asset to the [scan exclusions list](/classic/docs/exclude-assets-from-scans), otherwise the asset will reappear when you scan the installation.

@@ -1,5 +1,5 @@
 <!-- # Navigate diagrams -->
-Once you’ve [generated a diagram](/docs/generate-diagrams), you can navigate the diagrams in various ways. Go to **Diagrams** and select your desired diagram from the available views. From there, you can either:
+Once you’ve [generated a diagram](/classic/docs/generate-diagrams), you can navigate the diagrams in various ways. Go to **Diagrams** and select your desired diagram from the available views. From there, you can either:
 
 - Left-click and hold your mouse cursor to drag your diagram in the direction of your choice to visualize and explore its content.  
   
@@ -16,10 +16,10 @@ On each asset you can learn more about your assets by selecting the following op
 
   This action is currently only supported for virtual assets of the following types: Hyper-V, Citrix, and VMware.
 
-From an asset, you can also add a relation. For more information about adding asset relations, see [Discover asset relations using diagrams](/docs/discover-asset-relations-with-diagrams).
+From an asset, you can also add a relation. For more information about adding asset relations, see [Discover asset relations using diagrams](/classic/docs/discover-asset-relations-with-diagrams).
 
-To control how assets are displayed, see [Personalize diagrams](/docs/personalize-diagrams).
+To control how assets are displayed, see [Personalize diagrams](/classic/docs/personalize-diagrams).
 
 ## Next steps
 
-Once you’ve learned to navigate your diagram, you can [discover asset relations on diagrams](/docs/discover-asset-relations-with-diagrams).
+Once you’ve learned to navigate your diagram, you can [discover asset relations on diagrams](/classic/docs/discover-asset-relations-with-diagrams).

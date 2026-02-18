@@ -1,5 +1,5 @@
 <!-- # Add managers to an SSO connection -->
-The person who [set up SSO](/docs/set-up-lansweeper-sso) for one or more domains in Cloud is by default the owner of that SSO connection. An SSO connection has at least one owner. Optionally, you can add more Cloud SSO managers. Having multiple managers is ideal for redundancy and security purposes, so you are not dependent on a single person to manage the SSO configuration.
+The person who [set up SSO](/classic/docs/set-up-lansweeper-sso) for one or more domains in Cloud is by default the owner of that SSO connection. An SSO connection has at least one owner. Optionally, you can add more Cloud SSO managers. Having multiple managers is ideal for redundancy and security purposes, so you are not dependent on a single person to manage the SSO configuration.
 
 An SSO connection can have up to 10 managers and there are two possible manager roles:
 

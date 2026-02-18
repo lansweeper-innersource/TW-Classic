@@ -1,5 +1,5 @@
 <!-- # Restore your installation from a backup -->
-If you [manually created a backup](/docs/back-up-your-installation) of your Lansweeper installation, you can always restore it at a later date if necessary. Which restore procedure you should follow depends on which database server you are using, Microsoft SQL Compact or Microsoft SQL Server. If you perform an Easy Install, your database is hosted in SQL Compact. If you perform an Advanced Install, your database can be hosted in SQL Compact or SQL Server. If you are unsure which database server you are using, browse to the following section of the web console: **Configuration > Your Lansweeper License**.
+If you [manually created a backup](/classic/docs/back-up-your-installation) of your Lansweeper installation, you can always restore it at a later date if necessary. Which restore procedure you should follow depends on which database server you are using, Microsoft SQL Compact or Microsoft SQL Server. If you perform an Easy Install, your database is hosted in SQL Compact. If you perform an Advanced Install, your database can be hosted in SQL Compact or SQL Server. If you are unsure which database server you are using, browse to the following section of the web console: **Configuration > Your Lansweeper License**.
 
 
 
@@ -104,6 +104,6 @@ If you [manually created a backup](/docs/back-up-your-installation) of your Lans
 10. Select the **Password** field and select **Edit**.
 11. Submit the same password you used in the database script and select **Save**.
 12. If the ConfigEditor tool has multiple tabs due to your server hosting multiple Lansweeper components, select the other tab, click through any warnings and repeat the password-changing process.
-13. Restore the **Website** subfolders and Encryption.txt file you created a backup of. [Restore only these folders](/docs/where-are-lansweeper-data-reports-and-settings-stored#heading2 "Where lansweeper data reports and settings are stored").
+13. Restore the **Website** subfolders and Encryption.txt file you created a backup of. [Restore only these folders](/classic/docs/where-are-lansweeper-data-reports-and-settings-stored#heading2 "Where lansweeper data reports and settings are stored").
 14. Restart the Lansweeper and web server services in Windows Services.
 15. If you have multiple scanning servers, update the database password on those serversby stopping the Lansweeper service, using the ConfigEditor tool and restarting the service.

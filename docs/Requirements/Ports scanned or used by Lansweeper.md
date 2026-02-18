@@ -15,7 +15,7 @@ To check the status of your ports, check out the pro tip [Ports Status](https:/
   Which ports must be opened on the machine hosting your SQL Server instance depends on how your instance is configured. Port 1433 is a common port used for SQL Server traffic, but additional ports may need to be opened as well. Please review [this Microsoft knowledge base article](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access?view=sql-server-ver15) for detailed information on how to allow SQL Server traffic through a firewall.
 - **Lansweeper service and Lansweeper Network Discovery sensor to Active Directory domain controllers**
 
-  Port: 389/TCP (LDAP) or [another LDAP(S) port of your choice](/docs/use-ldaps-for-active-directory-scanning)  
+  Port: 389/TCP (LDAP) or [another LDAP(S) port of your choice](/classic/docs/use-ldaps-for-active-directory-scanning)  
   Port: 88 (if Kerberos is enabled or enforced)
 - **Lansweeper service and Lansweeper Network Discovery sensor to scanned Windows computers**
 
@@ -28,9 +28,9 @@ To check the status of your ports, check out the pro tip [Ports Status](https:/
   Random ports in the 1025-5000 or 49152-65535 range (to send the WMI data)
 
   By default, Windows sends WMI data over random ports, as explained in [this Microsoft knowledge base article](https://docs.microsoft.com/en-us/windows/win32/wmisdk/connecting-to-wmi-on-a-remote-computer). There are three options to ensure the data stream:   
-  1. Configure your firewalls to allow all WMI traffic. Windows Firewall includes a remote administration exception that you can enable to allow WMI traffic, as explained in [this knowledge base article](/docs/configure-windows-firewall-for-agentless-scanning-of-computers). For third-party firewalls, consult your firewall's documentation.
+  1. Configure your firewalls to allow all WMI traffic. Windows Firewall includes a remote administration exception that you can enable to allow WMI traffic, as explained in [this knowledge base article](/classic/docs/configure-windows-firewall-for-agentless-scanning-of-computers). For third-party firewalls, consult your firewall's documentation.
   2. [Configure a fixed WMI port](https://docs.microsoft.com/en-us/windows/win32/wmisdk/setting-up-a-fixed-port-for-wmi) and allow traffic through that port.
-  3. If you are unable to allow WMI traffic through your firewalls, scan your computers with the [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac) or [LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agent instead, which does not require firewall reconfiguration.
+  3. If you are unable to allow WMI traffic through your firewalls, scan your computers with the [LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac) or [LsPush](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agent instead, which does not require firewall reconfiguration.
 - **Lansweeper service and Lansweeper Network Discovery sensor to scanned Linux, Unix and Mac computers**
 
   Port: 22/TCP (SSH) or a custom SSH port of your choice

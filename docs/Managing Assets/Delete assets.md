@@ -1,6 +1,6 @@
 <!-- # Delete assets -->
 
-This page is for Lansweeper Classic. For Lansweeper Sites, see [Delete assets](/docs/delete-assets).
+This page is for Lansweeper Classic. For Lansweeper Sites, see [Delete assets](/classic/docs/delete-assets).
 
 You may want to delete certain assets from your Lansweeper database after a while, particularly if those assets have been decommissioned and are no longer on the network. By default, Lansweeper does not remove any previously scanned assets from your database or web console. You must instruct your Lansweeper installation to remove assets.
 
@@ -8,7 +8,7 @@ You can either have automatic cleanups performed or manually remove any unwanted
 
 ## Automatically deleting unwanted assets
 
-If you are looking to delete assets that have been decommissioned and are no longer present in your network, the easiest way to do this would be through [your database cleanup options](/docs/perform-automated-database-cleanups), found in the web console under **Configuration > Server options**.
+If you are looking to delete assets that have been decommissioned and are no longer present in your network, the easiest way to do this would be through [your database cleanup options](/classic/docs/perform-automated-database-cleanups), found in the web console under **Configuration > Server options**.
 
   
 
@@ -22,9 +22,9 @@ If enabled, most of the cleanup operations are performed when the Lansweeper Ser
    - You could also tick the top checkbox to select all assets in the current search results.
 3. Select **Delete** under **Basic Actions**.  
 
-   Deleting an asset removes it from your database and web console. Any historical information and custom data associated with the asset is lost. This operation cannot be undone without [restoring a database backup](/docs/restore-your-installation-from-a-backup). Make sure you've selected the correct assets before selecting **Delete**.
+   Deleting an asset removes it from your database and web console. Any historical information and custom data associated with the asset is lost. This operation cannot be undone without [restoring a database backup](/classic/docs/restore-your-installation-from-a-backup). Make sure you've selected the correct assets before selecting **Delete**.
 
-   Deleting an asset does not prevent it from being rescanned. If the asset is still present in your network and submitted for scanning under **Scanning > Scanning Targets**, it will be rescanned and added to the web console again. To prevent the asset from being rescanned, you can [exclude it](/docs/exclude-assets-from-scanning).
+   Deleting an asset does not prevent it from being rescanned. If the asset is still present in your network and submitted for scanning under **Scanning > Scanning Targets**, it will be rescanned and added to the web console again. To prevent the asset from being rescanned, you can [exclude it](/classic/docs/exclude-assets-from-scanning).
 
 ## Manually deleting a single unwanted asset
 

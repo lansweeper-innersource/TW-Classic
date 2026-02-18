@@ -61,4 +61,4 @@ Perform a search for the Reader role, select it and click **Next** at the bottom
 
 ### Step 6: set up Azure scanning in Lansweeper
 
-You now have the 4 parameters required to set up Azure scanning in Lansweeper: a subscription ID, a directory (tenant) ID, an application ID and an application password. You can now [configure Azure scanning in Lansweeper](/docs/scan-an-azure-cloud-environment) by following the instructions in the knowledge base.
+You now have the 4 parameters required to set up Azure scanning in Lansweeper: a subscription ID, a directory (tenant) ID, an application ID and an application password. You can now [configure Azure scanning in Lansweeper](/classic/docs/scan-an-azure-cloud-environment) by following the instructions in the knowledge base.

@@ -17,5 +17,5 @@ Lansweeper data, reports and settings are stored in a database. Your database is
 6. After the report is run, you can:
    - Export the report results or perform other actions on the report.
    - Filter the report further within the report results, using the boxes above each column.
-   - [Set up an alert for the report](/docs/send-report-and-event-log-alerts), so you are automatically notified of its results. The alert can automatically export the report results to a folder or send them via email to email addresses specified by you.  
+   - [Set up an alert for the report](/classic/docs/send-report-and-event-log-alerts), so you are automatically notified of its results. The alert can automatically export the report results to a folder or send them via email to email addresses specified by you.  
      

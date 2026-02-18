@@ -6,7 +6,7 @@ These manufacturer support links are customizable, and you can add your own for 
 
 
 Manufacturer support links are only used to make asset serials on individual asset pages clickable and to link them to warranty pages on the vendors' websites. They are not used to automatically scan or add warranty information to Lansweeper.   
-Lansweeper includes a [warranty scanning](/docs/set-up-automated-warranty-checks) feature as well, but it is a separate feature that uses its own URLs and APIs to retrieve data. The links used by warranty scanning to retrieve data are hard coded into the scanning service and cannot be customized.
+Lansweeper includes a [warranty scanning](/classic/docs/set-up-automated-warranty-checks) feature as well, but it is a separate feature that uses its own URLs and APIs to retrieve data. The links used by warranty scanning to retrieve data are hard coded into the scanning service and cannot be customized.
 
 ## Add custom support links
 

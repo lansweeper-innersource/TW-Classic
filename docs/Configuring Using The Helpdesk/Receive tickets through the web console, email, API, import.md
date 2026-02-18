@@ -12,7 +12,7 @@ A helpdesk ticket is a conversation, a back and forth between a user and an agen
 
 By default, everyone in your network has access to the web console and can log in as a helpdesk user to create tickets. All they have to do is submit a Windows username and password in the login screen. Everyone can also log in with full access to all Lansweeper features by selecting **Built-In Admin**.
 
-To restrict access to the web console and disable the Built-in Admin button, check out [Restrict access to the web console](/docs/restrict-access-to-the-web-console).
+To restrict access to the web console and disable the Built-in Admin button, check out [Restrict access to the web console](/classic/docs/restrict-access-to-the-web-console).
 
 ## Email tickets
 

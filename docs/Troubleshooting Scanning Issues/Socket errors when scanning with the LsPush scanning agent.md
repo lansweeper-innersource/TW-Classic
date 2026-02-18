@@ -1,6 +1,6 @@
 <!-- # Socket errors when scanning with the LsPush scanning agent -->
 
-You may encounter errors if you attempt to send [LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows "Introduction to the LsPush scanning agent for Windows") data directly to your Lansweeper server and the connection fails.
+You may encounter errors if you attempt to send [LsPush](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows "Introduction to the LsPush scanning agent for Windows") data directly to your Lansweeper server and the connection fails.
 
 When you include `/showresult`  in your LsPush command, the following errors may be displayed in a pop-up window:
 
@@ -14,7 +14,7 @@ When you include `/showresult`  in your LsPush command, the following errors m
 
 
 
-These instructions resolve socket errors that might have occurred when sending LsPush data directly to your Lansweeper server for import. LsPush can be run other ways as well. For more information, see [Introduction to the LsPush scanning agent for Windows](/docs/introduction-to-the-lspush-scanning-agent-for-windows "Introduction to the LsPush scanning agent for Windows").
+These instructions resolve socket errors that might have occurred when sending LsPush data directly to your Lansweeper server for import. LsPush can be run other ways as well. For more information, see [Introduction to the LsPush scanning agent for Windows](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows "Introduction to the LsPush scanning agent for Windows").
 
 To resolve socket errors:
 
@@ -35,7 +35,7 @@ When you update your Lansweeper installation, the latest version of the LsPush e
 
 ## Ensure your LsPush command is correct
 
-Your LsPush socket errors may result from pointing to the wrong server. Your LsPush command should include the up-to-date name or IP address of your Lansweeper scanning server. For more information, see [What parameters LsPush accepts](/docs/introduction-to-the-lspush-scanning-agent-for-windows#heading6 "Introduction to the LsPush scanning agent for Windows").
+Your LsPush socket errors may result from pointing to the wrong server. Your LsPush command should include the up-to-date name or IP address of your Lansweeper scanning server. For more information, see [What parameters LsPush accepts](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows#heading6 "Introduction to the LsPush scanning agent for Windows").
 
 ## Ensure the Lansweeper Server service is running
 

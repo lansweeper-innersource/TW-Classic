@@ -1,5 +1,5 @@
 <!-- # Manage Lansweeper Cloud SSO -->
-Using Single Sign-On (SSO) to log in to Lansweeper is recommended, as it has a number of benefits; it simplifies management tasks, eliminates the need for each user to have multiple login/password combinations and allows you to enforce your own security policies, among other things. If you want to set up your SSO connection, see [Set up Lansweeper Cloud SSO](/docs/set-up-lansweeper-sso).
+Using Single Sign-On (SSO) to log in to Lansweeper is recommended, as it has a number of benefits; it simplifies management tasks, eliminates the need for each user to have multiple login/password combinations and allows you to enforce your own security policies, among other things. If you want to set up your SSO connection, see [Set up Lansweeper Cloud SSO](/classic/docs/set-up-lansweeper-sso).
 
 However, there are occasions when you may need to disable or delete a verified and enabled domain from your SSO configuration, or delete the SSO connection altogether.
 

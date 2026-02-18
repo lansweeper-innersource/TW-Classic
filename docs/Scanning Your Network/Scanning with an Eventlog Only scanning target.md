@@ -14,9 +14,9 @@ To submit a container, OU or individual computer for Eventlog Only scanning:
    - The second scanning type allows you to submit all computers in a specific OU.
 4. If you have multiple scanning servers, there will be multiple configuration tabs on the **Scanning Targets** page, one for each server.
 
-As agentless scanning of Windows computers requires credentials, make sure to submit and map your Windows scanning credentials as well, by following the instructions in [this knowledge base article](/docs/create-and-map-scanning-credentials).
+As agentless scanning of Windows computers requires credentials, make sure to submit and map your Windows scanning credentials as well, by following the instructions in [this knowledge base article](/classic/docs/create-and-map-scanning-credentials).
 
-All Windows scanning targets, not just Eventlog Only types, scan event log information. Eventlog Only scans simply allow you to scan events more frequently, so you can monitor important servers or workstations more closely. You can review events as they happen and optionally [configure real-time email alerts](/docs/send-report-and-event-log-alerts).
+All Windows scanning targets, not just Eventlog Only types, scan event log information. Eventlog Only scans simply allow you to scan events more frequently, so you can monitor important servers or workstations more closely. You can review events as they happen and optionally [configure real-time email alerts](/classic/docs/send-report-and-event-log-alerts).
 
 ## Eventlog Only settings
 
@@ -32,4 +32,4 @@ Below is an overview of available Eventlog Only scanning options and settings. E
 - **Recurring every**: determines how often (every X number of minutes or hours) the scanning target will be scanned.
 - **Enable**: toggle this option to enable or disable scanning of the scanning target.  
 
-  To keep your database as small as possible, only error events are scanned by default. [Additional event types](/docs/scanning-non-error-events) (warning, information, success audit or failure audit) can be manually enabled for scanning, if required.
+  To keep your database as small as possible, only error events are scanned by default. [Additional event types](/classic/docs/scanning-non-error-events) (warning, information, success audit or failure audit) can be manually enabled for scanning, if required.

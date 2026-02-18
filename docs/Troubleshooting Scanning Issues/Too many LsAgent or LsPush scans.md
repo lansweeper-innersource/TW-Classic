@@ -12,7 +12,7 @@ To resolve this issue, you can:
 
 ### LsPush
 
-If you've integrated LsPush with a logon script, change the scan target in the logon script. Follow the instructions in [How to use the LsPush scanning agent in a group policy](/docs/scan-windows-computers-with-lspush-in-a-group-policy), but update the scan server you set in Step 4.
+If you've integrated LsPush with a logon script, change the scan target in the logon script. Follow the instructions in [How to use the LsPush scanning agent in a group policy](/classic/docs/scan-windows-computers-with-lspush-in-a-group-policy), but update the scan server you set in Step 4.
 
 ### LsAgent
 
@@ -20,7 +20,7 @@ If you're sending LsAgent scans directly to scan servers:
 
 1. In the Lansweeper web console, go to **Scanning >LsAgent scanning**.
 2. Select a group of LsAgent assets, then **Configuration**. Next, either:
-   - Link additional scan servers by selecting **Link Scanserver**. For more information about adding scan servers, see [Setting up an installation with multiple scanning servers - Installation - Lansweeper Community](/docs/set-up-an-installation-with-multiple-scanning-servers).
+   - Link additional scan servers by selecting **Link Scanserver**. For more information about adding scan servers, see [Setting up an installation with multiple scanning servers - Installation - Lansweeper Community](/classic/docs/set-up-an-installation-with-multiple-scanning-servers).
    - Reorder the servers in the list. The LsAgent initially attempts to send scan data directly to the servers in the order you specify.
 
 If no server can be reached directly and cloud relay access has been set up for LsAgent, LsAgent will try to send data to the relay.
@@ -37,7 +37,7 @@ If the scan server retrieving data from the relay is overloaded, consider divert
 
 ### LsPush
 
-If you've integrated LsPush with a logon script, change the scan target in the logon script. Follow the instructions in [How to use the LsPush scanning agent in a group policy](/docs/scan-windows-computers-with-lspush-in-a-group-policy), but reduce the number of machines the LsPush policy is applied to or change the scan trigger in your LsPush script.
+If you've integrated LsPush with a logon script, change the scan target in the logon script. Follow the instructions in [How to use the LsPush scanning agent in a group policy](/classic/docs/scan-windows-computers-with-lspush-in-a-group-policy), but reduce the number of machines the LsPush policy is applied to or change the scan trigger in your LsPush script.
 
 ### LsAgent
 

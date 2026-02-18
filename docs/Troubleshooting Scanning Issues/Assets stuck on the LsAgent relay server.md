@@ -1,5 +1,5 @@
 <!-- # Assets stuck on the LsAgent relay server -->
-Lansweeper provides the [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac) to scan your data. While configuring the LsAgent to contact the relay, the following errors may occur:
+Lansweeper provides the [LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac) to scan your data. While configuring the LsAgent to contact the relay, the following errors may occur:
 
 - The relay could not be contacted.
 - An unexpected error occurred while contacting the relay.

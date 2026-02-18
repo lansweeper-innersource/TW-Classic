@@ -3,9 +3,9 @@
 
 ---
 
-Lansweeper includes a deployment module that allows you to deploy changes on Windows computers. You can [create deployment packages](/docs/create-a-deployment-package), series of conditions and commands, to remotely make changes to the Windows computers in your network.
+Lansweeper includes a deployment module that allows you to deploy changes on Windows computers. You can [create deployment packages](/classic/docs/create-a-deployment-package), series of conditions and commands, to remotely make changes to the Windows computers in your network.
 
-Packages can be [deployed manually or based on a schedule](/docs/deploy-a-package-manually-or-based-on-a-schedule) and allow you to: install and uninstall software, make command-line changes (e.g. registry changes) to your machines, kill processes and run custom scripts. To deploy changes on Windows computers, certain deployment requirements must be met.
+Packages can be [deployed manually or based on a schedule](/classic/docs/deploy-a-package-manually-or-based-on-a-schedule) and allow you to: install and uninstall software, make command-line changes (e.g. registry changes) to your machines, kill processes and run custom scripts. To deploy changes on Windows computers, certain deployment requirements must be met.
 
 ## Deployment requirements
 
@@ -14,7 +14,7 @@ Packages can be [deployed manually or based on a schedule](/docs/deploy-a-packag
 - The target computer must have an IPv4 IP address.
 - The **Task Scheduler** service, found in Windows Services, must be running on the target computer, as the deployment package runs as a task. If the **Task Scheduler** service isn't running, Lansweeper will try to start it as part of the deployment requirements check.
 - The **Remote Registry** service, found in Windows Services, must be running on the target computer, as the deployment steps are written into the computer's registry. If the **Remote Registry** service isn't running, Lansweeper will try to start it.
-- The target computer's firewall must be properly configured to allow access to the machine. If you are using Windows Firewall and enabled the [remote administration exception](/docs/configure-windows-firewall-for-agentless-scanning-of-computers) for agentless scanning, deployments should ordinarily already be allowed through the firewall. However, in some Windows builds it is necessary to enable and allow the **Remote Scheduled Tasks Management** rule in Windows Firewall as well.
+- The target computer's firewall must be properly configured to allow access to the machine. If you are using Windows Firewall and enabled the [remote administration exception](/classic/docs/configure-windows-firewall-for-agentless-scanning-of-computers) for agentless scanning, deployments should ordinarily already be allowed through the firewall. However, in some Windows builds it is necessary to enable and allow the **Remote Scheduled Tasks Management** rule in Windows Firewall as well.
 - A valid scanning credential, with administrative privileges on the target machine, must be used as a global Windows credential or must be mapped to the target machine's computer name, domain, IP address or IP range.  
 
   In this scenario, LAPS credentials cannot be used as scanning credentials.

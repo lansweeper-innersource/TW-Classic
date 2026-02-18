@@ -2,16 +2,16 @@
 
 Lansweeper’s Cloud Discovery identifies and catalogs all assets within your cloud infrastructure, including virtual machines, storage buckets, databases, and more.
 
-To learn more about Cloud Discovery, see [Introduction to Cloud Discovery](/docs/introduction-to-cloud-discovery).
+To learn more about Cloud Discovery, see [Introduction to Cloud Discovery](/classic/docs/introduction-to-cloud-discovery).
 
 ## Configure Cloud Discovery
 
 You can configure the discovery settings for Cloud from within your Lansweeper Site, allowing you to determine what to scan and when the scans should take place.
 
-For more information about the discovery menu, see [Discovery configuration](/docs/overview-of-discovery-components-and-configuration).
+For more information about the discovery menu, see [Discovery configuration](/classic/docs/overview-of-discovery-components-and-configuration).
 
 Before scanning your cloud provider, you’ll first need to set up your infrastructure to allow the Cloud sensor to access your environment. Depending on your cloud provider, these steps may differ, but setting up authentication to your cloud environment is crucial.  
-For more information on preparing your cloud environment, see [Set up Cloud sensor access](/docs/set-up-cloud-discovery-access).
+For more information on preparing your cloud environment, see [Set up Cloud sensor access](/classic/docs/set-up-cloud-discovery-access).
 
 ### Create a new Cloud Discovery action
 

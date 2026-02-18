@@ -28,4 +28,4 @@ To make sure a vCenter server meets the requirements for scanning, do the follow
 
    
 9. Your account should now be ready for use. You can test it by opening a web browser, browsing to the IP address of your vCenter server and submitting the username and password you created, which should grant you access to vCenter.   
-   You can then start scanning the vCenter server by following the instructions in [this knowledge base article](/docs/scan-a-vcenter-server).
+   You can then start scanning the vCenter server by following the instructions in [this knowledge base article](/classic/docs/scan-a-vcenter-server).

@@ -1,5 +1,5 @@
 <!-- # Scan Intune V2 targets -->
-This page is for Lansweeper Sites. For Lansweeper On-prem, see [Scan Intune targets](/docs/scan-mobile-devices-through-microsoft-intune).
+This page is for Lansweeper Sites. For Lansweeper On-prem, see [Scan Intune targets](/classic/docs/scan-mobile-devices-through-microsoft-intune).
 
 [Lansweeper](https://www.lansweeper.com/) can be used to scan Android, iOS and Windows Phone mobile devices through Intune. To start scanning mobile devices, you'll first need to configure the appropriate credentials. These Microsoft Cloud Service credentials not only enable the scanning of Intune but also maximize the utilization of Modern Authentication and the Microsoft Graph API through application permissions.
 
@@ -9,13 +9,13 @@ With an Intune V2 scanning target you'll be able to scan Android, iOS (iPhone an
 
 To scan mobile devices from Intune with a Microsoft Cloud Services Credential, make sure that:
 
-- You've already [set up your Microsoft Cloud Services application](/docs/create-a-microsoft-cloud-services-application).
+- You've already [set up your Microsoft Cloud Services application](/classic/docs/create-a-microsoft-cloud-services-application).
 - You're in possession of your Microsoft Cloud Services application's Application (client) ID, Directory (tenant) ID, and Client secret or certificate. These are obtained when creating the application.
 
 ## Add permissions to the Microsoft Graph application to scan Intune data
 
 1. Open your company's Azure portal and navigate to **App registrations**.
-2. Select [the app you've already created](/docs/create-a-microsoft-cloud-services-application) and select the **API permissions** tab in the left-hand menu.  
+2. Select [the app you've already created](/classic/docs/create-a-microsoft-cloud-services-application) and select the **API permissions** tab in the left-hand menu.  
    
 3. On the **API permissions** page, click **Add permission** and select **Microsoft Graph** from the API list.    
    
@@ -39,7 +39,7 @@ To scan mobile devices from Intune with a Microsoft Cloud Services Credential, m
 3. In the pop-up, select **Microsoft Cloud Service** and continue.
 4. Fill in the fields:
    1. Name: name for the credential.
-   2. Directory (tenant) ID and Application (client) ID: these are obtained when [creating the Microsoft Cloud Services application](/docs/create-a-microsoft-cloud-services-application).
+   2. Directory (tenant) ID and Application (client) ID: these are obtained when [creating the Microsoft Cloud Services application](/classic/docs/create-a-microsoft-cloud-services-application).
    3. Authentication method: select either Client Secret or Certificate Thumbprint.
    4. Client Secret or Certificate Thumbprint: obtained when creating the MS Graph app in Azure.  
       

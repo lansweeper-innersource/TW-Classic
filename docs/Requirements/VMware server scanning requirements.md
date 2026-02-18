@@ -1,5 +1,5 @@
 <!-- # VMware server scanning requirements -->
-VMware servers can be scanned directly with a read-only credential to the server or [indirectly through their vCenter server](/docs/scan-a-vcenter-server). To scan a VMware ESX(i) server directly, certain requirements must be met. Specifically, you must set up a user with read-only access to the server. In order for Lansweeper to link your VMware guest assets to their hosts, you must also ensure that the VMware Tools are installed on the guest machines.
+VMware servers can be scanned directly with a read-only credential to the server or [indirectly through their vCenter server](/classic/docs/scan-a-vcenter-server). To scan a VMware ESX(i) server directly, certain requirements must be met. Specifically, you must set up a user with read-only access to the server. In order for Lansweeper to link your VMware guest assets to their hosts, you must also ensure that the VMware Tools are installed on the guest machines.
 
 This article explains how to set up a user with read-only access to your VMware server, so you can submit it as a scanning credential in Lansweeper. There are instructions for both the VMware web client and locally installed vSphere client.
 
@@ -27,7 +27,7 @@ To set up an account with read-only access to your VMware server by using the se
    
 
    
-7. Your account should now be ready for use and you now meet the VMware scanning requirements. You can start scanning the VMware server by following the instructions in [this knowledge base article](/docs/how-to-scan-a-vmware-server).
+7. Your account should now be ready for use and you now meet the VMware scanning requirements. You can start scanning the VMware server by following the instructions in [this knowledge base article](/classic/docs/how-to-scan-a-vmware-server).
 8. In order for Lansweeper to link your VMware guest assets to their hosts, also ensure that the VMware Tools are installed on the guest machines.
 
 ## Configuring a VMware server with local vSphere client
@@ -52,5 +52,5 @@ To set up an account with read-only access to your VMware server by using a loca
 6. Select the user you created earlier, click **Add** and then **OK** twice.
 
    
-7. Your account should now be ready for use and you now meet the VMware scanning requirements. You can start scanning the VMware server by following the instructions in [this knowledge base article](/docs/how-to-scan-a-vmware-server).
+7. Your account should now be ready for use and you now meet the VMware scanning requirements. You can start scanning the VMware server by following the instructions in [this knowledge base article](/classic/docs/how-to-scan-a-vmware-server).
 8. In order for Lansweeper to link your VMware guest assets to their hosts, also ensure that the VMware Tools are installed on the guest machines.

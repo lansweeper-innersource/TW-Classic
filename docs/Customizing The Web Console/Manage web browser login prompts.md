@@ -14,7 +14,7 @@ Whether your browser starts prompting you for a username and password depends on
 
 1. Check which web server your Lansweeper Classic web console is using by browsing to the **Configuration > Website settings**section of the console.  
    
-2. Make sure your web server is properly configured. The knowledge base contains configuration instructions for [IIS Express](/docs/enable-authentication-in-iis-express) and [IIS](/docs/enable-authentication-in-iis).
+2. Make sure your web server is properly configured. The knowledge base contains configuration instructions for [IIS Express](/classic/docs/enable-authentication-in-iis-express) and [IIS](/classic/docs/enable-authentication-in-iis).
    - If you want the web console to present you with the default login screen, disable authentication in your web server settings.
    - If you want your web browser to either automatically log you in or present you with a login prompt, enable authentication in your web server settings.
 3. In the Start menu, search for and select **Internet Options**.  
@@ -36,7 +36,7 @@ Whether your browser starts prompting you for a username and password depends on
 
 1. Check which web server your Lansweeper web console is using by browsing to the **Configuration > Website settings**section of the console.  
    
-2. Make sure your web server is properly configured. The knowledge base contains configuration instructions for [IIS Express](/docs/enable-authentication-in-iis-express) and [IIS](/docs/enable-authentication-in-iis).
+2. Make sure your web server is properly configured. The knowledge base contains configuration instructions for [IIS Express](/classic/docs/enable-authentication-in-iis-express) and [IIS](/classic/docs/enable-authentication-in-iis).
    - If you want the web console to present you with the default login screen, disable authentication in your web server settings.
    - If you want your web browser to either automatically log you in or present you with a login prompt, enable authentication in your web server settings.
 3. Open Firefox, type "about:config" into the address bar and select Enter.

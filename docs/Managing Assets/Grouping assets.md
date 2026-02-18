@@ -11,7 +11,7 @@ An asset can belong to an unlimited number of asset groups. Asset groups are con
 
 IP range locations allow you to assign a name to an IP range. Any asset that belongs to the specified range will be placed in the corresponding IP location you've created.
 
-Select **Add IP range location** in the **IP Address Range locations**menu, enter an IP location name, a start IP and an end IP address, and select **Ok**. The share, username and password fields are only relevant for [software deployment](/docs/deployment-requirements).  
+Select **Add IP range location** in the **IP Address Range locations**menu, enter an IP location name, a start IP and an end IP address, and select **Ok**. The share, username and password fields are only relevant for [software deployment](/classic/docs/deployment-requirements).  
 
 
 IP range locations are only meant for grouping assets. They do not affect which IP ranges are scanned. To scan an IP range, submit it under the **Scanning > Scanning Targets** menu of the web console.
@@ -27,7 +27,7 @@ Static groups allow you to select any number of random machines or devices and a
 Select **Add Static Group** in the **Static Asset Groups**menu, enter a group name into the pop-up window and select **Ok**. You can then add assets to the group by clicking **Add Assets** and ticking the checkboxes in front of the assets.  
 
 
-Selecting a static group will display a list that only shows group members whose state is Active. Assets set to Stock are not listed. To list machines of any state, you can build a custom report in the **Reports** menu or look at the group members under **Configuration > Asset Groups**. More info on states can be found in [this knowledge base article](/docs/create-use-and-change-asset-states).
+Selecting a static group will display a list that only shows group members whose state is Active. Assets set to Stock are not listed. To list machines of any state, you can build a custom report in the **Reports** menu or look at the group members under **Configuration > Asset Groups**. More info on states can be found in [this knowledge base article](/classic/docs/create-use-and-change-asset-states).
 
 - You can change the name of a group you've created by placing your cursor in the **Group Name**column, making the desired change, and pressing Enter while your cursor is still in the line.
 - To remove assets from a group, select the group, tick the checkboxes in front of the assets and select **Remove Selected Assets**. You can delete a group by selecting the **Delete** button next to the group name.

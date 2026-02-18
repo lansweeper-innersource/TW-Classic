@@ -18,7 +18,7 @@ Instead of having a local interface where you can view just one Lansweeper insta
 
 Lansweeper Sites allows you to access your information wherever you are. When your IT staff works from home or on a remote site, they'll no longer need to set up a VPN connection to access your data. Data from multiple Lansweeper installations can be aggregated in Lansweeper Sites as well. You can group your installations using sites.
 
-For more information, see [Create a Lansweeper Site](/docs/create-a-lansweeper-cloud-site).
+For more information, see [Create a Lansweeper Site](/classic/docs/create-a-lansweeper-cloud-site).
 
 ### Complete user interface redesign
 
@@ -31,7 +31,7 @@ The new permission system provides a much-requested feature for more granular ac
 
 Separate read-only and edit permissions are offered for many of a site's features. Scopes add upon the improved permission system to achieve full access control. Scopes contain assets that meet specific conditions specified by you. These scopes can then be assigned a role, so you can control who has access to which specific assets. Whether you want to give access to data coming from a specific installation or limit data access to a specific domain or asset type, you can easily create a scope for it.
 
-For more information, see [Scopes and permissions in Lansweeper Sites](/docs/configure-scopes-permissions-and-roles).  
+For more information, see [Scopes and permissions in Lansweeper Sites](/classic/docs/configure-scopes-permissions-and-roles).  
 
 
 ### New report builder
@@ -41,14 +41,14 @@ A newly designed report builder greatly improves the ease of creating reports fo
 The new, visual report builder greatly improves the searchability of data. It also gives you instant previews so you can see the results of your report even while building it!   
 In addition, graph creation has gotten an overhaul. You can now select the type of graph you want to create and the report builder will adjust accordingly to help you select the data needed for that graph.
 
-For more information, see [Reporting in Lansweeper Sites](/docs/manage-reports).  
+For more information, see [Reporting in Lansweeper Sites](/classic/docs/manage-reports).  
 
 
 ### Asset API
 
 One of the most requested features over the years has been an asset API. Customers increasingly find that Lansweeper's data can also benefit other business applications. With the asset API, we're opening the gates to empower Lansweeper users to get the most out of their data.
 
-Info on how to access and use the asset API can be found in [our API documentation](https://docs.lansweeper.com/docs/api/intro).
+Info on how to access and use the asset API can be found in [our API documentation](https://docs.lansweeper.com/classic/docs/api/intro).
 
 ### Task system
 

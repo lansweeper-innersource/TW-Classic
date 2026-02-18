@@ -85,7 +85,7 @@ If the user has relationships configured between it and another asset, they’ll
 
 If applicable, an Exchange tab is available if the user is connected to a related account.
 
-Currently, the user inventory is intended to give you better visibility of your users, so users are read-only. However, users are still manageable through [Lansweeper On-Premises](/docs/how-to-scan-users).
+Currently, the user inventory is intended to give you better visibility of your users, so users are read-only. However, users are still manageable through [Lansweeper On-Premises](/classic/docs/how-to-scan-users).
 
 ### Learn about which users are connected to your assets
 
@@ -125,4 +125,4 @@ If multiple people have access to your Lansweeper Site, you might want to restri
 
 Ensure each role has the correct permissions you desire, and that those roles are assigned to accounts accordingly.
 
-For more information about how roles and permissions are configured, see [Configure scopes, permissions, and roles](/docs/configure-scopes-permissions-and-roles).
+For more information about how roles and permissions are configured, see [Configure scopes, permissions, and roles](/classic/docs/configure-scopes-permissions-and-roles).

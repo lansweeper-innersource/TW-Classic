@@ -1,7 +1,7 @@
 <!-- # Copy Lansweeper scanning server configuration to a different server -->
 Copying your Lansweeper server configuration manually from one scanning server to another can be straightforward but results in the source server being removed. This article introduces a more accessible method that achieves the same result by running a database script. The advantage of this script is that the source server will not be removed.
 
-If you want to move your entire Lansweeper installation to a different server, follow the steps in [this knowledge base article](/docs/move-your-lansweeper-installation-to-a-different-server).
+If you want to move your entire Lansweeper installation to a different server, follow the steps in [this knowledge base article](/classic/docs/move-your-lansweeper-installation-to-a-different-server).
 
 The script copies the configuration (threads, cleanup settings, and active scanning options) from the source server to the destination server. Your scanning server configuration can be found in the **Configuration > Server options** menu.
 
@@ -105,4 +105,4 @@ FROM tsysasservers
 WHERE tsysasservers.servername = 'destinationserver';
 ```
 
-If you want to move your entire Lansweeper installation to a different server instead of the configuration, please follow the steps in [this knowledge base article](/docs/move-your-lansweeper-installation-to-a-different-server).
+If you want to move your entire Lansweeper installation to a different server instead of the configuration, please follow the steps in [this knowledge base article](/classic/docs/move-your-lansweeper-installation-to-a-different-server).

@@ -4,7 +4,7 @@ In general, the cleanup options found in the web console under **Configuration >
 
 If Lansweeper is using more memory, processor resources or disk space than desired, or if web console or service performance is not like it used to be, clearing some of your largest database tables is recommended. Databases hosted in SQL LocalDB and SQL Server Express are limited in size by Microsoft.
 
-SQL Compact is no longer a supported database server for hosting Lansweeper. To learn how you to move to SQL LocalDB or SQL Server, see [Convert a deprecated SQL Compact database](/docs/convert-a-deprecated-sql-compact-database).
+SQL Compact is no longer a supported database server for hosting Lansweeper. To learn how you to move to SQL LocalDB or SQL Server, see [Convert a deprecated SQL Compact database](/classic/docs/convert-a-deprecated-sql-compact-database).
 
 Uncontrolled database growth will negatively impact performance and may even cause you to reach your database server's built-in size limit, which in turn can lead to errors such as:
 

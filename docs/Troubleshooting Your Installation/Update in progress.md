@@ -1,5 +1,5 @@
 <!-- # Update in progress -->
-This article explains the "update in progress" web console page. It is recommended that you update your Lansweeper installation on a regular basis, to ensure that you have the latest available patches installed and access to any new features that have been released. Any update should be run on the machine hosting the web console as well as any scanning server hosting the Lansweeper Server service, as explained in [this knowledge base article](/docs/update-lansweeper-on-premises).
+This article explains the "update in progress" web console page. It is recommended that you update your Lansweeper installation on a regular basis, to ensure that you have the latest available patches installed and access to any new features that have been released. Any update should be run on the machine hosting the web console as well as any scanning server hosting the Lansweeper Server service, as explained in [this knowledge base article](/classic/docs/update-lansweeper-on-premises).
 
 The first scanning server to be updated will update the database as well, so the update does not need to be run separately on the database server. If an update includes database changes, your scanning server will run a number of scripts on the database to implement the changes. The scripts may take a while to complete if you have a large database, and you may see a message similar to the ones below for the duration of the update.
 
@@ -16,7 +16,7 @@ In this article, you can find quick steps and more extensive steps you can perfo
 
 ## Quick Steps to resolve update in progress
 
-The steps below may quickly resolve the issue if you're using [the SQL LocalDB database provider](/docs/introduction-to-the-sql-localdb-database-server).
+The steps below may quickly resolve the issue if you're using [the SQL LocalDB database provider](/classic/docs/introduction-to-the-sql-localdb-database-server).
 
 1. Start or restart the "Lansweeper LocalDB Service" and wait for it to be started or running.
 2. Afterward, start or restart the "Lansweeper Server" service.
@@ -56,4 +56,4 @@ If the issue persists after performing the quick steps, please follow the steps 
 
    
 9. If the update message still doesn't disappear after waiting 15 minutes and refreshing the web console, look for and resolve database connection failures in the **Errorlog.txt** file, found at `Program Files (x86)\Lansweeper\Service\Errorlog.txt` on the machine hosting the Lansweeper Server service.   
-   If the Lansweeper service cannot connect to the database, it cannot run the database update scripts. There are articles in our knowledge base [on resolving "login failed"](/docs/login-failed-for-user-lansweeperuser) and ["network-related or instance-specific"](/docs/a-network-related-or-instance-specific-error-occurred) you may find in the log.
+   If the Lansweeper service cannot connect to the database, it cannot run the database update scripts. There are articles in our knowledge base [on resolving "login failed"](/classic/docs/login-failed-for-user-lansweeperuser) and ["network-related or instance-specific"](/classic/docs/a-network-related-or-instance-specific-error-occurred) you may find in the log.

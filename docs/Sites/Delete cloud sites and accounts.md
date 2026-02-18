@@ -12,7 +12,7 @@ You can modify your site and accounts in a variety of ways. For example, you can
 
 ## Delete a cloud site
 
-Deleting a cloud site will irreversibly delete the site itself and its installation data from Lansweeper. Lansweeper Cloud [custom views](/docs/view-assets#view "View assets"), [custom reports](/docs/introduction-to-the-report-builder), and [custom fields](/docs/edit-assets#customfield) will also be lost and not recoverable.
+Deleting a cloud site will irreversibly delete the site itself and its installation data from Lansweeper. Lansweeper Cloud [custom views](/classic/docs/view-assets#view "View assets"), [custom reports](/classic/docs/introduction-to-the-report-builder), and [custom fields](/classic/docs/edit-assets#customfield) will also be lost and not recoverable.
 
 If your Lansweeper Cloud site is linked to a paid license, it can only be manually deleted with help from the Lansweeper Sales team. Contact the Lansweeper Sales team via [our sales form](https://www.lansweeper.com/contact-sales/) to first move your subscription, before continuing with the steps below.
 

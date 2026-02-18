@@ -1,5 +1,5 @@
 <!-- # View your scanning queue under port 9524 -->
-In most circumstances, you should view your [scanning queue](/docs/view-and-clear-your-scanning-queue) by opening the web console, then navigating to **Scanning > Scanning Queue**. The scanning queue is the most user-friendly way to view and manage scans: it's easily accessible, refreshes automatically, and allows you to clear scan requests.
+In most circumstances, you should view your [scanning queue](/classic/docs/view-and-clear-your-scanning-queue) by opening the web console, then navigating to **Scanning > Scanning Queue**. The scanning queue is the most user-friendly way to view and manage scans: it's easily accessible, refreshes automatically, and allows you to clear scan requests.
 
 However, if you need to troubleshoot scanning issues, you can also access the queue under a port. Access to this queue is disabled by default and is only intended to be used in very specific circumstances.
 

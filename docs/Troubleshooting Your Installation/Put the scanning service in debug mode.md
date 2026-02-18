@@ -1,5 +1,5 @@
 <!-- # Put the scanning service in debug mode -->
-To scan your network, trigger deployments and send mails, Lansweeper uses [a service called Lansweeper Server](/docs/lansweeper-classic-components-and-architecture). This service writes its start events and possible errors to a log file on your Lansweeper server, Program Files (x86)\Lansweeper\Service\Errorlog.txt.
+To scan your network, trigger deployments and send mails, Lansweeper uses [a service called Lansweeper Server](/classic/docs/lansweeper-classic-components-and-architecture). This service writes its start events and possible errors to a log file on your Lansweeper server, Program Files (x86)\Lansweeper\Service\Errorlog.txt.
 
 If you submit a support ticket, you may at some point be asked by the Lansweeper support team to put the scanning service in debug mode, which will write more detailed information to the log file. Debug mode is useful for identifying database and other issues with your installation that could cause scanning failures, e.g. issues with missing database tables, fields or constraints.
 

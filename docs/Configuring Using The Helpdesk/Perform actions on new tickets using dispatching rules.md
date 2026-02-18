@@ -1,5 +1,5 @@
 <!-- # Perform actions on new tickets using dispatching rules -->
-When new tickets are [sent via email to the helpdesk and imported](/docs/receive-tickets-through-the-web-console-email-api-import), dispatching rules can be used to perform automated actions on those tickets. A dispatching rule allows you to automatically change type, state, priority and other properties of incoming emails based on whether those tickets meet certain criteria specified by you.
+When new tickets are [sent via email to the helpdesk and imported](/classic/docs/receive-tickets-through-the-web-console-email-api-import), dispatching rules can be used to perform automated actions on those tickets. A dispatching rule allows you to automatically change type, state, priority and other properties of incoming emails based on whether those tickets meet certain criteria specified by you.
 
 
 

@@ -38,7 +38,7 @@ Filter your assets based on their IP address.
 
 Objects without an IP address that have a known relationship with an asset are considered to belong to the IP location of the related asset. They are displayed on the diagram if the filter allows displaying the related asset.
 
-It is not possible to filter by IP address on diagrams where the scope is set to [IP location](/docs/generate-diagrams#location).
+It is not possible to filter by IP address on diagrams where the scope is set to [IP location](/classic/docs/generate-diagrams#location).
 
 You can filter your assets by IP location or by IP range.
 
@@ -84,4 +84,4 @@ Decide how you want to display your filtered objects. This setting can be indivi
 
 ## Next steps
 
-Once you’ve found and filtered your assets, you can [personalize your diagrams](/docs/personalize-diagrams).
+Once you’ve found and filtered your assets, you can [personalize your diagrams](/classic/docs/personalize-diagrams).

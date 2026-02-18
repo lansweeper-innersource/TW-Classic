@@ -5,7 +5,7 @@ After installing Lansweeper and scanning your network, you may start seeing entr
 
 When Lansweeper scans a Windows computer, it uses DCOM to establish the initial connection to the client machine. If the client machine is offline or firewalled, DCOM automatically logs an error in your server's Event Viewer. This error indicates that Lansweeper was unable to scan the client machine, but does not point to an underlying issue with your server or Lansweeper installation.
 
-Regardless, there are steps you can take to stop seeing these events. Lansweeper automatically [excludes them from scanning](/docs/excluding-events-from-scanning) so they don't show up in your Lansweeper web console, but you can also prevent them from being added to your Event Viewer altogether.
+Regardless, there are steps you can take to stop seeing these events. Lansweeper automatically [excludes them from scanning](/classic/docs/excluding-events-from-scanning) so they don't show up in your Lansweeper web console, but you can also prevent them from being added to your Event Viewer altogether.
 
 ## Prevent DCOM from logging events in Event Viewer
 

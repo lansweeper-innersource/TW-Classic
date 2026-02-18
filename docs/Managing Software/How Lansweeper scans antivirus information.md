@@ -1,6 +1,6 @@
 <!-- # How Lansweeper scans antivirus information -->
 
-This page is for Lansweeper On-prem. For Lansweeper Sites, see [View antivirus software](/docs/view-software#antivirus).
+This page is for Lansweeper On-prem. For Lansweeper Sites, see [View antivirus software](/classic/docs/view-software#antivirus).
 
 By default, Lansweeper includes a number of reports that provide information on your Windows computers' antivirus setup, to help you identify vulnerabilities in your network. These reports can be found in the **Reports** menu of the web console.
 

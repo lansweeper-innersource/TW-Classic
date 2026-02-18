@@ -9,7 +9,7 @@ To submit a domain (entirely or in part) for scanning with an Active Directory D
 
 
 
-As agentless scanning of Windows computers requires credentials, make sure to submit and map your Windows scanning credentials as well, by following the instructions in [this knowledge base article](/docs/create-and-map-scanning-credentials).
+As agentless scanning of Windows computers requires credentials, make sure to submit and map your Windows scanning credentials as well, by following the instructions in [this knowledge base article](/classic/docs/create-and-map-scanning-credentials).
 
 ## Active Directory Domain settings
 
@@ -19,8 +19,8 @@ Below is an overview of available Active Directory Domain buttons, options and s
 
 
 
-- Domain DNS name: your domain's DNS name. If you're not sure what your domain's DNS name is, you can verify this by following the instructions in [this knowledge base article](/docs/finding-your-domains-dns-and-netbios-names).
-- Domain (Netbios): your domain's NetBIOS name. If you're not sure what your domain's NetBIOS name is, you can verify this by following the instructions in [this knowledge base article](/docs/finding-your-domains-dns-and-netbios-names).  
+- Domain DNS name: your domain's DNS name. If you're not sure what your domain's DNS name is, you can verify this by following the instructions in [this knowledge base article](/classic/docs/finding-your-domains-dns-and-netbios-names).
+- Domain (Netbios): your domain's NetBIOS name. If you're not sure what your domain's NetBIOS name is, you can verify this by following the instructions in [this knowledge base article](/classic/docs/finding-your-domains-dns-and-netbios-names).  
 
   You must submit your domain's DNS and NetBIOS names, even if you don't plan on scanning your entire domain.
 

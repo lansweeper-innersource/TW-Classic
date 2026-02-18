@@ -1,5 +1,5 @@
 <!-- # Changing date and time display settings in Cloud -->
-You can customize the date and time display settings used throughout [the Cloud interface](/docs/introduction-to-lansweeper-sites).
+You can customize the date and time display settings used throughout [the Cloud interface](/classic/docs/introduction-to-lansweeper-sites).
 
 To change these settings, go to the **Settings** module, and select the **Account settings** menu within. You can select a date display setting and a time display setting. The settings you choose are applied to your own Cloud interface of any sites you're a member of. For instance, they're applied to any date/time values displayed on asset pages.
 

@@ -6,7 +6,7 @@ For more information about Diagrams and its features, see [Diagrams](https://ww
 To export diagrams:
 
 1. In your Lansweeper Site, go to **Diagrams** and select the diagram you want to export from the list.
-2. Ensure the diagram is [personalized](/docs/personalize-diagrams) and [filtered](/docs/filter-assets-on-diagrams) how you desire.
+2. Ensure the diagram is [personalized](/classic/docs/personalize-diagrams) and [filtered](/classic/docs/filter-assets-on-diagrams) how you desire.
 3. Select **Export** .  
    
 4. Decide to export your diagram into the following formats:
@@ -20,4 +20,4 @@ The file is downloaded to your computer and can be shared accordingly.
 
 ## Next steps
 
-Control who can view and export your diagrams, [create permissions for diagrams](/docs/create-permissions-for-diagrams).
+Control who can view and export your diagrams, [create permissions for diagrams](/classic/docs/create-permissions-for-diagrams).

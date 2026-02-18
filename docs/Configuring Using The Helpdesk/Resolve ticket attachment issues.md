@@ -1,5 +1,5 @@
 <!-- # Resolve ticket attachment issues -->
-In [the helpdesk module](/docs/introduction-to-the-help-desk), tickets can contain images and other attachments. Attachments can come from emails that were imported as tickets or can be added through the web console.
+In [the helpdesk module](/classic/docs/introduction-to-the-help-desk), tickets can contain images and other attachments. Attachments can come from emails that were imported as tickets or can be added through the web console.
 
 Attachments are stored in a folder on your Lansweeper server, not in your database. If a ticket comes in via email, its attachments are processed by the scanning server that is configured as your helpdesk mail server. If a ticket is created or viewed via the web console, its attachments are processed by your web server service, which is either IIS or IIS Express. In other words, both the Lansweeper and web server service need to be able to access the folder that stores your ticket attachments.
 

@@ -7,7 +7,7 @@ Lansweeper supports scanning of Linux and Unix operating systems. Scanned Linux 
 
 To scan a Linux or Unix computer without a scanning agent:
 
-1. Make sure you meet [the Linux/Unix scanning requirements](/docs/linux-and-unix-agentless-scanning-requirements).
+1. Make sure you meet [the Linux/Unix scanning requirements](/classic/docs/linux-and-unix-agentless-scanning-requirements).
 2. Submit your computer's IP range for scanning by selecting **Add Scanning Target** in the **Scanning > Scanning Targets** section of the console. If you have multiple scanning servers, there will be a separate configuration tab for each server. When submitting your range, you will be asked to specify a scanning schedule.  
    
 

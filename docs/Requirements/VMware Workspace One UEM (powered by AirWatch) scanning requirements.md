@@ -1,7 +1,7 @@
 <!-- # VMware Workspace One UEM (powered by AirWatch) scanning requirements -->
 From version 7.2 onward, Lansweeper is capable of scanning Android, iOS (iPhone and iPad), Chrome OS and Windows Phone mobile devices that are enrolled in VMware Workspace One UEM (powered by AirWatch) .
 
-This article explains the requirements for VMware Workspace One UEM scanning and how to generate the API key required for scanning. Once you meet the requirements, you can [start scanning your VMware AirWatch environment](/docs/scan-mobile-devices-through-vmware-workspace-one-uem-powered-by-airwatch).
+This article explains the requirements for VMware Workspace One UEM scanning and how to generate the API key required for scanning. Once you meet the requirements, you can [start scanning your VMware AirWatch environment](/classic/docs/scan-mobile-devices-through-vmware-workspace-one-uem-powered-by-airwatch).
 
 In the Lansweeper console, VMware Workspace One UEM (powered by AirWatch) is referred to as AirWatch.
 

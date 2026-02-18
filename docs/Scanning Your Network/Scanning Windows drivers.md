@@ -13,12 +13,12 @@ This knowledge base article explains how to set up driver scanning and how to vi
 
 ## Configure client machines for scanning
 
-Like other data, Lansweeper retrieves drivers through a combination of WMI (Windows Management Instrumentation) and the registry of the client machine. To scan the drivers of a Windows computer, make sure the machine meets [the general Windows scanning requirements](/docs/windows-domain-scanning-requirements). If you can successfully scan the machine, the drivers will be successfully retrieved as well.
+Like other data, Lansweeper retrieves drivers through a combination of WMI (Windows Management Instrumentation) and the registry of the client machine. To scan the drivers of a Windows computer, make sure the machine meets [the general Windows scanning requirements](/classic/docs/windows-domain-scanning-requirements). If you can successfully scan the machine, the drivers will be successfully retrieved as well.
 
 ## Enable driver scanning
 
 To enable driver scanning, browse to the **Scanning > Scanned Item Interval** menu of the web console.   
-Tick the **Enable** checkbox for the PNPSIGNEDDRIVERS, PRINTERDRIVERS and/or SYSTEMDRIVERS item. The default [refresh interval](/docs/manage-scanned-item-intervals) of each of these items is 6 days.
+Tick the **Enable** checkbox for the PNPSIGNEDDRIVERS, PRINTERDRIVERS and/or SYSTEMDRIVERS item. The default [refresh interval](/classic/docs/manage-scanned-item-intervals) of each of these items is 6 days.
 
 The WMI class storing system driver data is inherently heavy to read. Scanning system drivers can therefore impact client machine performance. It is recommended that you only enable system driver scanning if you have a specific need for it. Refresh the data as infrequently as possible as well, by increasing the SYSTEMDRIVERS refresh setting if possible.
 

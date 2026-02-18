@@ -5,7 +5,7 @@ With a Microsoft 365 scanning target, you can scan your Microsoft 365 data, mail
 
 ## Prerequisites
 
-- You've [created a Microsoft Cloud Services application](/docs/create-a-microsoft-cloud-services-application).
+- You've [created a Microsoft Cloud Services application](/classic/docs/create-a-microsoft-cloud-services-application).
 - You have the following Microsoft Cloud Services application information available:
   - Application (client) ID
   - Directory (tenant) ID

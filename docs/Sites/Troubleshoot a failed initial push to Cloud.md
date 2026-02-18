@@ -1,11 +1,11 @@
 <!-- # Troubleshoot a failed initial push to Cloud -->
-When you [link your local Lansweeper installation with Cloud](/docs/link-lansweeper-on-prem-with-lansweeper-sites), a number of prerequisite checks are performed to ensure your installation is ready to link. Normally, after the prerequisite checks are successful, the initial push of your [Lansweeper](https://www.lansweeper.com/) installation to Cloud will succeed. However, sync errors can still occur under certain conditions.  
+When you [link your local Lansweeper installation with Cloud](/classic/docs/link-lansweeper-on-prem-with-lansweeper-sites), a number of prerequisite checks are performed to ensure your installation is ready to link. Normally, after the prerequisite checks are successful, the initial push of your [Lansweeper](https://www.lansweeper.com/) installation to Cloud will succeed. However, sync errors can still occur under certain conditions.  
 For instance, if your Lansweeper server loses internet access after the completion of the prerequisite checks and the submission of your Cloud details, your initial push will fail.
 
 ## Before you begin
 
-- To ensure full compatibility with Cloud, make sure your Lansweeper installation is up to date. [Update instructions](/docs/update-lansweeper-on-premises) can be found in the knowledge base.
-- Pay close attention to any potential failures in [the Cloud prerequisite checks](/docs/cloud-linking-requirements). Review the details of the failure and resolve it by following the instructions in the prerequisite check tooltip.
+- To ensure full compatibility with Cloud, make sure your Lansweeper installation is up to date. [Update instructions](/classic/docs/update-lansweeper-on-premises) can be found in the knowledge base.
+- Pay close attention to any potential failures in [the Cloud prerequisite checks](/classic/docs/cloud-linking-requirements). Review the details of the failure and resolve it by following the instructions in the prerequisite check tooltip.
 
 ## Resolve initial push failure
 

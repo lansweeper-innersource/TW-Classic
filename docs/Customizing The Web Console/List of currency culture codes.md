@@ -1,7 +1,7 @@
 <!-- # List of currency culture codes -->
 The currency used throughout the Lansweeper web console, e.g. in the license compliance modules and for custom currency fields, can be customized by modifying the configuration file of the console.
 
-Below you can find a list of currency culture codes that can be submitted in the web console configuration file to switch to your country's currency format. A full list of steps to change the web console currency format can be found in [this knowledge base article](/docs/set-the-currency-format).
+Below you can find a list of currency culture codes that can be submitted in the web console configuration file to switch to your country's currency format. A full list of steps to change the web console currency format can be found in [this knowledge base article](/classic/docs/set-the-currency-format).
 
 ## Currency culture codes
 

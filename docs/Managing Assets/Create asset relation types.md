@@ -1,5 +1,5 @@
 <!-- # Create asset relation types -->
-Your Lansweeper Classic installation allows you to [link assets to other assets or users](/docs/link-assets-to-other-assets-or-users) and to define the asset/user relationship. You can specify that asset A is owned by user A for instance and that asset B is backed up to asset C. There are several built-in relation types, but you can create your own relation types as well.
+Your Lansweeper Classic installation allows you to [link assets to other assets or users](/classic/docs/link-assets-to-other-assets-or-users) and to define the asset/user relationship. You can specify that asset A is owned by user A for instance and that asset B is backed up to asset C. There are several built-in relation types, but you can create your own relation types as well.
 
 ## Create your own asset relation type
 

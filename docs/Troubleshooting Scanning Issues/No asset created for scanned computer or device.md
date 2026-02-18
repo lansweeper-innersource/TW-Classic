@@ -51,17 +51,17 @@ By default, the Lansweeper Server service automatically starts and scans your da
 1. In the Lansweeper Classic web console, go to **Configuration > Your Lansweeper license**.
 2. Ensure the **Licensed assets** count does not exceed the **Asset limit**.
 
-   Most Lansweeper licenses limit the number of assets you can scan. Once you've reached [your licensed asset limit](/docs/assets-that-count-toward-your-licensed-asset-limit), you can not scan new or existing assets until you [delete assets](/docs/delete-assets "Delete assets") or [upgrade your license](https://www.lansweeper.com/pricing/ "Pricing & Plans").
+   Most Lansweeper licenses limit the number of assets you can scan. Once you've reached [your licensed asset limit](/classic/docs/assets-that-count-toward-your-licensed-asset-limit), you can not scan new or existing assets until you [delete assets](/classic/docs/delete-assets "Delete assets") or [upgrade your license](https://www.lansweeper.com/pricing/ "Pricing & Plans").
 
 ## Ensure your database is not too large
 
 1. In the Lansweeper Classic web console, go to **Dashboard > Main page**.
 2. Locate the **Scanning Status** widget and confirm the database has not reached its limit.
-3. If you've reached your size limit, the scanning service cannot write additional assets to the database. [Perform a database cleanup](/docs/clear-tables-to-free-up-space-and-improve-performance) to continue scanning.
+3. If you've reached your size limit, the scanning service cannot write additional assets to the database. [Perform a database cleanup](/classic/docs/clear-tables-to-free-up-space-and-improve-performance) to continue scanning.
 
    
 
-   For more information about available databases and their size limitations, see [Compatible SQL database servers for hosting the Lansweeper database](/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database "Compatible SQL database servers for hosting the Lansweeper database").
+   For more information about available databases and their size limitations, see [Compatible SQL database servers for hosting the Lansweeper database](/classic/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database "Compatible SQL database servers for hosting the Lansweeper database").
 
 ## Ensure the hosting server has sufficient disk space
 
@@ -87,7 +87,7 @@ In your machine, locate your Devices and drives file and check the Local disk ha
    
 7. Select **OK**.  
 
-   For more information, see [Scanning with an IP Range scanning target](/docs/scanning-with-an-ip-range-scanning-target).
+   For more information, see [Scanning with an IP Range scanning target](/classic/docs/scanning-with-an-ip-range-scanning-target).
 
 ## Ensure the machine is not excluded from scanning
 
@@ -108,7 +108,7 @@ Submit a scanning credential if your machine is one of the following:
 - VMware server
 - SNMP enabled network device
 
-For more information on adding scanning credentials and the information required, see [Creating and mapping scanning credentials](/docs/create-and-map-scanning-credentials).
+For more information on adding scanning credentials and the information required, see [Creating and mapping scanning credentials](/classic/docs/create-and-map-scanning-credentials).
 
 Once the scanning credential is created:
 
@@ -121,12 +121,12 @@ Once the scanning credential is created:
 
 Verify your machine fulfills the necessary scanning requirements. Review the following articles for more information:
 
-- [Windows domain scanning requirements](/docs/windows-domain-scanning-requirements)
-- [Windows workgroup scanning requirements](/docs/windows-workgroup-scanning-requirements)
-- [Linux and Unix scanning requirements](/docs/linux-and-unix-agentless-scanning-requirements)
-- [Apple Mac scanning requirements](/docs/apple-mac-scanning-requirements)
-- [VMware server scanning requirements](/docs/vmware-server-scanning-requirements)
-- [Network device scanning requirements](/docs/network-device-scanning-requirements)
+- [Windows domain scanning requirements](/classic/docs/windows-domain-scanning-requirements)
+- [Windows workgroup scanning requirements](/classic/docs/windows-workgroup-scanning-requirements)
+- [Linux and Unix scanning requirements](/classic/docs/linux-and-unix-agentless-scanning-requirements)
+- [Apple Mac scanning requirements](/classic/docs/apple-mac-scanning-requirements)
+- [VMware server scanning requirements](/classic/docs/vmware-server-scanning-requirements)
+- [Network device scanning requirements](/classic/docs/network-device-scanning-requirements)
 
 ## Rescan your machine
 

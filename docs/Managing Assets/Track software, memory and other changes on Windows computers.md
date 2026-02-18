@@ -1,7 +1,7 @@
 <!-- # Track software, memory and other changes on Windows computers -->
 A Windows computer's Lansweeper Classic webpage lists the most recently scanned properties of the machine's software, OS, memory and other details. Details like software, OS and memory are called scan items.
 
-It is possible to [enable or disable scanning of scan items](/docs/manage-scanned-item-intervals), as well as to specify the scanning schedule for each. Not only can you specify whether and how often scan items are scanned, but you can also enable history tracking for most of these. In other words, you can not only see the current status of a scan item, but also any changes that occurred. These changes can be major or minor.
+It is possible to [enable or disable scanning of scan items](/classic/docs/manage-scanned-item-intervals), as well as to specify the scanning schedule for each. Not only can you specify whether and how often scan items are scanned, but you can also enable history tracking for most of these. In other words, you can not only see the current status of a scan item, but also any changes that occurred. These changes can be major or minor.
 
 By enabling tracking of software changes for instance, you can detect software updates, additions and removals. By enabling history tracking for the OS, you can detect both OS upgrades and reinstallations. In essence, if a change is detected in any aspect or column of a scan item, it is written as history into the Lansweeper database.
 

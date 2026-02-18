@@ -85,4 +85,4 @@ You can schedule your reports to run at a certain day and time or at a given int
 
 ## Report builder
 
-The report builder allows you to visually build or modify your own reports. For a complete overview of the report builder menu, check out [Introduction to the report builder](/docs/introduction-to-the-report-builder).
+The report builder allows you to visually build or modify your own reports. For a complete overview of the report builder menu, check out [Introduction to the report builder](/classic/docs/introduction-to-the-report-builder).

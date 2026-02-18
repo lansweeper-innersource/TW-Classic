@@ -1,8 +1,8 @@
 <!-- # Manage OT assets in Lansweeper On-premises -->
 
-This page is for Lansweeper On-premises. For Lansweeper Sites, see [Manage OT assets in Lansweeper Sites](/docs/manage-ot-assets-in-lansweeper-sites).
+This page is for Lansweeper On-premises. For Lansweeper Sites, see [Manage OT assets in Lansweeper Sites](/classic/docs/manage-ot-assets-in-lansweeper-sites).
 
-Once you’ve installed Lansweeper, [scanned your OT environment](/docs/scan-your-ot), and [linked your OT installation to On-prem](/docs/link-network-discovery-hub-with-lansweeper-on-premises), you can manage your OT assets from your local web console.
+Once you’ve installed Lansweeper, [scanned your OT environment](/classic/docs/scan-your-ot), and [linked your OT installation to On-prem](/classic/docs/link-network-discovery-hub-with-lansweeper-on-premises), you can manage your OT assets from your local web console.
 
 Your OT installation needs at least version 3.4.0 to manage OT assets from the local web console.
 

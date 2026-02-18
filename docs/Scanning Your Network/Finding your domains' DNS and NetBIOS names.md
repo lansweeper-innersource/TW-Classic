@@ -1,5 +1,5 @@
 <!-- # Finding your domains' DNS and NetBIOS names -->
-[When scanning assets](/docs/scan-an-active-directory-domain-scanning-target) using [Lansweeper](https://www.lansweeper.com/ "Lansweeper"), you sometimes needs to submit your domain's DNS or NetBIOS name as part of the scanning target.
+[When scanning assets](/classic/docs/scan-an-active-directory-domain-scanning-target) using [Lansweeper](https://www.lansweeper.com/ "Lansweeper"), you sometimes needs to submit your domain's DNS or NetBIOS name as part of the scanning target.
 
 If you're unsure what your domain's DNS or NetBIOS name is, follow these steps:
 

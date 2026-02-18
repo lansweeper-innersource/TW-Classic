@@ -2,15 +2,15 @@
 
 Lansweeper's Network Discovery enables you to discover all IT and OT assets within your network. By utilizing the necessary discovery credentials, Network Discovery gathers all asset details both on the local machine and on remote IT assets.
 
-To learn more about installing Network Discovery, see [Install Network Discovery](/docs/install-network-discovery).
+To learn more about installing Network Discovery, see [Install Network Discovery](/classic/docs/install-network-discovery).
 
 You can configure the discovery settings for Network Discovery from within your Lansweeper Site, allowing you to determine what to scan and when the scans should take place.
 
-For more information about the discovery menu, see [Discovery configuration](/docs/overview-of-discovery-components-and-configuration).
+For more information about the discovery menu, see [Discovery configuration](/classic/docs/overview-of-discovery-components-and-configuration).
 
 ### Create a new Network Discovery action
 
-Before creating a new Discovery action, make sure your sensors have access to the necessary ports on the targeted assets. For more information, check out [Ports scanned or used by Lansweeper](/docs/ports-scanned-or-used-by-lansweeper).
+Before creating a new Discovery action, make sure your sensors have access to the necessary ports on the targeted assets. For more information, check out [Ports scanned or used by Lansweeper](/classic/docs/ports-scanned-or-used-by-lansweeper).
 
 1. In your Lansweeper Site, go to **Discovery (or Scanning) > Discovery actions**.
 2. Select **Add new action**.
@@ -80,7 +80,7 @@ Discovery groups help manage the operational settings of your discovery systems,
 
 You can manage, for instance, the frequency of updates, auto-update behaviour, and network visibility.
 
-For more information, see [Discovery groups](/docs/overview-of-discovery-components-and-configuration#groups).
+For more information, see [Discovery groups](/classic/docs/overview-of-discovery-components-and-configuration#groups).
 
 ### Configure Network Visibility for Network Discovery
 

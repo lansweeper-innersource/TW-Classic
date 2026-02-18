@@ -33,9 +33,9 @@ In order for Lansweeper to scan Exchange Server information from your Windows co
     
 
   Keep in mind that the online status indicator you see below the client machine's name in Lansweeper is based on a ping request performed from your web server to the computer's NetBIOS name. This status indicator therefore cannot be used as an indication of successful FQDN resolution.
-- A domain administrator is submitted and mapped as a credential to the client machine. More info on submitting and mapping credentials can be found in [this knowledge base article](/docs/create-and-map-scanning-credentials).   
+- A domain administrator is submitted and mapped as a credential to the client machine. More info on submitting and mapping credentials can be found in [this knowledge base article](/classic/docs/create-and-map-scanning-credentials).   
   Whereas normal Windows computer scanning can be done with either a domain or local credential, Exchange Server scanning requires a domain credential. Specifically, this credential must be a domain administrator.
-- The client machine has been submitted for scanning in the **Scanning > Scanning Targets** section of the web console. More info on how to scan a Windows computer can be found in [this knowledge base article](/docs/how-to-scan-a-windows-computer). Exchange Server scanning is currently only supported for agentless scanning methods.
+- The client machine has been submitted for scanning in the **Scanning > Scanning Targets** section of the web console. More info on how to scan a Windows computer can be found in [this knowledge base article](/classic/docs/how-to-scan-a-windows-computer). Exchange Server scanning is currently only supported for agentless scanning methods.
 
 ## Debugging Exchange Server scanning
 

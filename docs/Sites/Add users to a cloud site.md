@@ -1,5 +1,5 @@
 <!-- # Add users to a cloud site -->
-You can invite additional users to your [Lansweeper](https://www.lansweeper.com/) cloud site, assign them one or more roles and add them to an existing [account group](/docs/configure-scopes-permissions-and-roles).
+You can invite additional users to your [Lansweeper](https://www.lansweeper.com/) cloud site, assign them one or more roles and add them to an existing [account group](/classic/docs/configure-scopes-permissions-and-roles).
 
 ## Add users to your site
 

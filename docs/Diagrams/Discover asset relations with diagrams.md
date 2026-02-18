@@ -33,7 +33,7 @@ On this page:
 
 Your diagrams can display three types of relationships.
 
-To control which relations are displayed on your diagram, see [Personalize diagrams](/docs/personalize-diagrams "Personalize diagrams").
+To control which relations are displayed on your diagram, see [Personalize diagrams](/classic/docs/personalize-diagrams "Personalize diagrams").
 
 ### **Discovered SNMP relations**
 
@@ -41,7 +41,7 @@ SNMP relations are discovered automatically based on the network information ava
 
 To configure SNMP credentials, go to **Scanning** > **Credential Vault** > **My credentials** > **Add new credential**. Select **SNMP** from the credential type list and enter the required information.
 
-You may also want to expose network interface uplinks. By default, if Lansweeper discovers more than 4 devices connected to a switch port, the port will be deemed an uplink. An uplink is a port on a router or switch that is designed to connect to another router, switch, or internet access device. For more information, see [Manage network interface uplinks](/docs/manage-network-interface-uplinks "/docs/manage-network-interface-uplinks").
+You may also want to expose network interface uplinks. By default, if Lansweeper discovers more than 4 devices connected to a switch port, the port will be deemed an uplink. An uplink is a port on a router or switch that is designed to connect to another router, switch, or internet access device. For more information, see [Manage network interface uplinks](/classic/docs/manage-network-interface-uplinks "/classic/docs/manage-network-interface-uplinks").
 
 To learn more about a discovered SNMP relation, select the link to display the relation type, speed, and information port.
 
@@ -124,7 +124,7 @@ Physical assets hosting virtual machines are also displayed as logical groups.
 
 #### Shared properties on virtual templates
 
-For [Virtual Environment templates](/docs/generate-diagrams#virtual "Virtual Environment templates"), some shared properties are displayed as logical groups. These properties are:
+For [Virtual Environment templates](/classic/docs/generate-diagrams#virtual "Virtual Environment templates"), some shared properties are displayed as logical groups. These properties are:
 
 - DataCenters
 - ESXi Clusters
@@ -181,14 +181,14 @@ To add a new relation to the asset, select **> Add new relation**.
 
 Once a relationship has been manually added to an orphan asset, it will be removed from the list and included in the diagram.
 
-After you add a new relation, [regenerate the diagram](/docs/generate-diagrams#regenerate) to ensure it is displayed correctly.
+After you add a new relation, [regenerate the diagram](/classic/docs/generate-diagrams#regenerate) to ensure it is displayed correctly.
 
 ## Add relations
 
 You can add relations to your assets right from your diagram. To add a relation:
 
 1. Go to **Diagrams** and select the diagram of your choice.
-2. Find the asset you want to edit. If you can’t easily see the asset, try [searching](/docs/find-assets-with-integrated-search-on-diagrams) or [filtering](/docs/filter-assets-on-diagrams) for it.
+2. Find the asset you want to edit. If you can’t easily see the asset, try [searching](/classic/docs/find-assets-with-integrated-search-on-diagrams) or [filtering](/classic/docs/filter-assets-on-diagrams) for it.
 3. Select  in the top right corner of your asset, then select **Add new relation**.  
    
 4. In the pop-up window, enter the information required.
@@ -196,8 +196,8 @@ You can add relations to your assets right from your diagram. To add a relation:
 
 Your new manual relation is displayed. Select the link to see the manual relation details.
 
-Even if your relation is already created in your Inventory, after you add a new relation [regenerate the diagram](/docs/generate-diagrams#regenerate) to ensure it is displayed correctly.
+Even if your relation is already created in your Inventory, after you add a new relation [regenerate the diagram](/classic/docs/generate-diagrams#regenerate) to ensure it is displayed correctly.
 
 ## Next steps
 
-Once you’ve discovered asset relations, [find](/docs/find-assets-with-integrated-search-on-diagrams) and [filter assets on your diagram](/docs/filter-assets-on-diagrams).
+Once you’ve discovered asset relations, [find](/classic/docs/find-assets-with-integrated-search-on-diagrams) and [filter assets on your diagram](/classic/docs/filter-assets-on-diagrams).

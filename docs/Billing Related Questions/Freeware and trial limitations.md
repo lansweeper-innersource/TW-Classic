@@ -3,13 +3,13 @@ If you're thinking of starting your Lansweeper journey but find yourself uncerta
 
 In what follows, we'll take a look at possible limitations for both of these scenarios. 
 
-Both trial and freeware users are able to set up a link with [Lansweeper Sites](https://www.lansweeper.com/). For more information on Lansweeper Sites, take a look at [Introduction to Lansweeper Sites](/docs/introduction-to-lansweeper-sites).
+Both trial and freeware users are able to set up a link with [Lansweeper Sites](https://www.lansweeper.com/). For more information on Lansweeper Sites, take a look at [Introduction to Lansweeper Sites](/classic/docs/introduction-to-lansweeper-sites).
 
 ## Trial limitations
 
-Lansweeper currently offers two trial experiences: the [Lansweeper](/docs/install-the-lansweeper-trial) trial, and the [Lansweeper On-prem](/docs/trialling-lansweeper#onprem) trial. Regardless of which trial you've chosen, the trial includes technical support and access to all features available in the Lansweeper product. You can submit a business or a non-business email address to start your trial, and it is not limited in the number of assets.
+Lansweeper currently offers two trial experiences: the [Lansweeper](/classic/docs/install-the-lansweeper-trial) trial, and the [Lansweeper On-prem](/classic/docs/trialling-lansweeper#onprem) trial. Regardless of which trial you've chosen, the trial includes technical support and access to all features available in the Lansweeper product. You can submit a business or a non-business email address to start your trial, and it is not limited in the number of assets.
 
-If you want to learn more about the Lansweeper trials, see [Trialling Lansweeper](/docs/trialling-lansweeper).
+If you want to learn more about the Lansweeper trials, see [Trialling Lansweeper](/classic/docs/trialling-lansweeper).
 
 ## Freeware limitations
 

@@ -1,6 +1,6 @@
 <!-- # IT Agent Discovery: Frequently Asked Questions -->
 
-Lansweeper's IT Agent Discovery is a lightweight, cross-platform scanning agent that can run on Windows, Linux, and Mac computers. If you'd like to know more about IT Agent Discovery, head on over to [Install IT Agent Discovery](/docs/install-it-agent-discovery).
+Lansweeper's IT Agent Discovery is a lightweight, cross-platform scanning agent that can run on Windows, Linux, and Mac computers. If you'd like to know more about IT Agent Discovery, head on over to [Install IT Agent Discovery](/classic/docs/install-it-agent-discovery).
 
 ## Frequently asked questions (FAQ)
 
@@ -102,11 +102,11 @@ Currently, the IT Agent installer has all the core next-generation discovery com
 
 ### What is the scan frequency of the IT Agent?
 
-IT Agent performs a daily scan of the computer it’s installed on. You can change this frequency of 24 hours in your Lansweeper Site. For detailed instructions, see [Configure IT Agent Discovery](/docs/configure-it-agent-discovery).
+IT Agent performs a daily scan of the computer it’s installed on. You can change this frequency of 24 hours in your Lansweeper Site. For detailed instructions, see [Configure IT Agent Discovery](/classic/docs/configure-it-agent-discovery).
 
 ### Can I force the IT Agent to perform an immediate ad hoc rescan of the asset(s)?
 
-IT Agent performs a rescan every 24 hours by default. You can also force a scan using the API. For more information on using the API, see [Perform actions | Documentation](https://developer.lansweeper.com/docs/data-api/guides/actions#request-the-scan).
+IT Agent performs a rescan every 24 hours by default. You can also force a scan using the API. For more information on using the API, see [Perform actions | Documentation](https://developer.lansweeper.com/classic/docs/data-api/guides/actions#request-the-scan).
 
 ### How many IT Agent installations can I link to my Lansweeper Site?
 
@@ -224,7 +224,7 @@ To verify if a port is not open, or if access is missing:
 4. Optionally, enter any credentials.
 5. Start the discovery.
 
-The result will appear in Discovery results where you can for instance compare the open ports to [this list](/docs/ports-scanned-or-used-by-lansweeper "/docs/ports-scanned-or-used-by-lansweeper"), to see if any required ports are missing.
+The result will appear in Discovery results where you can for instance compare the open ports to [this list](/classic/docs/ports-scanned-or-used-by-lansweeper "/classic/docs/ports-scanned-or-used-by-lansweeper"), to see if any required ports are missing.
 
 ### How can I deal with the license limit when using Lansweeper Discovery in Configuration > License status?
 
@@ -346,7 +346,7 @@ Edit the last line in a text editor and run it on your computer.
 
 ### Will .NET be required for IT Agent for Linux Devices?
 
-.NET8 is a dependency for IT Agent on Linux, Windows and macOS. The [installer flow](/docs/install-it-agent-discovery#LinuxSilent) handles the dependency automatically as a self-contained package.
+.NET8 is a dependency for IT Agent on Linux, Windows and macOS. The [installer flow](/classic/docs/install-it-agent-discovery#LinuxSilent) handles the dependency automatically as a self-contained package.
 
 ### The IT Agent Discovery installation keeps failing and I’m seeing this message in the log file: Ensure TLS1.2 is enabled, Internet access is available, you entered a linking code which is (still) valid, and run the installer again.
 
@@ -361,7 +361,7 @@ Ensure the computer on which you’re running the installer is allowed to use cu
   - [Notification API](https://discovery-gateway.lansweeper.com/notification-api/ready) (Add/update notifications in Lansweeper Site about Lansweeper Discovery)
   - [Recognition API](https://discovery-gateway.lansweeper.com/recognition-api/ready) (Recognize assets in Lansweeper Site from received data from Lansweeper Discovery)
 - Ensure either the IT Agent or Network Discovery service is running by opening services.msc on Windows or Activity Monitor app on macOS or `sudo ps -aux | less` on Linux
-- Check the logs for errors using [paths and logs](/docs/install-it-agent-discovery#pathsandlogs) or [network discovery paths and logs](/docs/install-network-discovery#pathsandlogs)
+- Check the logs for errors using [paths and logs](/classic/docs/install-it-agent-discovery#pathsandlogs) or [network discovery paths and logs](/classic/docs/install-network-discovery#pathsandlogs)
 
 ### Does IT Agent Discovery update automatically on Linux?
 

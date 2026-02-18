@@ -15,7 +15,7 @@ Diagrams are essentially a visual representation of your Inventory synced with a
 
 For Diagrams to work correctly, your installations must be synced with your Lansweeper Site, and your Inventory must be configured correctly, including IP Locations.
 
-We recommend configuring your SNMP credentials and exposing network interface uplinks to help detect the relations between assets. For more information, see [Discover asset relations with diagrams](/docs/discover-asset-relations-with-diagrams "Discover asset relations with diagrams") .
+We recommend configuring your SNMP credentials and exposing network interface uplinks to help detect the relations between assets. For more information, see [Discover asset relations with diagrams](/classic/docs/discover-asset-relations-with-diagrams "Discover asset relations with diagrams") .
 
 ## **Who can use Diagrams?**
 
@@ -27,11 +27,11 @@ For more information about Subscriptions, see [Pricing & Plans](https://www.lans
 
 To effectively use Diagrams, follow the instructions in the following articles:
 
-- [Generate diagrams](/docs/generate-diagrams)
-- [Navigate diagrams](/docs/navigate-diagrams)
-- [Discover asset relations with diagrams](/docs/discover-asset-relations-with-diagrams)
-- [Find assets with integrated search on diagrams](/docs/find-assets-with-integrated-search-on-diagrams)
-- [Filter assets on diagrams](/docs/filter-assets-on-diagrams)
-- [Personalize diagrams](/docs/personalize-diagrams)
-- [Export diagrams](/docs/export-diagrams)
-- [Create permissions for diagrams](/docs/create-permissions-for-diagrams)
+- [Generate diagrams](/classic/docs/generate-diagrams)
+- [Navigate diagrams](/classic/docs/navigate-diagrams)
+- [Discover asset relations with diagrams](/classic/docs/discover-asset-relations-with-diagrams)
+- [Find assets with integrated search on diagrams](/classic/docs/find-assets-with-integrated-search-on-diagrams)
+- [Filter assets on diagrams](/classic/docs/filter-assets-on-diagrams)
+- [Personalize diagrams](/classic/docs/personalize-diagrams)
+- [Export diagrams](/classic/docs/export-diagrams)
+- [Create permissions for diagrams](/classic/docs/create-permissions-for-diagrams)

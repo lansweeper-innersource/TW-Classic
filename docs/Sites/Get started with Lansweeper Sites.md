@@ -8,17 +8,17 @@ Follow the steps below to install and configure Lansweeper Sites to provide insi
 
 To begin, verify your system meets Lansweeper's requirements.
 
-- [Windows domain scanning requirements](/docs/windows-domain-scanning-requirements)
-- [IT Agent installation requirements](/docs/install-it-agent-discovery#Requirements)
-- [Linux and Unix agentless scanning requirements](/docs/linux-and-unix-agentless-scanning-requirements)
-- [Apple Mac scanning requirements](/docs/apple-mac-scanning-requirements)
-- [Network device scanning requirements](/docs/network-device-scanning-requirements)
+- [Windows domain scanning requirements](/classic/docs/windows-domain-scanning-requirements)
+- [IT Agent installation requirements](/classic/docs/install-it-agent-discovery#Requirements)
+- [Linux and Unix agentless scanning requirements](/classic/docs/linux-and-unix-agentless-scanning-requirements)
+- [Apple Mac scanning requirements](/classic/docs/apple-mac-scanning-requirements)
+- [Network device scanning requirements](/classic/docs/network-device-scanning-requirements)
 
 ## 2. Install Lansweeper Sites
 
 Follow our training guide to determine which i[nstall path is right for you](https://elearning.easygenerator.com/7735fbac-b4e9-4ea9-8cf9-887fb716bb16/#/). This will help you decide whether you require an easy or advanced installation, and walk you through the installation steps.
 
-You can also review our [trial installation guide](/docs/install-the-lansweeper-trial).
+You can also review our [trial installation guide](/classic/docs/install-the-lansweeper-trial).
 
 ## 3. Add your first credential(s)
 
@@ -33,8 +33,8 @@ Add a credential to access additional information about your assets.
 
 **Additional resources:**
 
-- [Bandwidth usage during scanning](/docs/bandwidth-usage-during-scanning)
-- [Overview of discovery targets and methods](/docs/comparing-lansweeper-sites-and-lansweeper-on-premises#toc-hId--1328578280)
+- [Bandwidth usage during scanning](/classic/docs/bandwidth-usage-during-scanning)
+- [Overview of discovery targets and methods](/classic/docs/comparing-lansweeper-sites-and-lansweeper-on-premises#toc-hId--1328578280)
 
 ## 4. Rediscover your targets through Discovery Actions
 
@@ -67,17 +67,17 @@ Want to improve the accuracy of the insights provided? Follow these quick tips:
   - 139/TCP: NetBIOS Session Service
   - 445/TCP: SMB
   - 1025-5000 or 49152-65535: Random ports for WMI data
-- **Review general discovery requirements:** Ensure you maximize your discovery results by reviewing the [requirements](/docs/ports-scanned-or-used-by-lansweeper).
+- **Review general discovery requirements:** Ensure you maximize your discovery results by reviewing the [requirements](/classic/docs/ports-scanned-or-used-by-lansweeper).
 
 **Additional resources:**
 
-- [WMI Access is denied. 0x80070005](/docs/wmi-access-is-denied-0x80070005)
-- [RPC server is unavailable. 0x800706BA](/docs/rpc-server-is-unavailable-0x800706ba)
-- [Troubleshoot device discovery issues with Network Discovery hub](/docs/install-network-discovery#startnetworkdiscovery)
+- [WMI Access is denied. 0x80070005](/classic/docs/wmi-access-is-denied-0x80070005)
+- [RPC server is unavailable. 0x800706BA](/classic/docs/rpc-server-is-unavailable-0x800706ba)
+- [Troubleshoot device discovery issues with Network Discovery hub](/classic/docs/install-network-discovery#startnetworkdiscovery)
 
 ## 7. Explore Lansweeper Sites
 
 Now that you have Lansweeper Sites installed and configured, you can explore everything it has to offer! For example, you can:
 
-- [Visualise your IT asset data with Diagrams](/docs/diagrams)
-- [Learn about our vulnerability risk assessment](/docs/introduction-to-vulnerability-risk-assessment)
+- [Visualise your IT asset data with Diagrams](/classic/docs/diagrams)
+- [Learn about our vulnerability risk assessment](/classic/docs/introduction-to-vulnerability-risk-assessment)

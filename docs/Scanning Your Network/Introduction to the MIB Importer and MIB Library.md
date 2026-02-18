@@ -15,7 +15,7 @@ Gather the MIB files for your specific network device. You can usually find thes
 
 ### Step 2: check your permissions
 
-Make sure your user role includes the **Access Data Selection** permission. If it doesn't, you won't be able to access the custom OID scanning configuration. More information on configuring website access and specifying who has what permissions can be found in [this article on restricting web console access](/docs/restrict-access-to-the-web-console).
+Make sure your user role includes the **Access Data Selection** permission. If it doesn't, you won't be able to access the custom OID scanning configuration. More information on configuring website access and specifying who has what permissions can be found in [this article on restricting web console access](/classic/docs/restrict-access-to-the-web-console).
 
 ### Step 3: navigate to the MIB Importer
 

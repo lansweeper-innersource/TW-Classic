@@ -22,7 +22,7 @@ All duplication conflicts can be viewed in the **Inventory > Duplicate conflict
      
 
    If you choose to delete the duplicates from the local web console, they will be automatically deleted from your on-prem inventory.  
-   Please note that when no scanning exclusion is present for these assets, they could potentially be scanned again and synced with your cloud site. To prevent this, make sure to [add a scanning exclusion](/docs/exclude-assets-from-scanning) in your on-prem installation. If you don't check the option to delete the assets from the local web console, they will instead be flagged in your on-prem installation to not be synced again to Cloud.
+   Please note that when no scanning exclusion is present for these assets, they could potentially be scanned again and synced with your cloud site. To prevent this, make sure to [add a scanning exclusion](/classic/docs/exclude-assets-from-scanning) in your on-prem installation. If you don't check the option to delete the assets from the local web console, they will instead be flagged in your on-prem installation to not be synced again to Cloud.
 5. Select **Solve duplicate conflict**.
 
 The duplicate conflict has now been resolved.

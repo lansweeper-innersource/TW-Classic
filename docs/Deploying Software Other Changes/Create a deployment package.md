@@ -30,12 +30,12 @@ There are 6 types of deployment steps:
 
 - Installer: allows you to run installers on the target computer and specify parameters. Don't forget to store your installers in your package share(s). The installers referenced by the built-in deployment packages are stored in DefaultPackageShare$ on your Lansweeper server, in the Installers subfolder.  
 
-  To reference [your package share(s)](/docs/deployment-requirements) in your deployment package, include the {PackageShare} parameter in your file path.
+  To reference [your package share(s)](/classic/docs/deployment-requirements) in your deployment package, include the {PackageShare} parameter in your file path.
 - Command: allows you to run Command Prompt (CMD) commands on the target computer.
 - KillProcess: allows you to kill processes running on the target computer. Optionally, you can forcefully kill the process and/or kill its child processes as well.
 - Script: allows you to run a VBS or other type of script on the target computer. Don't forget to store your scripts in your package share(s). The scripts referenced by the built-in deployment packages are stored in DefaultPackageShare$ on your Lansweeper server, in the Scripts subfolder.  
 
-  To reference [your package share(s)](/docs/deployment-requirements) in your deployment package, include the {PackageShare} parameter in your file path.
+  To reference [your package share(s)](/classic/docs/deployment-requirements) in your deployment package, include the {PackageShare} parameter in your file path.
 - Condition: allows you to verify the existence or version of specific files on the computer, the existing or value of specific registry keys, the computer's OS architecture (32-bit or 64-bit) or OS. If all of the criteria you specify are met, the deployment step will be considered successful. If not all criteria are met, the deployment step will be considered unsuccessful.   
   In the example below, the deployment will end in a Stop (Success) if LansweeperService.exe exists and if it has a file version lower than 5.2.0.4. The deployment will end in a Stop (Failure) if LansweeperService.exe does not exist or if LansweeperService.exe has a file version greater than or equal to 5.2.0.4.  
 

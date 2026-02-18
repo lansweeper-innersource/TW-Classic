@@ -12,7 +12,7 @@ Regardless of the scan type, the collected Windows data includes information abo
 
 To scan a Windows domain or workgroup computer without a scanning agent:
 
-1. Make sure you meet the Windows [domain](/docs/windows-domain-scanning-requirements) or [workgroup](/docs/windows-workgroup-scanning-requirements) scanning requirements.
+1. Make sure you meet the Windows [domain](/classic/docs/windows-domain-scanning-requirements) or [workgroup](/classic/docs/windows-workgroup-scanning-requirements) scanning requirements.
 2. In your web console, go to **Scanning > Scanning targets**, and select **Add Scanning Target**.   
 
    If you have multiple scanning servers, there will be a separate configuration tab for each server.
@@ -37,7 +37,7 @@ To scan a Windows domain or workgroup computer without a scanning agent:
 
 ## Scan a Windows computer with a scanning agent
 
-There are separate articles on how to scan Windows computers with the [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac) or [LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agent.
+There are separate articles on how to scan Windows computers with the [LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac) or [LsPush](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agent.
 
 The scanning agents scan largely the same data as agentless scanning methods, but have several important advantages:
 

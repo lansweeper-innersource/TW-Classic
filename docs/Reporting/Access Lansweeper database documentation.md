@@ -9,7 +9,7 @@ More reports can be found [in the Report Library](https://www.lansweeper.com/rep
 
 ## Access database documentation
 
-1. Make sure your user role includes the **Edit Reports** permission, as this permission will be required both to access the database documentation and to actually create reports. More information on configuring website access and specifying who has what permissions can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+1. Make sure your user role includes the **Edit Reports** permission, as this permission will be required both to access the database documentation and to actually create reports. More information on configuring website access and specifying who has what permissions can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 2. Browse to the **Reports > Database Documentation**section of the web console.  
    
 3. On the resulting page with database documentation, click on a table to jump to that table's documentation.   
@@ -26,4 +26,4 @@ More reports can be found [in the Report Library](https://www.lansweeper.com/rep
   - The tbl tables generally store asset data.
   - The tsys tables generally store Lansweeper settings. These tables are not documented as Lansweeper settings are generally not included in reports.
 - The database contains tables that end in "Hist". These tables are not documented as they store historical Windows computer data. They are identical to their non-Hist counterparts, with the exception of the Action field.   
-  A Windows computer's current OS is stored in tblOperatingsystem for instance, while OS changes are stored in tblOperatingsystemHist. The first table is documented, the second one isn't since it's largely the same as the first. History tracking is disabled by default for most scanned data. Information on enabling it and subsequently running reports can be found in [this knowledge base article](/docs/track-software-memory-and-other-changes-on-windows-computers).
+  A Windows computer's current OS is stored in tblOperatingsystem for instance, while OS changes are stored in tblOperatingsystemHist. The first table is documented, the second one isn't since it's largely the same as the first. History tracking is disabled by default for most scanned data. Information on enabling it and subsequently running reports can be found in [this knowledge base article](/classic/docs/track-software-memory-and-other-changes-on-windows-computers).

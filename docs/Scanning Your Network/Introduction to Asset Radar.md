@@ -1,5 +1,5 @@
 <!-- # Introduction to Asset Radar -->
-Asset Radar is a feature introduced in Lansweeper 8.0. If you are using an older Lansweeper release, you will need to update by following the instructions in [this knowledge base article](/docs/update-lansweeper-on-premises).
+Asset Radar is a feature introduced in Lansweeper 8.0. If you are using an older Lansweeper release, you will need to update by following the instructions in [this knowledge base article](/classic/docs/update-lansweeper-on-premises).
 
 This article provides an introduction to the Asset Radar feature. Asset Radar is a credential-free scanning method that retrieves asset information based on captured network packets. Once this feature is set to Enabled or Logging Only, your Lansweeper server continuously captures specific network packets flowing within its own subnet, not just packets directly addressed to your Lansweeper server.
 
@@ -25,7 +25,7 @@ To be able to use Asset Radar, your Lansweeper server must have the Npcap driver
 
 If the driver is not found, a silent install of the Npcap driver, version 1.55, will automatically be started in the background. Once the compatibility check is concluded, you can proceed with configuring Asset Radar.
 
-When installing or updating Lansweeper, Npcap version 1.55 is automatically installed. This can be prevented via [install parameters](/docs/silently-install-uninstall-or-update-lansweeper). Npcap 0.96 or newer can also be installed manually. After concluding the installation, perform a new compatibility check.
+When installing or updating Lansweeper, Npcap version 1.55 is automatically installed. This can be prevented via [install parameters](/classic/docs/silently-install-uninstall-or-update-lansweeper). Npcap 0.96 or newer can also be installed manually. After concluding the installation, perform a new compatibility check.
 
 ### Interface selection
 

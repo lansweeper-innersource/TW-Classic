@@ -2,7 +2,7 @@
 This article explains the effect of enabling Windows rename detection. When a network asset is being scanned, Lansweeper needs to determine whether the asset is already present in the Lansweeper database.
 
 This is accomplished by comparing some specific data pulled from the asset being scanned with data already present in the database. This point of comparison is called the "unique key" or "internal ID" of the asset. It's what Lansweeper uses to uniquely identify the asset.   
-The unique key of a [Windows computer](/docs/how-to-scan-a-windows-computer) is: <NetBIOS domain or workgroup name>\<NetBIOS computer name>\1. The unique key of computer LAN-001 in the LANSWEEPER domain is the following for instance: LANSWEEPER\LAN-001\1.
+The unique key of a [Windows computer](/classic/docs/how-to-scan-a-windows-computer) is: <NetBIOS domain or workgroup name>\<NetBIOS computer name>\1. The unique key of computer LAN-001 in the LANSWEEPER domain is the following for instance: LANSWEEPER\LAN-001\1.
 
 Considering a Windows computer's unique key includes its name and domain, a name or domain change would presumably lead to a new asset being generated for the computer. However, a setting called **Detect when a Windows computer has been renamed** ensures that name or domain changes do not lead to new assets. This setting is enabled by default and can be found in the following section of the web console: **Configuration > Server Options**.
 

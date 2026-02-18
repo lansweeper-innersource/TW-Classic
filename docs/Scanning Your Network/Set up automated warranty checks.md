@@ -1,5 +1,5 @@
 <!-- # Set up automated warranty checks -->
-This page is for Lansweeper On-premises. For Lansweeper Sites, see [Enable warranty tracking](/docs/enable-warranty-tracking).
+This page is for Lansweeper On-premises. For Lansweeper Sites, see [Enable warranty tracking](/classic/docs/enable-warranty-tracking).
 
 Lansweeper performs automated warranty checks and scans for assets manufactured by Dell, Fujitsu, IBM, Lenovo, Toshiba/Dynabook, and HP. Specifically, we attempt to retrieve key warranty details such as the purchase date, warranty expiration date, ship date, purchase country, and any purchased warranty products.
 
@@ -16,7 +16,7 @@ The current implementation of IBM warranty scanning relies on the IBM Support Po
 
 To trigger a warranty check for Dell, Fujitsu, IBM, Lenovo or Toshiba/Dynabook, follow the below steps. To set up a warranty check for HP, see Enable HP warranty tracking.
 
-1. If you have not already done so, update to the latest Lansweeper release by following the instructions in [this knowledge base article](/docs/update-lansweeper-on-premises). You can verify whether you are on the latest release by selecting **Check for updates now** in the **Configuration > Your Lansweeper license**section of the web console.  
+1. If you have not already done so, update to the latest Lansweeper release by following the instructions in [this knowledge base article](/classic/docs/update-lansweeper-on-premises). You can verify whether you are on the latest release by selecting **Check for updates now** in the **Configuration > Your Lansweeper license**section of the web console.  
 
    Don't skip this step. As the supported manufacturers change their websites on a regular basis, our warranty scanning procedures are updated on a regular basis as well.
 2. Ensure all fields required for submission on the manufacturers' websites are filled in when looking at your assets' Lansweeper webpages. The assets' manufacturers should be set to Dell, Fujitsu, IBM, Lenovo or Toshiba and their serial numbers should be filled in.   
@@ -53,7 +53,7 @@ To trigger a warranty check for Dell, Fujitsu, IBM, Lenovo or Toshiba/Dynabook, 
    
 
    If you're scanning a lot of warranties, we recommend waiting at least an hour for all scans to complete, as the manufacturers' websites may take a while to respond. Refresh any previously opened asset pages afterwards to see updated information. Warranty scans do not show up in your scanning queue, as they're processed silently in the background.
-9. If warranty information still doesn't appear in the **Summary** tab of individual asset pages, run [this report](https://www.lansweeper.com/Forum/yaf_postsm45562_Warranty-scanning-errors.aspx) to look for warranty scanning errors. You can add this report to your installation by following [these instructions](/docs/add-a-report-to-your-lansweeper-installation).   
+9. If warranty information still doesn't appear in the **Summary** tab of individual asset pages, run [this report](https://www.lansweeper.com/Forum/yaf_postsm45562_Warranty-scanning-errors.aspx) to look for warranty scanning errors. You can add this report to your installation by following [these instructions](/classic/docs/add-a-report-to-your-lansweeper-installation).   
    A common cause of warranty scanning errors is that your server is not able to reach the internet to retrieve the information. This must be resolved within your network itself by checking proxy and firewall configurations.
 
 ## Enable HP warranty tracking

@@ -53,7 +53,7 @@ If you plan on having your alerts sent via email, be sure to submit your email s
 4. Select **Add event filter**, select an event from the list of scanned events and click **Ok**. Alternatively, you can manually type an event source and event ID in the pop-up window if you would like to create an alert for an event that hasn't been scanned yet.  
      
 
-   Keep in mind that, to keep your database as small as possible, only error events are scanned by default. To generate alerts for non-error events, ensure [the necessary event types are enabled](/docs/scanning-non-error-events) for scanning.
+   Keep in mind that, to keep your database as small as possible, only error events are scanned by default. To generate alerts for non-error events, ensure [the necessary event types are enabled](/classic/docs/scanning-non-error-events) for scanning.
 5. Optionally, modify the criteria the event has to meet to generate an alert. Click the pencil-shaped edit button next to the event and select **Add Filter** in the resulting pop-up.
    - **Computer**: NetBIOS name of the computer generating the event.
    - **Domain**: NetBIOS name of the domain/workgroup the event originates from.
@@ -73,4 +73,4 @@ If you plan on having your alerts sent via email, be sure to submit your email s
 7. As soon as a new occurrence of the specified event is scanned on a computer, an email is sent to the mail group of your choice.  
      
 
-   Event alerts are best used in combination with [Eventlog Only scanning targets](/docs/scanning-with-an-eventlog-only-scanning-target). Eventlog Only scanning targets allow you to scan event log entries as frequently as once a minute, ensuring that you receive your email alerts near-instantaneously.
+   Event alerts are best used in combination with [Eventlog Only scanning targets](/classic/docs/scanning-with-an-eventlog-only-scanning-target). Eventlog Only scanning targets allow you to scan event log entries as frequently as once a minute, ensuring that you receive your email alerts near-instantaneously.

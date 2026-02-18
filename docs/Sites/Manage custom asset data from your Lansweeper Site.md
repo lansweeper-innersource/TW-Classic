@@ -1,6 +1,6 @@
 <!-- # Manage custom asset data from your Lansweeper Site -->
 
-This functionality is available only in Lansweeper On-Premises version 11.3.0.5 and newer. If you're using an older version, please [update to the latest release](/docs/update-lansweeper-on-premises).
+This functionality is available only in Lansweeper On-Premises version 11.3.0.5 and newer. If you're using an older version, please [update to the latest release](/classic/docs/update-lansweeper-on-premises).
 
 Asset states, types, relation types, groups, and custom fields originally created in your Lansweeper On-premises console can be managed in your site, facilitating a smooth transition of your daily operations from Lansweeper On-premises to Lansweeper Sites.
 
@@ -30,11 +30,11 @@ On this page:
 
 **Custom asset data** includes all manually defined information about your assets, such as:
 
-- [Custom fields](/docs/configure-and-add-data-to-asset-custom-fields)
-- [Asset states](/docs/create-use-and-change-asset-states)
-- [Asset types](/docs/create-asset-types)
-- [Relation types](/docs/create-asset-relation-types)
-- [Groups](/docs/grouping-assets#heading2)   
+- [Custom fields](/classic/docs/configure-and-add-data-to-asset-custom-fields)
+- [Asset states](/classic/docs/create-use-and-change-asset-states)
+- [Asset types](/classic/docs/create-asset-types)
+- [Relation types](/classic/docs/create-asset-relation-types)
+- [Groups](/classic/docs/grouping-assets#heading2)   
 
   Only static groups are available in Lansweeper Sites. Dynamic groups are available in Lansweeper On-premises.
 

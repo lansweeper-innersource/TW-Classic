@@ -16,7 +16,7 @@ To get rid of these warnings, you can either purchase additional agent licenses,
 
 1. Purchase an agent license through [our online store](https://store.lansweeper.com/447/uurl-i2n9r1j3gu). You can purchase a single license that includes multiple agents.
 2. Use the link in your email receipt to download the license.txt file that contains your license key.
-3. Copy the entire string contained within the file and [apply it to your Lansweeper installation](/docs/apply-your-lansweeper-license) using **Add license** in the **Configuration > Your Lansweeper License** section of the web console. Your license key is a long, encrypted string that contains your order reference number, email address and other customer details.  
+3. Copy the entire string contained within the file and [apply it to your Lansweeper installation](/classic/docs/apply-your-lansweeper-license) using **Add license** in the **Configuration > Your Lansweeper License** section of the web console. Your license key is a long, encrypted string that contains your order reference number, email address and other customer details.  
      
    
 4. Any previously active agents should automatically be reactivated when you apply an agent license to your installation. To double-check whether they are though, make sure the Active checkbox next to the users is ticked in the **Configuration > User Access & Roles** section of the web console. If the Active checkbox is ticked, an agent license is assigned to the user. You can also make additional users agent by selecting **Make Agent** next to their accounts.  
@@ -24,20 +24,20 @@ To get rid of these warnings, you can either purchase additional agent licenses,
 
      
 
-   To perform actions on tickets, an agent must also be assigned a user role that contains the necessary agent permissions. An example of such a role is the built-in Administrator + Agent one. More information on user roles and permissions can be found in [this knowledge base article](/docs/web-console-user-roles-and-permissions).
+   To perform actions on tickets, an agent must also be assigned a user role that contains the necessary agent permissions. An example of such a role is the built-in Administrator + Agent one. More information on user roles and permissions can be found in [this knowledge base article](/classic/docs/web-console-user-roles-and-permissions).
 5. Have your agents close and reopen the web browsers they're using to access the helpdesk. The warning messages about their agent licenses being expired should disappear.
 
 ### Request a time-limited agent trial
 
 1. [Contact Lansweeper Sales](https://www.lansweeper.com/contact-sales/) to request a trial key for one or more additional helpdesk agents. Be sure to mention that you require a helpdesk agent trial.
-2. When you receive your agent trial license, in a text file, copy the entire string contained within the file and [apply it to your Lansweeper installation](/docs/apply-your-lansweeper-license) using **Add license** in the **Configuration > Your Lansweeper License** section of the web console. Your license key is a long, encrypted string that contains your email address.  
+2. When you receive your agent trial license, in a text file, copy the entire string contained within the file and [apply it to your Lansweeper installation](/classic/docs/apply-your-lansweeper-license) using **Add license** in the **Configuration > Your Lansweeper License** section of the web console. Your license key is a long, encrypted string that contains your email address.  
      
    
 3. Any previously active agents should automatically be reactivated when you apply an agent license to your installation. To double-check whether they are though, make sure the Active checkbox next to the users is ticked in the **Configuration > User Access & Roles** section of the web console. If the Active checkbox is ticked, an agent license is assigned to the user. You can also make additional users agent by selecting **Make Agent** next to their accounts.  
      
      
 
-   To perform actions on tickets, an agent must also be assigned a user role that contains the necessary agent permissions. An example of such a role is the built-in Administrator + Agent one. More information on user roles and permissions can be found in [this knowledge base article](/docs/web-console-user-roles-and-permissions).
+   To perform actions on tickets, an agent must also be assigned a user role that contains the necessary agent permissions. An example of such a role is the built-in Administrator + Agent one. More information on user roles and permissions can be found in [this knowledge base article](/classic/docs/web-console-user-roles-and-permissions).
 4. Have your agents close and reopen the web browsers they're using to access the helpdesk. The warning messages about their agent licenses being expired should disappear.  
    
 

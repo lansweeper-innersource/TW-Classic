@@ -7,4 +7,4 @@ Not all Lansweeper licenses are eligible for linking with Cloud. Your license's 
 
 ## What do I do if the license check fails?
 
-Make sure you've [applied your most recently received Lansweeper license](/docs/apply-your-lansweeper-license). Try syncing with Cloud again if you've applied a different license. If the issue persists or you're already using the correct license, please contact the Sales team to discuss your licensing situation.
+Make sure you've [applied your most recently received Lansweeper license](/classic/docs/apply-your-lansweeper-license). Try syncing with Cloud again if you've applied a different license. If the issue persists or you're already using the correct license, please contact the Sales team to discuss your licensing situation.

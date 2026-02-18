@@ -2,7 +2,7 @@
 
 [Lansweeper](https://www.lansweeper.com/ "Lansweeper") includes several scanning methods to scan the assets in your network. You can scan the Linux, Unix, Mac and Windows computers, VMware servers and other devices in your network without installing any Lansweeper software on the machines you're scanning.
 
-If you are using a Lansweeper Site, the IT Agent Discovery scanning agent might be the optimal choice over LsAgent. To determine if IT Agent Discovery aligns with your needs, explore the [Install IT Agent Discovery](/docs/install-it-agent-discovery) guide.
+If you are using a Lansweeper Site, the IT Agent Discovery scanning agent might be the optimal choice over LsAgent. To determine if IT Agent Discovery aligns with your needs, explore the [Install IT Agent Discovery](/classic/docs/install-it-agent-discovery) guide.
 
 Optionally, an agent called LsAgent can be installed on Windows, Linux and Mac computers to scan the machines locally instead. LsAgent is a cross-platform scanning agent that can scan computers both inside and outside of your network.   
 The video and article below provide an introduction to LsAgent and explain what LsAgent is, how it works and why it's so powerful.
@@ -32,10 +32,10 @@ When an LsAgent scan is imported, an Active Directory (AD) lookup is performed. 
 
 The following list shows where to find installation guides for Windows, Linux and Mac:
 
-- Windows: the installation guide can be found in [this knowledge base article](/docs/install-lsagent-on-a-windows-computer).
-- Linux: the installation guide can be found in [this knowledge base article](/docs/install-lsagent-on-a-linux-computer).
-- Mac: the installation guide can be found in [this knowledge base article](/docs/install-lsagent-on-a-mac-computer).
-- A guide for silently installing LsAgent on Windows, Linux or Mac can be found in [this knowledge base article](/docs/silently-installing-lsagent-on-a-windows-linux-or-mac-computer).
+- Windows: the installation guide can be found in [this knowledge base article](/classic/docs/install-lsagent-on-a-windows-computer).
+- Linux: the installation guide can be found in [this knowledge base article](/classic/docs/install-lsagent-on-a-linux-computer).
+- Mac: the installation guide can be found in [this knowledge base article](/classic/docs/install-lsagent-on-a-mac-computer).
+- A guide for silently installing LsAgent on Windows, Linux or Mac can be found in [this knowledge base article](/classic/docs/silently-installing-lsagent-on-a-windows-linux-or-mac-computer).
 
 ## Why use LsAgent for scanning
 
@@ -68,5 +68,5 @@ LsAgent can scan machines over the internet by sending scanned data to the relay
 - Your scanning server can only access new data on the relay server that is specific to your company. A unique key is used to identify your company on the relay server.
 - Once a scanning server has retrieved new data from the relay server, that data is deleted from the relay.
 
-In a [Cloud-first scenario](/docs/install-lansweeper-sites), the LsAgent relay configuration can only be switched on after [enabling the Lansweeper On-prem web console](/docs/enable-the-lansweeper-on-premises-web-console).  
+In a [Cloud-first scenario](/classic/docs/install-lansweeper-sites), the LsAgent relay configuration can only be switched on after [enabling the Lansweeper On-prem web console](/classic/docs/enable-the-lansweeper-on-premises-web-console).  
 If you have multiple installations that are linked to the same cloud site, each installation will share the same license key, issued from cloud. The relay server also uniquely identifies installations by their license key. As a result, you can only enable the relay on one installation in this scenario.

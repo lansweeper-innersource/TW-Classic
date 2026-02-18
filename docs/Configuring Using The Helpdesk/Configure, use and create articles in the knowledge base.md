@@ -23,7 +23,7 @@ The Lansweeper knowledge base allows you to create articles, categorize them and
 7. Choose who can see and edit the knowledge base category. Ticking **User Access** gives everyone the ability to see articles in the knowledge base category. You can also specify which agent teams can see and add/edit articles in the category. An agent is a user who can respond to other people's helpdesk tickets. An agent is only able to edit articles in a knowledge base category if at least one of his teams has been granted the necessary permissions to the category.   
    In the example below, everyone can see articles in the Lansweeper category, but only the IT Support and IT Management teams are able to edit them.  
 
-   An agent's role also needs to include the Alter Knowledgebase Articles or Access Configuration permission in order for the agent to be able to add or edit knowledge base articles. Info on restricting web console access can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+   An agent's role also needs to include the Alter Knowledgebase Articles or Access Configuration permission in order for the agent to be able to add or edit knowledge base articles. Info on restricting web console access can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 
    If you make changes to knowledge base permissions, have users restart their web browsers to make the changes take effect.
 8. Select the category and click **Add article** to create a new article in the category.  

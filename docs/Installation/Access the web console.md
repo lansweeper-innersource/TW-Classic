@@ -2,7 +2,7 @@
 
 Once you've installed Lansweeper, you can access the web console. The web console displays scanned and custom data in a comprehensible way.
 
-Additionally, it allows you to make changes to your settings. By default, everyone in your network has access to the web console and can log in with minimal permissions to just the help desk. [Access can also be restricted](/docs/restrict-access-to-the-web-console), however.
+Additionally, it allows you to make changes to your settings. By default, everyone in your network has access to the web console and can log in with minimal permissions to just the help desk. [Access can also be restricted](/classic/docs/restrict-access-to-the-web-console), however.
 
 ## Access the web console
 
@@ -19,7 +19,7 @@ To access the web console:
 
 ## Log into the web console
 
-When you access the console for the first time, you are presented with a [First Run Wizard](/docs/install-lansweeper-on-prem#FRW), which allows you to set up scanning and configure some basic options.
+When you access the console for the first time, you are presented with a [First Run Wizard](/classic/docs/install-lansweeper-on-prem#FRW), which allows you to set up scanning and configure some basic options.
 
 The First Run Wizard is only meant for submitting an initial configuration. You'll only see and need to configure this wizard once. After completing this setup, you will be prompted to log in the next time you want to access the console.
 

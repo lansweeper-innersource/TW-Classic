@@ -4,4 +4,4 @@
 
    Comments added to the **Comments** tab are stored in the tblAssetComments database table. You'll notice, when you select **Edit Asset** on an asset page, that there's another Comments field at the bottom of the page. If filled in, this field is shown in the **Summary** tab of the asset's Lansweeper webpage. It is solely provided for backward compatibility with old Lansweeper releases and stores data in the Comments field of tblAssetCustom, not in tblAssetComments.
 
-   You can prevent users from adding comments to the **Comments** tab. More info on restricting web console access can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+   You can prevent users from adding comments to the **Comments** tab. More info on restricting web console access can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).

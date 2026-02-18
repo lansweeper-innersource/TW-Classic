@@ -1,5 +1,5 @@
 <!-- # Set up Cloud Discovery access -->
-Starting **June 2025**we’re transitioning to FusionAuth as our new authentication provider. Auth0 will be supported until **July 2025**, but we recommend switching as soon as possible. For more information, see [Migrate from Auth0 to FusionAuth authenticator for Cloud Actions](/docs/migrate-from-auth0-to-fusionauth-authenticator-for-cloud-actions).  
+Starting **June 2025**we’re transitioning to FusionAuth as our new authentication provider. Auth0 will be supported until **July 2025**, but we recommend switching as soon as possible. For more information, see [Migrate from Auth0 to FusionAuth authenticator for Cloud Actions](/classic/docs/migrate-from-auth0-to-fusionauth-authenticator-for-cloud-actions).  
 Lansweeper Sites hosted in the United States **only** support FusionAuth.
 
 
@@ -92,7 +92,7 @@ For additional security, you may want to restrict access to the key vault. Depen
 
 ### Create a Microsoft Cloud Discovery action
 
-You can now [create a Cloud Discovery action](/docs/configure-cloud-discovery#azure ) to schedule your cloud asset scanning.
+You can now [create a Cloud Discovery action](/classic/docs/configure-cloud-discovery#azure ) to schedule your cloud asset scanning.
 
 ## Set up Amazon Web Services (AWS)
 
@@ -274,7 +274,7 @@ The role trust relationship should look like:
 
 ### Create an AWS Cloud Discovery action
 
-You can now [create a Cloud Discovery action](/docs/configure-cloud-discovery#aws ) to schedule your cloud asset scanning.
+You can now [create a Cloud Discovery action](/classic/docs/configure-cloud-discovery#aws ) to schedule your cloud asset scanning.
 
 To create an AWS discovery action, you will need:
 
@@ -553,7 +553,7 @@ Integrating GCP with FusionAuth for Workload Identity Federation involves severa
 
 ### Create a Workload Identity Pool
 
-You’ll first need to create a Workload Identity Pool. You can find detailed instructions on creating Workload Identity Pools in [Manage workload identity pools and providers](https://cloud.google.com/iam/docs/manage-workload-identity-pools-providers ).
+You’ll first need to create a Workload Identity Pool. You can find detailed instructions on creating Workload Identity Pools in [Manage workload identity pools and providers](https://cloud.google.com/iam/classic/docs/manage-workload-identity-pools-providers ).
 
 To configure the Workload Identity Pool for Lansweeper Discovery:
 
@@ -572,26 +572,26 @@ After creating the Workload Identity Pool, copy the **pool ID** and save it for 
 
 ### Create a service account
 
-Next, you’ll need to create a service account that grants permissions to the application. You can find detailed instructions in [Create service accounts](https://cloud.google.com/iam/docs/service-accounts-create ).
+Next, you’ll need to create a service account that grants permissions to the application. You can find detailed instructions in [Create service accounts](https://cloud.google.com/iam/classic/docs/service-accounts-create ).
 
 The **Viewer** role should be an appropriate role for Lansweeper Discovery. After creating the service account, copy the **account email address** and save it for later.
 
 ### Configure roles
 
-Your service account needs access to your organization and folders. You can find detailed instructions on granting the appropriate roles in [Manage access to projects, folders, and organizations](https://cloud.google.com/iam/docs/granting-changing-revoking-access ).
+Your service account needs access to your organization and folders. You can find detailed instructions on granting the appropriate roles in [Manage access to projects, folders, and organizations](https://cloud.google.com/iam/classic/docs/granting-changing-revoking-access ).
 
 The service account will need the **Folder Viewer** and **Organization Viewer** roles.
 
 ### Configure access to Workload Identity Pool
 
-The Workload Identity Pool needs to be configured to allow impersonation of the service account by the federated identity. You can find detailed instructions in [Manage workload identity pools and providers](https://cloud.google.com/iam/docs/manage-workload-identity-pools-providers ).
+The Workload Identity Pool needs to be configured to allow impersonation of the service account by the federated identity. You can find detailed instructions in [Manage workload identity pools and providers](https://cloud.google.com/iam/classic/docs/manage-workload-identity-pools-providers ).
 
 In the **Attribute name** field, select **subject** and enter `866d6f4d-c8fa-4342-9f6a-377932892ee0`
 
 ### Multiple GCP projects
 
-If you want to scan multiple GCP projects, you will have to grant the **Viewer** role to the service account you created for every project you want to scan. You can find detailed instructions on granting the appropriate roles in [Manage access to projects, folders, and organizations](https://cloud.google.com/iam/docs/granting-changing-revoking-access ).
+If you want to scan multiple GCP projects, you will have to grant the **Viewer** role to the service account you created for every project you want to scan. You can find detailed instructions on granting the appropriate roles in [Manage access to projects, folders, and organizations](https://cloud.google.com/iam/classic/docs/granting-changing-revoking-access ).
 
 ### Create a GCP Cloud Discovery action
 
-You can now [create a Cloud Discovery action](/docs/configure-cloud-discovery#gcp ) to schedule your cloud asset scanning.
+You can now [create a Cloud Discovery action](/classic/docs/configure-cloud-discovery#gcp ) to schedule your cloud asset scanning.

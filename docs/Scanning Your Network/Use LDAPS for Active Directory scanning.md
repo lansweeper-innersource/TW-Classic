@@ -3,13 +3,13 @@ Lansweeper supports using the LDAPS protocol for scanning and otherwise connecti
 
 In Lansweeper Classic, you can choose per domain and per scan server which protocol you want to use for on-premises Active Directory connections, LDAP or LDAPS. You can also choose your preferred port. The LDAP(S) configuration you submit for a domain is used when connecting to that domain in the context of:
 
-- Performing an [Active Directory Domain](/docs/scan-an-active-directory-domain-scanning-target) scan
-- Performing an [Active Directory Computer Path](/docs/scanning-with-an-active-directory-computer-path-scanning-target) scan
-- Performing an [Active Directory User/Group Path](/docs/scanning-with-an-active-directory-usergroup-path-scanning-target) scan
-- Performing an [Active Directory Path (Eventlog Only)](/docs/scanning-with-an-eventlog-only-scanning-target) scan
+- Performing an [Active Directory Domain](/classic/docs/scan-an-active-directory-domain-scanning-target) scan
+- Performing an [Active Directory Computer Path](/classic/docs/scanning-with-an-active-directory-computer-path-scanning-target) scan
+- Performing an [Active Directory User/Group Path](/classic/docs/scanning-with-an-active-directory-usergroup-path-scanning-target) scan
+- Performing an [Active Directory Path (Eventlog Only)](/classic/docs/scanning-with-an-eventlog-only-scanning-target) scan
 - Refreshing Active Directory details of individual computers and users in the Lansweeper database
-- Running domain-related [cleanup options](/docs/perform-automated-database-cleanups) found in the **Configuration > Server Options** menu
-- Checking for Exchange servers in the domain, when performing [Exchange scanning](/docs/scan-exchange-server-mailboxes)
+- Running domain-related [cleanup options](/classic/docs/perform-automated-database-cleanups) found in the **Configuration > Server Options** menu
+- Checking for Exchange servers in the domain, when performing [Exchange scanning](/classic/docs/scan-exchange-server-mailboxes)
 
 To configure LDAP(S) for an on-premises domain:
 

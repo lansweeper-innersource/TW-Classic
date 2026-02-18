@@ -1,5 +1,5 @@
 <!-- # Disable IIS Express logging -->
-If your Lansweeper web console is hosted by [the IIS Express web server](/docs/lansweeper-classic-components-and-architecture), the IIS Express log files below may be generated.
+If your Lansweeper web console is hosted by [the IIS Express web server](/classic/docs/lansweeper-classic-components-and-architecture), the IIS Express log files below may be generated.
 
 To preserve disk space and improve performance, it is generally recommended that you disable IIS Express logging and then delete the IIS Express logs.
 

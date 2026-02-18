@@ -5,7 +5,7 @@ For more information about Lansweeper's various scan targets, see the [Scanning
 
 ## Prerequisites
 
-- Verify that you meet [VMware Workspace One UEM scanning requirements](/docs/vmware-workspace-one-uem-powered-by-airwatch-scanning-requirements).
+- Verify that you meet [VMware Workspace One UEM scanning requirements](/classic/docs/vmware-workspace-one-uem-powered-by-airwatch-scanning-requirements).
 - Ensure you save the API key created in Generating the API key.
 - Ensure your selected scan server belongs to an installation [capable of encrypting credentials](https://www.lansweeper.com/trust/security/).
 

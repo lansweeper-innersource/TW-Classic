@@ -1,14 +1,14 @@
 <!-- # Lansweeper installation requirements -->
 Please note that a number of SQL and OS versions will no longer be supported as from March 1, 2023. For more information regarding the retiring versions, refer to the [Lansweeper Installation Requirements Update](https://www.lansweeper.com/updates/lansweeper-installation-requirements-update/).
 
-The [Lansweeper](https://www.lansweeper.com/ "Lansweeper") software is agent-less. You only need to install Lansweeper on one computer, which scans your entire network. No additional software is needed on the client machines you're scanning. Though two scanning agents are included in the software, these are optional. Information on the LsPush and LsAgent scanning agents can be found in [this knowledge base article](/docs/lspush-vs-lsagent-scanning-agent).
+The [Lansweeper](https://www.lansweeper.com/ "Lansweeper") software is agent-less. You only need to install Lansweeper on one computer, which scans your entire network. No additional software is needed on the client machines you're scanning. Though two scanning agents are included in the software, these are optional. Information on the LsPush and LsAgent scanning agents can be found in [this knowledge base article](/classic/docs/lspush-vs-lsagent-scanning-agent).
 
 Lansweeper scans Linux, Unix, Mac and Windows computers, VMware servers and other network devices, but must be installed on a Windows computer. Lansweeper installation requirements can be found below.
 
 ## Architecture
 
 64-bit, x64 architecture  
-If your Lansweeper installation is running on a 32-bit server, you can [move your installation to a different server](/docs/move-your-lansweeper-installation-to-a-different-server).
+If your Lansweeper installation is running on a 32-bit server, you can [move your installation to a different server](/classic/docs/move-your-lansweeper-installation-to-a-different-server).
 
 ## Virtual or physical
 
@@ -44,7 +44,7 @@ The database servers below are supported for hosting the Lansweeper database. On
 - Microsoft SQL Server 2022, any edition (Express, Standard, Enterprise...)
 - Microsoft SQL Server 2025, any edition (Express, Standard, Enterprise...)
 
-For more information on supported database servers, check out [Compatible SQL servers to host the Lansweeper database](/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
+For more information on supported database servers, check out [Compatible SQL servers to host the Lansweeper database](/classic/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
 
 Microsoft SQL Server 2014 is only supported for Lansweeper versions 11.2.2.0 or earlier.
 
@@ -63,7 +63,7 @@ The minimum supported screen resolution for viewing the Lansweeper interface is 
 
 - The computer you install Lansweeper on must have .NET Framework 4.8 or a more recent .NET version installed, updated to the latest service pack.
 - The computer you install Lansweeper on must have Windows Installer 2.0.
-- If you are running an old Lansweeper version and chose SQL Compact as your database server, Visual C++ 2012 is required on your Lansweeper server as well. SQL Compact is no longer supported or offered as a database server option for Lansweeper. If you are still using SQL Compact as your Lansweeper database server, you should [convert your database to SQL LocalDB or SQL Server.](/docs/convert-a-deprecated-sql-compact-database)
+- If you are running an old Lansweeper version and chose SQL Compact as your database server, Visual C++ 2012 is required on your Lansweeper server as well. SQL Compact is no longer supported or offered as a database server option for Lansweeper. If you are still using SQL Compact as your Lansweeper database server, you should [convert your database to SQL LocalDB or SQL Server.](/classic/docs/convert-a-deprecated-sql-compact-database)
 
   If you do not already have .NET Framework 4.8, the Lansweeper installer will automatically try to download and install this for you. If your machine does not have Internet access, you may have to download and install this component manually in order to meet the Lansweeper installation requirements. When .NET Framework 4.8 is manually or automatically installed, a reboot of your Lansweeper server may be required.
 

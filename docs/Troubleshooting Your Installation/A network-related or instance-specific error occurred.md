@@ -8,7 +8,7 @@ Sqlcmd: Error: Microsoft SQL Native Client: An error has occurred while establis
 These errors indicate that Lansweeper is unable to locate the SQL instance hosting your Lansweeper database. It's important to note that this does not point to database corruption or to an issue with the database itself.
 
 Though there are many possible causes for a loss of SQL connectivity, below are some troubleshooting steps you can try to resolve the issue.   
-This article is divided into steps for the SQL Server database and steps for the SQL LocalDB server. You can [verify which database server you are using](/docs/identify-which-database-server-lansweeper-is-using) with the ConfigEditor tool or in the Lansweeper web console.
+This article is divided into steps for the SQL Server database and steps for the SQL LocalDB server. You can [verify which database server you are using](/classic/docs/identify-which-database-server-lansweeper-is-using) with the ConfigEditor tool or in the Lansweeper web console.
 
 ## Resolving SQL connection errors under SQL Server
 

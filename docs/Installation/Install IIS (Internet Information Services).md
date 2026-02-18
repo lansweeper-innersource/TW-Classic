@@ -18,10 +18,10 @@ If IIS is not installed by default, you can download and install the latest vers
 5. If you plan on using integrated Windows authentication in Lansweeper or another website hosted in IIS, tick the **Windows Authentication** option under **Internet Information Services > World Wide Web Services > Security** as well and select **OK**.
 
    
-6. You can now install Lansweeper and choose IIS as your web server by following [this installation guide](/docs/install-lansweeper-on-prem#heading2 "Advanced Lansweeper installation"). After installation, you will see your Lansweeper web console listed in IIS Manager (inetmgr), along with a default website generated when you enabled IIS.
+6. You can now install Lansweeper and choose IIS as your web server by following [this installation guide](/classic/docs/install-lansweeper-on-prem#heading2 "Advanced Lansweeper installation"). After installation, you will see your Lansweeper web console listed in IIS Manager (inetmgr), along with a default website generated when you enabled IIS.
 
    
 
    
 7. If you already are running Lansweeper with IIS Express, you can now migrate your existing Lansweeper web console running under IIS Express to IIS Server.   
-   To do so, reinstall the web console by following these instructions to [install your Lansweeper web console](/docs/reinstalling-the-web-console) in IIS. When you get to step 11, choose the Advanced (IIS) option.
+   To do so, reinstall the web console by following these instructions to [install your Lansweeper web console](/classic/docs/reinstalling-the-web-console) in IIS. When you get to step 11, choose the Advanced (IIS) option.

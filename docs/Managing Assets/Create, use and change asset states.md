@@ -29,6 +29,6 @@ Try one of the following options to change an asset's state, depending on whethe
 
 Instead of manually changing states, you can also configure Lansweeper to automatically change the state of stale, decommissioned or recommissioned machines. Several automated cleanup options are available for this in the **Configuration > Server Options** section of the web console, though they are disabled by default.
 
-If enabled, most of these cleanup operations are performed when the Lansweeper Server service starts on your Lansweeper server and automatically every 24 hours afterward. More information on available cleanup options can be found in [this knowledge base article](/docs/perform-automated-database-cleanups).
+If enabled, most of these cleanup operations are performed when the Lansweeper Server service starts on your Lansweeper server and automatically every 24 hours afterward. More information on available cleanup options can be found in [this knowledge base article](/classic/docs/perform-automated-database-cleanups).
 
 

@@ -7,7 +7,7 @@ To submit a target like this for scanning, select **Add Scanning Target** in t
 
 
 
-As agentless scanning of Windows computers requires credentials, make sure to submit and map your Windows scanning credentials as well, by following the instructions in [this knowledge base article](/docs/create-and-map-scanning-credentials).
+As agentless scanning of Windows computers requires credentials, make sure to submit and map your Windows scanning credentials as well, by following the instructions in [this knowledge base article](/classic/docs/create-and-map-scanning-credentials).
 
 ## Windows Computer settings
 

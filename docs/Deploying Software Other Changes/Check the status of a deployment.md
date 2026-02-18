@@ -1,5 +1,5 @@
 <!-- # Check the status of a deployment -->
-Lansweeper includes a deployment module that allows you to deploy changes on Windows computers. You can [create deployment packages](/docs/create-a-deployment-package), series of conditions and commands, to remotely make changes to the Windows computers in your network. Packages can be [deployed manually or based on a schedule](/docs/deploy-a-package-manually-or-based-on-a-schedule) and allow you to: install and uninstall software, make command-line changes (e.g. registry changes) to your machines, kill processes and run custom scripts.
+Lansweeper includes a deployment module that allows you to deploy changes on Windows computers. You can [create deployment packages](/classic/docs/create-a-deployment-package), series of conditions and commands, to remotely make changes to the Windows computers in your network. Packages can be [deployed manually or based on a schedule](/classic/docs/deploy-a-package-manually-or-based-on-a-schedule) and allow you to: install and uninstall software, make command-line changes (e.g. registry changes) to your machines, kill processes and run custom scripts.
 
 ## Where to check deployment statuses
 

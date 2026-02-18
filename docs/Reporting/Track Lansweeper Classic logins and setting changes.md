@@ -5,7 +5,7 @@ This record is automatically kept, though old entries are removed from the datab
 
 ## Review logs
 
-1. Make sure your user role includes the **Access Configuration** permission. If it doesn't, you won't be able to view or configure Lansweeper login and configuration logs. More information on configuring website access and specifying who has what permissions can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+1. Make sure your user role includes the **Access Configuration** permission. If it doesn't, you won't be able to view or configure Lansweeper login and configuration logs. More information on configuring website access and specifying who has what permissions can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 2. Browse to the **Configuration > Server Options**section of the web console.  
    
 3. Configure how long the logs are kept in the database in the **History Cleanup Options** section of the page.

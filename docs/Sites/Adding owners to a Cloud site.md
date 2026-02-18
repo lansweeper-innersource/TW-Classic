@@ -21,7 +21,7 @@ A site owner can perform highly privileged operations on your site. They can dem
 
 ### 1. Invite future owners to site
 
-For a user to become an owner of a site you created, that user must first be a member of your site. Invite any users to your site that you want to make site owners. The users must accept the invitation before you can promote them to site owners. Follow the steps in [this knowledge base article](/docs/add-users-to-a-cloud-site "Adding users to a Cloud site") to invite users to a site.
+For a user to become an owner of a site you created, that user must first be a member of your site. Invite any users to your site that you want to make site owners. The users must accept the invitation before you can promote them to site owners. Follow the steps in [this knowledge base article](/classic/docs/add-users-to-a-cloud-site "Adding users to a Cloud site") to invite users to a site.
 
 ### 2. Make invited users owners
 

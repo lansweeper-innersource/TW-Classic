@@ -15,7 +15,7 @@ The current size of your database is listed in the Scanning Status widget or syn
 
 ## Reduce your database size
 
-1. Determine which database server is hosting your Lansweeper database by using the ConfigEditor tool. You can follow the instructions in [this knowledge base article](/docs/identify-which-database-server-lansweeper-is-using).
+1. Determine which database server is hosting your Lansweeper database by using the ConfigEditor tool. You can follow the instructions in [this knowledge base article](/classic/docs/identify-which-database-server-lansweeper-is-using).
 2. Stop the **Lansweeper Server** and web server service in Windows Services on all of your scanning servers. Keep in mind that this will log everyone out of the console. Your webserver service is either IIS Express or World Wide Web Publishing Service (IIS).  
    
 3. Run the DatabaseMaintenance tool on your Lansweeper server. The tool can be found at `Program Files (x86)\Lansweeper\Tools\DatabaseMaintenance.exe`.  
@@ -26,6 +26,6 @@ The current size of your database is listed in the Scanning Status widget or syn
 5. Restart the **Lansweeper Server** and web server service in Windows Services, and wait a few minutes for the automated cleanup process to complete.
 
 If you keep running into the database size limit, we recommend moving your Lansweeper database to a licensed SQL Server edition that has no fixed database size limit.   
-To move your SQL LocalDB database to SQL Server, you can follow the steps in [this article](/docs/move-your-database-from-sql-localdb-to-sql-server). If you are already using SQL Server Express, you can follow [these steps](/docs/move-your-sql-server-database-to-a-different-server-or-sql-server-instance) to move to another SQL Server instance.
+To move your SQL LocalDB database to SQL Server, you can follow the steps in [this article](/classic/docs/move-your-database-from-sql-localdb-to-sql-server). If you are already using SQL Server Express, you can follow [these steps](/classic/docs/move-your-sql-server-database-to-a-different-server-or-sql-server-instance) to move to another SQL Server instance.
 
-For more information about managing your database size, refer to [this knowledge base article](/docs/perform-automated-database-cleanups).
+For more information about managing your database size, refer to [this knowledge base article](/classic/docs/perform-automated-database-cleanups).

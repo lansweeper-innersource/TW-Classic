@@ -9,14 +9,14 @@ Microsoft Cloud Services applications can be used to accomplish a variety of tas
 
 Lansweeper:
 
-- [Scan Intune V2 targets](/docs/scan-intune-v2-targets)
+- [Scan Intune V2 targets](/classic/docs/scan-intune-v2-targets)
 
 Lansweeper Classic:
 
-- [Scan Intune targets](/docs/scan-mobile-devices-through-microsoft-intune)
-- [Scan Microsoft 365 targets](/docs/scan-microsoft-365-targets)
-- [Scan Microsoft Entra ID (Azure Active Directory) users and groups](/docs/scan-microsoft-entra-id-azure-ad-users-and-groups)
-- [Send Helpdesk and email alerts with a Microsoft Cloud Services application](/docs/send-helpdesk-and-email-alerts-via-microsoft-cloud-services)
+- [Scan Intune targets](/classic/docs/scan-mobile-devices-through-microsoft-intune)
+- [Scan Microsoft 365 targets](/classic/docs/scan-microsoft-365-targets)
+- [Scan Microsoft Entra ID (Azure Active Directory) users and groups](/classic/docs/scan-microsoft-entra-id-azure-ad-users-and-groups)
+- [Send Helpdesk and email alerts with a Microsoft Cloud Services application](/classic/docs/send-helpdesk-and-email-alerts-via-microsoft-cloud-services)
 
 ## Prerequisites
 
@@ -46,7 +46,7 @@ Lansweeper Classic:
 
 ## Add a client secret
 
-You must add a client secret if you want to [send Helpdesk and email alerts with a Microsoft Cloud Services application](/docs/send-helpdesk-and-email-alerts-via-microsoft-cloud-services).
+You must add a client secret if you want to [send Helpdesk and email alerts with a Microsoft Cloud Services application](/classic/docs/send-helpdesk-and-email-alerts-via-microsoft-cloud-services).
 
 1. Navigate to your app in the portal, then go to **Certificates & Secrets > Client Secrets > New client secret.**
 2. Give the client secret a **Description** and choose when it should **Expire**. Select **Add**.

@@ -36,7 +36,7 @@ netsh advfirewall firewall add rule name="TCP Port 135" dir=in action=allow prot
 
 ### Option 3: Manually
 
-If you're more of a hands-on person, you can do the changes manually by configuring the firewall using the Windows interface, you can find all the steps to do this in the [Configuring Windows Firewall knowledgebase article](/docs/configure-windows-firewall-for-agentless-scanning-of-computers "https://www.lansweeper.com/knowledgebase/firewall/").
+If you're more of a hands-on person, you can do the changes manually by configuring the firewall using the Windows interface, you can find all the steps to do this in the [Configuring Windows Firewall knowledgebase article](/classic/docs/configure-windows-firewall-for-agentless-scanning-of-computers "https://www.lansweeper.com/knowledgebase/firewall/").
 
 ## Adding Your Credentials
 
@@ -63,7 +63,7 @@ If you have a credential that meets the previously listed requirements, you can 
 - For local credentials, use the format .\username
 - Microsoft accounts like [username@outlook.com](mailto:username@outlook.com "mailto:username@outlook.com") can be used as credentials as well
 
-All [credentials are securely stored](/docs/credential-and-database-security-in-lansweeper "https://www.lansweeper.com/knowledgebase/credential-and-database-security-in-lansweeper/") in the Lansweeper database.
+All [credentials are securely stored](/classic/docs/credential-and-database-security-in-lansweeper "https://www.lansweeper.com/knowledgebase/credential-and-database-security-in-lansweeper/") in the Lansweeper database.
 
 ## Choosing your Scanning Target
 
@@ -83,7 +83,7 @@ Click the **Add Scanning Target** button and select the IP Range scanning targe
 
 
 
-As you'll see there are more options to configure, but we will leave those in their default state for now. You can find more info about them in the [IP Range knowledgebase article](/docs/scanning-with-an-ip-range-scanning-target "https://www.lansweeper.com/knowledgebase/scanning-with-ip-address-range-scanning/"). Once you're ready, click **OK** at the bottom.
+As you'll see there are more options to configure, but we will leave those in their default state for now. You can find more info about them in the [IP Range knowledgebase article](/classic/docs/scanning-with-an-ip-range-scanning-target "https://www.lansweeper.com/knowledgebase/scanning-with-ip-address-range-scanning/"). Once you're ready, click **OK** at the bottom.
 
 ### Scan your IP Range scanning target
 
@@ -93,16 +93,16 @@ Now that your scanning target is ready, you can scan it immediately by clicking 
 
 ## LsAgent
 
-If the configuration above conflicts with your strict security policies, or if you have a lot of devices outside of your corporate network. You can use [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac "https://www.lansweeper.com/knowledgebase/lsagent/") to scan devices either locally or remotely without any configuration!
+If the configuration above conflicts with your strict security policies, or if you have a lot of devices outside of your corporate network. You can use [LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac "https://www.lansweeper.com/knowledgebase/lsagent/") to scan devices either locally or remotely without any configuration!
 
 ## Additional Scanning Methods
 
-- [Overview of scanning targets and methods](/docs/overview-of-scanning-targets-and-methods)
-- [Scanning with an Active Directory Domain scanning target](/docs/scan-an-active-directory-domain-scanning-target)
-- [How to scan mobile devices through VMware AirWatch](/docs/scan-mobile-devices-through-vmware-workspace-one-uem-powered-by-airwatch)
-- [How to scan an AWS cloud environment](/docs/scan-an-aws-cloud-environment)
-- [How to scan an Azure cloud environment](/docs/scan-an-azure-cloud-environment)
-- [How to scan Chrome OS machines](/docs/how-to-scan-chrome-os-machines)
-- [Scanning Intune using MS Graph](/docs/scan-mobile-devices-through-microsoft-intune)
-- [O365 scanning via MS Graph](/docs/scan-microsoft-365-targets)
-- [Lansweeper Community integration with SCCM](/docs/integrate-lansweeper-with-sccm)
+- [Overview of scanning targets and methods](/classic/docs/overview-of-scanning-targets-and-methods)
+- [Scanning with an Active Directory Domain scanning target](/classic/docs/scan-an-active-directory-domain-scanning-target)
+- [How to scan mobile devices through VMware AirWatch](/classic/docs/scan-mobile-devices-through-vmware-workspace-one-uem-powered-by-airwatch)
+- [How to scan an AWS cloud environment](/classic/docs/scan-an-aws-cloud-environment)
+- [How to scan an Azure cloud environment](/classic/docs/scan-an-azure-cloud-environment)
+- [How to scan Chrome OS machines](/classic/docs/how-to-scan-chrome-os-machines)
+- [Scanning Intune using MS Graph](/classic/docs/scan-mobile-devices-through-microsoft-intune)
+- [O365 scanning via MS Graph](/classic/docs/scan-microsoft-365-targets)
+- [Lansweeper Community integration with SCCM](/classic/docs/integrate-lansweeper-with-sccm)

@@ -8,7 +8,7 @@ Windows computers submitted for Batch Scanning can belong to a domain or a workg
 
 
 
-As agentless scanning of Linux, Unix, Mac and Windows computers, VMware servers and SNMP enabled network devices requires credentials, make sure to submit and map your scanning credentials as well, by following the instructions in [this knowledge base article](/docs/create-and-map-scanning-credentials). Batch Scanning uses global and mapped credentials just like other scanning methods.
+As agentless scanning of Linux, Unix, Mac and Windows computers, VMware servers and SNMP enabled network devices requires credentials, make sure to submit and map your scanning credentials as well, by following the instructions in [this knowledge base article](/classic/docs/create-and-map-scanning-credentials). Batch Scanning uses global and mapped credentials just like other scanning methods.
 
 Assets submitted for Batch Scanning are moved to the top of the scanning queue, if they are not already in the queue. Their scans are given priority, so you can see the scan results more quickly.
 

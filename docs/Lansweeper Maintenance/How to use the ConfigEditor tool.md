@@ -1,5 +1,5 @@
 <!-- # How to use the ConfigEditor tool -->
-Lansweeper data, reports and settings are stored in a database. Your database is hosted in either the Microsoft SQL LocalDB, Microsoft SQL Server or (deprecated) Microsoft SQL Compact database server. Apart from a database, your installation also includes a Lansweeper Server service that scans your network and a web console that displays scanned data and settings. Both the Lansweeper Classic service and web console connect to the database and know which database to connect to because of two configuration files stored on your Lansweeper server, one for the scanning service and one for the web console. More information on the interaction between Lansweeper components can be found in [this knowledge base article](/docs/lansweeper-classic-components-and-architecture).
+Lansweeper data, reports and settings are stored in a database. Your database is hosted in either the Microsoft SQL LocalDB, Microsoft SQL Server or (deprecated) Microsoft SQL Compact database server. Apart from a database, your installation also includes a Lansweeper Server service that scans your network and a web console that displays scanned data and settings. Both the Lansweeper Classic service and web console connect to the database and know which database to connect to because of two configuration files stored on your Lansweeper server, one for the scanning service and one for the web console. More information on the interaction between Lansweeper components can be found in [this knowledge base article](/classic/docs/lansweeper-classic-components-and-architecture).
 
 To improve security, from Lansweeper 6.0.100.0 onward, the database connection details in the aforementioned configuration files are obfuscated and no longer displayed in plain text. Databases hosted in SQL LocalDB or SQL Server have a password, but this password is no longer visible in the configuration files or anywhere else.
 
@@ -16,7 +16,7 @@ This is a short summary of the various sections of the tool:
 
     
 
-  If you change the database password, you'll need to change it in SQL LocalDB or SQL Server first. [This knowledge base article](/docs/change-the-lansweeper-database-password) explains in more detail how to update the Lansweeper database password.
+  If you change the database password, you'll need to change it in SQL LocalDB or SQL Server first. [This knowledge base article](/classic/docs/change-the-lansweeper-database-password) explains in more detail how to update the Lansweeper database password.
 - You can change additional settings of the scanning service and web console in the **appSettings** section. In general, you don't need to touch these settings. You may want to change certain settings like debug mode however if you are trying to identify database or other issues or if asked to by the Lansweeper support team for troubleshooting purposes. You can even import debug settings provided by the Lansweeper support team under the **Advanced > Import appSettings** menu of the ConfigEditor tool.
 
   

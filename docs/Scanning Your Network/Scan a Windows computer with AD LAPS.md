@@ -3,7 +3,7 @@ Lansweeper currently supports only the legacy Microsoft LAPS. Support for Window
 
 Lansweeper On-premises supports legacy Microsoft Local Administrator Password Solution (LAPS), a Microsoft solution for Active Directory, allowing centralized password management. You can provide one credential to retrieve many other credentials managed by AD LAPS. AD LAPS allows you to fetch the built-in password of each Windows computer, using just one central credential.
 
-You can also [scan a Windows computer](/docs/how-to-scan-a-windows-computer) without AD LAPS if it isn't configured.
+You can also [scan a Windows computer](/classic/docs/how-to-scan-a-windows-computer) without AD LAPS if it isn't configured.
 
 ## Prerequisites
 

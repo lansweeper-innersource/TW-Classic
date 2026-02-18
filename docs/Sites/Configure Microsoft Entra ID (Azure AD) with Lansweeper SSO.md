@@ -3,7 +3,7 @@ There are two main ways to log into Lansweeper Sites: using a login/password cre
 
 This article explains how to do the necessary SSO setup in Microsoft Entra ID (Azure AD) to then complete an SSO configuration in Lansweeper Sites. Note that for these Microsoft Entra ID (Azure AD) instructions we're using SAML as an SSO connection type.
 
-This article explains where in Microsoft Entra ID (Azure AD) to gather the SSO connection details that you need to submit in the **Add SSO Connection** pop-up in Sites. Make sure to read [the general Lansweeper SSO instructions](/docs/set-up-lansweeper-sso) first before reading this article, as it only explains where in Microsoft Entra ID (Azure AD) to find and input the details of the SSO connection. For more information about how to improve security with Lansweeper, check out [5 Features of Lansweeper Cloud that Strengthen Security](https://www.lansweeper.com/updates/5-features-of-lansweeper-cloud-that-strengthen-security/).
+This article explains where in Microsoft Entra ID (Azure AD) to gather the SSO connection details that you need to submit in the **Add SSO Connection** pop-up in Sites. Make sure to read [the general Lansweeper SSO instructions](/classic/docs/set-up-lansweeper-sso) first before reading this article, as it only explains where in Microsoft Entra ID (Azure AD) to find and input the details of the SSO connection. For more information about how to improve security with Lansweeper, check out [5 Features of Lansweeper Cloud that Strengthen Security](https://www.lansweeper.com/updates/5-features-of-lansweeper-cloud-that-strengthen-security/).
 
 ## Create an application in Microsoft Entra ID (Azure AD)
 

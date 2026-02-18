@@ -33,4 +33,4 @@ GRANT VIEW SERVER STATE TO [lansweeperuser];
 GO
 ```
 
-"lansweeperuser" is the default and only officially supported SQL user account to connect Lansweeper components to the Lansweeper database. While custom user accounts may technically work as well, they are not supported. "lansweeperuser" has a randomized password by default, [which you can customize if you want](/docs/change-the-lansweeper-database-password).
+"lansweeperuser" is the default and only officially supported SQL user account to connect Lansweeper components to the Lansweeper database. While custom user accounts may technically work as well, they are not supported. "lansweeperuser" has a randomized password by default, [which you can customize if you want](/classic/docs/change-the-lansweeper-database-password).

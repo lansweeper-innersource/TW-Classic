@@ -8,7 +8,7 @@ While Auth0 will remain supported until the end of September 2025, we strongly r
 
 ## Prerequisites
 
-- Your [Cloud Actions](/docs/configure-cloud-discovery) were previously configured using Auth0 credentials.
+- Your [Cloud Actions](/classic/docs/configure-cloud-discovery) were previously configured using Auth0 credentials.
 - You have access to the Azure Portal, AWS Console, and/or GCP Console.
 
 ## Microsoft Azure

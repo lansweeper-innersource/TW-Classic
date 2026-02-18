@@ -7,7 +7,7 @@ To submit a target like this for scanning, click the **Add Scanning Target** but
 
 
 
-As agentless scanning of Linux, Unix, Mac and Windows computers, VMware servers and SNMP enabled network devices requires credentials, make sure to submit and map your scanning credentials as well, by following the instructions in [this knowledge base article](/docs/create-and-map-scanning-credentials).
+As agentless scanning of Linux, Unix, Mac and Windows computers, VMware servers and SNMP enabled network devices requires credentials, make sure to submit and map your scanning credentials as well, by following the instructions in [this knowledge base article](/classic/docs/create-and-map-scanning-credentials).
 
 Asset Group, Asset Type and Report scanning targets can only rescan assets that are already in your Lansweeper database.
 
@@ -17,7 +17,7 @@ Below is an overview of available options and settings for Asset Group, Asset Ty
 
 
 
-- **Asset Group**, **Asset Type** or **Report**: depending on which scanning type you chose, the category of the scanning type to rescan should be selected. Asset Group can be any built-in or custom [static or dynamic group](/docs/grouping-assets), Asset Type any asset type configured under **Configuration > Asset Mapping** and Report any asset report found in the **Reports** tab of the web console.  
+- **Asset Group**, **Asset Type** or **Report**: depending on which scanning type you chose, the category of the scanning type to rescan should be selected. Asset Group can be any built-in or custom [static or dynamic group](/classic/docs/grouping-assets), Asset Type any asset type configured under **Configuration > Asset Mapping** and Report any asset report found in the **Reports** tab of the web console.  
 
   To submit a custom report for rescanning, make sure your report includes the AssetID field of the tblAssets database table. If it doesn't, it will not be considered an asset report and you will not be able to see or select it in the Report dropdown.
 - **Description**: a custom description of the scanning target can be entered.

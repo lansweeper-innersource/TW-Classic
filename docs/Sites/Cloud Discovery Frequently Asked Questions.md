@@ -1,6 +1,6 @@
 <!-- # Cloud Discovery: Frequently Asked Questions -->
 
-[Lansweeper’s Cloud Discovery](/docs/introduction-to-cloud-discovery) identifies and catalogs all assets within your cloud infrastructure, includingvirtual machines, storage buckets, databases, and more.
+[Lansweeper’s Cloud Discovery](/classic/docs/introduction-to-cloud-discovery) identifies and catalogs all assets within your cloud infrastructure, includingvirtual machines, storage buckets, databases, and more.
 
 ## Frequently asked questions (FAQ)
 
@@ -8,7 +8,7 @@
 
 ### I configured my AWS, Azure or GCP discovery action and assets are not ending up in my Lansweeper Site: Inventory > Cloud assets.
 
-- Ensure you set up the right access from Lansweeper Site to your public cloud environment. See [Microsoft Azure](/docs/set-up-cloud-discovery-access#azure), [Amazon Web Services (AWS)](/docs/set-up-cloud-discovery-access#aws), and [Google Cloud Platform (GCP)](/docs/set-up-cloud-discovery-access#gcp).
+- Ensure you set up the right access from Lansweeper Site to your public cloud environment. See [Microsoft Azure](/classic/docs/set-up-cloud-discovery-access#azure), [Amazon Web Services (AWS)](/classic/docs/set-up-cloud-discovery-access#aws), and [Google Cloud Platform (GCP)](/classic/docs/set-up-cloud-discovery-access#gcp).
 - If you encounter the following error while creating the discovery action:  
   *"The application does not have the required permission to access the key vault. Ensure the application has ‘GET secret’ and ‘LIST secret’ permissions."*It indicates that the app registration does not have access to the secrets of the key vault. While it can access the key vault itself, it cannot read the secrets.   
   To resolve this issue, you need to add an Access Policy to the key vault and grant the application the required permissions.

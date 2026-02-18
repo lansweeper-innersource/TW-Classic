@@ -1,7 +1,7 @@
 <!-- # Locked out of the web console -->
 If you perform a new [Lansweeper](https://www.lansweeper.com/) installation, you are presented with a First Run Wizard upon accessing the web console for the first time. Any subsequent times you access the console, you are presented with a login screen.
 
-By default, you can log in with full access to all areas of the web console by browsing to the web console URL and using the Built-in Admin user that you configured in the First Run Wizard. Website access can also be restricted however, by following [these instructions](/docs/restrict-access-to-the-web-console).
+By default, you can log in with full access to all areas of the web console by browsing to the web console URL and using the Built-in Admin user that you configured in the First Run Wizard. Website access can also be restricted however, by following [these instructions](/classic/docs/restrict-access-to-the-web-console).
 
 Should you accidentally lock yourself out of certain parts of the web console (e.g. the **Configuration** tab) or the web console entirely:
 

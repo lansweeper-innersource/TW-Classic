@@ -6,19 +6,19 @@ Operational technology (OT) is a category of hardware and software that monitors
 
 You can scan your OT assets using one of two flows. The default flow uses Lansweeper OT's smart scanning to detect both the IP range and the asset's protocol configuration. The advanced flow allows you to customize this process, to cover your specific needs.
 
-The advanced flow is only available when [linked to a Lansweeper On-premises installation](/docs/link-network-discovery-hub-with-lansweeper-on-premises).
+The advanced flow is only available when [linked to a Lansweeper On-premises installation](/classic/docs/link-network-discovery-hub-with-lansweeper-on-premises).
 
 ## Supported protocols
 
-Before you begin, review the list of [supported protocols](/docs/ot-supported-protocols "OT supported protocols") to ensure Lansweeper can scan your device.
+Before you begin, review the list of [supported protocols](/classic/docs/ot-supported-protocols "OT supported protocols") to ensure Lansweeper can scan your device.
 
 ## Scan your OT from Lansweeper Sites
 
 Once you've set up your installation, you can start scanning your network.
 
-You can create new Network Discovery actions in your Lansweeper Site. For detailed instructions on adding discovery actions, check out [Configure Network Discovery](/docs/configure-network-discovery).
+You can create new Network Discovery actions in your Lansweeper Site. For detailed instructions on adding discovery actions, check out [Configure Network Discovery](/classic/docs/configure-network-discovery).
 
-Existing scanning targets can be [edited from your Lansweeper Site](/docs/configure-network-discovery), or locally in your Network Discovery hub. To edit your scan targets locally:
+Existing scanning targets can be [edited from your Lansweeper Site](/classic/docs/configure-network-discovery), or locally in your Network Discovery hub. To edit your scan targets locally:
 
 1. Use the **Lansweeper Network Discovery Hub** shortcut on your desktop to access the OT interface.
 2. Select **Built-in Admin Login** to log in.

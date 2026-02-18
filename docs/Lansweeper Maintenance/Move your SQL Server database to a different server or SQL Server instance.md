@@ -3,9 +3,9 @@ Lansweeper data, reports and settings are stored in a database. Your database is
 
 If your database is hosted in SQL Server, you can move it to a different machine or different SQL Server if at some point required.
 
-If it's hosted in SQL Compact or SQL LocalDB, only moving the database and not the other Lansweeper components is not possible. SQL Compact and SQL LocalDB databases can only be accessed by services running locally on the server, so all Lansweeper components must be present on the same machine and moved simultaneously when these database servers are used. If you are unsure which database server you are using, you can [verify using the ConfigEditor tool or in the Lansweeper web console](/docs/identify-which-database-server-lansweeper-is-using).
+If it's hosted in SQL Compact or SQL LocalDB, only moving the database and not the other Lansweeper components is not possible. SQL Compact and SQL LocalDB databases can only be accessed by services running locally on the server, so all Lansweeper components must be present on the same machine and moved simultaneously when these database servers are used. If you are unsure which database server you are using, you can [verify using the ConfigEditor tool or in the Lansweeper web console](/classic/docs/identify-which-database-server-lansweeper-is-using).
 
-This article only explains how to move the database, and only applies to databases hosted in SQL Server. If you are trying to move all Lansweeper components (scanning service, database and web console) to another machine, follow [these instructions](/docs/move-your-lansweeper-installation-to-a-different-server) instead. More information on components and how they interact can be found in [this knowledge base article](/docs/lansweeper-classic-components-and-architecture).
+This article only explains how to move the database, and only applies to databases hosted in SQL Server. If you are trying to move all Lansweeper components (scanning service, database and web console) to another machine, follow [these instructions](/classic/docs/move-your-lansweeper-installation-to-a-different-server) instead. More information on components and how they interact can be found in [this knowledge base article](/classic/docs/lansweeper-classic-components-and-architecture).
 
 ## Move a SQL Server database to different server or SQL Server instance
 

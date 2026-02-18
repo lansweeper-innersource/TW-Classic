@@ -73,4 +73,4 @@ In this step-by-step guide, we will build a basic report showing all assets with
 
 Depending on the size of your report queue, you may need to wait a while for the results of your new report.
 
-If you'd prefer, you can also build reports using the code editor. For more information, check out [Working with the code editor](https://developer.lansweeper.com/docs/report-builder/reports-editor).
+If you'd prefer, you can also build reports using the code editor. For more information, check out [Working with the code editor](https://developer.lansweeper.com/classic/docs/report-builder/reports-editor).

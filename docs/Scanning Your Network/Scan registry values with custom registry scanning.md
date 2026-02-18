@@ -20,7 +20,7 @@ As a lot of data and settings are stored in a computer's registry, there are an 
 5. If you plan on scanning your Windows computers with our LsPush scanning agent and without a direct connection to your Lansweeper server, select **Export Registry.tsv for LsPush** to export your registry scanning configuration. You can then place the Registry.tsv file in the same folder as your LsPush executable to have LsPush retrieve the registry data as well.  
 
    Exporting registry scanning settings is only necessary if you are scanning with our LsPush agent and if your LsPush command does not reference your Lansweeper server, i.e. if LsPush is not connecting directly to your Lansweeper server.   
-   If LsPush is connecting to your server, it will automatically retrieve your settings and an export is not required. More info on how to scan Windows computers with LsPush can be found in [this knowledge base article](/docs/introduction-to-the-lspush-scanning-agent-for-windows).
+   If LsPush is connecting to your server, it will automatically retrieve your settings and an export is not required. More info on how to scan Windows computers with LsPush can be found in [this knowledge base article](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows).
 6. Rescan your Windows computers with LsPush, or by going to the **Assets** section of the web console, ticking the checkboxes in front of the computers and selecting **Rescan**.
    - You can search in one or multiple columns to easily find specific assets. In the example above, we filtered the Domain column to only list assets within the Lansweeper domain.
    - You could also tick the top checkbox to select all assets in the current search results.

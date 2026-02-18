@@ -7,7 +7,7 @@ Lansweeper supports scanning of macOS. Scanned macOS data includes disks, networ
 
 ## Scan an Apple Mac computer
 
-1. Make sure you meet [the Mac scanning requirements](/docs/apple-mac-scanning-requirements).
+1. Make sure you meet [the Mac scanning requirements](/classic/docs/apple-mac-scanning-requirements).
 2. Submit your computer's IP range for scanning by selecting **Add Scanning Target** in the **Scanning > Scanning Targets** section of the console. If you have multiple scanning servers, there will be a separate configuration tab for each server. When submitting your range, you will be asked to specify a scanning schedule.
 
    

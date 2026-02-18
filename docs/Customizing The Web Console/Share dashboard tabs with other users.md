@@ -5,7 +5,7 @@ Users with asset management rights each have their own dashboard with asset data
 
 To share a dashboard tab with all users who have asset management rights:
 
-1. Make sure your user role includes the **Share Dashboard Tabs** permission. If it doesn't, you won't be able to share dashboard tabs. More information on configuring website access and specifying who has what permissions can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+1. Make sure your user role includes the **Share Dashboard Tabs** permission. If it doesn't, you won't be able to share dashboard tabs. More information on configuring website access and specifying who has what permissions can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 2. Select the tab you want to share and select the pencil shaped edit button in the tab header.
 3. Tick the checkbox **Shared Tab (Visible for all users)** and select **Ok**. The tab is now visible to all users with asset management rights.  
    

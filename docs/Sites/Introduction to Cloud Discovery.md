@@ -14,22 +14,22 @@ Lansweeper retrieves all available fields exposed by the manufacturer's API. For
 
 - Microsoft Azure: [Virtual Machines - Get - REST API (Azure Compute)](https://learn.microsoft.com/en-us/rest/api/compute/virtual-machines/get?view=rest-compute-2024-07-01&tabs=HTTP), and similar references for other Azure resources.
 - Amazon Web Services (AWS): [Data Types - Amazon Elastic Compute Cloud](https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_Types.html) and [Data Types - RDS Data API](https://docs.aws.amazon.com/rdsdataservice/latest/APIReference/API_Types.html), along with similar references for other AWS resources.
-- [Google Cloud Platform (GCP)](https://cloud.google.com/storage/docs/json_api/v1)
+- [Google Cloud Platform (GCP)](https://cloud.google.com/storage/classic/docs/json_api/v1)
 - [Microsoft Intune](https://learn.microsoft.com/en-us/graph/api/intune-devices-manageddevice-get?view=graph-rest-1.0)
 - [Microsoft 365](https://learn.microsoft.com/en-us/graph/overview-major-services?view=graph-rest-1.0)
 
 Before scanning your cloud provider, you’ll first need to configure your infrastructure to allow Cloud Discovery to access your environment. Depending on your cloud provider, these steps may differ, but setting up authentication to your cloud environment is crucial.
 
-For more information on preparing your cloud environment, see [Set up Cloud Discovery access](/docs/set-up-cloud-discovery-access).
+For more information on preparing your cloud environment, see [Set up Cloud Discovery access](/classic/docs/set-up-cloud-discovery-access).
 
-For an overview of all discoverable resources, see [Discover workloads](/docs/discover-workloads "Discover workloads").
+For an overview of all discoverable resources, see [Discover workloads](/classic/docs/discover-workloads "Discover workloads").
 
 ## Manage your cloud assets
 
 After scanning your cloud environment, you can view your cloud assets by navigating to **Inventory > Cloud assets** in your Lansweeper Site. The default view focuses on the most useful properties of your cloud assets: the cloud provider, any cloud tags or labels, tenant and environment information, and the region.   
 You can quickly find your cloud assets by searching for any value related to the asset, including tags and labels.
 
-You can also try out various configuration options to organize your assets in a way that best suits your environment. For more information on how you can manage your inventory, take a look at [View assets](/docs/view-assets).
+You can also try out various configuration options to organize your assets in a way that best suits your environment. For more information on how you can manage your inventory, take a look at [View assets](/classic/docs/view-assets).
 
 Since multiple cloud providers are supported, the **Tenant/Org.** column groups the Azure Tenant, AWS Organization, and GCP Organization, while the **Environment Name** column groups the Azure Subscription, AWS Account and GCP Project.
 

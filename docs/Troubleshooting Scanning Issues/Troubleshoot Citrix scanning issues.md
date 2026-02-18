@@ -2,8 +2,8 @@
 
 If you encounter issues while scanning your Citrix XenServer machines:
 
-1. Make sure that there are no general scanning issues by ensuring [an asset was created in the web console for your computer or device](/docs/no-asset-created-for-scanned-computer-or-device "No asset created for scanned computer or device"). Once you've confirmed an asset was created, [rescan your Citrix XenServer hosts](/docs/how-to-scan-a-citrix-xenserver "How to scan a Citrix XenServer").
-2. Use [Devicetester](/docs/troubleshoot-device-scanning-issues-with-devicetester "Troubleshoot device scanning issues with Devicetester") to make sure that the Citrix XenServer host meets the [Citrix scanning requirements](/docs/citrix-scanning-requirements).
+1. Make sure that there are no general scanning issues by ensuring [an asset was created in the web console for your computer or device](/classic/docs/no-asset-created-for-scanned-computer-or-device "No asset created for scanned computer or device"). Once you've confirmed an asset was created, [rescan your Citrix XenServer hosts](/classic/docs/how-to-scan-a-citrix-xenserver "How to scan a Citrix XenServer").
+2. Use [Devicetester](/classic/docs/troubleshoot-device-scanning-issues-with-devicetester "Troubleshoot device scanning issues with Devicetester") to make sure that the Citrix XenServer host meets the [Citrix scanning requirements](/classic/docs/citrix-scanning-requirements).
 3. Scan for Open Ports. Ensure that the TCP port **443 (HTTPS)** is open on the XenServer host.
 
    

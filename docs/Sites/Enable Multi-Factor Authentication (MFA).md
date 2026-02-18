@@ -1,5 +1,5 @@
 <!-- # Enable Multi-Factor Authentication (MFA) -->
-To increase the overall security of your [Lansweeper Site](/docs/introduction-to-lansweeper-sites), it is possible to enable Multi-Factor Authentication (MFA). This additional security layer on top of your regular login will further protect your asset and user data stored in Lansweeper Sites.
+To increase the overall security of your [Lansweeper Site](/classic/docs/introduction-to-lansweeper-sites), it is possible to enable Multi-Factor Authentication (MFA). This additional security layer on top of your regular login will further protect your asset and user data stored in Lansweeper Sites.
 
 There are two ways to implement MFA; you can enable SSO in Lansweeper Sites, and use the MFA options made available by your identity provider, or you can use Lansweeper Sites' MFA configuration.
 
@@ -9,7 +9,7 @@ If you've enabled both MFA through Lansweeper Sites, and SSO for your domain alo
 
 By enabling SSO, you can log into Lansweeper Sites using your preferred identity provider, for example Azure Active Directory. You can then enable and enforce MFA through your identity provider, ensuring a seamless login process.
 
-For a detailed guide on configuring your SSO for Lansweeper Sites, check out [Set up Lansweeper SSO](/docs/set-up-lansweeper-sso).
+For a detailed guide on configuring your SSO for Lansweeper Sites, check out [Set up Lansweeper SSO](/classic/docs/set-up-lansweeper-sso).
 
 ## Enable MFA through Lansweeper Sites
 

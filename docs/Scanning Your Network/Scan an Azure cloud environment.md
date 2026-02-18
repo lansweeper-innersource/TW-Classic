@@ -3,7 +3,7 @@ Lansweeper is capable of scanning resource groups and virtual machines hosted on
 
 ## Scan a resource or virtual machine from Microsoft Azure
 
-1. Make sure you meet [the Azure scanning requirements](/docs/azure-scanning-requirements).
+1. Make sure you meet [the Azure scanning requirements](/classic/docs/azure-scanning-requirements).
 2. Submit your Azure subscription for scanning by clicking  **Add Scanning Target** in the  **Scanning > Scanning Targets**  section of the web console. If you have multiple scanning servers, there will be a separate configuration tab for each server. When submitting your subscription, you will be asked to specify a scanning schedule. You can filter the scanning target so that only specific resource groups are scanned, by submitting the groups with the  **Add Resource Group Filter**  button.
 
    

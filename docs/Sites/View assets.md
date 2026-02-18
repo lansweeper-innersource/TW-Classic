@@ -34,7 +34,7 @@ To create a custom view:
 
 Your view is added to **Inventory > Custom views**.
 
-You can add [normalized data](/docs/software-data-normalization "Normalize your data") or scanned data to your custom views. The normalized fields contain a NORMALIZED tag. Although you can create custom views with scanned data, we recommend using the normalized version for proper organization and aggregation.
+You can add [normalized data](/classic/docs/software-data-normalization "Normalize your data") or scanned data to your custom views. The normalized fields contain a NORMALIZED tag. Although you can create custom views with scanned data, we recommend using the normalized version for proper organization and aggregation.
 
 ## Sort by multiple columns
 
@@ -56,7 +56,7 @@ Discover specific data within your inventory by creating advanced filters. Advan
 To create an advanced filter view:
 
 1. In **Inventory**, select **Advanced filter view**.
-2. Enter a field name or select the arrow to view a list of the pre-configured and [custom fields](/docs/edit-assets#customfield "Create a custom field") available.
+2. Enter a field name or select the arrow to view a list of the pre-configured and [custom fields](/classic/docs/edit-assets#customfield "Create a custom field") available.
 3. Select an operation.
 4. Enter a value. Either:
    - Choose from the list of predefined values.
@@ -100,7 +100,7 @@ To maintain the health of your asset inventory, it's important to address issues
 
 ## Scan issues
 
-You can view a list of your assets with scanning issues through the Inventory module's advanced filter. For more information about seeing assets with scan issues, see [View scan issues](/docs/view-scan-issues "View scan issues").
+You can view a list of your assets with scanning issues through the Inventory module's advanced filter. For more information about seeing assets with scan issues, see [View scan issues](/classic/docs/view-scan-issues "View scan issues").
 
 To view your assets with scan issues in the Inventory:
 
@@ -117,7 +117,7 @@ Your view is added to **Inventory > Custom view**.
 
 ## Duplicate assets
 
-Duplicate assets can be generated in your inventory for a variety of reasons. For more information, see [Resolve asset duplicate conflicts](/docs/asset-deduplication-in-cloud "Resolve asset duplicate conflicts").
+Duplicate assets can be generated in your inventory for a variety of reasons. For more information, see [Resolve asset duplicate conflicts](/classic/docs/asset-deduplication-in-cloud "Resolve asset duplicate conflicts").
 
 To view duplicate assets, go to **Inventory > Duplicate conflicts**.
 

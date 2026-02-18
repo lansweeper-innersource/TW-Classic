@@ -1,5 +1,5 @@
 <!-- # List of 3-letter monitor manufacturer codes -->
-When a Windows computer is scanned, Lansweeper automatically creates monitor assets for the monitors attached to the computer. Monitor assets are uniquely identified based on a combination of serial number and a 3-letter manufacturer code. Below you can find a list of codes and the monitor manufacturers they belong to. More info on how Lansweeper uniquely identifies assets can be found in [this knowledge base article](/docs/how-lansweeper-uniquely-identifies-assets).
+When a Windows computer is scanned, Lansweeper automatically creates monitor assets for the monitors attached to the computer. Monitor assets are uniquely identified based on a combination of serial number and a 3-letter manufacturer code. Below you can find a list of codes and the monitor manufacturers they belong to. More info on how Lansweeper uniquely identifies assets can be found in [this knowledge base article](/classic/docs/how-lansweeper-uniquely-identifies-assets).
 
 | Monitor Manufacturer Code | Monitor Manufacturer |
 | --- | --- |

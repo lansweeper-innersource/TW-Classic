@@ -1,5 +1,5 @@
 <!-- # How to scan users -->
-An inventory of your Active Directory users is available on Lansweeper Sites. If you want to [view your user inventory](/docs/view-your-user-inventory), consider [linking with Lansweeper Sites](/docs/link-lansweeper-on-prem-with-lansweeper-sites), if you haven't already.
+An inventory of your Active Directory users is available on Lansweeper Sites. If you want to [view your user inventory](/classic/docs/view-your-user-inventory), consider [linking with Lansweeper Sites](/classic/docs/link-lansweeper-on-prem-with-lansweeper-sites), if you haven't already.
 
 When Lansweeper scans a Windows computer, it automatically retrieves the user accounts configured on the computer, as well as the configured user groups and their members. This information can be found in the **Config > User Info** section of individual computer webpages, under **Users, Groups** and **Users In Groups**. These tabs are not populated for domain controllers. Local users and groups configured on domain controllers are no longer scanned, as such scans could cause performance issues.
 

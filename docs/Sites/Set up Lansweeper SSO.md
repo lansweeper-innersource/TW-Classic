@@ -5,7 +5,7 @@ Where possible, using single sign-on (SSO) is recommended, as it has a number of
 
 Lansweeper Sites supports both OpenID Connect (OIDC) and SAML for setting up SSO. Any identity provider (IdP) that supports at least one of these options is a suitable candidate for use with Sites. Azure Active Directory, Google and Okta are just a few examples of identity providers that you can use to log into your site. SSO can be set up quickly and easily, as explained in the below steps.
 
-For more information on configuring SSO, check out [Manage Lansweeper SSO](/docs/manage-lansweeper-cloud-sso).
+For more information on configuring SSO, check out [Manage Lansweeper SSO](/classic/docs/manage-lansweeper-cloud-sso).
 
 ## Add an SSO connection
 
@@ -28,8 +28,8 @@ For more information on configuring SSO, check out [Manage Lansweeper SSO](/doc
 
 1. You'll need to take some of the info provided in the pop-up and input it in your IdP configuration. The location to input the necessary info for the SSO connection will differ depending on the IdP you are using.  
    Only Azure AD and Okta are currently supported by the Lansweeper Support team, but there are many more identity providers you can use.
-   - [How to use Azure AD with SSO](/docs/configure-microsoft-entra-id-azure-ad-with-lansweeper-sso)
-   - [How to use Okta with SSO](/docs/configure-okta-with-lansweeper-sso)
+   - [How to use Azure AD with SSO](/classic/docs/configure-microsoft-entra-id-azure-ad-with-lansweeper-sso)
+   - [How to use Okta with SSO](/classic/docs/configure-okta-with-lansweeper-sso)
 
    Consult the website and documentation of your specific identity provider (IdP) for up-to-date instructions on how to configure SAML or OIDC in that IdP. For SAML, make sure the certificate you're providing in the SSO pop-up is a Base64-encoded CER or PEM.
 2. In the attribute setup of your SSO connection on the IdP side, make sure your IdP is configured to send both the user's email and an `email_verified` attribute to the Site.  
@@ -80,4 +80,4 @@ Make sure SSO is working for all domains that have access to your site, prior to
 
 ## Add SSO connection managers
 
-Optionally, you can [add managers to your SSO connection](/docs/add-managers-to-an-sso-connection) for redundancy and security purposes. This means you are not dependent on a single person to manage the SSO connection.
+Optionally, you can [add managers to your SSO connection](/classic/docs/add-managers-to-an-sso-connection) for redundancy and security purposes. This means you are not dependent on a single person to manage the SSO connection.

@@ -3,18 +3,18 @@
 
 Optionally, you can scan your computers with a scanning agent instead. LsAgent is a cross-platform, lightweight program that you can install on Windows, Linux and Mac computers and that automatically collects an inventory from the computer it's installed on. LsAgent sends scanned data back to your Lansweeper installation, either directly or through our relay server in the cloud. Data is securely sent to the relay server over HTTPS, stored in an encrypted format and deleted once a scanning server has retrieved it.
 
-If you are using a Lansweeper Site, the IT Agent Discovery scanning agent might be the optimal choice over LsAgent. To determine if IT Agent Discovery aligns with your needs, explore the [Install IT Agent Discovery](/docs/install-it-agent-discovery) guide.
+If you are using a Lansweeper Site, the IT Agent Discovery scanning agent might be the optimal choice over LsAgent. To determine if IT Agent Discovery aligns with your needs, explore the [Install IT Agent Discovery](/classic/docs/install-it-agent-discovery) guide.
 
 Thanks to the relay server connectivity, LsAgent can even scan computers outside of your network and over the internet.
 
 ## Install LsAgent on macOS
 
-1. Make sure your OS is supported [as described in this article](/docs/lsagent-installation-requirements#heading3 "LsAgent installation requirements").
+1. Make sure your OS is supported [as described in this article](/classic/docs/lsagent-installation-requirements#heading3 "LsAgent installation requirements").
 2. If you are scanning the Mac computer over the internet, ensure outbound traffic is allowed on your Lansweeper scanning server.   
    Specifically, the scanning server must be able to make an outbound connection to port 443 of lsagentrelay.lansweeper.com, our cloud relay server, to retrieve data scanned by LsAgent. The relay server is hosted in Azure (Microsoft cloud environment) by us. If LsAgent cannot send data directly to a Lansweeper scanning server, it will send the data to the relay instead, where the scanning server can collect it.
 3. If you will be scanning the Mac computer over the internet, enable access to the Lansweeper relay server under **Scanning > Relay Configuration** in the Lansweeper web console. The relay access check may take a minute to complete. If you have multiple scanning servers, you can configure which one collects relay data.
 
-   The LsAgent relay configuration can only be switched on from the Lansweeper Classic web console. If you don't have access to the web console yet, see [enabling the Lansweeper Classic web console](/docs/enable-the-lansweeper-on-premises-web-console).
+   The LsAgent relay configuration can only be switched on from the Lansweeper Classic web console. If you don't have access to the web console yet, see [enabling the Lansweeper Classic web console](/classic/docs/enable-the-lansweeper-on-premises-web-console).
 
    
 4. Copy the Cloud Relay Authentication Key seen on the page, as you will need to submit this in the LsAgent installer later.  

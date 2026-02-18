@@ -1,5 +1,5 @@
 <!-- # Emails not imported as tickets into the help desk -->
-From version 6.0 onward, the Lansweeper software includes a help desk and ticketing system. Tickets can be created in several ways: in the web console, by importing emails, by importing .csv files and through the ticket API. More information on how help desk tickets are created can be found in [this knowledge base article](/docs/receive-tickets-through-the-web-console-email-api-import).
+From version 6.0 onward, the Lansweeper software includes a help desk and ticketing system. Tickets can be created in several ways: in the web console, by importing emails, by importing .csv files and through the ticket API. More information on how help desk tickets are created can be found in [this knowledge base article](/classic/docs/receive-tickets-through-the-web-console-email-api-import).
 
 Having users send in emails is a common way to create help desk tickets. It is convenient for the users and allows you to have external companies or email addresses create tickets as well. Ticket creation via email requires you to submit an email account configuration in the following section of the web console: **Configuration > E-mail Settings**.
 
@@ -12,12 +12,12 @@ If you've configured a help desk email account, but your users' emails are not a
 1. Make sure you are waiting 5 minutes for an email that arrived on your help desk mail server to be imported by Lansweeper. Emails are not imported instantaneously.   
    For performance reasons, Lansweeper checks every so often whether there are new emails that require import and then imports them in bulk. A delay of a few minutes between the arrival on the mail server and the creation of the ticket is normal.
 2. Double-check whether tickets exist by performing a search for the subject of one of the emails. Click the **New Tab** button to the right of your existing ticket tabs and use the **Search** option in the left pane.
-3. If you have not already done so, update to the latest Lansweeper release by following the instructions in [this knowledge base article](/docs/update-lansweeper-on-premises). You can verify whether you are on the latest release by selecting **Check for Updates now** in the following section of the web console: **Configuration > Your Lansweeper License**.
+3. If you have not already done so, update to the latest Lansweeper release by following the instructions in [this knowledge base article](/classic/docs/update-lansweeper-on-premises). You can verify whether you are on the latest release by selecting **Check for Updates now** in the following section of the web console: **Configuration > Your Lansweeper License**.
 4. Start the **Lansweeper Server** service in **Windows Services** on your Lansweeper server, if not already started. The Lansweeper service processes both incoming and outgoing mail. If this service isn't running, no tickets can be imported via email. By default, the Lansweeper service is automatically running, but someone may have manually stopped it.
 
    
 5. For troubleshooting purposes, log into the web console with the built-in admin or with a user whose role includes the **View Reports Containing Helpdesk Tables** permission.   
-   If you've disabled the built-in admin, you can re-enable it by following the instructions in [this knowledge base article](https://www.lansweeper.com/kb/198/locked-out-of-the-web-console.html). Information on assigning roles and permissions to other users can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+   If you've disabled the built-in admin, you can re-enable it by following the instructions in [this knowledge base article](https://www.lansweeper.com/kb/198/locked-out-of-the-web-console.html). Information on assigning roles and permissions to other users can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 
    
 6. Verify whether you can see the missing tickets in either of the below built-in reports in the **Reports** tab of the web console.
@@ -27,7 +27,7 @@ If you've configured a help desk email account, but your users' emails are not a
 
    
 7. If you can see all missing tickets in one of the aforementioned reports, but receive an access error when clicking on any of them, stop at this step. You've now determined that what you're experiencing is a permissions issue. The tickets have actually been imported, but are not visible to you in ticket filters because you don't have rights to them.   
-   You will need to add yourself to the appropriate agent teams to ensure you can see the tickets in ticket filters. Information on configuring teams and permissions can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+   You will need to add yourself to the appropriate agent teams to ensure you can see the tickets in ticket filters. Information on configuring teams and permissions can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 8. If you cannot see the missing tickets in either of the aforementioned reports, you're experiencing a functional issue, where the tickets have not been imported at all. The first thing we recommend doing in this case, if you are using a Gmail address as your help desk email account, is to ensure that access by external apps has been allowed in your Gmail configuration.   
    Log into the Gmail account you are using as your help desk email address, browse to [this section of your Gmail settings](https://www.google.com/settings/security/lesssecureapps) and configure it as shown below.
 

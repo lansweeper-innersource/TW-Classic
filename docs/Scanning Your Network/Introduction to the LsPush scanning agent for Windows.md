@@ -38,16 +38,16 @@ Below are some methods to perform LsPush scans.
 
 - **Using a group policy**: this allows you to scan domain computers as soon as users log into them.  
 
-  [This knowledge base article](/docs/scan-windows-computers-with-lspush-in-a-group-policy) contains a complete guide on how to scan with LsPush in a group policy.
+  [This knowledge base article](/classic/docs/scan-windows-computers-with-lspush-in-a-group-policy) contains a complete guide on how to scan with LsPush in a group policy.
 - **Using a scheduled task**: this allows you to scan workgroup computers as soon as users log into them.  
 
-  [This knowledge base article](/docs/scan-windows-computers-with-the-lspush-scanning-agent-in-a-scheduled-task) contains a complete guide on how to scan with LsPush in a scheduled task.
+  [This knowledge base article](/classic/docs/scan-windows-computers-with-the-lspush-scanning-agent-in-a-scheduled-task) contains a complete guide on how to scan with LsPush in a scheduled task.
 - **From a USB drive**: this can be used to scan stock computers.  
 
-  [This knowledge base article](/docs/scan-windows-computers-from-a-usb-drive-with-lspush) contains a complete guide on how to scan from a USB drive with LsPush.
+  [This knowledge base article](/classic/docs/scan-windows-computers-from-a-usb-drive-with-lspush) contains a complete guide on how to scan from a USB drive with LsPush.
 - **By manually launching the executable**: this can be used to scan remote or stock computers.  
 
-  [This knowledge base article](/docs/scan-individual-windows-computers-with-the-lspush-scanning-agent) contains a complete guide on how to run manual LsPush scans on computers.
+  [This knowledge base article](/classic/docs/scan-individual-windows-computers-with-the-lspush-scanning-agent) contains a complete guide on how to run manual LsPush scans on computers.
 
 ## How data scanned by LsPush reaches your Lansweeper installation
 

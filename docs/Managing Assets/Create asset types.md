@@ -1,7 +1,7 @@
 <!-- # Create asset types -->
 When scanning a device, Lansweeper uses a complex internal procedure to determine the device's asset type. Examples of asset types are Linux, Apple Mac, Windows, Printer, Router, and Switch.
 
-Many asset types are built-in, but you can create your own as well by following the instructions below. Once you've added an asset type, you can assign it to assets, either [manually](/docs/change-an-assets-asset-type#heading1 "Changing an asset type") or [automatically](/docs/change-an-assets-asset-type#heading2 "Changing an asset type").
+Many asset types are built-in, but you can create your own as well by following the instructions below. Once you've added an asset type, you can assign it to assets, either [manually](/classic/docs/change-an-assets-asset-type#heading1 "Changing an asset type") or [automatically](/classic/docs/change-an-assets-asset-type#heading2 "Changing an asset type").
 
 1. Browse to the **Configuration >****Asset Mapping** section of the web console.
 2. Select **Add Asset Type** in the **Asset Types** section of the page.

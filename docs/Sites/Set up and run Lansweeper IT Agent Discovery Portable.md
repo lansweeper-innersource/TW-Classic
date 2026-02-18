@@ -2,13 +2,13 @@
 
 Lansweeper IT Agent Discovery Portable runs on Windows without requiring installation. It allows on-demand local scanning without credentials, making it a convenient solution for targeted network discovery.
 
-IT Agent Discovery can also be installed on Linux and Unix machines and run as a background service. For more information, see [Install IT Agent Discovery](/docs/install-it-agent-discovery).  
+IT Agent Discovery can also be installed on Linux and Unix machines and run as a background service. For more information, see [Install IT Agent Discovery](/classic/docs/install-it-agent-discovery).  
 
 ## Prerequisites
 
-Before proceeding, ensure you have a [Network Discovery installation](/docs/install-network-discovery#Windows) in your environment.
+Before proceeding, ensure you have a [Network Discovery installation](/classic/docs/install-network-discovery#Windows) in your environment.
 
-1. Ensure the [connection requirements](/docs/install-it-agent-discovery#connection) are met and your [Windows operating system](/docs/install-it-agent-discovery#OSWindows) is supported.
+1. Ensure the [connection requirements](/classic/docs/install-it-agent-discovery#connection) are met and your [Windows operating system](/classic/docs/install-it-agent-discovery#OSWindows) is supported.
 2. Open a browser and navigate to [https://app.lansweeper.com](https://app.lansweeper.com/).
 3. Navigate to the Lansweeper Site to which you want to link the IT Agent Discovery.
 4. In your Lansweeper Site, go to **Scanning > Discovery systems > Download installers/packages**.

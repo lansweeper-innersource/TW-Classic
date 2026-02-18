@@ -1,7 +1,7 @@
 <!-- # Uninstall LsAgent -->
-[Lansweeper](https://www.lansweeper.com/) includes several scanning methods to scan the assets in your network, both agent-based and agentless. One of our agent-based scanning methods is called LsAgent, which is a cross-platform scanning agent that can scan computers both inside and outside of your network. For an in-depth look at LsAgent, check out [Introduction to LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac).
+[Lansweeper](https://www.lansweeper.com/) includes several scanning methods to scan the assets in your network, both agent-based and agentless. One of our agent-based scanning methods is called LsAgent, which is a cross-platform scanning agent that can scan computers both inside and outside of your network. For an in-depth look at LsAgent, check out [Introduction to LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac).
 
-However, you might want to uninstall LsAgent for a number of reasons: you may want to shift to agentless scanning instead, meaning LsAgent is no longer necessary, or perhaps you want to enjoy the [benefits](/docs/install-it-agent-discovery#benefits) of IT Agent Discovery.
+However, you might want to uninstall LsAgent for a number of reasons: you may want to shift to agentless scanning instead, meaning LsAgent is no longer necessary, or perhaps you want to enjoy the [benefits](/classic/docs/install-it-agent-discovery#benefits) of IT Agent Discovery.
 
 You won’t lose any data when uninstalling LsAgent, as all data is sent to your scanning server and isn’t saved on the relay server.
 

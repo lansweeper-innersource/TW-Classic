@@ -1,6 +1,6 @@
 <!-- # Introduction to the help desk -->
 
-This article provides an introduction to the Lansweeper help desk. From version 6.0 onward, the Lansweeper software includes a fully functional help desk. At its core, the help desk is a resource for sharing knowledge with people inside or outside of your company. It boasts a robust ticketing system that allows people to ask each other questions and request support. It also includes a knowledge base to share articles on a variety of topics, a company news widget and a calendar to keep track of meetings, vacation days and more! In this article, we'll mainly focus on the ticketing part of the help desk. The purpose of this article is to familiarize you with some important concepts and terminology related to the help desk and to give you a sense of what is possible. Though it is by no means a full feature list, this overview is definitely the place to start if you've never used the Lansweeper help desk before. We recommend reading it in its entirety and then clicking through to some of the other knowledge base articles linked within. Before you get started, be aware that hosting the Lansweeper database in Microsoft SQL LocalDB or Microsoft SQL Server is required when using the help desk. Microsoft SQL Compact is no longer a supported database server for hosting Lansweeper. If you are still using SQL Compact as your Lansweeper database server, you should [convert your database to SQL LocalDB or SQL Server](/docs/convert-a-deprecated-sql-compact-database).
+This article provides an introduction to the Lansweeper help desk. From version 6.0 onward, the Lansweeper software includes a fully functional help desk. At its core, the help desk is a resource for sharing knowledge with people inside or outside of your company. It boasts a robust ticketing system that allows people to ask each other questions and request support. It also includes a knowledge base to share articles on a variety of topics, a company news widget and a calendar to keep track of meetings, vacation days and more! In this article, we'll mainly focus on the ticketing part of the help desk. The purpose of this article is to familiarize you with some important concepts and terminology related to the help desk and to give you a sense of what is possible. Though it is by no means a full feature list, this overview is definitely the place to start if you've never used the Lansweeper help desk before. We recommend reading it in its entirety and then clicking through to some of the other knowledge base articles linked within. Before you get started, be aware that hosting the Lansweeper database in Microsoft SQL LocalDB or Microsoft SQL Server is required when using the help desk. Microsoft SQL Compact is no longer a supported database server for hosting Lansweeper. If you are still using SQL Compact as your Lansweeper database server, you should [convert your database to SQL LocalDB or SQL Server](/classic/docs/convert-a-deprecated-sql-compact-database).
 
 ## Users, agents and teams
 
@@ -45,7 +45,7 @@ Tickets can come from various sources.
 
   
 
-   Learn how to configure ticket sources in [this knowledge base article](/docs/receive-tickets-through-the-web-console-email-api-import).
+   Learn how to configure ticket sources in [this knowledge base article](/classic/docs/receive-tickets-through-the-web-console-email-api-import).
 
 ## Ticket types, states and priorities
 
@@ -58,7 +58,7 @@ Each ticket has a type, a state and a priority. There are a number of built-in t
 
   
 
-   Learn how to configure types, states and priorities in [this knowledge base article](/docs/configure-ticket-types-states-and-priorities).
+   Learn how to configure types, states and priorities in [this knowledge base article](/classic/docs/configure-ticket-types-states-and-priorities).
 
 ## Ticket custom fields
 
@@ -70,7 +70,7 @@ Custom fields allow users and agents to add extra information to a ticket in an 
 
   
 
-   Learn how to create and configure custom fields in [this knowledge base article](/docs/create-and-add-custom-fields-to-ticket-types).
+   Learn how to create and configure custom fields in [this knowledge base article](/classic/docs/create-and-add-custom-fields-to-ticket-types).
 
 ## Ticket filters, tabs and notifications
 
@@ -83,7 +83,7 @@ As agents tend to respond to many tickets, and potentially many different kinds 
 
   
 
-   Learn how to create and configure ticket filters in [this knowledge base article](/docs/configure-and-use-ticket-filters).
+   Learn how to create and configure ticket filters in [this knowledge base article](/classic/docs/configure-and-use-ticket-filters).
 
 ## Ticket templates and outgoing email templates (auto reply)
 
@@ -115,4 +115,4 @@ SLA stands for **service-level agreement** and is a way for you to ensure that t
 
   
 
-   Learn how to configure SLAs in [this knowledge base article](/docs/configure-service-level-agreements).
+   Learn how to configure SLAs in [this knowledge base article](/classic/docs/configure-service-level-agreements).

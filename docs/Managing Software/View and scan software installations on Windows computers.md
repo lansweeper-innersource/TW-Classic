@@ -1,5 +1,5 @@
 <!-- # View and scan software installations on Windows computers -->
-Unless you manually [disable the software scan item](/docs/manage-scanned-item-intervals), Lansweeper scans the Windows computers in your network for installed software. Software info of Linux and Mac computers is also retrieved.
+Unless you manually [disable the software scan item](/classic/docs/manage-scanned-item-intervals), Lansweeper scans the Windows computers in your network for installed software. Software info of Linux and Mac computers is also retrieved.
 
 The **Reports** menu of the web console includes built-in reports that list the software installations found on computers in your network, e.g. the "Software: List of software by computer" report that lists Windows computer software.  
 
@@ -18,4 +18,4 @@ There are icons in the **Software** tab of your Lansweeper computer webpages tha
 
   Internet Explorer is always scanned by software scanning, even if it is delivered to a computer as an update and not listed in Add/Remove Programs.
 
-  Other software packages not listed in Add/Remove Programs are not scanned by the default software scanning procedure, but can be detected with [custom file](/docs/windows-custom-file-scanning) or [custom registry scanning](/docs/scan-registry-values-with-custom-registry-scanning) instead.
+  Other software packages not listed in Add/Remove Programs are not scanned by the default software scanning procedure, but can be detected with [custom file](/classic/docs/windows-custom-file-scanning) or [custom registry scanning](/classic/docs/scan-registry-values-with-custom-registry-scanning) instead.

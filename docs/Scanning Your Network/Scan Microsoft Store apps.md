@@ -9,12 +9,12 @@ This article explains how to set up Store app scanning and how to view the app d
 
 ## Configure client machines for scanning
 
-Like other software, Lansweeper retrieves Store apps through a combination of WMI (Windows Management Instrumentation) and the registry of the client machine. To scan the Store apps of a Windows computer, make sure the machine meets [the general Windows scanning requirements](/docs/windows-domain-scanning-requirements). If you can successfully scan the machine, the Store apps will be successfully retrieved as well.
+Like other software, Lansweeper retrieves Store apps through a combination of WMI (Windows Management Instrumentation) and the registry of the client machine. To scan the Store apps of a Windows computer, make sure the machine meets [the general Windows scanning requirements](/classic/docs/windows-domain-scanning-requirements). If you can successfully scan the machine, the Store apps will be successfully retrieved as well.
 
 ## Enable Store app scanning
 
 Store app scanning is disabled by default in new Lansweeper installations and installations updated from a version older than 9.3.   
-To enable Store app scanning, browse to the **Scanning > Scanned Item Interval** menu of the web console. Here, tick the **Enable** checkbox for the SOFTWAREMSSTOREAPPS item. The default [refresh interval](/docs/manage-scanned-item-intervals) of the item is 1 day.
+To enable Store app scanning, browse to the **Scanning > Scanned Item Interval** menu of the web console. Here, tick the **Enable** checkbox for the SOFTWAREMSSTOREAPPS item. The default [refresh interval](/classic/docs/manage-scanned-item-intervals) of the item is 1 day.
 
 
 
@@ -33,7 +33,7 @@ Scanned Store apps can be viewed in the **Software > Software** tab of individua
 
 
 
-You can search for apps using [the web console search bar](/docs/search-through-assets-with-the-web-console-search-bar), as is the case for other software. You can also use built-in or custom reports to view app data. Perform a search for "software" in the **Reports** menu of the web console to find built-in software reports. There is a built-in report listing only apps, called "Windows: Installed Microsoft Store apps by computer". There are also reports listing both apps and desktop software, which usually have a Type column so you can differentiate between the two software types.   
+You can search for apps using [the web console search bar](/classic/docs/search-through-assets-with-the-web-console-search-bar), as is the case for other software. You can also use built-in or custom reports to view app data. Perform a search for "software" in the **Reports** menu of the web console to find built-in software reports. There is a built-in report listing only apps, called "Windows: Installed Microsoft Store apps by computer". There are also reports listing both apps and desktop software, which usually have a Type column so you can differentiate between the two software types.   
 If you want to build a custom report, an easy way to do so is by editing a built-in report and choosing **Save As** from the report builder. This creates a copy of the report that you can customize further.
 
-Like other software found on Windows computers, Store apps can be [marked as authorized, unauthorized or unrated](/docs/mark-software-and-add-ons-as-authorized). This can be done in the **Software > Authorization** menu of the web console. Unlike the software authorization module, the software license compliance module does not include Store apps, due to their user-specific nature.
+Like other software found on Windows computers, Store apps can be [marked as authorized, unauthorized or unrated](/classic/docs/mark-software-and-add-ons-as-authorized). This can be done in the **Software > Authorization** menu of the web console. Unlike the software authorization module, the software license compliance module does not include Store apps, due to their user-specific nature.

@@ -1,7 +1,7 @@
 <!-- # Lansweeper installer not launching -->
 If you've downloaded the latest Lansweeper installer and the installer isn't launching when executed, the file may be blocked or incomplete. This article explains how to resolve this issue.
 
-As of version 10.4 the options /classic needs to be used to install Lansweeper Classic. Running the LansweeperSetup.exe without that option, will attempt to link immediately to [Lansweeper Cloud](/docs/introduction-to-lansweeper-sites "Lansweeper Cloud") during the install steps.
+As of version 10.4 the options /classic needs to be used to install Lansweeper Classic. Running the LansweeperSetup.exe without that option, will attempt to link immediately to [Lansweeper Cloud](/classic/docs/introduction-to-lansweeper-sites "Lansweeper Cloud") during the install steps.
 
 Try the following solutions one by one and verify whether the Lansweeper installer still isn't launching afterward:
 

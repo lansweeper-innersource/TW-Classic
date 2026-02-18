@@ -3,7 +3,7 @@ The Lansweeper software includes both an [IT asset management](https://www.lansw
 
 However, some things are stored outside of the database. Below is an overview of where scanned and user submitted data is stored. This information is relevant when backing up and restoring your Lansweeper installation.
 
-The procedure for backing up your Lansweeper installation can be found in [this knowledge base article](/docs/back-up-your-installation), while the procedure for restoring a backup can be found in [this article](/docs/restore-your-installation-from-a-backup).
+The procedure for backing up your Lansweeper installation can be found in [this knowledge base article](/classic/docs/back-up-your-installation), while the procedure for restoring a backup can be found in [this article](/classic/docs/restore-your-installation-from-a-backup).
 
 ## Stored in the Lansweeper database
 
@@ -12,7 +12,7 @@ The procedure for backing up your Lansweeper installation can be found in [this 
 - Deployment package steps and settings, though files referenced by packages are stored outside of the database
 - Ticket note text, knowledge base article text, calendar events and other helpdesk data. Helpdesk images and attached files are stored outside of the database, as explained further in this article.
 - Built-in and custom reports
-- Scanning, helpdesk and other settings. Scanning credentials are encrypted using an encryption file, making it impossible for anyone to decrypt them unless the Lansweeper server itself is already compromised. More information on credential security can be found in [this knowledge base article](/docs/credential-and-database-security-in-lansweeper).
+- Scanning, helpdesk and other settings. Scanning credentials are encrypted using an encryption file, making it impossible for anyone to decrypt them unless the Lansweeper server itself is already compromised. More information on credential security can be found in [this knowledge base article](/classic/docs/credential-and-database-security-in-lansweeper).
 
 ## Asset management data stored in Lansweeper website folders
 

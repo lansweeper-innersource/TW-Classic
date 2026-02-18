@@ -1,6 +1,6 @@
 <!-- # Scanserver down, unavailable, or scanning server not listed in web console -->
 
-This page is for Lansweeper Classic. For Lansweeper Sites (in the cloud), see [Scan server status unknown or sync server status down](/docs/scan-server-status-unknown-or-sync-server-status-down).
+This page is for Lansweeper Classic. For Lansweeper Sites (in the cloud), see [Scan server status unknown or sync server status down](/classic/docs/scan-server-status-unknown-or-sync-server-status-down).
 
 When you install [Lansweeper](https://www.lansweeper.com/ "Lansweeper"), a service called **Lansweeper Server** is added to Windows Services on the machine hosting your installation. This service is mostly responsible for scanning your network and sending data back to your Lansweeper database. It also pushes configured deployments to Windows computers and processes emails.
 
@@ -15,7 +15,7 @@ However, you may at some point notice that the service is marked as "scanserver 
 To resolve this issue and have your scanning server successfully connect to the database:
 
 1. If you are trying to connect a secondary scanning server, make sure the secondary server doesn't have the same name as one of your other scanning servers. Having multiple scanning servers with the same name is not supported.
-2. If your Lansweeper database is hosted in SQL LocalDB or SQL Server and you never configured your own custom database password before, do so now by following the instructions in [this knowledge base article](/docs/change-the-lansweeper-database-password).
+2. If your Lansweeper database is hosted in SQL LocalDB or SQL Server and you never configured your own custom database password before, do so now by following the instructions in [this knowledge base article](/classic/docs/change-the-lansweeper-database-password).
 3. Stop the **Lansweeper Server** service in **Windows Services** on the problem scanning server or the server that is marked as "scanserver unavailable".
 
    
@@ -33,4 +33,4 @@ To resolve this issue and have your scanning server successfully connect to the 
 
    
 7. If the "scanserver unavailable" issue persists, look for recent entries in the **Errorlog.txt** file below, found at `Program Files (x86)\Lansweeper\Service\Errorlog.txt` on the problem scanning server.   
-   There may be an error message providing more information on the database connection failure. The following knowledge base articles can help resolve database connection errors like ["login failed"](/docs/login-failed-for-user-lansweeperuser) and ["a network-related or instance-specific error occurred"](/docs/a-network-related-or-instance-specific-error-occurred).
+   There may be an error message providing more information on the database connection failure. The following knowledge base articles can help resolve database connection errors like ["login failed"](/classic/docs/login-failed-for-user-lansweeperuser) and ["a network-related or instance-specific error occurred"](/classic/docs/a-network-related-or-instance-specific-error-occurred).

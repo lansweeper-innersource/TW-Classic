@@ -11,7 +11,7 @@ Scanned switch data includes device description, manufacturer, model, port mappi
 
 ## Scan a network device
 
-1. Make sure you meet [the network device scanning requirements](/docs/network-device-scanning-requirements).
+1. Make sure you meet [the network device scanning requirements](/classic/docs/network-device-scanning-requirements).
 2. Submit your device's [IP range for scanning](https://www.lansweeper.com/feature/ip-scanner/) by selecting **Add Scanning Target** in the **Scanning > Scanning Targets** section of the web console.   
    If you have multiple scanning servers, there will be a separate configuration tab for each server. When submitting your range, you will be asked to specify a scanning schedule. If your device uses a custom SIP or SSH port, make sure to submit the correct port number as well.
 
@@ -29,7 +29,7 @@ Scanned switch data includes device description, manufacturer, model, port mappi
 
      
 
-   Keep in mind that SSH scanning is only supported for \*nix based systems like Linux, Unix and Mac computers. Ideally, other network devices are scanned through SNMP. We have scanning requirements for [Linux/Unix](/docs/linux-and-unix-agentless-scanning-requirements) and [Mac.](/docs/apple-mac-scanning-requirements)
+   Keep in mind that SSH scanning is only supported for \*nix based systems like Linux, Unix and Mac computers. Ideally, other network devices are scanned through SNMP. We have scanning requirements for [Linux/Unix](/classic/docs/linux-and-unix-agentless-scanning-requirements) and [Mac.](/classic/docs/apple-mac-scanning-requirements)
 4. If the credential you set up is not a global credential, map the credential to your device's IP range by selecting **+ Credential** for the range.
 
    

@@ -1,8 +1,8 @@
 <!-- # Install Lansweeper On-prem -->
 Depending on your situation, you might require a different installation experience.  
-If you're a new customer and do not have a Lansweeper On-prem installation, [install the Lansweeper Cloud-first trial](/docs/install-the-lansweeper-trial "Install the Lansweeper Cloud-first trial").  
-If you're an existing customer with a Lansweeper On-prem installation, [link your installation with a cloud site](/docs/link-lansweeper-on-prem-with-lansweeper-sites "Link your cloud site").  
-If you're an existing customer and want to create a new Lansweeper installation that's linked with cloud, [install Lansweeper Cloud](/docs/install-lansweeper-sites "Install Lansweeper Cloud").
+If you're a new customer and do not have a Lansweeper On-prem installation, [install the Lansweeper Cloud-first trial](/classic/docs/install-the-lansweeper-trial "Install the Lansweeper Cloud-first trial").  
+If you're an existing customer with a Lansweeper On-prem installation, [link your installation with a cloud site](/classic/docs/link-lansweeper-on-prem-with-lansweeper-sites "Link your cloud site").  
+If you're an existing customer and want to create a new Lansweeper installation that's linked with cloud, [install Lansweeper Cloud](/classic/docs/install-lansweeper-sites "Install Lansweeper Cloud").
 
 If you don't have Lansweeper On-prem yet, you can always [download Lansweeper On-prem](https://www.lansweeper.com/download/).
 
@@ -11,7 +11,7 @@ You don't need a Lansweeper license key to try out Lansweeper On-prem, but your 
 There are two main ways you can install the Lansweeper software, both of which are documented in this installation guide: you can choose an Easy or an Advanced install.  
 Regardless of your installation type, the First Run Wizard will pop up after Lansweeper has finished installing.
 
-To help you select the correct database server for your needs, we recommend reviewing the comparison list in [this knowledge base article](/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
+To help you select the correct database server for your needs, we recommend reviewing the comparison list in [this knowledge base article](/classic/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
 
 ## Perform an Easy Install
 
@@ -42,10 +42,10 @@ The advanced install process allows you to choose which component (Lansweeper sc
 
    If you're spreading out database, service and website over several machines, keep in mind that:  
    - The database must be installed first, then the service and then the web console.
-   - You need to reset the database password after installing all components, due to the installer adding a random password to the service and website configuration files. Instructions for resetting the database password can be found in [this knowledge base article](/docs/change-the-lansweeper-database-password). If you don't reset the password, you'll see database login failures.
+   - You need to reset the database password after installing all components, due to the installer adding a random password to the service and website configuration files. Instructions for resetting the database password can be found in [this knowledge base article](/classic/docs/change-the-lansweeper-database-password). If you don't reset the password, you'll see database login failures.
    - You need to copy the **Encryption.txt** file from the server hosting the web console to any servers hosting the Lansweeper service, replacing the default file generated on the servers. The **Encryption.txt** file is a key used to encrypt and decrypt credentials submitted in Lansweeper and must be the same on all servers hosting a Lansweeper component. If you're spreading out components over several machines, each server will have a unique file by default and you'll need to manually copy one of the files to all Lansweeper servers, so the encryption key is the same on all servers:    
      `Program Files (x86)\Lansweeper\Key\Encryption.txt`
-5. Select the database server you want to use. If you're spreading out Lansweeper components over several machines, you need a SQL Server. For a more detailed comparison between database servers, review [this knowledge base article](/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
+5. Select the database server you want to use. If you're spreading out Lansweeper components over several machines, you need a SQL Server. For a more detailed comparison between database servers, review [this knowledge base article](/classic/docs/compatible-sql-database-servers-for-hosting-the-lansweeper-database).
 
    
 6. If you selected a SQL Server as your database type, submit the name of the SQL Server instance you want to install the Lansweeper database under. This should be the same SQL Server instance name you use when logging into other SQL tools like SQL Server Management Studio.
@@ -84,7 +84,7 @@ The First Run Wizard is only meant for submitting an initial configuration of a 
 Select **Choose on-premise management**.  
 
 
-If you have a license key to unlock your Lansweeper installation, see [Apply your Lansweeper license](/docs/apply-your-lansweeper-license).
+If you have a license key to unlock your Lansweeper installation, see [Apply your Lansweeper license](/classic/docs/apply-your-lansweeper-license).
 
 ### Web console login configuration
 
@@ -92,7 +92,7 @@ Configure a basic access configuration for the web console. There are two option
 
 1. A built-in administrator account with full access to the console and whose username and password you can configure.
 2. Giving an existing Windows user full access to the web console.  
-   More users can be provided access and [your access configuration can be customized further](/docs/restrict-access-to-the-web-console) after completion of the First Run Wizard.
+   More users can be provided access and [your access configuration can be customized further](/classic/docs/restrict-access-to-the-web-console) after completion of the First Run Wizard.
 
 For any subsequent access to the web console after completion of the First Run, you will be asked to log in first. You can do so with the built-in admin user/password or the Windows user you previously chose.
 
@@ -107,4 +107,4 @@ Lansweeper will automatically scan the domain or workgroup your Lansweeper serve
 
 Lansweeper will start scanning your network. Select **Finish** to proceed to the web console, which will display scanned data. You can safely explore the console while scans are taking place in the background.
 
-It is recommended to [submit scanning credentials](/docs/create-and-map-scanning-credentials) after completion of the First Run Wizard. Lansweeper scans basic asset info without credentials, but having scanning credentials greatly increases the amount of detail that can be retrieved. If you want, you can also [submit additional network segments for scanning](https://www.lansweeper.com/kb-category/scanning-your-network/) after completion of the First Run.
+It is recommended to [submit scanning credentials](/classic/docs/create-and-map-scanning-credentials) after completion of the First Run Wizard. Lansweeper scans basic asset info without credentials, but having scanning credentials greatly increases the amount of detail that can be retrieved. If you want, you can also [submit additional network segments for scanning](https://www.lansweeper.com/kb-category/scanning-your-network/) after completion of the First Run.

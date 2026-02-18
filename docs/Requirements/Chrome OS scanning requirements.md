@@ -97,4 +97,4 @@ Make sure you have a user with the Services Admin role. In your Google Admin con
 
 If no admins are assigned, see [Assign roles](https://support.google.com/a/answer/9807615?sjid=17086806967343551423-NA#single-user&multiple-users&group&service-account) to learn how to assign a role to a user.
 
-You're now ready to start scanning your Chrome OS devices in Lansweeper, by following [this Chrome OS scanning guide](/docs/how-to-scan-chrome-os-machines). As part of your Lansweeper scanning target, you'll need to submit the user account you configured or created, the one with the Services Admin role. You'll also need to provide the JSON key you generated.
+You're now ready to start scanning your Chrome OS devices in Lansweeper, by following [this Chrome OS scanning guide](/classic/docs/how-to-scan-chrome-os-machines). As part of your Lansweeper scanning target, you'll need to submit the user account you configured or created, the one with the Services Admin role. You'll also need to provide the JSON key you generated.

@@ -14,11 +14,11 @@ Custom OID scanning lets you specify one or more OIDs to be scanned for a specif
 To scan specific OIDs of an SNMP enabled device, follow these steps:
 
 1. Gather the OIDs you'd like to scan. This can be done by finding OIDs online, through MIB browsers or through vendor documentation.
-2. Make sure your user role includes the **Access Data Selection** permission. If it doesn't, you won't be able to access the custom OID scanning configuration. More information on configuring website access and specifying who has what permissions can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+2. Make sure your user role includes the **Access Data Selection** permission. If it doesn't, you won't be able to access the custom OID scanning configuration. More information on configuring website access and specifying who has what permissions can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 3. Browse to the **Scanning > Custom OID Scanning**section of the web console.
 
    
-4. Click the **Add Target** button at the top of the page. Alternatively, from Lansweeper 7.1 onward, you can import OIDs from or export them to another Lansweeper installation. Import/export instructions can be found in [this knowledge base article](/docs/import-and-export-custom-oid-scanning-targets).
+4. Click the **Add Target** button at the top of the page. Alternatively, from Lansweeper 7.1 onward, you can import OIDs from or export them to another Lansweeper installation. Import/export instructions can be found in [this knowledge base article](/classic/docs/import-and-export-custom-oid-scanning-targets).
 
    
 5. From the Type dropdown in the resulting pop-up, select the collection of assets you want to retrieve the OID data for. You can retrieve the OID data for a single asset, assets in a specific static or dynamic asset group, assets of a specific type, assets in a specific IP range or assets in a specific asset report from the **Reports** menu.

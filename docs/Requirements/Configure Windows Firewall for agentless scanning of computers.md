@@ -3,13 +3,13 @@
 
 Lansweeper first performs broadcasts to identify the Windows devices in your network. Next, discovered devices are added to a queue for further processing. Lansweeper then directly scans the Windows devices to gather detailed data, which involves sending a new WMI request to each device.
 
-In order to remotely scan Windows computers, you must ensure that the machines' firewalls are properly configured to allow all WMI traffic. Simply opening specific ports is not enough, as traffic is sent over random ports in the 1025-5000 or 49152-65535 range. For more information, see [Ports scanned or used by Lansweeper](/docs/ports-scanned-or-used-by-lansweeper).
+In order to remotely scan Windows computers, you must ensure that the machines' firewalls are properly configured to allow all WMI traffic. Simply opening specific ports is not enough, as traffic is sent over random ports in the 1025-5000 or 49152-65535 range. For more information, see [Ports scanned or used by Lansweeper](/classic/docs/ports-scanned-or-used-by-lansweeper).
 
 To learn more about how Lansweeper scans your network, take a look at [our scanning guide](https://www.lansweeper.com/resources/lansweeper-scanning-guide/).
 
 This article specifically explains how to configure Windows Firewall, also known as Windows Defender Firewall, for remote scanning of Windows computers. Windows Firewall has a remote administration setting you can enable to allow WMI traffic. The easiest way to enable this setting for all of your domain computers is using group policies.
 
-If scanning a Windows computer remotely fails due to a firewall or other issue, you can always scan it using the [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac) or [LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agent instead. Because they scan locally, the scanning agents are immune to almost all scanning errors, including access denied and firewall errors.
+If scanning a Windows computer remotely fails due to a firewall or other issue, you can always scan it using the [LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac) or [LsPush](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agent instead. Because they scan locally, the scanning agents are immune to almost all scanning errors, including access denied and firewall errors.
 
 ## Configuring Windows Firewall visually
 

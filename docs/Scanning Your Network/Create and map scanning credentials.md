@@ -1,6 +1,6 @@
 <!-- # Create and map scanning credentials -->
 
-This page is for Lansweeper Classic. For Lansweeper Sites using Network Discovery, see [Create discovery credentials](/docs/create-discovery-credentials).
+This page is for Lansweeper Classic. For Lansweeper Sites using Network Discovery, see [Create discovery credentials](/classic/docs/create-discovery-credentials).
 
 [Lansweeper](https://www.lansweeper.com/) uses scanning credentials, which are login/password combinations and certificates/keys, to remotely access and scan network assets. The following assets require a scanning credential in order to be scanned remotely: Linux, Unix, Mac and Windows computers, VMware and vCenter servers, Citrix XenServers, network devices (printers, switches) that have SNMP enabled, AWS and Azure cloud assets, and Office 365 accounts. Windows computer credentials are also used when deploying packages on computers.
 
@@ -10,7 +10,7 @@ Your Lansweeper On-premises installation allows you to submit an unlimited numbe
 
 Scanning credentials must be created and then mapped, so Lansweeper knows when to use them. If you map a Windows credential to a domain for instance, Lansweeper will try to use that credential for any Windows computer within that domain.
 
-Linux, Mac and Windows computers can be scanned locally as well, with a scanning agent. Linux and Mac can be scanned with [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac), while Windows can be scanned with [LsAgent](/docs/introduction-to-lsagent-for-windows-linux-and-mac) or the older [LsPush](/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agent. If you scan your computers exclusively with an agent and don't use the deployment module, you do not need to submit computer scanning credentials.
+Linux, Mac and Windows computers can be scanned locally as well, with a scanning agent. Linux and Mac can be scanned with [LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac), while Windows can be scanned with [LsAgent](/classic/docs/introduction-to-lsagent-for-windows-linux-and-mac) or the older [LsPush](/classic/docs/introduction-to-the-lspush-scanning-agent-for-windows) scanning agent. If you scan your computers exclusively with an agent and don't use the deployment module, you do not need to submit computer scanning credentials.
 
 Creating scanning credentials
 
@@ -50,7 +50,7 @@ To create a credential, select **Add new Credential** in the **Scanning > Scann
 
 
 - Used for scanning: Android, iOS (iPhone and iPad), Chrome OS and Windows Phone mobile devices enrolled in VMware AirWatch. When you submit an AirWatch credential, an AirWatch scanning target is automatically created as well.
-- Must have: read-only access to the REST API in VMware Workspace ONE. Info on how to set this up can be found in [this knowledge base article](/docs/vmware-workspace-one-uem-powered-by-airwatch-scanning-requirements).
+- Must have: read-only access to the REST API in VMware Workspace ONE. Info on how to set this up can be found in [this knowledge base article](/classic/docs/vmware-workspace-one-uem-powered-by-airwatch-scanning-requirements).
 - Name: custom name you can assign to the credential.
 - Username: your username in VMware Workspace ONE.
 - Password: your user account's password.
@@ -62,7 +62,7 @@ To create a credential, select **Add new Credential** in the **Scanning > Scann
 
 
 - Used for scanning: AWS VPCs and instances.
-- Must have: list-only programmatic access to your EC2-VPC environments. Info on how to set this up can be found in [this knowledge base article](/docs/aws-scanning-requirements).
+- Must have: list-only programmatic access to your EC2-VPC environments. Info on how to set this up can be found in [this knowledge base article](/classic/docs/aws-scanning-requirements).
 - Name: custom name you can assign to the credential.
 - Access key: access key ID of the user with list access to EC2.
 - Secret key: secret access key of the user with list access to EC2.
@@ -72,7 +72,7 @@ To create a credential, select **Add new Credential** in the **Scanning > Scann
 
 
 - Used for scanning: Azure resource groups and virtual machines.
-- Must have: read-only access to your Azure subscription. You must register an application in Azure Active Directory of the type Web App / API, generate a key for it and assign it the Reader role for your subscription. Info on how to set this up can be found in [this knowledge base article](/docs/azure-scanning-requirements).
+- Must have: read-only access to your Azure subscription. You must register an application in Azure Active Directory of the type Web App / API, generate a key for it and assign it the Reader role for your subscription. Info on how to set this up can be found in [this knowledge base article](/classic/docs/azure-scanning-requirements).
 - Name: custom name you can assign to the credential.
 - Directory ID: your Azure Active Directory (tenant) ID.
 - Application ID: ID of the application with read access to your subscription.
@@ -83,7 +83,7 @@ To create a credential, select **Add new Credential** in the **Scanning > Scann
 
 
 - Used for scanning: Chrome OS (e.g. Chromebook) machines. When you submit a Chrome OS credential, a Chrome OS scanning target is automatically created as well.
-- Must have: read-only access to the Google Admin SDK API. Info on how to set this up can be found in [this knowledge base article](/docs/chrome-os-scanning-requirements).
+- Must have: read-only access to the Google Admin SDK API. Info on how to set this up can be found in [this knowledge base article](/classic/docs/chrome-os-scanning-requirements).
 - Name: custom name you can assign to the credential.
 - Username: email address of your Google account.
 - JSON key: JSON key with read access to the Google Admin SDK API.
@@ -93,7 +93,7 @@ To create a credential, select **Add new Credential** in the **Scanning > Scann
 
 
 - Used for scanning: Citrix XenServers.
-- Must have: access to XenAPI and be able to run the following command groups on your XenServers: delegating, drivers, locate, networking, processes, services, software, storage. Full root access is not required. Info on how to configure Citrix credentials can be found in [this knowledge base article](/docs/citrix-scanning-requirements).
+- Must have: access to XenAPI and be able to run the following command groups on your XenServers: delegating, drivers, locate, networking, processes, services, software, storage. Full root access is not required. Info on how to configure Citrix credentials can be found in [this knowledge base article](/classic/docs/citrix-scanning-requirements).
 - Name: custom name you can assign to the credential.
 - Login: your Citrix login.
 - Password: your Citrix login's password.
@@ -136,7 +136,7 @@ To create a credential, select **Add new Credential** in the **Scanning > Scann
 
 
 - Used for scanning: Mobile devices enlisted in Intune with a Microsoft Graph application.
-- Must have: access to your Intune environment. You must register an application in Azure Active Directory of the type Native and grant it the DeviceManagementManagedDevices.Read.All permission under Microsoft Graph. Your user account must also have access to Intune. Info on how to set this up can be found in [this knowledge base article](/docs/scan-mobile-devices-through-microsoft-intune).
+- Must have: access to your Intune environment. You must register an application in Azure Active Directory of the type Native and grant it the DeviceManagementManagedDevices.Read.All permission under Microsoft Graph. Your user account must also have access to Intune. Info on how to set this up can be found in [this knowledge base article](/classic/docs/scan-mobile-devices-through-microsoft-intune).
 - Name: custom name you can assign to the credential
 - Application ID (obtained when creating the [Microsoft Graph app](https://www.lansweeper.com/knowledgebase/creating-microsoft-cloud-services-application) in Azure)
 - Directory ID  (obtained when creating the [Microsoft Graph app](https://www.lansweeper.com/knowledgebase/creating-microsoft-cloud-services-application) in Azure)
@@ -183,7 +183,7 @@ To create a credential, select **Add new Credential** in the **Scanning > Scann
 
 
 - Used for scanning: Linux, Unix and Mac computers.
-- Must have: access to the uname (Linux/Unix) or system\_profiler (Mac) command. More info on Linux/Unix scanning requirements can be found in [this knowledge base article](/docs/linux-and-unix-agentless-scanning-requirements) and more info on Mac scanning requirements can be found in [this knowledge base article](/docs/apple-mac-scanning-requirements).
+- Must have: access to the uname (Linux/Unix) or system\_profiler (Mac) command. More info on Linux/Unix scanning requirements can be found in [this knowledge base article](/classic/docs/linux-and-unix-agentless-scanning-requirements) and more info on Mac scanning requirements can be found in [this knowledge base article](/classic/docs/apple-mac-scanning-requirements).
 - Name: custom name you can assign to the credential.
 - Login: your SSH login.
 - Password: your SSH login's password.
@@ -193,7 +193,7 @@ To create a credential, select **Add new Credential** in the **Scanning > Scann
 
 
 - Used for scanning: Linux and Unix computers.
-- Must have: access to the uname command. More info on Linux/Unix scanning requirements can be found in [this knowledge base article](/docs/linux-and-unix-agentless-scanning-requirements).
+- Must have: access to the uname command. More info on Linux/Unix scanning requirements can be found in [this knowledge base article](/classic/docs/linux-and-unix-agentless-scanning-requirements).
 - Name: custom name you can assign to the credential.
 - Login: your login.
 - Passphrase: your passphrase, if there is one.
@@ -205,7 +205,7 @@ To create a credential, select **Add new Credential** in the **Scanning > Scann
 
 
 - Used for scanning: vCenter servers.
-- Must have: read-only access to your vCenter servers. Info on how to set this up can be found in [this knowledge base article](/docs/vcenter-scanning-requirements).
+- Must have: read-only access to your vCenter servers. Info on how to set this up can be found in [this knowledge base article](/classic/docs/vcenter-scanning-requirements).
 - Name: custom name you can assign to the credential.
 - Login: your vCenter login.
 - Password: your vCenter login's password.
@@ -227,7 +227,7 @@ To create a credential, select **Add new Credential** in the **Scanning > Scann
 
 
 - Used for scanning: Windows computers and users.
-- Must have: administrative permissions on your computers and, for scanning domain computers and users, read-only access to Active Directory. A domain admin can be used to scan a domain, but has more permissions than required. More info on Windows domain scanning requirements can be found in [this knowledge base article](/docs/windows-domain-scanning-requirements) and more info on Windows workgroup scanning requirements can be found in [this knowledge base article](/docs/windows-workgroup-scanning-requirements).
+- Must have: administrative permissions on your computers and, for scanning domain computers and users, read-only access to Active Directory. A domain admin can be used to scan a domain, but has more permissions than required. More info on Windows domain scanning requirements can be found in [this knowledge base article](/classic/docs/windows-domain-scanning-requirements) and more info on Windows workgroup scanning requirements can be found in [this knowledge base article](/classic/docs/windows-workgroup-scanning-requirements).
 - Name: custom name you can assign to the credential.
 - Login: a down-level logon name like NetBIOS domain name\username (domain credentials) or a user principal name (UPN) like username@yourdomain.local (domain credentials) or .\username (local credentials) or username@outlook.com (Microsoft accounts).
 - Password: your user account's password.

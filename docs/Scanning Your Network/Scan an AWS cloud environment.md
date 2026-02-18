@@ -1,5 +1,5 @@
 <!-- # Scan an AWS cloud environment -->
-This page is for Lansweeper Classic. For Lansweeper Sites (in the cloud), see [Scan an AWS region](/docs/scan-an-aws-region).
+This page is for Lansweeper Classic. For Lansweeper Sites (in the cloud), see [Scan an AWS region](/classic/docs/scan-an-aws-region).
 
 
 ---
@@ -12,8 +12,8 @@ From version 7.1 onward, Lansweeper is capable of scanning VPCs and instances (v
 
 ## Scan a VPC or virtual machine from AWS
 
-1. Make sure you meet [the AWS scanning requirements](/docs/aws-scanning-requirements).
-2. Submit your AWS credential in the **Scanning > Scanning Credentials** section of the web console. You can use the same credential for all AWS regions by editing the Global AWS credential or submit a non-global credential with the **Add new Credential** button. You will be asked for your AWS access key and secret key, which you generated while following the instructions in [the AWS scanning requirements article](/docs/aws-scanning-requirements).
+1. Make sure you meet [the AWS scanning requirements](/classic/docs/aws-scanning-requirements).
+2. Submit your AWS credential in the **Scanning > Scanning Credentials** section of the web console. You can use the same credential for all AWS regions by editing the Global AWS credential or submit a non-global credential with the **Add new Credential** button. You will be asked for your AWS access key and secret key, which you generated while following the instructions in [the AWS scanning requirements article](/classic/docs/aws-scanning-requirements).
 
    
 

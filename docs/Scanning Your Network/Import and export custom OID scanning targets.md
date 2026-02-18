@@ -4,7 +4,7 @@ The ability to import/export OID scanning targets was introduced in Lansweeper 7
 From version 7.1 onward, Lansweeper allows you to import and export custom SNMP OID targets into and from other Lansweeper installations. This enables you to migrate your custom OID scanning targets between installations and to share targets with other Lansweeper users, e.g. through [our online forum](https://www.lansweeper.com/forum/yaf_topics35_Custom-OID-Sharing.aspx).
 
 SNMP is one of the protocols through which Lansweeper can retrieve data from network devices like printers, switches, routers etc. By default, Lansweeper retrieves various properties from these devices via SNMP. This includes basic details like serial number and description, but also more advanced details like interface and printer toner information. A device that has been successfully scanned via SNMP can be identified by the device OID listed in its **Summary** tab.   
-In addition to this, [the custom OID scanning feature](/docs/scan-extra-snmp-data-with-custom-oid-scanning) allows you to retrieve any other information that is stored in an SNMP OID on the device. Custom OID scanning targets can be manually created and from Lansweeper 7.1 onward imported.
+In addition to this, [the custom OID scanning feature](/classic/docs/scan-extra-snmp-data-with-custom-oid-scanning) allows you to retrieve any other information that is stored in an SNMP OID on the device. Custom OID scanning targets can be manually created and from Lansweeper 7.1 onward imported.
 
 ## Exporting custom OID scanning targets
 

@@ -5,7 +5,7 @@ You may want to override scanned asset type information, however. There are two 
 
 You cannot change a Windows computer's type. An asset is automatically identified as Windows if port 135 is open on the asset and if you've submitted a valid credential. For Active Directory objects, the operating system attribute is also used to determine whether the asset is Windows or non-Windows. If the attribute includes the words "Windows" or "Hyper-V," the asset is deemed a Windows computer.
 
-Many asset type names and icons are built-in. However, you can also [add your own](/docs/create-asset-types "Creating asset types").
+Many asset type names and icons are built-in. However, you can also [add your own](/classic/docs/create-asset-types "Creating asset types").
 
 ## Manually changing asset types
 

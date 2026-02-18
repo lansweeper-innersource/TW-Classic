@@ -1,5 +1,5 @@
 <!-- # Which Lansweeper setup is right for you? -->
-A Lansweeper installation consists of [several components](/docs/lansweeper-classic-components-and-architecture): database, web console, one or more scan servers. This article helps you select the correct database type, web server type and number of scan servers for your needs. It also includes diagrams of sample Lansweeper setups.
+A Lansweeper installation consists of [several components](/classic/docs/lansweeper-classic-components-and-architecture): database, web console, one or more scan servers. This article helps you select the correct database type, web server type and number of scan servers for your needs. It also includes diagrams of sample Lansweeper setups.
 
 - Installation recommendations
 - Example Lansweeper setups
@@ -21,13 +21,13 @@ The below questions will help you decide how many independent Lansweeper install
 
 ### How many scan servers
 
-A Lansweeper installation has at least one scan server, but it can have multiple. A scan server scans your network and performs [several other functionalities](/docs/lansweeper-classic-components-and-architecture). The below questions help you decide how many scan servers to set up as part of your Lansweeper installation. If the answer to any of the below questions is "yes", consider adding more than one scan server to your installation.
+A Lansweeper installation has at least one scan server, but it can have multiple. A scan server scans your network and performs [several other functionalities](/classic/docs/lansweeper-classic-components-and-architecture). The below questions help you decide how many scan servers to set up as part of your Lansweeper installation. If the answer to any of the below questions is "yes", consider adding more than one scan server to your installation.
 
 |  |  |
 | --- | --- |
 | **Do you want to scan more than 1,000 network assets?** | |
 | No | Yes |
-| **Recommendation**: one scan server. | **Recommendation**: one scan server per 1,000-5,000 assets. The more assets you scan, the more scan server resources it takes to complete those scans. You can increase [your thread settings](/docs/view-and-clear-your-scanning-queue) to make a scan server process more scan requests at a time. However, at some point it becomes advisable to add more servers to handle the scanning load. |
+| **Recommendation**: one scan server. | **Recommendation**: one scan server per 1,000-5,000 assets. The more assets you scan, the more scan server resources it takes to complete those scans. You can increase [your thread settings](/classic/docs/view-and-clear-your-scanning-queue) to make a scan server process more scan requests at a time. However, at some point it becomes advisable to add more servers to handle the scanning load. |
 | **Do you want to scan assets in multiple subnets, across multiple LANs?** | |
 | No | Yes |
 | **Recommendation**: one scan server. | **Recommendation**: one scan server per subnet. By adding a scan server to each subnet you intend to scan, you improve the accuracy with which asset data can be detected. A local scan server is better at detecting your assets' MAC addresses for instance. |
@@ -43,7 +43,7 @@ A Lansweeper installation can have either a SQL LocalDB or Microsoft SQL Server 
 | --- | --- |
 | **Do you already have a Microsoft SQL Server 2014 or higher instance running in your network?** | |
 | No | Yes |
-| **Recommendation**: SQL LocalDB. | **Recommendation**: if you are centrally managing your databases in this Microsoft SQL Server instance anyway, consider installing the Lansweeper database here as well. Keep in mind that your SQL Server instance must be [properly configured](/docs/configuring-a-sql-server-instance-to-host-the-lansweeper-database) to allow for the installation of the Lansweeper database. |
+| **Recommendation**: SQL LocalDB. | **Recommendation**: if you are centrally managing your databases in this Microsoft SQL Server instance anyway, consider installing the Lansweeper database here as well. Keep in mind that your SQL Server instance must be [properly configured](/classic/docs/configuring-a-sql-server-instance-to-host-the-lansweeper-database) to allow for the installation of the Lansweeper database. |
 | **Do you want to scan more than 10,000 assets?** | |
 | No | Yes |
 | **Recommendation**: SQL LocalDB. | **Recommendation**: a non-Express edition of Microsoft SQL Server. As a rule of thumb, we recommend reserving 1 MB of database space per scanned asset. Both SQL LocalDB and Express editions of SQL Server are limited by Microsoft to 10 GB of data, so you may run into the size limit when attempting to store 10,000 assets in such a database. For such a large number of assets, use a non-Express edition of SQL Server. |
@@ -62,7 +62,7 @@ A Lansweeper web console can be hosted in either IIS Express or IIS. The below q
 | **Recommendation**: IIS Express. | **Recommendation**: if you are centrally managing your websites in this IIS web server anyway, consider installing the Lansweeper web console here as well. |
 | **Do you want to manage web console ports and other technical properties through a visual tool?** | |
 | No | Yes |
-| **Recommendation**: IIS Express. | **Recommendation**: IIS. The built-in IIS Express web server does not come with a visual management tool. For full control of web console properties, use IIS. If you don't already have an IIS web server, you can [set one up](/docs/install-iis-internet-information-services). |
+| **Recommendation**: IIS Express. | **Recommendation**: IIS. The built-in IIS Express web server does not come with a visual management tool. For full control of web console properties, use IIS. If you don't already have an IIS web server, you can [set one up](/classic/docs/install-iis-internet-information-services). |
 
 ## Example Lansweeper setups
 

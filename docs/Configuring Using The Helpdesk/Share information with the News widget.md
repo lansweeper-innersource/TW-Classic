@@ -5,7 +5,7 @@ The contents of the **News** widget are fully customizable, making it quick and 
 
 
 
-1. Browse to the **Configuration > News Page**section of the web console. Only users with the Access Configuration permission can see this page and configure the contents of the News widget. Information on configuring web console roles and permissions can be found in [this knowledge base article](/docs/restrict-access-to-the-web-console).
+1. Browse to the **Configuration > News Page**section of the web console. Only users with the Access Configuration permission can see this page and configure the contents of the News widget. Information on configuring web console roles and permissions can be found in [this knowledge base article](/classic/docs/restrict-access-to-the-web-console).
 2. Select **Add news** to add a new post to the widget.
 3. Tick the **Enabled** checkbox in the resulting pop-up to have your newly created post appear in the News widget as soon as it's submitted.
 4. Select a Type (i.e. category) for the post. Available types are: Error, Warning, Information, Other.

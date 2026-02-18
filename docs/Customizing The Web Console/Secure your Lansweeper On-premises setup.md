@@ -2,7 +2,7 @@
 
 As part of our ongoing commitment to enhancing security for Lansweeper installations, we’ve implemented several important measures for Lansweeper On-premises. These changes are designed to protect your data and ensure a secure environment for managing your IT assets.
 
-These security settings are available starting from Lansweeper On-prem version 11.1. If you haven't already, [update your installation](/docs/update-lansweeper-on-premises) to access the latest features.
+These security settings are available starting from Lansweeper On-prem version 11.1. If you haven't already, [update your installation](/classic/docs/update-lansweeper-on-premises) to access the latest features.
 
 In this article, we'll explore key security settings, guide you through updating the settings, and we'll share some best practices to improve your Lansweeper installation.
 
@@ -32,4 +32,4 @@ In addition to the `AllowedContentDomains` setting, Lansweeper has enforced seve
 
 ## Best practices: Disable HTTP
 
-For enhanced security, we strongly recommend disabling HTTP and configuring your Lansweeper On-premises installation to use HTTPS exclusively. This ensures that all communications between your browser and Lansweeper are encrypted, protecting sensitive data from interception. For in-depth guidance on configuring SSL in IIS, take a look at [Configure SSL in IIS](/docs/configure-ssl-in-iis) or [Configure SSL in IIS Express](/docs/configure-ssl-in-iis-express).
+For enhanced security, we strongly recommend disabling HTTP and configuring your Lansweeper On-premises installation to use HTTPS exclusively. This ensures that all communications between your browser and Lansweeper are encrypted, protecting sensitive data from interception. For in-depth guidance on configuring SSL in IIS, take a look at [Configure SSL in IIS](/classic/docs/configure-ssl-in-iis) or [Configure SSL in IIS Express](/classic/docs/configure-ssl-in-iis-express).

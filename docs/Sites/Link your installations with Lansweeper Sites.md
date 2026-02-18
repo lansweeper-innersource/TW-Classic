@@ -2,7 +2,7 @@
 
 You can link various installations to your site to access Lansweeper’s full capabilities.
 
-Once you’ve [created a new Lansweeper Site](/docs/create-a-lansweeper-cloud-site), the following installation scenarios can occur:
+Once you’ve [created a new Lansweeper Site](/classic/docs/create-a-lansweeper-cloud-site), the following installation scenarios can occur:
 
 - Link a new sites-only installation
 - Link an existing on-premise installation
@@ -32,7 +32,7 @@ If you have an existing on-premise installation, you can link the installation t
 
 To link an existing installation:
 
-1. Ensure you’ve [updated to the latest on-premise version](/docs/update-your-lansweeper-sites-scan-server).
+1. Ensure you’ve [updated to the latest on-premise version](/classic/docs/update-your-lansweeper-sites-scan-server).
 2. In your site, go to **Configuration > Installations > Link an installation**.
 3. Select **Create new** **code**, select an expiration period and select **Apply**.
 4. Select **Copy code**.
@@ -65,4 +65,4 @@ Once the installation is complete, you can view the installation on **Configurat
 
 ## Link an OT installation
 
-Link an OT installation to your Lansweeper Site to view and [manage your OT](/docs/manage-ot-assets-in-lansweeper-sites) and IT assets in one site.
+Link an OT installation to your Lansweeper Site to view and [manage your OT](/classic/docs/manage-ot-assets-in-lansweeper-sites) and IT assets in one site.
